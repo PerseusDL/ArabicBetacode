@@ -1,3 +1,5 @@
+# The file includes three conversion tables.
+
 # Including some variations (*h and .h --- are the same)
 betacodeTranslit = {
 # Alphabet letters
