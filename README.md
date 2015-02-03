@@ -125,7 +125,7 @@ al-ḥamdu li-Llāhi
 |----------|-----------------|---------------|
 | **'** | ʾ | *hamzaŧ* |
 | **/a** | á | *alif maqṣūraŧ* |
-| **:t** | ŧ | *tā’ marbūṭaŧ, add +, if in idafa (`\_amma:t+ Ba.gd\_ad)* |
+| **:t** | ŧ | *tā’ marbūṭaŧ* (add "+", if the first word of *iḏāfaŧ*) |
 
 ## Vowels
 
