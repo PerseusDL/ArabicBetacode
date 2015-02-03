@@ -83,7 +83,7 @@ al-ḥamdu li-Llāhi
 
 ## betaCode and One-To-One Transliteration
 
-| betacode | translit | Arabic |
+| betacode | translit | Arabic letter |
 |----------|-----------------|---------------|
 | **\_a** | ā | *alif* |
 | **b** | b | *bā’* |
