@@ -1,14 +1,16 @@
-﻿betacode
-####
+## betacode example
+```
 .kul huwa all~ahu_ a.hadu.n all~ahu_ al-.samadu_ lam yalid wa-lam y_ulad wa-lam yakun lahu kufu'a.n a.hadu.n
 wa-.k_amat `_amma:t+u_ Ba.gd_ada_ li-yusallima al-_hal_ifa:t+a_ al-Man.s_ura_ `al/a ruju`i-hi min al-K_ufa:ti_
 al-.hamdu li-Ll~ahi
+```
 
-betacodeToTranslit()
-####
+## betacodeToTranslit() - example
+```
 ḳul huwa allãhu aḥaduȵ allãhu al-ṣamadu lam yalid wa-lam yūlad wa-lam yakun lahu kufuʾaȵ aḥaduȵ
 wa-ḳāmat ʿāmmaŧu Baġdāda li-yusallima al-ḫalīfaŧa al-Manṣūra ʿalá ruǧuʿi-hi min al-Kūfaŧi
 al-ḥamdu li-Llãhi
+```
 
 betacodeToSearch()
 ####
