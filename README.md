@@ -6,9 +6,9 @@ The idea of **betaCode** is borrowed from the Classicists who developed ["a meth
 Every Arabic letter is betacoded with its one-letter equivalent (pulling from different academic transliteration schemes),
 preceded, if necessary with a technical symbol that is similar to a diacritic in the transliterated version. Thus, most common symbols are as follows:
 
-* **\_** (underscore) -- if letter is commonly transliterated with an additional macron below or beneath (ā, ṯ, ḫ, ḏ, ū, ī)
-* **.** (period), or \* (asterisk) -- if letter is commonly transliterated with a dot below or beneath (ḥ, ṣ, ḍ, ṭ, ẓ, ġ, ḳ, )
-* **^** (caret) -- if letter is commonly transliterated with a caret (ǧ, š)
+* **\_** (underscore) -- if letter can be transliterated with an additional macron below or above (ā, ṯ, ḫ, ḏ, ū, ī)
+* **.** (period), or  <b>\*</b> (asterisk) -- if letter can be transliterated transliterated with a dot below or above (ḥ, ṣ, ḍ, ṭ, ẓ, ġ, ḳ, )
+* **^** (caret) -- if letter can be transliterated with a caret/caron (ǧ, š)
 * plus some new combinations (the complete table is below)
 
 Such transliteration system is also necessary, since none of the existing academic transliteration schemes (American/Library of Congress, British, French, German) allow to represent Arabic text unambiguously for computational purposes. Arabic **betaCode** can be easily converted into any transliteration scheme as well as into Arabic script.
@@ -64,7 +64,7 @@ al-ḥamdu li-Llāhi
 ## Some additional rules/principles
 
 * vowel case endings add "_", i.e.:
-	* f_i al-kit_abi_, but not:
+	* ``` f_i al-kit_abi_ ```, but not:
 	* f_i al-kit_abi.n
 * attached prepositions/conjunctions must be separated with "-", i.e.:
 	* bi-Llahi_
