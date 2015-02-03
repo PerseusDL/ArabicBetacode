@@ -156,10 +156,14 @@ def betacodeToArabic(text):
     text = re.sub("-|_", "", text) # converts articles
     return(text)
 
-testString = """####
+testString = """
 .kul huwa all~ahu_ a.hadu.n all~ahu_ al-.samadu_ lam yalid wa-lam y_ulad wa-lam yakun lahu kufu'a.n a.hadu.n
-wa-.k_amat `_amma:t+u_ Ba.gd_ada_ li-yusallima al-_hal_ifa:t+a_ al-Man.s_ura_ `al/a ruju`i-hi min al-K_ufa:ti_
+
+wa-.k_amat `_amma:t+u_ Ba.gd_ada_ li-yusallima al-_hal_ifa:ta_ al-Man.s_ura_ `al/a ruj_u`i-hi min al-K_ufa:ti_
+
 al-.hamdu li-Ll~ahi
+
+
 """
 
 print("betacode")
