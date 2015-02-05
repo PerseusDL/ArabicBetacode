@@ -106,6 +106,8 @@ def betacodeToArabic(text):
     text = re.sub("\\bʾ?ī", "إِي", text)
     text = re.sub("\\bʾ?ū", "أُو", text)
 
+    text = re.sub("-|_", "", text)    
+
     # final HAMZAs
     text = re.sub(r'yʾaȵ', r"يْئًا", text)
     
@@ -116,7 +118,7 @@ def betacodeToArabic(text):
     # short, hamza, tanwin
     text = re.sub(r'uʾuȵ', r"ُؤٌ", text)
     text = re.sub(r'uʾiȵ', r"ُؤٍ", text)
-    text = re.sub(r'uʾaȵ', r"ْءًا", text)
+    text = re.sub(r'uʾaȵ', r"ُؤًا", text)
 
     text = re.sub(r'iʾuȵ', r"ِئٌ", text)
     text = re.sub(r'iʾiȵ', r"ِئٍ", text)
@@ -167,8 +169,8 @@ def betacodeToArabic(text):
     text = re.sub(r"iʾu", r"ِئُ", text)
     text = re.sub(r"iʾi", r"ِئِ", text)
     text = re.sub(r"iʾa", r"ِئَ", text)
-    text = re.sub(r"īʾa", r"يئَ", text)
-    text = re.sub(r"īʾu", r"يؤُ", text)
+    text = re.sub(r"īʾa", r"ِيئَ", text)
+    text = re.sub(r"īʾu", r"ِيؤُ", text)
     text = re.sub(r"iʾā", r"ِئَا", text)
 
     text = re.sub(r"([%s])ʾa" % cnsnnts, r"\1%s" % "ْأَ", text)
@@ -218,7 +220,7 @@ def betacodeToArabic(text):
 
 
     text = dictReplace(text, betaCodeTables.translitArabic)
-    text = re.sub("-", "", text)
+    text = re.sub("-|_", "", text)
     #text = re.sub("-", "ـ ـ", text)
     return(text)
 
@@ -226,63 +228,44 @@ def betacodeToArabic(text):
 ###########################################################
 # BELOW : TESTING ZONE ####################################
 ###########################################################
-
-testString = """
-.kul huwa all~ahu_ a.hadu.n all~ahu_ al-.samadu_ lam yalid wa-lam y_ulad wa-lam yakun lahu kufu'a.n a.hadu.n
-
-wa-.k_amat `_amma:t+u_ Ba.gd_ada_ li-yusallima al-_hal_ifa:ta_ al-Man.s_ura_ `al/a ruj_u`i-hi min al-K_ufa:ti_
-
-al-.hamdu li-Ll~ahi rabbi al-`_alam_ina_
-"""
-
-testString = """
-Mu.hammad b. Rum.h narrated to us, al-Lay_t b. Sa`d informed us, from Ibn ^Sih_ab ( .H ) Ab_u Bakr b. Ab_i ^Sayba:t narrated to us, Sufy_an b. `Uyayna:t narrated to us, from al-Zuhr_i, from `Urwa:t, from `_A'i^sa:t who said :: I and the Messenger of God ( .sl`m ) used to perform ablution from one vessel.
-"""
-
-##print("betacode")
-##print(testString)
+##
+##testString = """
+##.kul huwa all~ahu_ a.hadu.n all~ahu_ al-.samadu_ lam yalid wa-lam y_ulad wa-lam yakun lahu kufu'a.n a.hadu.n
+##
+##wa-.k_amat `_amma:t+u_ Ba.gd_ada_ li-yusallima al-_hal_ifa:ta_ al-Man.s_ura_ `al/a ruj_u`i-hi min al-K_ufa:ti_
+##
+##al-.hamdu li-Ll~ahi rabbi al-`_alam_ina_
+##"""
+##
+##
+####print("betacode")
+####print(testString)
 ##print(betacodeToTranslit(testString))
 ##print(betacodeToSearch(testString))
 ##print(betacodeToLOC(testString))
 ##print(betacodeToArabic(testString))
-
-testStringArabic = """
-حَدَّثَنَا مُحَمَّدُ بْنُ رُمْحٍ ، أَنْبَأَنَا اللَّيْثُ بْنُ سَعْدٍ ، عَنِ ابْنِ شِهَابٍ (ح) وَحَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ ، حَدَّثَنَا سُفْيَانُ بْنُ عُيَيْنَةَ ، عَنِ الزُّهْرِيِّ ، عَنْ عُرْوَةَ ، عَنْ عَائِشَةَ قَالَتْ :: كُنْتُ أَغْتَسِلُ أَنَا وَرَسُولُ اللَّهِ \emph{صلعم}\LR{~} مِنْ إِنَاءٍ وَاحِدٍ
-"""
-
-testBetaCode = """
-.hadda_ta-n_a Mu.hammadu bnu Rum.hi.n , 'anba'a-n_a al-Lay_tu bnu Sa`di.n , `ani_ Ibni ^Sih_abi.n ( .h ) wa-.hadda_ta-n_a Ab_u Bakri bnu Ab_i ^Sayba:ta ,
-.hadda_ta-n_a Sufya_anu bnu `Uyayna:ta , `ani_ al-Zuhriyyi , `an `Urwa:ta , `an `_A'i^sa:ta q_alat # kuntu 'a.gtasilu an_a wa-ras_ulu All~ahi ( .sl`m )
-min 'in_a'i.n w_a.hidi.n
-"""
-
-testBetaCode = """
-'amru.n 'unsu.n 'insu.n '_im_anu.n
-'_aya:tu.n '_amana mas'ala:tu.n sa'ala ra'su.n qur'_anu.n ta'_amara
-_di'bu.n as'ila:tu.n q_ari'i-hi su'lu.n mas'_ulu.n
-tak_afu'u-hu su'ila q_ari'i-hi _di'_abu.n ra'_isu.n
-bu'isa ru'_ufu.n ra'_ufu.n su'_alu.n mu'arri_hu.n
-abn_a'a-hu abn_a'u-hu abn_a'i-hi ^say'a.n _ha.t_i'a:tu.n
-.daw'u-hu .d_u'u-hu .daw'a-hu .daw'i-hi mur_u'a:tu.n
-'abn_a'i-hi bar_i'u-hu s_u'ila f_ilu.n f_annu.n f_unnu.n
-s_a'ala fu'_adu.n ^surak_a'u-hu ri'_asa:tu.n tahni'a:tu.n
-daf_a'a:tu.n .taff_a'a:tu.n ta'r_i_hu.n fa'ru.n
-
-^say'u.n ^say'i.n ^say'a.n  
-.daw'u.n .daw'i.n .daw'a.n
-juz'u.n  juz'i.n  juz'a.n
-
-mabda'u.n mabda'i.n mabda'a.n
-
-naba'a q_ari'u.n tak_afu'u.n tak_afu'i.n
-abn_a'u abn_a'i abn_a'a jar_i'u.n maqr_u'u.n .daw'u.n ^say'u.n juz'u.n
-
-`ulam_a'u al-`ulam_a'i al-`ulam_a'a
-
-`Amru.n.w wa-fa`al_u.a
-
-"""
-
-#print(arabicToBetaCode(testStringArabic))
-#print(betacodeToArabic(testBetaCode))
-#print(betacodeToTranslit(testBetaCode))
+##
+##testBetaCode = """
+##'amru.n 'unsu.n 'insu.n '_im_anu.n
+##'_aya:tu.n '_amana mas'ala:tu.n sa'ala ra'su.n qur'_anu.n ta'_amara
+##_di'bu.n as'ila:tu.n q_ari'i-hi su'lu.n mas'_ulu.n
+##tak_afu'u-hu su'ila q_ari'i-hi _di'_abu.n ra'_isu.n
+##bu'isa ru'_ufu.n ra'_ufu.n su'_alu.n mu'arri_hu.n
+##abn_a'a-hu abn_a'u-hu abn_a'i-hi ^say'a.n _ha.t_i'a:tu.n
+##.daw'u-hu .d_u'u-hu .daw'a-hu .daw'i-hi mur_u'a:tu.n
+##'abn_a'i-hi bar_i'u-hu s_u'ila f_ilu.n f_annu.n f_unnu.n
+##s_a'ala fu'_adu.n ^surak_a'u-hu ri'_asa:tu.n tahni'a:tu.n
+##daf_a'a:tu.n .taff_a'a:tu.n ta'r_i_hu.n fa'ru.n
+##^say'u.n ^say'i.n ^say'a.n  
+##.daw'u.n .daw'i.n .daw'a.n
+##juz'u.n  juz'i.n  juz'a.n
+##mabda'u.n mabda'i.n mabda'a.n
+##naba'a q_ari'u.n tak_afu'u.n tak_afu'i.n tak_afu'a.n
+##abn_a'u abn_a'i abn_a'a jar_i'u.n maqr_u'u.n .daw'u.n ^say'u.n juz'u.n
+##`ulam_a'u al-`ulam_a'i al-`ulam_a'a
+##`Amru.n.w wa-fa`al_u.a
+##"""
+##
+###print(arabicToBetaCode(testStringArabic))
+##print(betacodeToArabic(testBetaCode))
+##print(betacodeToTranslit(testBetaCode))

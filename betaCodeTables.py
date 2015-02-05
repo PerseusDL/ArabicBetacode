@@ -204,7 +204,7 @@ translitArabic = {
     'ī' : ' ي ',  # yāʾ
 # Non-alphabetic letters
     'ʾ' : ' ء ',  # hamza
-    'á' : ' ى ',  # alif maqṣūraŧ
+    'á' : ' ٰى ',  # alif maqṣūraŧ
     'ŧ' : ' ة ',  # tāʾ marbūṭaŧ
 # Vowels
     'ã'  : ' ٰ ',  # dagger alif
