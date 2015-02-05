@@ -1,0 +1,35 @@
+STATUS:: INCLUDE
+HADITH:: nasai42_1143750
+RANK:: 000000262
+WEIGTH:: 00000001128181818181
+LENGTH:: 22
+hadithID:: nasai42_1143750
+None
+bookNo:: 42
+bookArTitle:: كتاب الصيد والذبائح
+arHadithInit::  أَخْبَرَنَا إِسْحَاقُ بْنُ إِبْرَاهِيمَ قَالَ حَدَّثَنَا مُعَاذُ بْنُ هِشَامٍ قَالَ حَدَّثَنِي أَبِي عَنْ قَتَادَةَ عَنِ الْحَسَنِ عَنْ أَبِي هُرَيْرَةَ نَحْوَهُ وَلَمْ يَرْفَعْهُ
+bookEnTitle:: The Book of Hunting and Slaughtering
+enHadith::  Narrated from Abu Hurairah: A similar report was narrated from Abu Hurairah, but was not attributed to the Prophet (Sahih)
+Reference:: Sunan an-Nasa'i 4360
+In-book reference:: Book 42, Hadith 98
+English translation:: Vol. 5, Book 42, Hadith 4365
+FREQREPORT::
+##000000002	000109869	بن
+##000000003	000104417	عن
+##000000004	000076449	قال
+##000000005	000065785	حدثنا
+##000000009	000032575	ابي
+##000000023	000011455	اخبرنا
+##000000036	000006266	حدثني
+##000000039	000006046	هريره
+##000000050	000004909	ابراهيم
+##000000062	000003922	اسحاق
+##000000081	000002999	هشام
+##000000111	000002185	ولم
+##000000112	000002181	قتاده
+##000000137	000001771	الحسن
+##000000224	000001054	معاذ
+##000000294	000000790	نحوه
+##000001269	000000137	يرفعه
+
+

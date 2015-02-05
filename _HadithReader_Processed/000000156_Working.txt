@@ -1,0 +1,33 @@
+############################################################
+## hadithID::     muslim01_303930
+## Completed by:: ADDYOURNAME
+## Finished::     NO/YES
+
+############################################################
+## ArabicInitial
+حَدَّثَنَا عَبْدُ بْنُ حُمَيْدٍ أَخْبَرَنَا عَبْدُ الرَّزَّاقِ أَخْبَرَنَا مَعْمَرٌ عَنْ ثَابِتٍ عَنْ أَنَسٍ قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم لاَ تَقُومُ السَّاعَةُ عَلَى أَحَدٍ يَقُولُ اللَّهُ اللَّهُ
+
+############################################################
+## betaCodeAuto
+.hadda_tan_a `abdu bnu .humaydi.n 'a_hbaran_a `abdu alrrazz_aqi 'a_hbaran_a ma`maru.n `an _t_abiti.n `an 'anasi.n q_ala q_ala rasuwlu allahi .sl`m l_a taquwmu alss_a`a:tu `ala/a 'a.hadi.n yaquwlu allahu allahu
+
+############################################################
+## betaCodeManual
+.hadda_tan_a `abdu bnu .humaydi.n 'a_hbaran_a `abdu alrrazz_aqi 'a_hbaran_a ma`maru.n `an _t_abiti.n `an 'anasi.n q_ala q_ala rasuwlu allahi .sl`m l_a taquwmu alss_a`a:tu `ala/a 'a.hadi.n yaquwlu allahu allahu
+
+############################################################
+## betaCodeManual>Translit
+ḥaddaṯanā ʿabdu bnu ḥumaydiȵ ʾaḫbaranā ʿabdu alrrazzāḳi ʾaḫbaranā maʿmaruȵ ʿan ṯābitiȵ ʿan ʾanasiȵ ḳāla ḳāla rasuwlu allahi ṣlʿm lā taḳuwmu alssāʿaŧu ʿalaá ʾaḥadiȵ yaḳuwlu allahu allahu
+
+############################################################
+## betaCodeManual>Arabic
+حَدَّثَنَا عَبْدُ بْنُ حُمَيْدٍ أَخْبَرَنَا عَبْدُ أَلْرَّزّاقِ أَخْبَرَنَا مَعْمَرٌ عَنْ ثَابِتٍ عَنْ أَنَسٍ قَالَ قَالَ رَسُوْلُ أَلَّهِ صْلْعْمْ لَا تَقُوْمُ أَلْسّاعَةُ عَلَى أَحَدٍ يَقُوْلُ أَلَّهُ أَلَّهُ
+
+############################################################
+## TranslationBetaCode
+Type your translation on this line
+
+############################################################
+## TranslationTranslit
+Type your translation on this line
+

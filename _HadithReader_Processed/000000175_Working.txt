@@ -1,0 +1,33 @@
+############################################################
+## hadithID::     tirmidhi08_707040
+## Completed by:: ADDYOURNAME
+## Finished::     NO/YES
+
+############################################################
+## ArabicInitial
+حَدَّثَنَا عَبْدُ اللَّهِ بْنُ عَبْدِ الرَّحْمَنِ أَخْبَرَنَا أَبُو عَاصِمٍ وَأَبُو الْمُغِيرَةِ عَنِ الأَوْزَاعِيِّ بِهَذَا الإِسْنَادِ نَحْوَهُ قَالَ أَبُو عِيسَى هَذَا حَدِيثٌ حَسَنٌ غَرِيبٌ
+
+############################################################
+## betaCodeAuto
+.hadda_tan_a `abdu allahi bnu `abdi alrra.hmani 'a_hbaran_a 'abuw `_a.simi.n wa'abuw almu.giyra:ti `ani al'awz_a`iyyi biha_d_a al'iisn_adi na.hwahu q_ala 'abuw `iysa/a ha_d_a .hadiy_tu.n .hasanu.n .gariybu.n
+
+############################################################
+## betaCodeManual
+.hadda_tan_a `abdu allahi bnu `abdi alrra.hmani 'a_hbaran_a 'abuw `_a.simi.n wa'abuw almu.giyra:ti `ani al'awz_a`iyyi biha_d_a al'iisn_adi na.hwahu q_ala 'abuw `iysa/a ha_d_a .hadiy_tu.n .hasanu.n .gariybu.n
+
+############################################################
+## betaCodeManual>Translit
+ḥaddaṯanā ʿabdu allahi bnu ʿabdi alrraḥmani ʾaḫbaranā ʾabuw ʿāṣimiȵ waʾabuw almuġiyraŧi ʿani alʾawzāʿiyyi bihaḏā alʾiisnādi naḥwahu ḳāla ʾabuw ʿiysaá haḏā ḥadiyṯuȵ ḥasanuȵ ġariybuȵ
+
+############################################################
+## betaCodeManual>Arabic
+حَدَّثَنَا عَبْدُ أَلَّهِ بْنُ عَبْدِ أَلْرَّحْمَنِ أَخْبَرَنَا أَبُوْ عَاصِمٍ وَأَبُوْ أَلْمُغِيْرَةِ عَنِ أَلْأَوْزَاعِيِّ بِهَذَا أَلْئِِسْنَادِ نَحْوَهُ قَالَ أَبُوْ عِيْسَى هَذَا حَدِيْثٌ حَسَنٌ غَرِيْبٌ
+
+############################################################
+## TranslationBetaCode
+Type your translation on this line
+
+############################################################
+## TranslationTranslit
+Type your translation on this line
+

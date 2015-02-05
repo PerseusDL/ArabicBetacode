@@ -1,0 +1,33 @@
+############################################################
+## hadithID::     muslim24_343110
+## Completed by:: ADDYOURNAME
+## Finished::     NO/YES
+
+############################################################
+## ArabicInitial
+حَدَّثَنَا أَحْمَدُ بْنُ يُونُسَ حَدَّثَنَا زُهَيْرٌ حَدَّثَنَا أَبُو الزُّبَيْرِ عَنْ جَابِرٍ يَرْفَعُهُ إِلَى النَّبِيِّ صلى الله عليه وسلم
+
+############################################################
+## betaCodeAuto
+.hadda_tan_a 'a.hmadu bnu yuwnusa .hadda_tan_a zuhayru.n .hadda_tan_a 'abuw alzzubayri `an ^g_abiri.n yarfa`uhu 'iila/a alnnabiyyi .sl`m
+
+############################################################
+## betaCodeManual
+.hadda_tan_a 'a.hmadu bnu yuwnusa .hadda_tan_a zuhayru.n .hadda_tan_a 'abuw alzzubayri `an ^g_abiri.n yarfa`uhu 'iila/a alnnabiyyi .sl`m
+
+############################################################
+## betaCodeManual>Translit
+ḥaddaṯanā ʾaḥmadu bnu yuwnusa ḥaddaṯanā zuhayruȵ ḥaddaṯanā ʾabuw alzzubayri ʿan ǧābiriȵ yarfaʿuhu ʾiilaá alnnabiyyi ṣlʿm
+
+############################################################
+## betaCodeManual>Arabic
+حَدَّثَنَا أَحْمَدُ بْنُ يُوْنُسَ حَدَّثَنَا زُهَيْرٌ حَدَّثَنَا أَبُوْ أَلْزُّبَيْرِ عَنْ جَابِرٍ يَرْفَعُهُ إِِلَى أَلْنَّبِيِّ صْلْعْمْ
+
+############################################################
+## TranslationBetaCode
+Type your translation on this line
+
+############################################################
+## TranslationTranslit
+Type your translation on this line
+

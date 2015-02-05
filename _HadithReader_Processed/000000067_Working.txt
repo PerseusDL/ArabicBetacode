@@ -1,0 +1,33 @@
+############################################################
+## hadithID::     muslim43_363370
+## Completed by:: ADDYOURNAME
+## Finished::     NO/YES
+
+############################################################
+## ArabicInitial
+قَالَ أَبُو إِسْحَاقَ حَدَّثَنَا مُحَمَّدُ بْنُ يَحْيَى حَدَّثَنَا عَبْدُ الرَّزَّاقِ أَخْبَرَنَا مَعْمَرٌ بِمِثْلِ هَذَا الْحَدِيثِ
+
+############################################################
+## betaCodeAuto
+q_ala 'abuw 'iis.h_aqa .hadda_tan_a mu.hammadu bnu ya.hya/a .hadda_tan_a `abdu alrrazz_aqi 'a_hbaran_a ma`maru.n bimi_tli ha_d_a al.hadiy_ti
+
+############################################################
+## betaCodeManual
+q_ala 'abuw 'iis.h_aqa .hadda_tan_a mu.hammadu bnu ya.hya/a .hadda_tan_a `abdu alrrazz_aqi 'a_hbaran_a ma`maru.n bimi_tli ha_d_a al.hadiy_ti
+
+############################################################
+## betaCodeManual>Translit
+ḳāla ʾabuw ʾiisḥāḳa ḥaddaṯanā muḥammadu bnu yaḥyaá ḥaddaṯanā ʿabdu alrrazzāḳi ʾaḫbaranā maʿmaruȵ bimiṯli haḏā alḥadiyṯi
+
+############################################################
+## betaCodeManual>Arabic
+قَالَ أَبُوْ إِِسْحَاقَ حَدَّثَنَا مُحَمَّدُ بْنُ يَحْيَى حَدَّثَنَا عَبْدُ أَلْرَّزّاقِ أَخْبَرَنَا مَعْمَرٌ بِمِثْلِ هَذَا أَلْحَدِيْثِ
+
+############################################################
+## TranslationBetaCode
+Type your translation on this line
+
+############################################################
+## TranslationTranslit
+Type your translation on this line
+

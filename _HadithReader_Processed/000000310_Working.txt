@@ -1,0 +1,33 @@
+############################################################
+## hadithID::     bukhari25_114440
+## Completed by:: ADDYOURNAME
+## Finished::     NO/YES
+
+############################################################
+## ArabicInitial
+حَدَّثَنَا عَلِيُّ بْنُ عَبْدِ اللَّهِ حَدَّثَنَا سُفْيَانُ حَدَّثَنَا مُوسَى بْنُ عُقْبَةَ سَمِعْتُ سَالِمَ بْنَ عَبْدِ اللَّهِ قَالَ سَمِعْتُ ابْنَ عُمَرَ ـ رضى الله عنهما ـ وَحَدَّثَنَا عَبْدُ اللَّهِ بْنُ مَسْلَمَةَ عَنْ مَالِكٍ عَنْ مُوسَى بْنِ عُقْبَةَ عَنْ سَالِمِ بْنِ عَبْدِ اللَّهِ أَنَّهُ سَمِعَ أَبَاهُ يَقُولُ مَا أَهَلَّ رَسُولُ اللَّهِ صلى الله عليه وسلم إِلاَّ مِنْ عِنْدِ الْمَسْجِدِ يَعْنِي مَسْجِدَ ذِي الْحُلَيْفَةِ
+
+############################################################
+## betaCodeAuto
+.hadda_tan_a `aliyyu bnu `abdi allahi .hadda_tan_a sufy_anu .hadda_tan_a muwsa/a bnu `uqba:ta sami`tu s_alima bna `abdi allahi q_ala sami`tu abna `umara  r.d/a allh `nhm_a  wa.hadda_tan_a `abdu allahi bnu maslama:ta `an m_aliki.n `an muwsa/a bni `uqba:ta `an s_alimi bni `abdi allahi 'annahu sami`a 'ab_ahu yaquwlu m_a 'ahalla rasuwlu allahi .sl`m 'iil_aa min `indi almas^gidi ya`niy mas^gida _diy al.hulayfa:ti
+
+############################################################
+## betaCodeManual
+.hadda_tan_a `aliyyu bnu `abdi allahi .hadda_tan_a sufy_anu .hadda_tan_a muwsa/a bnu `uqba:ta sami`tu s_alima bna `abdi allahi q_ala sami`tu abna `umara  r.d/a allh `nhm_a  wa.hadda_tan_a `abdu allahi bnu maslama:ta `an m_aliki.n `an muwsa/a bni `uqba:ta `an s_alimi bni `abdi allahi 'annahu sami`a 'ab_ahu yaquwlu m_a 'ahalla rasuwlu allahi .sl`m 'iil_aa min `indi almas^gidi ya`niy mas^gida _diy al.hulayfa:ti
+
+############################################################
+## betaCodeManual>Translit
+ḥaddaṯanā ʿaliyyu bnu ʿabdi allahi ḥaddaṯanā sufyānu ḥaddaṯanā muwsaá bnu ʿuḳbaŧa samiʿtu sālima bna ʿabdi allahi ḳāla samiʿtu abna ʿumara  rḍá allh ʿnhmā  waḥaddaṯanā ʿabdu allahi bnu maslamaŧa ʿan mālikiȵ ʿan muwsaá bni ʿuḳbaŧa ʿan sālimi bni ʿabdi allahi ʾannahu samiʿa ʾabāhu yaḳuwlu mā ʾahalla rasuwlu allahi ṣlʿm ʾiilāa min ʿindi almasǧidi yaʿniy masǧida ḏiy alḥulayfaŧi
+
+############################################################
+## betaCodeManual>Arabic
+حَدَّثَنَا عَلِيُّ بْنُ عَبْدِ أَلَّهِ حَدَّثَنَا سُفْيَانُ حَدَّثَنَا مُوْسَى بْنُ عُقْبَةَ سَمِعْتُ سَالِمَ بْنَ عَبْدِ أَلَّهِ قَالَ سَمِعْتُ أَبْنَ عُمَرَ  رْضى أَلّهْ عْنْهْمَا  وَحَدَّثَنَا عَبْدُ أَلَّهِ بْنُ مَسْلَمَةَ عَنْ مَالِكٍ عَنْ مُوْسَى بْنِ عُقْبَةَ عَنْ سَالِمِ بْنِ عَبْدِ أَلَّهِ أَنَّهُ سَمِعَ أَبَاهُ يَقُوْلُ مَا أَهَلَّ رَسُوْلُ أَلَّهِ صْلْعْمْ إِِلَاَ مِنْ عِنْدِ أَلْمَسْجِدِ يَعْنِيْ مَسْجِدَ ذِيْ أَلْحُلَيْفَةِ
+
+############################################################
+## TranslationBetaCode
+Type your translation on this line
+
+############################################################
+## TranslationTranslit
+Type your translation on this line
+

@@ -1,0 +1,33 @@
+############################################################
+## hadithID::     muslim15_329230
+## Completed by:: ADDYOURNAME
+## Finished::     NO/YES
+
+############################################################
+## ArabicInitial
+وَحَدَّثَنَاهُ أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ وَأَبُو كُرَيْبٍ قَالاَ حَدَّثَنَا ابْنُ نُمَيْرٍ حَدَّثَنَا هِشَامٌ بِهَذَا الإِسْنَادِ
+
+############################################################
+## betaCodeAuto
+wa.hadda_tan_ahu 'abuw bakri bnu 'abiy ^sayba:ta wa'abuw kuraybi.n q_al_a .hadda_tan_a abnu numayri.n .hadda_tan_a hi^s_amu.n biha_d_a al'iisn_adi
+
+############################################################
+## betaCodeManual
+wa.hadda_tan_ahu 'abuw bakri bnu 'abiy ^sayba:ta wa'abuw kuraybi.n q_al_a .hadda_tan_a abnu numayri.n .hadda_tan_a hi^s_amu.n biha_d_a al'iisn_adi
+
+############################################################
+## betaCodeManual>Translit
+waḥaddaṯanāhu ʾabuw bakri bnu ʾabiy šaybaŧa waʾabuw kuraybiȵ ḳālā ḥaddaṯanā abnu numayriȵ ḥaddaṯanā hišāmuȵ bihaḏā alʾiisnādi
+
+############################################################
+## betaCodeManual>Arabic
+وَحَدَّثَنَاهُ أَبُوْ بَكْرِ بْنُ أَبِيْ شَيْبَةَ وَأَبُوْ كُرَيْبٍ قَالَا حَدَّثَنَا أَبْنُ نُمَيْرٍ حَدَّثَنَا هِشَامٌ بِهَذَا أَلْئِِسْنَادِ
+
+############################################################
+## TranslationBetaCode
+Type your translation on this line
+
+############################################################
+## TranslationTranslit
+Type your translation on this line
+

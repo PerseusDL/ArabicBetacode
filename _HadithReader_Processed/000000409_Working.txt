@@ -1,0 +1,33 @@
+############################################################
+## hadithID::     tirmidhi47_742140
+## Completed by:: ADDYOURNAME
+## Finished::     NO/YES
+
+############################################################
+## ArabicInitial
+حَدَّثَنَا عَلِيُّ بْنُ حُجْرٍ حَدَّثَنَا شُعَيْبُ بْنُ صَفْوَانَ عَنْ عَبْدِ الْمَلِكِ بْنِ عُمَيْرٍ عَنْ مُوسَى بْنِ طَلْحَةَ عَنْ أَبِي هُرَيْرَةَ عَنِ النَّبِيِّ صلى الله عليه وسلم نَحْوَهُ بِمَعْنَاهُ
+
+############################################################
+## betaCodeAuto
+.hadda_tan_a `aliyyu bnu .hu^gri.n .hadda_tan_a ^su`aybu bnu .safw_ana `an `abdi almaliki bni `umayri.n `an muwsa/a bni .tal.ha:ta `an 'abiy hurayra:ta `ani alnnabiyyi .sl`m na.hwahu bima`n_ahu
+
+############################################################
+## betaCodeManual
+.hadda_tan_a `aliyyu bnu .hu^gri.n .hadda_tan_a ^su`aybu bnu .safw_ana `an `abdi almaliki bni `umayri.n `an muwsa/a bni .tal.ha:ta `an 'abiy hurayra:ta `ani alnnabiyyi .sl`m na.hwahu bima`n_ahu
+
+############################################################
+## betaCodeManual>Translit
+ḥaddaṯanā ʿaliyyu bnu ḥuǧriȵ ḥaddaṯanā šuʿaybu bnu ṣafwāna ʿan ʿabdi almaliki bni ʿumayriȵ ʿan muwsaá bni ṭalḥaŧa ʿan ʾabiy hurayraŧa ʿani alnnabiyyi ṣlʿm naḥwahu bimaʿnāhu
+
+############################################################
+## betaCodeManual>Arabic
+حَدَّثَنَا عَلِيُّ بْنُ حُجْرٍ حَدَّثَنَا شُعَيْبُ بْنُ صَفْوَانَ عَنْ عَبْدِ أَلْمَلِكِ بْنِ عُمَيْرٍ عَنْ مُوْسَى بْنِ طَلْحَةَ عَنْ أَبِيْ هُرَيْرَةَ عَنِ أَلْنَّبِيِّ صْلْعْمْ نَحْوَهُ بِمَعْنَاهُ
+
+############################################################
+## TranslationBetaCode
+Type your translation on this line
+
+############################################################
+## TranslationTranslit
+Type your translation on this line
+

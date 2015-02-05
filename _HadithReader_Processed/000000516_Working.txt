@@ -1,0 +1,33 @@
+############################################################
+## hadithID::     ibnmajah01_1304060
+## Completed by:: ADDYOURNAME
+## Finished::     NO/YES
+
+############################################################
+## ArabicInitial
+حَدَّثَنَا مُحَمَّدُ بْنُ رُمْحٍ أَنْبَأَنَا اللَّيْثُ بْنُ سَعْدٍ عَنِ ابْنِ شِهَابٍ ح وَحَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ حَدَّثَنَا سُفْيَانُ بْنُ عُيَيْنَةَ عَنِ الزُّهْرِيِّ عَنْ عُرْوَةَ عَنْ عَائِشَةَ قَالَتْ كُنْتُ أَغْتَسِلُ أَنَا وَرَسُولُ اللَّهِ ـ صلى الله عليه وسلم ـ مِنْ إِنَاءٍ وَاحِدٍ
+
+############################################################
+## betaCodeAuto
+.hadda_tan_a mu.hammadu bnu rum.hi.n 'anba'an_a allay_tu bnu sa`di.n `ani abni ^sih_abi.n .h wa.hadda_tan_a 'abuw bakri bnu 'abiy ^sayba:ta .hadda_tan_a sufy_anu bnu `uyayna:ta `ani alzzuhriyyi `an `urwa:ta `an `_a'ii^sa:ta q_alat kuntu 'a.gtasilu 'an_a warasuwlu allahi  .sl`m  min 'iin_a'i.n w_a.hidi.n
+
+############################################################
+## betaCodeManual
+.hadda_tan_a mu.hammadu bnu rum.hi.n 'anba'an_a allay_tu bnu sa`di.n `ani abni ^sih_abi.n .h wa.hadda_tan_a 'abuw bakri bnu 'abiy ^sayba:ta .hadda_tan_a sufy_anu bnu `uyayna:ta `ani alzzuhriyyi `an `urwa:ta `an `_a'ii^sa:ta q_alat kuntu 'a.gtasilu 'an_a warasuwlu allahi  .sl`m  min 'iin_a'i.n w_a.hidi.n
+
+############################################################
+## betaCodeManual>Translit
+ḥaddaṯanā muḥammadu bnu rumḥiȵ ʾanbaʾanā allayṯu bnu saʿdiȵ ʿani abni šihābiȵ ḥ waḥaddaṯanā ʾabuw bakri bnu ʾabiy šaybaŧa ḥaddaṯanā sufyānu bnu ʿuyaynaŧa ʿani alzzuhriyyi ʿan ʿurwaŧa ʿan ʿāʾiišaŧa ḳālat kuntu ʾaġtasilu ʾanā warasuwlu allahi  ṣlʿm  min ʾiināʾiȵ wāḥidiȵ
+
+############################################################
+## betaCodeManual>Arabic
+حَدَّثَنَا مُحَمَّدُ بْنُ رُمْحٍ أَنْبَأَنَا أَلَّيْثُ بْنُ سَعْدٍ عَنِ أَبْنِ شِهَابٍ حْ وَحَدَّثَنَا أَبُوْ بَكْرِ بْنُ أَبِيْ شَيْبَةَ حَدَّثَنَا سُفْيَانُ بْنُ عُيَيْنَةَ عَنِ أَلْزُّهْرِيِّ عَنْ عُرْوَةَ عَنْ عائِِشَةَ قَالَتْ كُنْتُ أَغْتَسِلُ أَنَا وَرَسُوْلُ أَلَّهِ  صْلْعْمْ  مِنْ إِِناءٍ وَاحِدٍ
+
+############################################################
+## TranslationBetaCode
+Type your translation on this line
+
+############################################################
+## TranslationTranslit
+Type your translation on this line
+

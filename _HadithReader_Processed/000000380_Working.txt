@@ -1,0 +1,33 @@
+############################################################
+## hadithID::     ibnmajah01_1306350
+## Completed by:: ADDYOURNAME
+## Finished::     NO/YES
+
+############################################################
+## ArabicInitial
+حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ حَدَّثَنَا عَبْدُ اللَّهِ بْنُ الْمُبَارَكِ عَنْ يُونُسَ عَنِ الزُّهْرِيِّ عَنْ أَبِي سَلَمَةَ عَنْ عَائِشَةَ أَنَّ النَّبِيَّ ـ صلى الله عليه وسلم ـ كَانَ إِذَا أَرَادَ أَنْ يَأْكُلَ وَهُوَ جُنُبٌ غَسَلَ يَدَيْهِ
+
+############################################################
+## betaCodeAuto
+.hadda_tan_a 'abuw bakri bnu 'abiy ^sayba:ta .hadda_tan_a `abdu allahi bnu almub_araki `an yuwnusa `ani alzzuhriyyi `an 'abiy salama:ta `an `_a'ii^sa:ta 'anna alnnabiyya  .sl`m  k_ana 'ii_d_a 'ar_ada 'an ya'akula wahuwa ^gunubu.n .gasala yadayhi
+
+############################################################
+## betaCodeManual
+.hadda_tan_a 'abuw bakri bnu 'abiy ^sayba:ta .hadda_tan_a `abdu allahi bnu almub_araki `an yuwnusa `ani alzzuhriyyi `an 'abiy salama:ta `an `_a'ii^sa:ta 'anna alnnabiyya  .sl`m  k_ana 'ii_d_a 'ar_ada 'an ya'akula wahuwa ^gunubu.n .gasala yadayhi
+
+############################################################
+## betaCodeManual>Translit
+ḥaddaṯanā ʾabuw bakri bnu ʾabiy šaybaŧa ḥaddaṯanā ʿabdu allahi bnu almubāraki ʿan yuwnusa ʿani alzzuhriyyi ʿan ʾabiy salamaŧa ʿan ʿāʾiišaŧa ʾanna alnnabiyya  ṣlʿm  kāna ʾiiḏā ʾarāda ʾan yaʾakula wahuwa ǧunubuȵ ġasala yadayhi
+
+############################################################
+## betaCodeManual>Arabic
+حَدَّثَنَا أَبُوْ بَكْرِ بْنُ أَبِيْ شَيْبَةَ حَدَّثَنَا عَبْدُ أَلَّهِ بْنُ أَلْمُبَارَكِ عَنْ يُوْنُسَ عَنِ أَلْزُّهْرِيِّ عَنْ أَبِيْ سَلَمَةَ عَنْ عائِِشَةَ أَنَّ أَلْنَّبِيَّ  صْلْعْمْ  كَانَ إِِذَا أَرَادَ أَنْ يَأَكُلَ وَهُوَ جُنُبٌ غَسَلَ يَدَيْهِ
+
+############################################################
+## TranslationBetaCode
+Type your translation on this line
+
+############################################################
+## TranslationTranslit
+Type your translation on this line
+

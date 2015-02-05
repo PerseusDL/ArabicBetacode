@@ -1,0 +1,33 @@
+############################################################
+## hadithID::     nasai26_1132850
+## Completed by:: ADDYOURNAME
+## Finished::     NO/YES
+
+############################################################
+## ArabicInitial
+أَخْبَرَنَا أَحْمَدُ بْنُ نَصْرٍ قَالَ حَدَّثَنَا عُبَيْدُ اللَّهِ وَهُوَ ابْنُ مُوسَى عَنِ ابْنِ جُرَيْجٍ عَنْ عَطَاءٍ عَنِ ابْنِ عَبَّاسٍ أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم تَزَوَّجَ مَيْمُونَةَ وَهُوَ مُحْرِمٌ
+
+############################################################
+## betaCodeAuto
+'a_hbaran_a 'a.hmadu bnu na.sri.n q_ala .hadda_tan_a `ubaydu allahi wahuwa abnu muwsa/a `ani abni ^guray^gi.n `an `a.t_a'i.n `ani abni `abb_asi.n 'anna rasuwla allahi .sl`m tazawwa^ga maymuwna:ta wahuwa mu.hrimu.n
+
+############################################################
+## betaCodeManual
+'a_hbaran_a 'a.hmadu bnu na.sri.n q_ala .hadda_tan_a `ubaydu allahi wahuwa abnu muwsa/a `ani abni ^guray^gi.n `an `a.t_a'i.n `ani abni `abb_asi.n 'anna rasuwla allahi .sl`m tazawwa^ga maymuwna:ta wahuwa mu.hrimu.n
+
+############################################################
+## betaCodeManual>Translit
+ʾaḫbaranā ʾaḥmadu bnu naṣriȵ ḳāla ḥaddaṯanā ʿubaydu allahi wahuwa abnu muwsaá ʿani abni ǧurayǧiȵ ʿan ʿaṭāʾiȵ ʿani abni ʿabbāsiȵ ʾanna rasuwla allahi ṣlʿm tazawwaǧa maymuwnaŧa wahuwa muḥrimuȵ
+
+############################################################
+## betaCodeManual>Arabic
+أَخْبَرَنَا أَحْمَدُ بْنُ نَصْرٍ قَالَ حَدَّثَنَا عُبَيْدُ أَلَّهِ وَهُوَ أَبْنُ مُوْسَى عَنِ أَبْنِ جُرَيْجٍ عَنْ عَطاءٍ عَنِ أَبْنِ عَبّاسٍ أَنَّ رَسُوْلَ أَلَّهِ صْلْعْمْ تَزَوَّجَ مَيْمُوْنَةَ وَهُوَ مُحْرِمٌ
+
+############################################################
+## TranslationBetaCode
+Type your translation on this line
+
+############################################################
+## TranslationTranslit
+Type your translation on this line
+

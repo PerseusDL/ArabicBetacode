@@ -1,0 +1,33 @@
+############################################################
+## hadithID::     nasai10_1108020
+## Completed by:: ADDYOURNAME
+## Finished::     NO/YES
+
+############################################################
+## ArabicInitial
+أَخْبَرَنَا مَحْمُودُ بْنُ غَيْلاَنَ قَالَ حَدَّثَنِي أَبُو دَاوُدَ قَالَ أَنْبَأَنَا شُعْبَةُ عَنْ مُوسَى بْنِ أَبِي عَائِشَةَ قَالَ سَمِعْتُ عُبَيْدَ اللَّهِ بْنَ عَبْدِ اللَّهِ يُحَدِّثُ عَنْ عَائِشَةَ رضى الله عنها أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم أَمَرَ أَبَا بَكْرٍ أَنْ يُصَلِّيَ بِالنَّاسِ قَالَتْ وَكَانَ النَّبِيُّ صلى الله عليه وسلم بَيْنَ يَدَىْ أَبِي بَكْرٍ فَصَلَّى قَاعِدًا وَأَبُو بَكْرٍ يُصَلِّي بِالنَّاسِ وَالنَّاسُ خَلْفَ أَبِي بَكْرٍ
+
+############################################################
+## betaCodeAuto
+'a_hbaran_a ma.hmuwdu bnu .gayl_ana q_ala .hadda_taniy 'abuw d_awuda q_ala 'anba'an_a ^su`ba:tu `an muwsa/a bni 'abiy `_a'ii^sa:ta q_ala sami`tu `ubayda allahi bna `abdi allahi yu.haddi_tu `an `_a'ii^sa:ta r.d/a allh `nh_a 'anna rasuwla allahi .sl`m 'amara 'ab_a bakri.n 'an yu.salliya bi_alnn_asi q_alat wak_ana alnnabiyyu .sl`m bayna yada/a 'abiy bakri.n fa.salla/a q_a`ida.n_a wa'abuw bakri.n yu.salliy bi_alnn_asi w_alnn_asu _halfa 'abiy bakri.n
+
+############################################################
+## betaCodeManual
+'a_hbaran_a ma.hmuwdu bnu .gayl_ana q_ala .hadda_taniy 'abuw d_awuda q_ala 'anba'an_a ^su`ba:tu `an muwsa/a bni 'abiy `_a'ii^sa:ta q_ala sami`tu `ubayda allahi bna `abdi allahi yu.haddi_tu `an `_a'ii^sa:ta r.d/a allh `nh_a 'anna rasuwla allahi .sl`m 'amara 'ab_a bakri.n 'an yu.salliya bi_alnn_asi q_alat wak_ana alnnabiyyu .sl`m bayna yada/a 'abiy bakri.n fa.salla/a q_a`ida.n_a wa'abuw bakri.n yu.salliy bi_alnn_asi w_alnn_asu _halfa 'abiy bakri.n
+
+############################################################
+## betaCodeManual>Translit
+ʾaḫbaranā maḥmuwdu bnu ġaylāna ḳāla ḥaddaṯaniy ʾabuw dāwuda ḳāla ʾanbaʾanā šuʿbaŧu ʿan muwsaá bni ʾabiy ʿāʾiišaŧa ḳāla samiʿtu ʿubayda allahi bna ʿabdi allahi yuḥaddiṯu ʿan ʿāʾiišaŧa rḍá allh ʿnhā ʾanna rasuwla allahi ṣlʿm ʾamara ʾabā bakriȵ ʾan yuṣalliya biālnnāsi ḳālat wakāna alnnabiyyu ṣlʿm bayna yadaá ʾabiy bakriȵ faṣallaá ḳāʿidaȵā waʾabuw bakriȵ yuṣalliy biālnnāsi wālnnāsu ḫalfa ʾabiy bakriȵ
+
+############################################################
+## betaCodeManual>Arabic
+أَخْبَرَنَا مَحْمُوْدُ بْنُ غَيْلَانَ قَالَ حَدَّثَنِيْ أَبُوْ دَاوُدَ قَالَ أَنْبَأَنَا شُعْبَةُ عَنْ مُوْسَى بْنِ أَبِيْ عائِِشَةَ قَالَ سَمِعْتُ عُبَيْدَ أَلَّهِ بْنَ عَبْدِ أَلَّهِ يُحَدِّثُ عَنْ عائِِشَةَ رْضى أَلّهْ عْنْهَا أَنَّ رَسُوْلَ أَلَّهِ صْلْعْمْ أَمَرَ أَبَا بَكْرٍ أَنْ يُصَلِّيَ بِالْنّاسِ قَالَتْ وَكَانَ أَلْنَّبِيُّ صْلْعْمْ بَيْنَ يَدَى أَبِيْ بَكْرٍ فَصَلَّى قَاعِداًا وَأَبُوْ بَكْرٍ يُصَلِّيْ بِالْنّاسِ وَالْنّاسُ خَلْفَ أَبِيْ بَكْرٍ
+
+############################################################
+## TranslationBetaCode
+Type your translation on this line
+
+############################################################
+## TranslationTranslit
+Type your translation on this line
+

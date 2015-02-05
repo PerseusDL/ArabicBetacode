@@ -1,0 +1,33 @@
+############################################################
+## hadithID::     nasai07_1106550
+## Completed by:: ADDYOURNAME
+## Finished::     NO/YES
+
+############################################################
+## ArabicInitial
+أَخْبَرَنَا سُوَيْدٌ قَالَ أَنْبَأَنَا عَبْدُ اللَّهِ عَنْ سُفْيَانَ عَنِ الأَعْمَشِ عَنْ إِبْرَاهِيمَ عَنِ الأَسْوَدِ مِثْلَ ذَلِكَ
+
+############################################################
+## betaCodeAuto
+'a_hbaran_a suwaydu.n q_ala 'anba'an_a `abdu allahi `an sufy_ana `ani al'a`ma^si `an 'iibr_ahiyma `ani al'aswadi mi_tla _dalika
+
+############################################################
+## betaCodeManual
+'a_hbaran_a suwaydu.n q_ala 'anba'an_a `abdu allahi `an sufy_ana `ani al'a`ma^si `an 'iibr_ahiyma `ani al'aswadi mi_tla _dalika
+
+############################################################
+## betaCodeManual>Translit
+ʾaḫbaranā suwayduȵ ḳāla ʾanbaʾanā ʿabdu allahi ʿan sufyāna ʿani alʾaʿmaši ʿan ʾiibrāhiyma ʿani alʾaswadi miṯla ḏalika
+
+############################################################
+## betaCodeManual>Arabic
+أَخْبَرَنَا سُوَيْدٌ قَالَ أَنْبَأَنَا عَبْدُ أَلَّهِ عَنْ سُفْيَانَ عَنِ أَلْأَعْمَشِ عَنْ إِِبْرَاهِيْمَ عَنِ أَلْأَسْوَدِ مِثْلَ ذَلِكَ
+
+############################################################
+## TranslationBetaCode
+Type your translation on this line
+
+############################################################
+## TranslationTranslit
+Type your translation on this line
+

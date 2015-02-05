@@ -1,0 +1,33 @@
+############################################################
+## hadithID::     muslim01_302310
+## Completed by:: ADDYOURNAME
+## Finished::     NO/YES
+
+############################################################
+## ArabicInitial
+حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ وَابْنُ الْمُثَنَّى عَنْ مُحَمَّدِ بْنِ جَعْفَرٍ عَنْ شُعْبَةَ عَنْ مَنْصُورٍ ح وَحَدَّثَنَا ابْنُ نُمَيْرٍ حَدَّثَنَا عَفَّانُ حَدَّثَنَا شُعْبَةُ عَنِ الأَعْمَشِ كِلاَهُمَا عَنْ أَبِي وَائِلٍ عَنْ عَبْدِ اللَّهِ عَنِ النَّبِيِّ صلى الله عليه وسلم بِمِثْلِهِ
+
+############################################################
+## betaCodeAuto
+.hadda_tan_a 'abuw bakri bnu 'abiy ^sayba:ta w_abnu almu_tanna/a `an mu.hammadi bni ^ga`fari.n `an ^su`ba:ta `an man.suwri.n .h wa.hadda_tan_a abnu numayri.n .hadda_tan_a `aff_anu .hadda_tan_a ^su`ba:tu `ani al'a`ma^si kil_ahum_a `an 'abiy w_a'iili.n `an `abdi allahi `ani alnnabiyyi .sl`m bimi_tlihi
+
+############################################################
+## betaCodeManual
+.hadda_tan_a 'abuw bakri bnu 'abiy ^sayba:ta w_abnu almu_tanna/a `an mu.hammadi bni ^ga`fari.n `an ^su`ba:ta `an man.suwri.n .h wa.hadda_tan_a abnu numayri.n .hadda_tan_a `aff_anu .hadda_tan_a ^su`ba:tu `ani al'a`ma^si kil_ahum_a `an 'abiy w_a'iili.n `an `abdi allahi `ani alnnabiyyi .sl`m bimi_tlihi
+
+############################################################
+## betaCodeManual>Translit
+ḥaddaṯanā ʾabuw bakri bnu ʾabiy šaybaŧa wābnu almuṯannaá ʿan muḥammadi bni ǧaʿfariȵ ʿan šuʿbaŧa ʿan manṣuwriȵ ḥ waḥaddaṯanā abnu numayriȵ ḥaddaṯanā ʿaffānu ḥaddaṯanā šuʿbaŧu ʿani alʾaʿmaši kilāhumā ʿan ʾabiy wāʾiiliȵ ʿan ʿabdi allahi ʿani alnnabiyyi ṣlʿm bimiṯlihi
+
+############################################################
+## betaCodeManual>Arabic
+حَدَّثَنَا أَبُوْ بَكْرِ بْنُ أَبِيْ شَيْبَةَ وَابْنُ أَلْمُثَنَّى عَنْ مُحَمَّدِ بْنِ جَعْفَرٍ عَنْ شُعْبَةَ عَنْ مَنْصُوْرٍ حْ وَحَدَّثَنَا أَبْنُ نُمَيْرٍ حَدَّثَنَا عَفّانُ حَدَّثَنَا شُعْبَةُ عَنِ أَلْأَعْمَشِ كِلَاهُمَا عَنْ أَبِيْ وائِِلٍ عَنْ عَبْدِ أَلَّهِ عَنِ أَلْنَّبِيِّ صْلْعْمْ بِمِثْلِهِ
+
+############################################################
+## TranslationBetaCode
+Type your translation on this line
+
+############################################################
+## TranslationTranslit
+Type your translation on this line
+

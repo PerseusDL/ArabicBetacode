@@ -1,0 +1,33 @@
+############################################################
+## hadithID::     muslim01_303920
+## Completed by:: ADDYOURNAME
+## Finished::     NO/YES
+
+############################################################
+## ArabicInitial
+حَدَّثَنِي زُهَيْرُ بْنُ حَرْبٍ حَدَّثَنَا عَفَّانُ حَدَّثَنَا حَمَّادٌ أَخْبَرَنَا ثَابِتٌ عَنْ أَنَسٍ أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ لاَ تَقُومُ السَّاعَةُ حَتَّى لاَ يُقَالَ فِي الأَرْضِ اللَّهُ اللَّهُ
+
+############################################################
+## betaCodeAuto
+.hadda_taniy zuhayru bnu .harbi.n .hadda_tan_a `aff_anu .hadda_tan_a .hamm_adu.n 'a_hbaran_a _t_abitu.n `an 'anasi.n 'anna rasuwla allahi .sl`m q_ala l_a taquwmu alss_a`a:tu .hatta/a l_a yuq_ala fiy al'ar.di allahu allahu
+
+############################################################
+## betaCodeManual
+.hadda_taniy zuhayru bnu .harbi.n .hadda_tan_a `aff_anu .hadda_tan_a .hamm_adu.n 'a_hbaran_a _t_abitu.n `an 'anasi.n 'anna rasuwla allahi .sl`m q_ala l_a taquwmu alss_a`a:tu .hatta/a l_a yuq_ala fiy al'ar.di allahu allahu
+
+############################################################
+## betaCodeManual>Translit
+ḥaddaṯaniy zuhayru bnu ḥarbiȵ ḥaddaṯanā ʿaffānu ḥaddaṯanā ḥammāduȵ ʾaḫbaranā ṯābituȵ ʿan ʾanasiȵ ʾanna rasuwla allahi ṣlʿm ḳāla lā taḳuwmu alssāʿaŧu ḥattaá lā yuḳāla fiy alʾarḍi allahu allahu
+
+############################################################
+## betaCodeManual>Arabic
+حَدَّثَنِيْ زُهَيْرُ بْنُ حَرْبٍ حَدَّثَنَا عَفّانُ حَدَّثَنَا حَمّادٌ أَخْبَرَنَا ثَابِتٌ عَنْ أَنَسٍ أَنَّ رَسُوْلَ أَلَّهِ صْلْعْمْ قَالَ لَا تَقُوْمُ أَلْسّاعَةُ حَتَّى لَا يُقَالَ فِيْ أَلْأَرْضِ أَلَّهُ أَلَّهُ
+
+############################################################
+## TranslationBetaCode
+Type your translation on this line
+
+############################################################
+## TranslationTranslit
+Type your translation on this line
+

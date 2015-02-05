@@ -1,0 +1,31 @@
+STATUS:: INCLUDE
+HADITH:: muslim32_347100
+RANK:: 000000035
+WEIGTH:: 00000000658666666666
+LENGTH:: 15
+hadithID:: muslim32_347100
+None
+bookNo:: 32
+bookArTitle:: كتاب الجهاد والسير
+arHadithInit::  حَدَّثَنَا يَحْيَى بْنُ يَحْيَى قَالَ أَخْبَرَنَا سُفْيَانُ بْنُ عُيَيْنَةَ عَنْ مَعْمَرٍ عَنِ الزُّهْرِيِّ بِهَذَا الإِسْنَادِ
+bookEnTitle:: The Book of <i>Jihad</i> and Expeditions
+enHadith::  This hadith has been narrated on the authority of Zuhri.
+Reference:: Sahih Muslim 1757 b
+In-book reference:: Book 32, Hadith 57
+USC-MSA web (English) reference:: Book 19, Hadith 4348
+(deprecated numbering scheme)
+FREQREPORT::
+##000000002	000109869	بن
+##000000003	000104417	عن
+##000000004	000076449	قال
+##000000005	000065785	حدثنا
+##000000023	000011455	اخبرنا
+##000000030	000007737	يحيي
+##000000049	000005041	سفيان
+##000000087	000002717	الزهري
+##000000152	000001625	بهذا
+##000000172	000001468	معمر
+##000000210	000001117	الاسناد
+##000000216	000001084	عيينه
+
+

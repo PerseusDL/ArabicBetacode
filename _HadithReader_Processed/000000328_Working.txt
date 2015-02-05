@@ -1,0 +1,33 @@
+############################################################
+## hadithID::     bukhari64_140840
+## Completed by:: ADDYOURNAME
+## Finished::     NO/YES
+
+############################################################
+## ArabicInitial
+حَدَّثَنِي عَبْدُ اللَّهِ بْنُ أَبِي شَيْبَةَ حَدَّثَنَا يَحْيَى بْنُ سَعِيدٍ عَنْ سُفْيَانَ عَنْ مُوسَى بْنِ أَبِي عَائِشَةَ عَنْ عُبَيْدِ اللَّهِ بْنِ عَبْدِ اللَّهِ بْنِ عُتْبَةَ عَنْ عَائِشَةَ وَابْنِ عَبَّاسٍ أَنَّ أَبَا بَكْرٍ ـ رضى الله عنه ـ قَبَّلَ النَّبِيَّ صلى الله عليه وسلم بَعْدَ مَوْتِهِ
+
+############################################################
+## betaCodeAuto
+.hadda_taniy `abdu allahi bnu 'abiy ^sayba:ta .hadda_tan_a ya.hya/a bnu sa`iydi.n `an sufy_ana `an muwsa/a bni 'abiy `_a'ii^sa:ta `an `ubaydi allahi bni `abdi allahi bni `utba:ta `an `_a'ii^sa:ta w_abni `abb_asi.n 'anna 'ab_a bakri.n  r.d/a allh `nh  qabbala alnnabiyya .sl`m ba`da mawtihi
+
+############################################################
+## betaCodeManual
+.hadda_taniy `abdu allahi bnu 'abiy ^sayba:ta .hadda_tan_a ya.hya/a bnu sa`iydi.n `an sufy_ana `an muwsa/a bni 'abiy `_a'ii^sa:ta `an `ubaydi allahi bni `abdi allahi bni `utba:ta `an `_a'ii^sa:ta w_abni `abb_asi.n 'anna 'ab_a bakri.n  r.d/a allh `nh  qabbala alnnabiyya .sl`m ba`da mawtihi
+
+############################################################
+## betaCodeManual>Translit
+ḥaddaṯaniy ʿabdu allahi bnu ʾabiy šaybaŧa ḥaddaṯanā yaḥyaá bnu saʿiydiȵ ʿan sufyāna ʿan muwsaá bni ʾabiy ʿāʾiišaŧa ʿan ʿubaydi allahi bni ʿabdi allahi bni ʿutbaŧa ʿan ʿāʾiišaŧa wābni ʿabbāsiȵ ʾanna ʾabā bakriȵ  rḍá allh ʿnh  ḳabbala alnnabiyya ṣlʿm baʿda mawtihi
+
+############################################################
+## betaCodeManual>Arabic
+حَدَّثَنِيْ عَبْدُ أَلَّهِ بْنُ أَبِيْ شَيْبَةَ حَدَّثَنَا يَحْيَى بْنُ سَعِيْدٍ عَنْ سُفْيَانَ عَنْ مُوْسَى بْنِ أَبِيْ عائِِشَةَ عَنْ عُبَيْدِ أَلَّهِ بْنِ عَبْدِ أَلَّهِ بْنِ عُتْبَةَ عَنْ عائِِشَةَ وَابْنِ عَبّاسٍ أَنَّ أَبَا بَكْرٍ  رْضى أَلّهْ عْنْهْ  قَبَّلَ أَلْنَّبِيَّ صْلْعْمْ بَعْدَ مَوْتِهِ
+
+############################################################
+## TranslationBetaCode
+Type your translation on this line
+
+############################################################
+## TranslationTranslit
+Type your translation on this line
+

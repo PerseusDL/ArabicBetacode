@@ -1,0 +1,33 @@
+STATUS:: INCLUDE
+HADITH:: nasai46_1149670
+RANK:: 000000441
+WEIGTH:: 00000001403500000000
+LENGTH:: 20
+hadithID:: nasai46_1149670
+None
+bookNo:: 46
+bookArTitle:: كتاب قطع السارق
+arHadithInit::  أَخْبَرَنِي مُحَمَّدُ بْنُ وَهْبٍ قَالَ حَدَّثَنَا مُحَمَّدُ بْنُ سَلَمَةَ قَالَ حَدَّثَنِي ابْنُ إِسْحَاقَ عَنْ أَيُّوبَ بْنِ مُوسَى عَنْ عَطَاءٍ مُرْسَلٌ
+bookEnTitle:: The Book of Cutting off the Hand of the Thief
+enHadith::  Narrated from Ayyub bin Musa: (A similar report) was narrated from Ayyub bin Musa, from 'Ata, in Mursal form. (Hasan)
+Reference:: Sunan an-Nasa'i 4952
+In-book reference:: Book 46, Hadith 82
+English translation:: Vol. 5, Book 46, Hadith 4955
+FREQREPORT::
+##000000002	000109869	بن
+##000000003	000104417	عن
+##000000004	000076449	قال
+##000000005	000065785	حدثنا
+##000000015	000020747	ابن
+##000000020	000015288	محمد
+##000000036	000006266	حدثني
+##000000062	000003922	اسحاق
+##000000065	000003716	سلمه
+##000000068	000003579	اخبرني
+##000000069	000003538	موسي
+##000000129	000001925	ايوب
+##000000133	000001876	وهب
+##000000171	000001472	عطاء
+##000001994	000000080	مرسل
+
+

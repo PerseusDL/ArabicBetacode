@@ -1,0 +1,33 @@
+STATUS:: INCLUDE
+HADITH:: muslim36_353510
+RANK:: 000000171
+WEIGTH:: 00000000987333333333
+LENGTH:: 15
+hadithID:: muslim36_353510
+None
+bookNo:: 36
+bookArTitle:: كتاب الأشربة
+arHadithInit::  وَحَدَّثَنَاهُ مُحَمَّدُ بْنُ الْمُثَنَّى وَابْنُ بَشَّارٍ قَالاَ حَدَّثَنَا أَبُو دَاوُدَ حَدَّثَنَا شُعْبَةُ فِي هَذَا الإِسْنَادِ
+bookEnTitle:: The Book of Drinks
+enHadith::  This hadith has been narrated on the authority of Shu'ba with the same chain of transmitters.
+Reference:: Sahih Muslim 1997 o
+In-book reference:: Book 36, Hadith 74
+USC-MSA web (English) reference:: Book 23, Hadith 4946
+(deprecated numbering scheme)
+FREQREPORT::
+##000000002	000109869	بن
+##000000005	000065785	حدثنا
+##000000014	000021259	في
+##000000016	000019118	ابو
+##000000020	000015288	محمد
+##000000025	000009168	هذا
+##000000067	000003631	شعبه
+##000000082	000002825	قالا
+##000000105	000002288	داود
+##000000154	000001602	المثني
+##000000157	000001568	وابن
+##000000161	000001550	بشار
+##000000210	000001117	الاسناد
+##000000458	000000472	وحدثناه
+
+

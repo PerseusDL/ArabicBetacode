@@ -1,0 +1,33 @@
+############################################################
+## hadithID::     muslim27_344120
+## Completed by:: ADDYOURNAME
+## Finished::     NO/YES
+
+############################################################
+## ArabicInitial
+وَحَدَّثَنَا ابْنُ أَبِي عُمَرَ حَدَّثَنَا سُفْيَانُ عَنْ أَبِي الزِّنَادِ عَنِ الأَعْرَجِ عَنْ أَبِي هُرَيْرَةَ عَنِ النَّبِيِّ صلى الله عليه وسلم مِثْلَهُ أَوْ نَحْوَهُ
+
+############################################################
+## betaCodeAuto
+wa.hadda_tan_a abnu 'abiy `umara .hadda_tan_a sufy_anu `an 'abiy alzzin_adi `ani al'a`ra^gi `an 'abiy hurayra:ta `ani alnnabiyyi .sl`m mi_tlahu 'aw na.hwahu
+
+############################################################
+## betaCodeManual
+wa.hadda_tan_a abnu 'abiy `umara .hadda_tan_a sufy_anu `an 'abiy alzzin_adi `ani al'a`ra^gi `an 'abiy hurayra:ta `ani alnnabiyyi .sl`m mi_tlahu 'aw na.hwahu
+
+############################################################
+## betaCodeManual>Translit
+waḥaddaṯanā abnu ʾabiy ʿumara ḥaddaṯanā sufyānu ʿan ʾabiy alzzinādi ʿani alʾaʿraǧi ʿan ʾabiy hurayraŧa ʿani alnnabiyyi ṣlʿm miṯlahu ʾaw naḥwahu
+
+############################################################
+## betaCodeManual>Arabic
+وَحَدَّثَنَا أَبْنُ أَبِيْ عُمَرَ حَدَّثَنَا سُفْيَانُ عَنْ أَبِيْ أَلْزِّنَادِ عَنِ أَلْأَعْرَجِ عَنْ أَبِيْ هُرَيْرَةَ عَنِ أَلْنَّبِيِّ صْلْعْمْ مِثْلَهُ أَوْ نَحْوَهُ
+
+############################################################
+## TranslationBetaCode
+Type your translation on this line
+
+############################################################
+## TranslationTranslit
+Type your translation on this line
+

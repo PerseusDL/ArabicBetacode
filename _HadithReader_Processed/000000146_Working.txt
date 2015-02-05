@@ -1,0 +1,33 @@
+############################################################
+## hadithID::     ibnmajah06_1315560
+## Completed by:: ADDYOURNAME
+## Finished::     NO/YES
+
+############################################################
+## ArabicInitial
+حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ حَدَّثَنَا عُبَيْدُ اللَّهِ أَنْبَأَنَا شَيْبَانُ عَنِ الأَعْمَشِ عَنْ أَبِي صَالِحٍ عَنْ أَبِي هُرَيْرَةَ عَنِ النَّبِيِّ ـ صلى الله عليه وسلم ـ قَالَ مَنْ صَلَّى عَلَيْهِ مِائَةٌ مِنَ الْمُسْلِمِينَ غُفِرَ لَهُ
+
+############################################################
+## betaCodeAuto
+.hadda_tan_a 'abuw bakri bnu 'abiy ^sayba:ta .hadda_tan_a `ubaydu allahi 'anba'an_a ^sayb_anu `ani al'a`ma^si `an 'abiy .s_ali.hi.n `an 'abiy hurayra:ta `ani alnnabiyyi  .sl`m  q_ala man .salla/a `alayhi mi_a'ia:tu.n mina almuslimiyna .gufira lahu
+
+############################################################
+## betaCodeManual
+.hadda_tan_a 'abuw bakri bnu 'abiy ^sayba:ta .hadda_tan_a `ubaydu allahi 'anba'an_a ^sayb_anu `ani al'a`ma^si `an 'abiy .s_ali.hi.n `an 'abiy hurayra:ta `ani alnnabiyyi  .sl`m  q_ala man .salla/a `alayhi mi_a'ia:tu.n mina almuslimiyna .gufira lahu
+
+############################################################
+## betaCodeManual>Translit
+ḥaddaṯanā ʾabuw bakri bnu ʾabiy šaybaŧa ḥaddaṯanā ʿubaydu allahi ʾanbaʾanā šaybānu ʿani alʾaʿmaši ʿan ʾabiy ṣāliḥiȵ ʿan ʾabiy hurayraŧa ʿani alnnabiyyi  ṣlʿm  ḳāla man ṣallaá ʿalayhi miāʾiaŧuȵ mina almuslimiyna ġufira lahu
+
+############################################################
+## betaCodeManual>Arabic
+حَدَّثَنَا أَبُوْ بَكْرِ بْنُ أَبِيْ شَيْبَةَ حَدَّثَنَا عُبَيْدُ أَلَّهِ أَنْبَأَنَا شَيْبَانُ عَنِ أَلْأَعْمَشِ عَنْ أَبِيْ صَالِحٍ عَنْ أَبِيْ هُرَيْرَةَ عَنِ أَلْنَّبِيِّ  صْلْعْمْ  قَالَ مَنْ صَلَّى عَلَيْهِ مِائَِةٌ مِنَ أَلْمُسْلِمِيْنَ غُفِرَ لَهُ
+
+############################################################
+## TranslationBetaCode
+Type your translation on this line
+
+############################################################
+## TranslationTranslit
+Type your translation on this line
+

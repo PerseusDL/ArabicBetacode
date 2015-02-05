@@ -1,0 +1,33 @@
+############################################################
+## hadithID::     nasai13_1112370
+## Completed by:: ADDYOURNAME
+## Finished::     NO/YES
+
+############################################################
+## ArabicInitial
+أَخْبَرَنَا مُحَمَّدُ بْنُ عَبْدِ اللَّهِ بْنِ عَبْدِ الْحَكَمِ قَالَ حَدَّثَنَا شُعَيْبٌ قَالَ أَنْبَأَنَا اللَّيْثُ عَنْ عُقَيْلٍ قَالَ حَدَّثَنِي ابْنُ شِهَابٍ عَنْ سَعِيدٍ وَأَبِي سَلَمَةَ وَأَبِي بَكْرِ بْنِ عَبْدِ الرَّحْمَنِ وَابْنِ أَبِي حَثْمَةَ عَنْ أَبِي هُرَيْرَةَ أَنَّهُ قَالَ لَمْ يَسْجُدْ رَسُولُ اللَّهِ صلى الله عليه وسلم يَوْمَئِذٍ قَبْلَ السَّلاَمِ وَلاَ بَعْدَهُ
+
+############################################################
+## betaCodeAuto
+'a_hbaran_a mu.hammadu bnu `abdi allahi bni `abdi al.hakami q_ala .hadda_tan_a ^su`aybu.n q_ala 'anba'an_a allay_tu `an `uqayli.n q_ala .hadda_taniy abnu ^sih_abi.n `an sa`iydi.n wa'abiy salama:ta wa'abiy bakri bni `abdi alrra.hmani w_abni 'abiy .ha_tma:ta `an 'abiy hurayra:ta 'annahu q_ala lam yas^gud rasuwlu allahi .sl`m yawma'ii_di.n qabla alssal_ami wal_a ba`dahu
+
+############################################################
+## betaCodeManual
+'a_hbaran_a mu.hammadu bnu `abdi allahi bni `abdi al.hakami q_ala .hadda_tan_a ^su`aybu.n q_ala 'anba'an_a allay_tu `an `uqayli.n q_ala .hadda_taniy abnu ^sih_abi.n `an sa`iydi.n wa'abiy salama:ta wa'abiy bakri bni `abdi alrra.hmani w_abni 'abiy .ha_tma:ta `an 'abiy hurayra:ta 'annahu q_ala lam yas^gud rasuwlu allahi .sl`m yawma'ii_di.n qabla alssal_ami wal_a ba`dahu
+
+############################################################
+## betaCodeManual>Translit
+ʾaḫbaranā muḥammadu bnu ʿabdi allahi bni ʿabdi alḥakami ḳāla ḥaddaṯanā šuʿaybuȵ ḳāla ʾanbaʾanā allayṯu ʿan ʿuḳayliȵ ḳāla ḥaddaṯaniy abnu šihābiȵ ʿan saʿiydiȵ waʾabiy salamaŧa waʾabiy bakri bni ʿabdi alrraḥmani wābni ʾabiy ḥaṯmaŧa ʿan ʾabiy hurayraŧa ʾannahu ḳāla lam yasǧud rasuwlu allahi ṣlʿm yawmaʾiiḏiȵ ḳabla alssalāmi walā baʿdahu
+
+############################################################
+## betaCodeManual>Arabic
+أَخْبَرَنَا مُحَمَّدُ بْنُ عَبْدِ أَلَّهِ بْنِ عَبْدِ أَلْحَكَمِ قَالَ حَدَّثَنَا شُعَيْبٌ قَالَ أَنْبَأَنَا أَلَّيْثُ عَنْ عُقَيْلٍ قَالَ حَدَّثَنِيْ أَبْنُ شِهَابٍ عَنْ سَعِيْدٍ وَأَبِيْ سَلَمَةَ وَأَبِيْ بَكْرِ بْنِ عَبْدِ أَلْرَّحْمَنِ وَابْنِ أَبِيْ حَثْمَةَ عَنْ أَبِيْ هُرَيْرَةَ أَنَّهُ قَالَ لَمْ يَسْجُدْ رَسُوْلُ أَلَّهِ صْلْعْمْ يَوْمَئِِذٍ قَبْلَ أَلْسَّلَامِ وَلَا بَعْدَهُ
+
+############################################################
+## TranslationBetaCode
+Type your translation on this line
+
+############################################################
+## TranslationTranslit
+Type your translation on this line
+

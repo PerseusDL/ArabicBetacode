@@ -1,0 +1,33 @@
+############################################################
+## hadithID::     nasai14_1114360
+## Completed by:: ADDYOURNAME
+## Finished::     NO/YES
+
+############################################################
+## ArabicInitial
+أَخْبَرَنَا إِسْحَاقُ بْنُ إِبْرَاهِيمَ قَالَ أَنْبَأَنَا عَبْدُ الرَّزَّاقِ قَالَ حَدَّثَنَا مَعْمَرٌ عَنِ الزُّهْرِيِّ عَنْ سَالِمٍ عَنْ أَبِيهِ قَالَ كَانَ رَسُولُ اللَّهِ صلى الله عليه وسلم يُصَلِّي بَعْدَ الْجُمُعَةِ رَكْعَتَيْنِ فِي بَيْتِهِ
+
+############################################################
+## betaCodeAuto
+'a_hbaran_a 'iis.h_aqu bnu 'iibr_ahiyma q_ala 'anba'an_a `abdu alrrazz_aqi q_ala .hadda_tan_a ma`maru.n `ani alzzuhriyyi `an s_alimi.n `an 'abiyhi q_ala k_ana rasuwlu allahi .sl`m yu.salliy ba`da al^gumu`a:ti rak`atayni fiy baytihi
+
+############################################################
+## betaCodeManual
+'a_hbaran_a 'iis.h_aqu bnu 'iibr_ahiyma q_ala 'anba'an_a `abdu alrrazz_aqi q_ala .hadda_tan_a ma`maru.n `ani alzzuhriyyi `an s_alimi.n `an 'abiyhi q_ala k_ana rasuwlu allahi .sl`m yu.salliy ba`da al^gumu`a:ti rak`atayni fiy baytihi
+
+############################################################
+## betaCodeManual>Translit
+ʾaḫbaranā ʾiisḥāḳu bnu ʾiibrāhiyma ḳāla ʾanbaʾanā ʿabdu alrrazzāḳi ḳāla ḥaddaṯanā maʿmaruȵ ʿani alzzuhriyyi ʿan sālimiȵ ʿan ʾabiyhi ḳāla kāna rasuwlu allahi ṣlʿm yuṣalliy baʿda alǧumuʿaŧi rakʿatayni fiy baytihi
+
+############################################################
+## betaCodeManual>Arabic
+أَخْبَرَنَا إِِسْحَاقُ بْنُ إِِبْرَاهِيْمَ قَالَ أَنْبَأَنَا عَبْدُ أَلْرَّزّاقِ قَالَ حَدَّثَنَا مَعْمَرٌ عَنِ أَلْزُّهْرِيِّ عَنْ سَالِمٍ عَنْ أَبِيْهِ قَالَ كَانَ رَسُوْلُ أَلَّهِ صْلْعْمْ يُصَلِّيْ بَعْدَ أَلْجُمُعَةِ رَكْعَتَيْنِ فِيْ بَيْتِهِ
+
+############################################################
+## TranslationBetaCode
+Type your translation on this line
+
+############################################################
+## TranslationTranslit
+Type your translation on this line
+

@@ -1,0 +1,33 @@
+############################################################
+## hadithID::     tirmidhi33_723140
+## Completed by:: ADDYOURNAME
+## Finished::     NO/YES
+
+############################################################
+## ArabicInitial
+حَدَّثَنَا يَحْيَى بْنُ مُوسَى حَدَّثَنَا عَبْدُ الرَّزَّاقِ أَخْبَرَنَا إِبْرَاهِيمُ بْنُ مَيْمُونٍ عَنِ ابْنِ طَاوُسٍ عَنْ أَبِيهِ عَنِ ابْنِ عَبَّاسٍ قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم يَدُ اللَّهِ مَعَ الْجَمَاعَةِ هَذَا حَدِيثٌ حَسَنٌ غَرِيبٌ لاَ نَعْرِفُهُ مِنْ حَدِيثِ ابْنِ عَبَّاسٍ إِلاَّ مِنْ هَذَا الْوَجْهِ
+
+############################################################
+## betaCodeAuto
+.hadda_tan_a ya.hya/a bnu muwsa/a .hadda_tan_a `abdu alrrazz_aqi 'a_hbaran_a 'iibr_ahiymu bnu maymuwni.n `ani abni .t_awusi.n `an 'abiyhi `ani abni `abb_asi.n q_ala q_ala rasuwlu allahi .sl`m yadu allahi ma`a al^gam_a`a:ti ha_d_a .hadiy_tu.n .hasanu.n .gariybu.n l_a na`rifuhu min .hadiy_ti abni `abb_asi.n 'iil_aa min ha_d_a alwa^ghi
+
+############################################################
+## betaCodeManual
+.hadda_tan_a ya.hya/a bnu muwsa/a .hadda_tan_a `abdu alrrazz_aqi 'a_hbaran_a 'iibr_ahiymu bnu maymuwni.n `ani abni .t_awusi.n `an 'abiyhi `ani abni `abb_asi.n q_ala q_ala rasuwlu allahi .sl`m yadu allahi ma`a al^gam_a`a:ti ha_d_a .hadiy_tu.n .hasanu.n .gariybu.n l_a na`rifuhu min .hadiy_ti abni `abb_asi.n 'iil_aa min ha_d_a alwa^ghi
+
+############################################################
+## betaCodeManual>Translit
+ḥaddaṯanā yaḥyaá bnu muwsaá ḥaddaṯanā ʿabdu alrrazzāḳi ʾaḫbaranā ʾiibrāhiymu bnu maymuwniȵ ʿani abni ṭāwusiȵ ʿan ʾabiyhi ʿani abni ʿabbāsiȵ ḳāla ḳāla rasuwlu allahi ṣlʿm yadu allahi maʿa alǧamāʿaŧi haḏā ḥadiyṯuȵ ḥasanuȵ ġariybuȵ lā naʿrifuhu min ḥadiyṯi abni ʿabbāsiȵ ʾiilāa min haḏā alwaǧhi
+
+############################################################
+## betaCodeManual>Arabic
+حَدَّثَنَا يَحْيَى بْنُ مُوْسَى حَدَّثَنَا عَبْدُ أَلْرَّزّاقِ أَخْبَرَنَا إِِبْرَاهِيْمُ بْنُ مَيْمُوْنٍ عَنِ أَبْنِ طَاوُسٍ عَنْ أَبِيْهِ عَنِ أَبْنِ عَبّاسٍ قَالَ قَالَ رَسُوْلُ أَلَّهِ صْلْعْمْ يَدُ أَلَّهِ مَعَ أَلْجَمَاعَةِ هَذَا حَدِيْثٌ حَسَنٌ غَرِيْبٌ لَا نَعْرِفُهُ مِنْ حَدِيْثِ أَبْنِ عَبّاسٍ إِِلَاَ مِنْ هَذَا أَلْوَجْهِ
+
+############################################################
+## TranslationBetaCode
+Type your translation on this line
+
+############################################################
+## TranslationTranslit
+Type your translation on this line
+

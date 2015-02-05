@@ -1,0 +1,33 @@
+############################################################
+## hadithID::     bukhari10_185170
+## Completed by:: ADDYOURNAME
+## Finished::     NO/YES
+
+############################################################
+## ArabicInitial
+حَدَّثَنَا أَبُو الْوَلِيدِ قَالَ حَدَّثَنَا شُعْبَةُ عَنْ سَعْدِ بْنِ إِبْرَاهِيمَ عَنْ أَبِي سَلَمَةَ عَنْ أَبِي هُرَيْرَةَ قَالَ صَلَّى النَّبِيُّ صلى الله عليه وسلم الظُّهْرَ رَكْعَتَيْنِ فَقِيلَ صَلَّيْتَ رَكْعَتَيْنِ فَصَلَّى رَكْعَتَيْنِ ثُمَّ سَلَّمَ ثُمَّ سَجَدَ سَجْدَتَيْنِ
+
+############################################################
+## betaCodeAuto
+.hadda_tan_a 'abuw alwaliydi q_ala .hadda_tan_a ^su`ba:tu `an sa`di bni 'iibr_ahiyma `an 'abiy salama:ta `an 'abiy hurayra:ta q_ala .salla/a alnnabiyyu .sl`m al.zzuhra rak`atayni faqiyla .sallayta rak`atayni fa.salla/a rak`atayni _tumma sallama _tumma sa^gada sa^gdatayni
+
+############################################################
+## betaCodeManual
+.hadda_tan_a 'abuw alwaliydi q_ala .hadda_tan_a ^su`ba:tu `an sa`di bni 'iibr_ahiyma `an 'abiy salama:ta `an 'abiy hurayra:ta q_ala .salla/a alnnabiyyu .sl`m al.zzuhra rak`atayni faqiyla .sallayta rak`atayni fa.salla/a rak`atayni _tumma sallama _tumma sa^gada sa^gdatayni
+
+############################################################
+## betaCodeManual>Translit
+ḥaddaṯanā ʾabuw alwaliydi ḳāla ḥaddaṯanā šuʿbaŧu ʿan saʿdi bni ʾiibrāhiyma ʿan ʾabiy salamaŧa ʿan ʾabiy hurayraŧa ḳāla ṣallaá alnnabiyyu ṣlʿm alẓzuhra rakʿatayni faḳiyla ṣallayta rakʿatayni faṣallaá rakʿatayni ṯumma sallama ṯumma saǧada saǧdatayni
+
+############################################################
+## betaCodeManual>Arabic
+حَدَّثَنَا أَبُوْ أَلْوَلِيْدِ قَالَ حَدَّثَنَا شُعْبَةُ عَنْ سَعْدِ بْنِ إِِبْرَاهِيْمَ عَنْ أَبِيْ سَلَمَةَ عَنْ أَبِيْ هُرَيْرَةَ قَالَ صَلَّى أَلْنَّبِيُّ صْلْعْمْ أَلْظْزُهْرَ رَكْعَتَيْنِ فَقِيْلَ صَلَّيْتَ رَكْعَتَيْنِ فَصَلَّى رَكْعَتَيْنِ ثُمَّ سَلَّمَ ثُمَّ سَجَدَ سَجْدَتَيْنِ
+
+############################################################
+## TranslationBetaCode
+Type your translation on this line
+
+############################################################
+## TranslationTranslit
+Type your translation on this line
+

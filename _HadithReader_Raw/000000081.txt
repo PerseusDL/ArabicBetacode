@@ -1,0 +1,30 @@
+STATUS:: INCLUDE
+HADITH:: nasai07_1106550
+RANK:: 000000081
+WEIGTH:: 00000000805625000000
+LENGTH:: 16
+hadithID:: nasai07_1106550
+Grade:: Sahih (Darussalam)
+bookNo:: 7
+bookArTitle:: كتاب الأذان
+arHadithInit::  أَخْبَرَنَا سُوَيْدٌ قَالَ أَنْبَأَنَا عَبْدُ اللَّهِ عَنْ سُفْيَانَ عَنِ الأَعْمَشِ عَنْ إِبْرَاهِيمَ عَنِ الأَسْوَدِ مِثْلَ ذَلِكَ
+bookEnTitle:: The Book of the Adhan (The Call to Prayer)
+enHadith::  (Another chain) from Ibrahim, from Al-Aswad, with similar narration.
+English reference:: Vol. 1, Book 7, Hadith 652
+Arabic reference:: Book 7, Hadith 658
+FREQREPORT::
+##000000001	000115208	الله
+##000000003	000104417	عن
+##000000004	000076449	قال
+##000000013	000027774	عبد
+##000000023	000011455	اخبرنا
+##000000049	000005041	سفيان
+##000000050	000004909	ابراهيم
+##000000055	000004519	ذلك
+##000000131	000001903	الاعمش
+##000000135	000001803	انبانا
+##000000180	000001370	مثل
+##000000285	000000806	الاسود
+##000000351	000000634	سويد
+
+

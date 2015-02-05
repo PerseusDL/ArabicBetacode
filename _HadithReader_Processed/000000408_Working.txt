@@ -1,0 +1,33 @@
+############################################################
+## hadithID::     nasai48_1150770
+## Completed by:: ADDYOURNAME
+## Finished::     NO/YES
+
+############################################################
+## ArabicInitial
+أَخْبَرَنَا مُحَمَّدُ بْنُ عَبْدِ الأَعْلَى قَالَ حَدَّثَنَا خَالِدٌ عَنْ هِشَامٍ قَالَ حَدَّثَنَا قَتَادَةُ عَنْ سَعِيدِ بْنِ الْمُسَيَّبِ أَنَّ مُعَاوِيَةَ قَالَ إِنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم نَهَى عَنِ الزُّورِ
+
+############################################################
+## betaCodeAuto
+'a_hbaran_a mu.hammadu bnu `abdi al'a`la/a q_ala .hadda_tan_a _h_alidu.n `an hi^s_ami.n q_ala .hadda_tan_a qat_ada:tu `an sa`iydi bni almusayyabi 'anna mu`_awiya:ta q_ala 'iinna rasuwla allahi .sl`m naha/a `ani alzzuwri
+
+############################################################
+## betaCodeManual
+'a_hbaran_a mu.hammadu bnu `abdi al'a`la/a q_ala .hadda_tan_a _h_alidu.n `an hi^s_ami.n q_ala .hadda_tan_a qat_ada:tu `an sa`iydi bni almusayyabi 'anna mu`_awiya:ta q_ala 'iinna rasuwla allahi .sl`m naha/a `ani alzzuwri
+
+############################################################
+## betaCodeManual>Translit
+ʾaḫbaranā muḥammadu bnu ʿabdi alʾaʿlaá ḳāla ḥaddaṯanā ḫāliduȵ ʿan hišāmiȵ ḳāla ḥaddaṯanā ḳatādaŧu ʿan saʿiydi bni almusayyabi ʾanna muʿāwiyaŧa ḳāla ʾiinna rasuwla allahi ṣlʿm nahaá ʿani alzzuwri
+
+############################################################
+## betaCodeManual>Arabic
+أَخْبَرَنَا مُحَمَّدُ بْنُ عَبْدِ أَلْأَعْلَى قَالَ حَدَّثَنَا خَالِدٌ عَنْ هِشَامٍ قَالَ حَدَّثَنَا قَتَادَةُ عَنْ سَعِيْدِ بْنِ أَلْمُسَيَّبِ أَنَّ مُعَاوِيَةَ قَالَ إِِنَّ رَسُوْلَ أَلَّهِ صْلْعْمْ نَهَى عَنِ أَلْزُّوْرِ
+
+############################################################
+## TranslationBetaCode
+Type your translation on this line
+
+############################################################
+## TranslationTranslit
+Type your translation on this line
+

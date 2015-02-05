@@ -1,0 +1,33 @@
+############################################################
+## hadithID::     nasai22_1123640
+## Completed by:: ADDYOURNAME
+## Finished::     NO/YES
+
+############################################################
+## ArabicInitial
+أَخْبَرَنِي عَمْرُو بْنُ هِشَامٍ قَالَ حَدَّثَنَا مُحَمَّدُ بْنُ سَلَمَةَ عَنِ ابْنِ إِسْحَاقَ عَنْ يَحْيَى بْنِ سَعِيدٍ عَنْ أَبِي سَلَمَةَ عَنْ عَائِشَةَ قَالَتْ كَانَ رَسُولُ اللَّهِ صلى الله عليه وسلم يَصُومُ شَعْبَانَ إِلاَّ قَلِيلاً
+
+############################################################
+## betaCodeAuto
+'a_hbaraniy `amruw bnu hi^s_ami.n q_ala .hadda_tan_a mu.hammadu bnu salama:ta `ani abni 'iis.h_aqa `an ya.hya/a bni sa`iydi.n `an 'abiy salama:ta `an `_a'ii^sa:ta q_alat k_ana rasuwlu allahi .sl`m ya.suwmu ^sa`b_ana 'iil_aa qaliyl_a.n
+
+############################################################
+## betaCodeManual
+'a_hbaraniy `amruw bnu hi^s_ami.n q_ala .hadda_tan_a mu.hammadu bnu salama:ta `ani abni 'iis.h_aqa `an ya.hya/a bni sa`iydi.n `an 'abiy salama:ta `an `_a'ii^sa:ta q_alat k_ana rasuwlu allahi .sl`m ya.suwmu ^sa`b_ana 'iil_aa qaliyl_a.n
+
+############################################################
+## betaCodeManual>Translit
+ʾaḫbaraniy ʿamruw bnu hišāmiȵ ḳāla ḥaddaṯanā muḥammadu bnu salamaŧa ʿani abni ʾiisḥāḳa ʿan yaḥyaá bni saʿiydiȵ ʿan ʾabiy salamaŧa ʿan ʿāʾiišaŧa ḳālat kāna rasuwlu allahi ṣlʿm yaṣuwmu šaʿbāna ʾiilāa ḳaliylāȵ
+
+############################################################
+## betaCodeManual>Arabic
+أَخْبَرَنِيْ عَمْرُوْ بْنُ هِشَامٍ قَالَ حَدَّثَنَا مُحَمَّدُ بْنُ سَلَمَةَ عَنِ أَبْنِ إِِسْحَاقَ عَنْ يَحْيَى بْنِ سَعِيْدٍ عَنْ أَبِيْ سَلَمَةَ عَنْ عائِِشَةَ قَالَتْ كَانَ رَسُوْلُ أَلَّهِ صْلْعْمْ يَصُوْمُ شَعْبَانَ إِِلَاَ قَلِيْلَاȵ
+
+############################################################
+## TranslationBetaCode
+Type your translation on this line
+
+############################################################
+## TranslationTranslit
+Type your translation on this line
+

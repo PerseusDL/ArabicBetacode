@@ -1,0 +1,33 @@
+############################################################
+## hadithID::     abudawud19_929110
+## Completed by:: ADDYOURNAME
+## Finished::     NO/YES
+
+############################################################
+## ArabicInitial
+حَدَّثَنَا مُوسَى بْنُ عَامِرٍ حَدَّثَنَا الْوَلِيدُ أَخْبَرَنِي عِيسَى أَبُو مُحَمَّدٍ عَنِ الْعَلاَءِ بْنِ الْحَارِثِ عَنْ عَمْرِو بْنِ شُعَيْبٍ عَنْ أَبِيهِ عَنْ جَدِّهِ عَنِ النَّبِيِّ صلى الله عليه وسلم مِثْلَهُ
+
+############################################################
+## betaCodeAuto
+.hadda_tan_a muwsa/a bnu `_amiri.n .hadda_tan_a alwaliydu 'a_hbaraniy `iysa/a 'abuw mu.hammadi.n `ani al`al_a'i bni al.h_ari_ti `an `amriw bni ^su`aybi.n `an 'abiyhi `an ^gaddihi `ani alnnabiyyi .sl`m mi_tlahu
+
+############################################################
+## betaCodeManual
+.hadda_tan_a muwsa/a bnu `_amiri.n .hadda_tan_a alwaliydu 'a_hbaraniy `iysa/a 'abuw mu.hammadi.n `ani al`al_a'i bni al.h_ari_ti `an `amriw bni ^su`aybi.n `an 'abiyhi `an ^gaddihi `ani alnnabiyyi .sl`m mi_tlahu
+
+############################################################
+## betaCodeManual>Translit
+ḥaddaṯanā muwsaá bnu ʿāmiriȵ ḥaddaṯanā alwaliydu ʾaḫbaraniy ʿiysaá ʾabuw muḥammadiȵ ʿani alʿalāʾi bni alḥāriṯi ʿan ʿamriw bni šuʿaybiȵ ʿan ʾabiyhi ʿan ǧaddihi ʿani alnnabiyyi ṣlʿm miṯlahu
+
+############################################################
+## betaCodeManual>Arabic
+حَدَّثَنَا مُوْسَى بْنُ عَامِرٍ حَدَّثَنَا أَلْوَلِيْدُ أَخْبَرَنِيْ عِيْسَى أَبُوْ مُحَمَّدٍ عَنِ أَلْعَلاءِ بْنِ أَلْحَارِثِ عَنْ عَمْرِوْ بْنِ شُعَيْبٍ عَنْ أَبِيْهِ عَنْ جَدِّهِ عَنِ أَلْنَّبِيِّ صْلْعْمْ مِثْلَهُ
+
+############################################################
+## TranslationBetaCode
+Type your translation on this line
+
+############################################################
+## TranslationTranslit
+Type your translation on this line
+

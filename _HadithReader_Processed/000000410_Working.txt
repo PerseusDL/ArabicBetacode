@@ -1,0 +1,33 @@
+############################################################
+## hadithID::     ibnmajah30_1335170
+## Completed by:: ADDYOURNAME
+## Finished::     NO/YES
+
+############################################################
+## ArabicInitial
+حَدَّثَنَا مُحَمَّدُ بْنُ بَشَّارٍ حَدَّثَنَا أَبُو دَاوُدَ حَدَّثَنَا شُعْبَةُ عَنْ سَعِيدِ بْنِ أَبِي بُرْدَةَ عَنْ أَبِيهِ عَنْ أَبِي مُوسَى قَالَ قَالَ رَسُولُ اللَّهِ ـ صلى الله عليه وسلم ـ كُلُّ مُسْكِرٍ حَرَامٌ
+
+############################################################
+## betaCodeAuto
+.hadda_tan_a mu.hammadu bnu ba^ss_ari.n .hadda_tan_a 'abuw d_awuda .hadda_tan_a ^su`ba:tu `an sa`iydi bni 'abiy burda:ta `an 'abiyhi `an 'abiy muwsa/a q_ala q_ala rasuwlu allahi  .sl`m  kullu muskiri.n .har_amu.n
+
+############################################################
+## betaCodeManual
+.hadda_tan_a mu.hammadu bnu ba^ss_ari.n .hadda_tan_a 'abuw d_awuda .hadda_tan_a ^su`ba:tu `an sa`iydi bni 'abiy burda:ta `an 'abiyhi `an 'abiy muwsa/a q_ala q_ala rasuwlu allahi  .sl`m  kullu muskiri.n .har_amu.n
+
+############################################################
+## betaCodeManual>Translit
+ḥaddaṯanā muḥammadu bnu bašsāriȵ ḥaddaṯanā ʾabuw dāwuda ḥaddaṯanā šuʿbaŧu ʿan saʿiydi bni ʾabiy burdaŧa ʿan ʾabiyhi ʿan ʾabiy muwsaá ḳāla ḳāla rasuwlu allahi  ṣlʿm  kullu muskiriȵ ḥarāmuȵ
+
+############################################################
+## betaCodeManual>Arabic
+حَدَّثَنَا مُحَمَّدُ بْنُ بَشْسَارٍ حَدَّثَنَا أَبُوْ دَاوُدَ حَدَّثَنَا شُعْبَةُ عَنْ سَعِيْدِ بْنِ أَبِيْ بُرْدَةَ عَنْ أَبِيْهِ عَنْ أَبِيْ مُوْسَى قَالَ قَالَ رَسُوْلُ أَلَّهِ  صْلْعْمْ  كُلُّ مُسْكِرٍ حَرَامٌ
+
+############################################################
+## TranslationBetaCode
+Type your translation on this line
+
+############################################################
+## TranslationTranslit
+Type your translation on this line
+

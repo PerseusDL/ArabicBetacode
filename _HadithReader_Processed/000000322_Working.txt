@@ -1,0 +1,33 @@
+############################################################
+## hadithID::     nasai22_1122700
+## Completed by:: ADDYOURNAME
+## Finished::     NO/YES
+
+############################################################
+## ArabicInitial
+أَخْبَرَنَا مُحَمَّدُ بْنُ الْمُثَنَّى عَنْ عُثْمَانَ بْنِ عُمَرَ قَالَ أَنْبَأَنَا عَلِيُّ بْنُ الْمُبَارَكِ عَنْ يَحْيَى عَنْ مُحَمَّدِ بْنِ عَبْدِ الرَّحْمَنِ عَنْ رَجُلٍ عَنْ جَابِرٍ أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ لَيْسَ مِنَ الْبِرِّ الصِّيَامُ فِي السَّفَرِ
+
+############################################################
+## betaCodeAuto
+'a_hbaran_a mu.hammadu bnu almu_tanna/a `an `u_tm_ana bni `umara q_ala 'anba'an_a `aliyyu bnu almub_araki `an ya.hya/a `an mu.hammadi bni `abdi alrra.hmani `an ra^guli.n `an ^g_abiri.n 'anna rasuwla allahi .sl`m q_ala laysa mina albirri al.ssiy_amu fiy alssafari
+
+############################################################
+## betaCodeManual
+'a_hbaran_a mu.hammadu bnu almu_tanna/a `an `u_tm_ana bni `umara q_ala 'anba'an_a `aliyyu bnu almub_araki `an ya.hya/a `an mu.hammadi bni `abdi alrra.hmani `an ra^guli.n `an ^g_abiri.n 'anna rasuwla allahi .sl`m q_ala laysa mina albirri al.ssiy_amu fiy alssafari
+
+############################################################
+## betaCodeManual>Translit
+ʾaḫbaranā muḥammadu bnu almuṯannaá ʿan ʿuṯmāna bni ʿumara ḳāla ʾanbaʾanā ʿaliyyu bnu almubāraki ʿan yaḥyaá ʿan muḥammadi bni ʿabdi alrraḥmani ʿan raǧuliȵ ʿan ǧābiriȵ ʾanna rasuwla allahi ṣlʿm ḳāla laysa mina albirri alṣsiyāmu fiy alssafari
+
+############################################################
+## betaCodeManual>Arabic
+أَخْبَرَنَا مُحَمَّدُ بْنُ أَلْمُثَنَّى عَنْ عُثْمَانَ بْنِ عُمَرَ قَالَ أَنْبَأَنَا عَلِيُّ بْنُ أَلْمُبَارَكِ عَنْ يَحْيَى عَنْ مُحَمَّدِ بْنِ عَبْدِ أَلْرَّحْمَنِ عَنْ رَجُلٍ عَنْ جَابِرٍ أَنَّ رَسُوْلَ أَلَّهِ صْلْعْمْ قَالَ لَيْسَ مِنَ أَلْبِرِّ أَلْصْسِيَامُ فِيْ أَلْسَّفَرِ
+
+############################################################
+## TranslationBetaCode
+Type your translation on this line
+
+############################################################
+## TranslationTranslit
+Type your translation on this line
+

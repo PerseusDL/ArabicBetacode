@@ -1,0 +1,33 @@
+############################################################
+## hadithID::     abudawud21_932200
+## Completed by:: ADDYOURNAME
+## Finished::     NO/YES
+
+############################################################
+## ArabicInitial
+حَدَّثَنَا مُوسَى بْنُ إِسْمَاعِيلَ حَدَّثَنَا جَرِيرٌ حَدَّثَنَا حُمَيْدٌ يَعْنِي ابْنَ هِلاَلٍ عَنْ سَعْدِ بْنِ هِشَامِ بْنِ عَامِرٍ بِهَذَا الْحَدِيثِ
+
+############################################################
+## betaCodeAuto
+.hadda_tan_a muwsa/a bnu 'iism_a`iyla .hadda_tan_a ^gariyru.n .hadda_tan_a .humaydu.n ya`niy abna hil_ali.n `an sa`di bni hi^s_ami bni `_amiri.n biha_d_a al.hadiy_ti
+
+############################################################
+## betaCodeManual
+.hadda_tan_a muwsa/a bnu 'iism_a`iyla .hadda_tan_a ^gariyru.n .hadda_tan_a .humaydu.n ya`niy abna hil_ali.n `an sa`di bni hi^s_ami bni `_amiri.n biha_d_a al.hadiy_ti
+
+############################################################
+## betaCodeManual>Translit
+ḥaddaṯanā muwsaá bnu ʾiismāʿiyla ḥaddaṯanā ǧariyruȵ ḥaddaṯanā ḥumayduȵ yaʿniy abna hilāliȵ ʿan saʿdi bni hišāmi bni ʿāmiriȵ bihaḏā alḥadiyṯi
+
+############################################################
+## betaCodeManual>Arabic
+حَدَّثَنَا مُوْسَى بْنُ إِِسْمَاعِيْلَ حَدَّثَنَا جَرِيْرٌ حَدَّثَنَا حُمَيْدٌ يَعْنِيْ أَبْنَ هِلَالٍ عَنْ سَعْدِ بْنِ هِشَامِ بْنِ عَامِرٍ بِهَذَا أَلْحَدِيْثِ
+
+############################################################
+## TranslationBetaCode
+Type your translation on this line
+
+############################################################
+## TranslationTranslit
+Type your translation on this line
+

@@ -1,0 +1,33 @@
+############################################################
+## hadithID::     muslim04_309440
+## Completed by:: ADDYOURNAME
+## Finished::     NO/YES
+
+############################################################
+## ArabicInitial
+حَدَّثَنِي حَرْمَلَةُ بْنُ يَحْيَى أَخْبَرَنَا ابْنُ وَهْبٍ أَخْبَرَنِي يُونُسُ عَنِ ابْنِ شِهَابٍ أَخْبَرَنِي ابْنُ الْمُسَيَّبِ وَأَبُو سَلَمَةَ بْنُ عَبْدِ الرَّحْمَنِ أَنَّ أَبَا هُرَيْرَةَ قَالَ سَمِعْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم بِمِثْلِ حَدِيثِ مَالِكٍ وَلَمْ يَذْكُرْ قَوْلَ ابْنِ شِهَابٍ
+
+############################################################
+## betaCodeAuto
+.hadda_taniy .harmala:tu bnu ya.hya/a 'a_hbaran_a abnu wahbi.n 'a_hbaraniy yuwnusu `ani abni ^sih_abi.n 'a_hbaraniy abnu almusayyabi wa'abuw salama:ta bnu `abdi alrra.hmani 'anna 'ab_a hurayra:ta q_ala sami`tu rasuwla allahi .sl`m bimi_tli .hadiy_ti m_aliki.n walam ya_dkur qawla abni ^sih_abi.n
+
+############################################################
+## betaCodeManual
+.hadda_taniy .harmala:tu bnu ya.hya/a 'a_hbaran_a abnu wahbi.n 'a_hbaraniy yuwnusu `ani abni ^sih_abi.n 'a_hbaraniy abnu almusayyabi wa'abuw salama:ta bnu `abdi alrra.hmani 'anna 'ab_a hurayra:ta q_ala sami`tu rasuwla allahi .sl`m bimi_tli .hadiy_ti m_aliki.n walam ya_dkur qawla abni ^sih_abi.n
+
+############################################################
+## betaCodeManual>Translit
+ḥaddaṯaniy ḥarmalaŧu bnu yaḥyaá ʾaḫbaranā abnu wahbiȵ ʾaḫbaraniy yuwnusu ʿani abni šihābiȵ ʾaḫbaraniy abnu almusayyabi waʾabuw salamaŧa bnu ʿabdi alrraḥmani ʾanna ʾabā hurayraŧa ḳāla samiʿtu rasuwla allahi ṣlʿm bimiṯli ḥadiyṯi mālikiȵ walam yaḏkur ḳawla abni šihābiȵ
+
+############################################################
+## betaCodeManual>Arabic
+حَدَّثَنِيْ حَرْمَلَةُ بْنُ يَحْيَى أَخْبَرَنَا أَبْنُ وَهْبٍ أَخْبَرَنِيْ يُوْنُسُ عَنِ أَبْنِ شِهَابٍ أَخْبَرَنِيْ أَبْنُ أَلْمُسَيَّبِ وَأَبُوْ سَلَمَةَ بْنُ عَبْدِ أَلْرَّحْمَنِ أَنَّ أَبَا هُرَيْرَةَ قَالَ سَمِعْتُ رَسُوْلَ أَلَّهِ صْلْعْمْ بِمِثْلِ حَدِيْثِ مَالِكٍ وَلَمْ يَذْكُرْ قَوْلَ أَبْنِ شِهَابٍ
+
+############################################################
+## TranslationBetaCode
+Type your translation on this line
+
+############################################################
+## TranslationTranslit
+Type your translation on this line
+

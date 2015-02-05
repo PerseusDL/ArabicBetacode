@@ -1,0 +1,33 @@
+############################################################
+## hadithID::     nasai20_1116960
+## Completed by:: ADDYOURNAME
+## Finished::     NO/YES
+
+############################################################
+## ArabicInitial
+أَخْبَرَنَا قُتَيْبَةُ قَالَ حَدَّثَنَا مَالِكٌ عَنْ أَبِي بَكْرِ بْنِ عُمَرَ بْنِ عَبْدِ الرَّحْمَنِ بْنِ عَبْدِ اللَّهِ بْنِ عُمَرَ بْنِ الْخَطَّابِ عَنْ سَعِيدِ بْنِ يَسَارٍ قَالَ قَالَ لِي ابْنُ عُمَرَ أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم كَانَ يُوتِرُ عَلَى الْبَعِيرِ
+
+############################################################
+## betaCodeAuto
+'a_hbaran_a qutayba:tu q_ala .hadda_tan_a m_aliku.n `an 'abiy bakri bni `umara bni `abdi alrra.hmani bni `abdi allahi bni `umara bni al_ha.tt_abi `an sa`iydi bni yas_ari.n q_ala q_ala liy abnu `umara 'anna rasuwla allahi .sl`m k_ana yuwtiru `ala/a alba`iyri
+
+############################################################
+## betaCodeManual
+'a_hbaran_a qutayba:tu q_ala .hadda_tan_a m_aliku.n `an 'abiy bakri bni `umara bni `abdi alrra.hmani bni `abdi allahi bni `umara bni al_ha.tt_abi `an sa`iydi bni yas_ari.n q_ala q_ala liy abnu `umara 'anna rasuwla allahi .sl`m k_ana yuwtiru `ala/a alba`iyri
+
+############################################################
+## betaCodeManual>Translit
+ʾaḫbaranā ḳutaybaŧu ḳāla ḥaddaṯanā mālikuȵ ʿan ʾabiy bakri bni ʿumara bni ʿabdi alrraḥmani bni ʿabdi allahi bni ʿumara bni alḫaṭtābi ʿan saʿiydi bni yasāriȵ ḳāla ḳāla liy abnu ʿumara ʾanna rasuwla allahi ṣlʿm kāna yuwtiru ʿalaá albaʿiyri
+
+############################################################
+## betaCodeManual>Arabic
+أَخْبَرَنَا قُتَيْبَةُ قَالَ حَدَّثَنَا مَالِكٌ عَنْ أَبِيْ بَكْرِ بْنِ عُمَرَ بْنِ عَبْدِ أَلْرَّحْمَنِ بْنِ عَبْدِ أَلَّهِ بْنِ عُمَرَ بْنِ أَلْخَطْتَابِ عَنْ سَعِيْدِ بْنِ يَسَارٍ قَالَ قَالَ لِيْ أَبْنُ عُمَرَ أَنَّ رَسُوْلَ أَلَّهِ صْلْعْمْ كَانَ يُوْتِرُ عَلَى أَلْبَعِيْرِ
+
+############################################################
+## TranslationBetaCode
+Type your translation on this line
+
+############################################################
+## TranslationTranslit
+Type your translation on this line
+

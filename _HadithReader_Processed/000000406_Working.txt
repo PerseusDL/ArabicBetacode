@@ -1,0 +1,33 @@
+############################################################
+## hadithID::     muslim21_339540
+## Completed by:: ADDYOURNAME
+## Finished::     NO/YES
+
+############################################################
+## ArabicInitial
+حَدَّثَنَا إِسْحَاقُ بْنُ إِبْرَاهِيمَ حَدَّثَنَا رَوْحُ بْنُ عُبَادَةَ حَدَّثَنَا ابْنُ جُرَيْجٍ أَخْبَرَنِي أَبُو الزُّبَيْرِ أَنَّهُ سَمِعَ جَابِرَ بْنَ عَبْدِ اللَّهِ يَقُولُ نَهَى رَسُولُ اللَّهِ صلى الله عليه وسلم بِمِثْلِهِ غَيْرَ أَنَّهُ لَمْ يَذْكُرْ مِنَ التَّمْرِ فِي آخِرِ الْحَدِيثِ
+
+############################################################
+## betaCodeAuto
+.hadda_tan_a 'iis.h_aqu bnu 'iibr_ahiyma .hadda_tan_a raw.hu bnu `ub_ada:ta .hadda_tan_a abnu ^guray^gi.n 'a_hbaraniy 'abuw alzzubayri 'annahu sami`a ^g_abira bna `abdi allahi yaquwlu naha/a rasuwlu allahi .sl`m bimi_tlihi .gayra 'annahu lam ya_dkur mina alttamri fiy 'a_hiri al.hadiy_ti
+
+############################################################
+## betaCodeManual
+.hadda_tan_a 'iis.h_aqu bnu 'iibr_ahiyma .hadda_tan_a raw.hu bnu `ub_ada:ta .hadda_tan_a abnu ^guray^gi.n 'a_hbaraniy 'abuw alzzubayri 'annahu sami`a ^g_abira bna `abdi allahi yaquwlu naha/a rasuwlu allahi .sl`m bimi_tlihi .gayra 'annahu lam ya_dkur mina alttamri fiy 'a_hiri al.hadiy_ti
+
+############################################################
+## betaCodeManual>Translit
+ḥaddaṯanā ʾiisḥāḳu bnu ʾiibrāhiyma ḥaddaṯanā rawḥu bnu ʿubādaŧa ḥaddaṯanā abnu ǧurayǧiȵ ʾaḫbaraniy ʾabuw alzzubayri ʾannahu samiʿa ǧābira bna ʿabdi allahi yaḳuwlu nahaá rasuwlu allahi ṣlʿm bimiṯlihi ġayra ʾannahu lam yaḏkur mina alttamri fiy ʾaḫiri alḥadiyṯi
+
+############################################################
+## betaCodeManual>Arabic
+حَدَّثَنَا إِِسْحَاقُ بْنُ إِِبْرَاهِيْمَ حَدَّثَنَا رَوْحُ بْنُ عُبَادَةَ حَدَّثَنَا أَبْنُ جُرَيْجٍ أَخْبَرَنِيْ أَبُوْ أَلْزُّبَيْرِ أَنَّهُ سَمِعَ جَابِرَ بْنَ عَبْدِ أَلَّهِ يَقُوْلُ نَهَى رَسُوْلُ أَلَّهِ صْلْعْمْ بِمِثْلِهِ غَيْرَ أَنَّهُ لَمْ يَذْكُرْ مِنَ أَلْتَّمْرِ فِيْ أَخِرِ أَلْحَدِيْثِ
+
+############################################################
+## TranslationBetaCode
+Type your translation on this line
+
+############################################################
+## TranslationTranslit
+Type your translation on this line
+

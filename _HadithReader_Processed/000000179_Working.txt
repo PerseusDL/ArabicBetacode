@@ -1,0 +1,33 @@
+############################################################
+## hadithID::     tirmidhi10_709860
+## Completed by:: ADDYOURNAME
+## Finished::     NO/YES
+
+############################################################
+## ArabicInitial
+حَدَّثَنَا بِذَلِكَ عَلِيُّ بْنُ حُجْرٍ أَخْبَرَنَا إِسْمَاعِيلُ بْنُ إِبْرَاهِيمَ أَخْبَرَنَا عَبْدُ الْعَزِيزِ بْنُ صُهَيْبٍ عَنْ أَنَسِ بْنِ مَالِكٍ عَنِ النَّبِيِّ صلى الله عليه وسلم بِذَلِكَ قَالَ أَبُو عِيسَى هَذَا حَدِيثٌ حَسَنٌ صَحِيحٌ
+
+############################################################
+## betaCodeAuto
+.hada_tan_a bi_dalika `aliyuu bnu .hu^gri.n 'a_hbaran_a 'iism_a`iylu bnu 'iibr_ahiyma 'a_hbaran_a `abdu al`aziyzi bnu .suhaybi.n `an 'anasi bni m_aliki.n `ani alnabiyii .sl`m bi_dalika q_ala 'abuw `iysa/a ha_d_a .hadiy_tu.n .hasanu.n .sa.hiy.hu.n
+
+############################################################
+## betaCodeManual
+.hada_tan_a bi_dalika `aliyuu bnu .hu^gri.n 'a_hbaran_a 'iism_a`iylu bnu 'iibr_ahiyma 'a_hbaran_a `abdu al`aziyzi bnu .suhaybi.n `an 'anasi bni m_aliki.n `ani alnabiyii .sl`m bi_dalika q_ala 'abuw `iysa/a ha_d_a .hadiy_tu.n .hasanu.n .sa.hiy.hu.n
+
+############################################################
+## betaCodeManual>Translit
+ḥadaṯanā biḏalika ʿaliyuu bnu ḥuǧriȵ ʾaḫbaranā ʾiismāʿiylu bnu ʾiibrāhiyma ʾaḫbaranā ʿabdu alʿaziyzi bnu ṣuhaybiȵ ʿan ʾanasi bni mālikiȵ ʿani alnabiyii ṣlʿm biḏalika ḳāla ʾabuw ʿiysaá haḏā ḥadiyṯuȵ ḥasanuȵ ṣaḥiyḥuȵ
+
+############################################################
+## betaCodeManual>Arabic
+حَدَثَنَا بِذَلِكَ عَلِيُُ بْنُ حُجْرٍ أَخْبَرَنَا إِِسْمَاعِيْلُ بْنُ إِِبْرَاهِيْمَ أَخْبَرَنَا عَبْدُ أَلْعَزِيْزِ بْنُ صُهَيْبٍ عَنْ أَنَسِ بْنِ مَالِكٍ عَنِ أَلْنَبِيِِ صْلْعْمْ بِذَلِكَ قَالَ أَبُوْ عِيْسَى هَذَا حَدِيْثٌ حَسَنٌ صَحِيْحٌ
+
+############################################################
+## TranslationBetaCode
+Type your translation on this line
+
+############################################################
+## TranslationTranslit
+Type your translation on this line
+

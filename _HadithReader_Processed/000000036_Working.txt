@@ -1,0 +1,33 @@
+############################################################
+## hadithID::     muslim01_305430
+## Completed by:: ADDYOURNAME
+## Finished::     NO/YES
+
+############################################################
+## ArabicInitial
+وَحَدَّثَنَا مُحَمَّدُ بْنُ بَشَّارٍ حَدَّثَنَا مُحَمَّدُ بْنُ جَعْفَرٍ حَدَّثَنَا شُعْبَةُ قَالَ سَمِعْتُ مُحَمَّدَ بْنَ زِيَادٍ قَالَ سَمِعْتُ أَبَا هُرَيْرَةَ يَقُولُ سَمِعْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم يَقُولُ بِمِثْلِ حَدِيثِ الرَّبِيعِ
+
+############################################################
+## betaCodeAuto
+wa.hadda_tan_a mu.hammadu bnu ba^ss_ari.n .hadda_tan_a mu.hammadu bnu ^ga`fari.n .hadda_tan_a ^su`ba:tu q_ala sami`tu mu.hammada bna ziy_adi.n q_ala sami`tu 'ab_a hurayra:ta yaquwlu sami`tu rasuwla allahi .sl`m yaquwlu bimi_tli .hadiy_ti alrrabiy`i
+
+############################################################
+## betaCodeManual
+wa.hadda_tan_a mu.hammadu bnu ba^ss_ari.n .hadda_tan_a mu.hammadu bnu ^ga`fari.n .hadda_tan_a ^su`ba:tu q_ala sami`tu mu.hammada bna ziy_adi.n q_ala sami`tu 'ab_a hurayra:ta yaquwlu sami`tu rasuwla allahi .sl`m yaquwlu bimi_tli .hadiy_ti alrrabiy`i
+
+############################################################
+## betaCodeManual>Translit
+waḥaddaṯanā muḥammadu bnu bašsāriȵ ḥaddaṯanā muḥammadu bnu ǧaʿfariȵ ḥaddaṯanā šuʿbaŧu ḳāla samiʿtu muḥammada bna ziyādiȵ ḳāla samiʿtu ʾabā hurayraŧa yaḳuwlu samiʿtu rasuwla allahi ṣlʿm yaḳuwlu bimiṯli ḥadiyṯi alrrabiyʿi
+
+############################################################
+## betaCodeManual>Arabic
+وَحَدَّثَنَا مُحَمَّدُ بْنُ بَشْسَارٍ حَدَّثَنَا مُحَمَّدُ بْنُ جَعْفَرٍ حَدَّثَنَا شُعْبَةُ قَالَ سَمِعْتُ مُحَمَّدَ بْنَ زِيَادٍ قَالَ سَمِعْتُ أَبَا هُرَيْرَةَ يَقُوْلُ سَمِعْتُ رَسُوْلَ أَلَّهِ صْلْعْمْ يَقُوْلُ بِمِثْلِ حَدِيْثِ أَلْرَّبِيْعِ
+
+############################################################
+## TranslationBetaCode
+Type your translation on this line
+
+############################################################
+## TranslationTranslit
+Type your translation on this line
+

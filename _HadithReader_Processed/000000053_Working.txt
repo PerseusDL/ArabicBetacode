@@ -1,0 +1,33 @@
+############################################################
+## hadithID::     abudawud13_922230
+## Completed by:: ADDYOURNAME
+## Finished::     NO/YES
+
+############################################################
+## ArabicInitial
+حَدَّثَنَا هَارُونُ بْنُ عَبْدِ اللَّهِ حَدَّثَنَا مُحَمَّدُ بْنُ الْفَضْلِ حَدَّثَنَا حَمَّادُ بْنُ سَلَمَةَ عَنْ هِشَامِ بْنِ عُرْوَةَ عَنْ عُرْوَةَ عَنْ عَائِشَةَ مِثْلَهُ
+
+############################################################
+## betaCodeAuto
+.hadda_tan_a h_aruwnu bnu `abdi allahi .hadda_tan_a mu.hammadu bnu alfa.dli .hadda_tan_a .hamm_adu bnu salama:ta `an hi^s_ami bni `urwa:ta `an `urwa:ta `an `_a'ii^sa:ta mi_tlahu
+
+############################################################
+## betaCodeManual
+.hadda_tan_a h_aruwnu bnu `abdi allahi .hadda_tan_a mu.hammadu bnu alfa.dli .hadda_tan_a .hamm_adu bnu salama:ta `an hi^s_ami bni `urwa:ta `an `urwa:ta `an `_a'ii^sa:ta mi_tlahu
+
+############################################################
+## betaCodeManual>Translit
+ḥaddaṯanā hāruwnu bnu ʿabdi allahi ḥaddaṯanā muḥammadu bnu alfaḍli ḥaddaṯanā ḥammādu bnu salamaŧa ʿan hišāmi bni ʿurwaŧa ʿan ʿurwaŧa ʿan ʿāʾiišaŧa miṯlahu
+
+############################################################
+## betaCodeManual>Arabic
+حَدَّثَنَا هَارُوْنُ بْنُ عَبْدِ أَلَّهِ حَدَّثَنَا مُحَمَّدُ بْنُ أَلْفَضْلِ حَدَّثَنَا حَمّادُ بْنُ سَلَمَةَ عَنْ هِشَامِ بْنِ عُرْوَةَ عَنْ عُرْوَةَ عَنْ عائِِشَةَ مِثْلَهُ
+
+############################################################
+## TranslationBetaCode
+Type your translation on this line
+
+############################################################
+## TranslationTranslit
+Type your translation on this line
+

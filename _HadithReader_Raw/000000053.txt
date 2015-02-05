@@ -1,0 +1,32 @@
+STATUS:: INCLUDE
+HADITH:: abudawud13_922230
+RANK:: 000000053
+WEIGTH:: 00000000740909090909
+LENGTH:: 22
+hadithID:: abudawud13_922230
+Grade:: Sahih (Al-Albani) || صحيح (الألباني)
+bookNo:: 13
+bookArTitle:: كتاب الطلاق
+arHadithInit::  حَدَّثَنَا هَارُونُ بْنُ عَبْدِ اللَّهِ حَدَّثَنَا مُحَمَّدُ بْنُ الْفَضْلِ حَدَّثَنَا حَمَّادُ بْنُ سَلَمَةَ عَنْ هِشَامِ بْنِ عُرْوَةَ عَنْ عُرْوَةَ عَنْ عَائِشَةَ مِثْلَهُ
+bookEnTitle:: Divorce (Kitab Al-Talaq)
+enHadith::  A similar tradition has been transmitted by A’ishah through a different chain of narrators.
+Reference:: Sunan Abi Dawud 2220
+In-book reference:: Book 13, Hadith 46
+English translation:: Book 12, Hadith 2213
+FREQREPORT::
+##000000001	000115208	الله
+##000000002	000109869	بن
+##000000003	000104417	عن
+##000000005	000065785	حدثنا
+##000000013	000027774	عبد
+##000000020	000015288	محمد
+##000000053	000004603	عايشه
+##000000065	000003716	سلمه
+##000000081	000002999	هشام
+##000000123	000002035	عروه
+##000000130	000001922	حماد
+##000000250	000000946	هارون
+##000000335	000000680	مثله
+##000000404	000000539	الفضل
+
+

@@ -1,0 +1,33 @@
+############################################################
+## hadithID::     tirmidhi07_706252
+## Completed by:: ADDYOURNAME
+## Finished::     NO/YES
+
+############################################################
+## ArabicInitial
+حَدَّثَنَا مُحَمَّدُ بْنُ بَشَّارٍ حَدَّثَنَا مُحَمَّدُ بْنُ جَعْفَرٍ حَدَّثَنَا شُعْبَةُ عَنْ عَمْرِو بْنِ مُرَّةَ قَالَ سَأَلْتُ أَبَا عُبَيْدَةَ بْنَ عَبْدِ اللَّهِ هَلْ تَذْكُرُ مِنْ عَبْدِ اللَّهِ شَيْئًا قَالَ لاَ
+
+############################################################
+## betaCodeAuto
+.hada_tan_a mu.hamadu bnu ba^s_ari.n .hada_tan_a mu.hamadu bnu ^ga`fari.n .hada_tan_a ^su`ba:tu `an `amriw bni mura:ta q_ala sa'altu 'ab_a `ubayda:ta bna `abdi allahi hal ta_dkuru min `abdi allahi ^say'ia.n_a q_ala l_a
+
+############################################################
+## betaCodeManual
+.hada_tan_a mu.hamadu bnu ba^s_ari.n .hada_tan_a mu.hamadu bnu ^ga`fari.n .hada_tan_a ^su`ba:tu `an `amriw bni mura:ta q_ala sa'altu 'ab_a `ubayda:ta bna `abdi allahi hal ta_dkuru min `abdi allahi ^say'ia.n_a q_ala l_a
+
+############################################################
+## betaCodeManual>Translit
+ḥadaṯanā muḥamadu bnu bašāriȵ ḥadaṯanā muḥamadu bnu ǧaʿfariȵ ḥadaṯanā šuʿbaŧu ʿan ʿamriw bni muraŧa ḳāla saʾaltu ʾabā ʿubaydaŧa bna ʿabdi allahi hal taḏkuru min ʿabdi allahi šayʾiaȵā ḳāla lā
+
+############################################################
+## betaCodeManual>Arabic
+حَدَثَنَا مُحَمَدُ بْنُ بَشَارٍ حَدَثَنَا مُحَمَدُ بْنُ جَعْفَرٍ حَدَثَنَا شُعْبَةُ عَنْ عَمْرِوْ بْنِ مُرَةَ قَالَ سَأَلْتُ أَبَا عُبَيْدَةَ بْنَ عَبْدِ أَلَّهِ هَلْ تَذْكُرُ مِنْ عَبْدِ أَلَّهِ شَيْئًِا قَالَ لَا
+
+############################################################
+## TranslationBetaCode
+Type your translation on this line
+
+############################################################
+## TranslationTranslit
+Type your translation on this line
+

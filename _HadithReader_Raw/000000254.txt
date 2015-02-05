@@ -1,0 +1,34 @@
+STATUS:: INCLUDE
+HADITH:: muslim15_329230
+RANK:: 000000254
+WEIGTH:: 00000001111875000000
+LENGTH:: 16
+hadithID:: muslim15_329230
+None
+bookNo:: 15
+bookArTitle:: كتاب الحج
+arHadithInit::  وَحَدَّثَنَاهُ أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ وَأَبُو كُرَيْبٍ قَالاَ حَدَّثَنَا ابْنُ نُمَيْرٍ حَدَّثَنَا هِشَامٌ بِهَذَا الإِسْنَادِ
+bookEnTitle:: The Book of Pilgrimage
+enHadith::  This hadith has been narrated on the authority of Hisham with the same chain of transmitters.
+Reference:: Sahih Muslim 1198 d
+In-book reference:: Book 15, Hadith 74
+USC-MSA web (English) reference:: Book 7, Hadith 2720
+(deprecated numbering scheme)
+FREQREPORT::
+##000000002	000109869	بن
+##000000005	000065785	حدثنا
+##000000009	000032575	ابي
+##000000015	000020747	ابن
+##000000016	000019118	ابو
+##000000037	000006094	بكر
+##000000080	000003058	شيبه
+##000000081	000002999	هشام
+##000000082	000002825	قالا
+##000000148	000001652	وابو
+##000000152	000001625	بهذا
+##000000210	000001117	الاسناد
+##000000232	000001023	كريب
+##000000247	000000974	نمير
+##000000458	000000472	وحدثناه
+
+

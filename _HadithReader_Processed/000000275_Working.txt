@@ -1,0 +1,33 @@
+############################################################
+## hadithID::     abudawud34_941110
+## Completed by:: ADDYOURNAME
+## Finished::     NO/YES
+
+############################################################
+## ArabicInitial
+حَدَّثَنَا مُحَمَّدُ بْنُ دَاوُدَ بْنِ سُفْيَانَ حَدَّثَنَا عَبْدُ الرَّزَّاقِ أَخْبَرَنَا مَعْمَرٌ عَنِ الزُّهْرِيِّ عَنْ عُرْوَةَ عَنْ عَائِشَةَ بِمَعْنَاهُ
+
+############################################################
+## betaCodeAuto
+.hadda_tan_a mu.hammadu bnu d_awuda bni sufy_ana .hadda_tan_a `abdu alrrazz_aqi 'a_hbaran_a ma`maru.n `ani alzzuhriyyi `an `urwa:ta `an `_a'ii^sa:ta bima`n_ahu
+
+############################################################
+## betaCodeManual
+.hadda_tan_a mu.hammadu bnu d_awuda bni sufy_ana .hadda_tan_a `abdu alrrazz_aqi 'a_hbaran_a ma`maru.n `ani alzzuhriyyi `an `urwa:ta `an `_a'ii^sa:ta bima`n_ahu
+
+############################################################
+## betaCodeManual>Translit
+ḥaddaṯanā muḥammadu bnu dāwuda bni sufyāna ḥaddaṯanā ʿabdu alrrazzāḳi ʾaḫbaranā maʿmaruȵ ʿani alzzuhriyyi ʿan ʿurwaŧa ʿan ʿāʾiišaŧa bimaʿnāhu
+
+############################################################
+## betaCodeManual>Arabic
+حَدَّثَنَا مُحَمَّدُ بْنُ دَاوُدَ بْنِ سُفْيَانَ حَدَّثَنَا عَبْدُ أَلْرَّزّاقِ أَخْبَرَنَا مَعْمَرٌ عَنِ أَلْزُّهْرِيِّ عَنْ عُرْوَةَ عَنْ عائِِشَةَ بِمَعْنَاهُ
+
+############################################################
+## TranslationBetaCode
+Type your translation on this line
+
+############################################################
+## TranslationTranslit
+Type your translation on this line
+

@@ -1,0 +1,33 @@
+############################################################
+## hadithID::     bukhari46_123960
+## Completed by:: ADDYOURNAME
+## Finished::     NO/YES
+
+############################################################
+## ArabicInitial
+حَدَّثَنَا عَبْدُ اللَّهِ بْنُ يَزِيدَ حَدَّثَنَا سَعِيدٌ ـ هُوَ ابْنُ أَبِي أَيُّوبَ ـ قَالَ حَدَّثَنِي أَبُو الأَسْوَدِ عَنْ عِكْرِمَةَ عَنْ عَبْدِ اللَّهِ بْنِ عَمْرٍو ـ رضى الله عنهما ـ قَالَ سَمِعْتُ النَّبِيَّ صلى الله عليه وسلم يَقُولُ مَنْ قُتِلَ دُونَ مَالِهِ فَهُوَ شَهِيدٌ
+
+############################################################
+## betaCodeAuto
+.hadda_tan_a `abdu allahi bnu yaziyda .hadda_tan_a sa`iydu.n  huwa abnu 'abiy 'ayyuwba  q_ala .hadda_taniy 'abuw al'aswadi `an `ikrima:ta `an `abdi allahi bni `amri.nw  r.d/a allh `nhm_a  q_ala sami`tu alnnabiyya .sl`m yaquwlu man qutila duwna m_alihi fahuwa ^sahiydu.n
+
+############################################################
+## betaCodeManual
+.hadda_tan_a `abdu allahi bnu yaziyda .hadda_tan_a sa`iydu.n  huwa abnu 'abiy 'ayyuwba  q_ala .hadda_taniy 'abuw al'aswadi `an `ikrima:ta `an `abdi allahi bni `amri.nw  r.d/a allh `nhm_a  q_ala sami`tu alnnabiyya .sl`m yaquwlu man qutila duwna m_alihi fahuwa ^sahiydu.n
+
+############################################################
+## betaCodeManual>Translit
+ḥaddaṯanā ʿabdu allahi bnu yaziyda ḥaddaṯanā saʿiyduȵ  huwa abnu ʾabiy ʾayyuwba  ḳāla ḥaddaṯaniy ʾabuw alʾaswadi ʿan ʿikrimaŧa ʿan ʿabdi allahi bni ʿamriȵw  rḍá allh ʿnhmā  ḳāla samiʿtu alnnabiyya ṣlʿm yaḳuwlu man ḳutila duwna mālihi fahuwa šahiyduȵ
+
+############################################################
+## betaCodeManual>Arabic
+حَدَّثَنَا عَبْدُ أَلَّهِ بْنُ يَزِيْدَ حَدَّثَنَا سَعِيْدٌ  هُوَ أَبْنُ أَبِيْ أَيُّوْبَ  قَالَ حَدَّثَنِيْ أَبُوْ أَلْأَسْوَدِ عَنْ عِكْرِمَةَ عَنْ عَبْدِ أَلَّهِ بْنِ عَمْرٍوْ  رْضى أَلّهْ عْنْهْمَا  قَالَ سَمِعْتُ أَلْنَّبِيَّ صْلْعْمْ يَقُوْلُ مَنْ قُتِلَ دُوْنَ مَالِهِ فَهُوَ شَهِيْدٌ
+
+############################################################
+## TranslationBetaCode
+Type your translation on this line
+
+############################################################
+## TranslationTranslit
+Type your translation on this line
+

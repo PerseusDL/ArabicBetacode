@@ -1,0 +1,33 @@
+############################################################
+## hadithID::     muslim13_326410
+## Completed by:: ADDYOURNAME
+## Finished::     NO/YES
+
+############################################################
+## ArabicInitial
+وَحَدَّثَنَا مُحَمَّدُ بْنُ بَشَّارٍ حَدَّثَنَا عَبْدُ الرَّحْمَنِ حَدَّثَنَا سُفْيَانُ عَنْ أَبِي الزِّنَادِ عَنْ عَلِيِّ بْنِ الْحُسَيْنِ عَنْ عَائِشَةَ رضى الله عنها أَنَّ النَّبِيَّ صلى الله عليه وسلم كَانَ يُقَبِّلُ وَهُوَ صَائِمٌ
+
+############################################################
+## betaCodeAuto
+wa.hadda_tan_a mu.hammadu bnu ba^ss_ari.n .hadda_tan_a `abdu alrra.hmani .hadda_tan_a sufy_anu `an 'abiy alzzin_adi `an `aliyyi bni al.husayni `an `_a'ii^sa:ta r.d/a allh `nh_a 'anna alnnabiyya .sl`m k_ana yuqabbilu wahuwa .s_a'iimu.n
+
+############################################################
+## betaCodeManual
+wa.hadda_tan_a mu.hammadu bnu ba^ss_ari.n .hadda_tan_a `abdu alrra.hmani .hadda_tan_a sufy_anu `an 'abiy alzzin_adi `an `aliyyi bni al.husayni `an `_a'ii^sa:ta r.d/a allh `nh_a 'anna alnnabiyya .sl`m k_ana yuqabbilu wahuwa .s_a'iimu.n
+
+############################################################
+## betaCodeManual>Translit
+waḥaddaṯanā muḥammadu bnu bašsāriȵ ḥaddaṯanā ʿabdu alrraḥmani ḥaddaṯanā sufyānu ʿan ʾabiy alzzinādi ʿan ʿaliyyi bni alḥusayni ʿan ʿāʾiišaŧa rḍá allh ʿnhā ʾanna alnnabiyya ṣlʿm kāna yuḳabbilu wahuwa ṣāʾiimuȵ
+
+############################################################
+## betaCodeManual>Arabic
+وَحَدَّثَنَا مُحَمَّدُ بْنُ بَشْسَارٍ حَدَّثَنَا عَبْدُ أَلْرَّحْمَنِ حَدَّثَنَا سُفْيَانُ عَنْ أَبِيْ أَلْزِّنَادِ عَنْ عَلِيِّ بْنِ أَلْحُسَيْنِ عَنْ عائِِشَةَ رْضى أَلّهْ عْنْهَا أَنَّ أَلْنَّبِيَّ صْلْعْمْ كَانَ يُقَبِّلُ وَهُوَ صائِِمٌ
+
+############################################################
+## TranslationBetaCode
+Type your translation on this line
+
+############################################################
+## TranslationTranslit
+Type your translation on this line
+

@@ -1,0 +1,34 @@
+STATUS:: INCLUDE
+HADITH:: muslim44_365670
+RANK:: 000000007
+WEIGTH:: 00000000480952380952
+LENGTH:: 21
+hadithID:: muslim44_365670
+None
+bookNo:: 44
+bookArTitle:: كتاب فضائل الصحابة رضى الله تعالى عنهم
+arHadithInit::  حَدَّثَنَا مُحَمَّدُ بْنُ بَشَّارٍ حَدَّثَنَا مُحَمَّدُ بْنُ جَعْفَرٍ حَدَّثَنَا شُعْبَةُ عَنْ هِشَامِ بْنِ زَيْدٍ سَمِعْتُ أَنَسَ بْنَ مَالِكٍ يَقُولُ مِثْلَ ذَلِكَ
+bookEnTitle:: The Book of the Merits of the Companions
+enHadith::  This hadith has been reported on the authority of Anas through another chain of transmitters.
+Reference:: Sahih Muslim 2480 c
+In-book reference:: Book 44, Hadith 204
+USC-MSA web (English) reference:: Book 31, Hadith 6061
+(deprecated numbering scheme)
+FREQREPORT::
+##000000002	000109869	بن
+##000000003	000104417	عن
+##000000005	000065785	حدثنا
+##000000020	000015288	محمد
+##000000038	000006047	يقول
+##000000046	000005402	سمعت
+##000000051	000004835	مالك
+##000000055	000004519	ذلك
+##000000061	000003969	انس
+##000000067	000003631	شعبه
+##000000081	000002999	هشام
+##000000083	000002791	زيد
+##000000121	000002054	جعفر
+##000000161	000001550	بشار
+##000000180	000001370	مثل
+
+

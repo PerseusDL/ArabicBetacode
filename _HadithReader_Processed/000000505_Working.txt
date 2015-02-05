@@ -1,0 +1,33 @@
+############################################################
+## hadithID::     tirmidhi27_720710
+## Completed by:: ADDYOURNAME
+## Finished::     NO/YES
+
+############################################################
+## ArabicInitial
+حَدَّثَنَا قُتَيْبَةُ حَدَّثَنَا عَبْدُ اللَّهِ بْنُ وَهْبٍ عَنْ أَبِي هَانِئٍ الْخَوْلاَنِيِّ بِهَذَا الإِسْنَادِ نَحْوَهُ وَرَوَى بَعْضُهُمْ هَذَا الْحَدِيثَ عَنْ عَبْدِ اللَّهِ بْنِ وَهْبٍ بِهَذَا الإِسْنَادِ وَقَالَ عَنْ عَبْدِ اللَّهِ بْنِ عَمْرٍو
+
+############################################################
+## betaCodeAuto
+.hadda_tan_a qutayba:tu .hadda_tan_a `abdu allahi bnu wahbi.n `an 'abiy h_ani'ii.n al_hawl_aniyyi biha_d_a al'iisn_adi na.hwahu warawa/a ba`.duhum ha_d_a al.hadiy_ta `an `abdi allahi bni wahbi.n biha_d_a al'iisn_adi waq_ala `an `abdi allahi bni `amri.nw
+
+############################################################
+## betaCodeManual
+.hadda_tan_a qutayba:tu .hadda_tan_a `abdu allahi bnu wahbi.n `an 'abiy h_ani'ii.n al_hawl_aniyyi biha_d_a al'iisn_adi na.hwahu warawa/a ba`.duhum ha_d_a al.hadiy_ta `an `abdi allahi bni wahbi.n biha_d_a al'iisn_adi waq_ala `an `abdi allahi bni `amri.nw
+
+############################################################
+## betaCodeManual>Translit
+ḥaddaṯanā ḳutaybaŧu ḥaddaṯanā ʿabdu allahi bnu wahbiȵ ʿan ʾabiy hāniʾiiȵ alḫawlāniyyi bihaḏā alʾiisnādi naḥwahu warawaá baʿḍuhum haḏā alḥadiyṯa ʿan ʿabdi allahi bni wahbiȵ bihaḏā alʾiisnādi waḳāla ʿan ʿabdi allahi bni ʿamriȵw
+
+############################################################
+## betaCodeManual>Arabic
+حَدَّثَنَا قُتَيْبَةُ حَدَّثَنَا عَبْدُ أَلَّهِ بْنُ وَهْبٍ عَنْ أَبِيْ هَانِئٍِ أَلْخَوْلَانِيِّ بِهَذَا أَلْئِِسْنَادِ نَحْوَهُ وَرَوَى بَعْضُهُمْ هَذَا أَلْحَدِيْثَ عَنْ عَبْدِ أَلَّهِ بْنِ وَهْبٍ بِهَذَا أَلْئِِسْنَادِ وَقَالَ عَنْ عَبْدِ أَلَّهِ بْنِ عَمْرٍوْ
+
+############################################################
+## TranslationBetaCode
+Type your translation on this line
+
+############################################################
+## TranslationTranslit
+Type your translation on this line
+

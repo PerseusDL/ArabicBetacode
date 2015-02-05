@@ -1,0 +1,33 @@
+############################################################
+## hadithID::     abudawud02_911240
+## Completed by:: ADDYOURNAME
+## Finished::     NO/YES
+
+############################################################
+## ArabicInitial
+حَدَّثَنَا الْقَعْنَبِيُّ عَنْ مَالِكٍ عَنِ ابْنِ شِهَابٍ عَنْ أَبِي سَلَمَةَ عَنْ أَبِي هُرَيْرَةَ قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم مَنْ أَدْرَكَ رَكْعَةً مِنَ الصَّلاَةِ فَقَدْ أَدْرَكَ الصَّلاَةَ
+
+############################################################
+## betaCodeAuto
+.hadda_tan_a alqa`nabiyyu `an m_aliki.n `ani abni ^sih_abi.n `an 'abiy salama:ta `an 'abiy hurayra:ta q_ala q_ala rasuwlu allahi .sl`m man 'adraka rak`a:ta.n mina al.ssal_a:ti faqad 'adraka al.ssal_a:ta
+
+############################################################
+## betaCodeManual
+.hadda_tan_a alqa`nabiyyu `an m_aliki.n `ani abni ^sih_abi.n `an 'abiy salama:ta `an 'abiy hurayra:ta q_ala q_ala rasuwlu allahi .sl`m man 'adraka rak`a:ta.n mina al.ssal_a:ti faqad 'adraka al.ssal_a:ta
+
+############################################################
+## betaCodeManual>Translit
+ḥaddaṯanā alḳaʿnabiyyu ʿan mālikiȵ ʿani abni šihābiȵ ʿan ʾabiy salamaŧa ʿan ʾabiy hurayraŧa ḳāla ḳāla rasuwlu allahi ṣlʿm man ʾadraka rakʿaŧaȵ mina alṣsalāŧi faḳad ʾadraka alṣsalāŧa
+
+############################################################
+## betaCodeManual>Arabic
+حَدَّثَنَا أَلْقَعْنَبِيُّ عَنْ مَالِكٍ عَنِ أَبْنِ شِهَابٍ عَنْ أَبِيْ سَلَمَةَ عَنْ أَبِيْ هُرَيْرَةَ قَالَ قَالَ رَسُوْلُ أَلَّهِ صْلْعْمْ مَنْ أَدْرَكَ رَكْعَةً مِنَ أَلْصْسَلَاةِ فَقَدْ أَدْرَكَ أَلْصْسَلَاةَ
+
+############################################################
+## TranslationBetaCode
+Type your translation on this line
+
+############################################################
+## TranslationTranslit
+Type your translation on this line
+

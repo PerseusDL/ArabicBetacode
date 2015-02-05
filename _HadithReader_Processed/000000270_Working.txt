@@ -1,0 +1,33 @@
+############################################################
+## hadithID::     nasai37_1141040
+## Completed by:: ADDYOURNAME
+## Finished::     NO/YES
+
+############################################################
+## ArabicInitial
+أَخْبَرَنَا أَحْمَدُ بْنُ سُلَيْمَانَ قَالَ حَدَّثَنَا مُعَاوِيَةُ بْنُ هِشَامٍ قَالَ حَدَّثَنَا سُفْيَانُ عَنْ عَبْدِ اللَّهِ بْنِ الْحَسَنِ عَنْ إِبْرَاهِيمَ بْنِ مُحَمَّدِ بْنِ طَلْحَةَ عَنْ عَبْدِ اللَّهِ بْنِ عَمْرٍو قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم مَنْ قُتِلَ دُونَ مَالِهِ فَهُوَ شَهِيدٌ
+
+############################################################
+## betaCodeAuto
+'a_hbaran_a 'a.hmadu bnu sulaym_ana q_ala .hadda_tan_a mu`_awiya:tu bnu hi^s_ami.n q_ala .hadda_tan_a sufy_anu `an `abdi allahi bni al.hasani `an 'iibr_ahiyma bni mu.hammadi bni .tal.ha:ta `an `abdi allahi bni `amri.nw q_ala q_ala rasuwlu allahi .sl`m man qutila duwna m_alihi fahuwa ^sahiydu.n
+
+############################################################
+## betaCodeManual
+'a_hbaran_a 'a.hmadu bnu sulaym_ana q_ala .hadda_tan_a mu`_awiya:tu bnu hi^s_ami.n q_ala .hadda_tan_a sufy_anu `an `abdi allahi bni al.hasani `an 'iibr_ahiyma bni mu.hammadi bni .tal.ha:ta `an `abdi allahi bni `amri.nw q_ala q_ala rasuwlu allahi .sl`m man qutila duwna m_alihi fahuwa ^sahiydu.n
+
+############################################################
+## betaCodeManual>Translit
+ʾaḫbaranā ʾaḥmadu bnu sulaymāna ḳāla ḥaddaṯanā muʿāwiyaŧu bnu hišāmiȵ ḳāla ḥaddaṯanā sufyānu ʿan ʿabdi allahi bni alḥasani ʿan ʾiibrāhiyma bni muḥammadi bni ṭalḥaŧa ʿan ʿabdi allahi bni ʿamriȵw ḳāla ḳāla rasuwlu allahi ṣlʿm man ḳutila duwna mālihi fahuwa šahiyduȵ
+
+############################################################
+## betaCodeManual>Arabic
+أَخْبَرَنَا أَحْمَدُ بْنُ سُلَيْمَانَ قَالَ حَدَّثَنَا مُعَاوِيَةُ بْنُ هِشَامٍ قَالَ حَدَّثَنَا سُفْيَانُ عَنْ عَبْدِ أَلَّهِ بْنِ أَلْحَسَنِ عَنْ إِِبْرَاهِيْمَ بْنِ مُحَمَّدِ بْنِ طَلْحَةَ عَنْ عَبْدِ أَلَّهِ بْنِ عَمْرٍوْ قَالَ قَالَ رَسُوْلُ أَلَّهِ صْلْعْمْ مَنْ قُتِلَ دُوْنَ مَالِهِ فَهُوَ شَهِيْدٌ
+
+############################################################
+## TranslationBetaCode
+Type your translation on this line
+
+############################################################
+## TranslationTranslit
+Type your translation on this line
+

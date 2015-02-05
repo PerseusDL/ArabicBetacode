@@ -1,0 +1,33 @@
+############################################################
+## hadithID::     nasai42_1143750
+## Completed by:: ADDYOURNAME
+## Finished::     NO/YES
+
+############################################################
+## ArabicInitial
+أَخْبَرَنَا إِسْحَاقُ بْنُ إِبْرَاهِيمَ قَالَ حَدَّثَنَا مُعَاذُ بْنُ هِشَامٍ قَالَ حَدَّثَنِي أَبِي عَنْ قَتَادَةَ عَنِ الْحَسَنِ عَنْ أَبِي هُرَيْرَةَ نَحْوَهُ وَلَمْ يَرْفَعْهُ
+
+############################################################
+## betaCodeAuto
+'a_hbaran_a 'iis.h_aqu bnu 'iibr_ahiyma q_ala .hadda_tan_a mu`_a_du bnu hi^s_ami.n q_ala .hadda_taniy 'abiy `an qat_ada:ta `ani al.hasani `an 'abiy hurayra:ta na.hwahu walam yarfa`hu
+
+############################################################
+## betaCodeManual
+'a_hbaran_a 'iis.h_aqu bnu 'iibr_ahiyma q_ala .hadda_tan_a mu`_a_du bnu hi^s_ami.n q_ala .hadda_taniy 'abiy `an qat_ada:ta `ani al.hasani `an 'abiy hurayra:ta na.hwahu walam yarfa`hu
+
+############################################################
+## betaCodeManual>Translit
+ʾaḫbaranā ʾiisḥāḳu bnu ʾiibrāhiyma ḳāla ḥaddaṯanā muʿāḏu bnu hišāmiȵ ḳāla ḥaddaṯaniy ʾabiy ʿan ḳatādaŧa ʿani alḥasani ʿan ʾabiy hurayraŧa naḥwahu walam yarfaʿhu
+
+############################################################
+## betaCodeManual>Arabic
+أَخْبَرَنَا إِِسْحَاقُ بْنُ إِِبْرَاهِيْمَ قَالَ حَدَّثَنَا مُعَاذُ بْنُ هِشَامٍ قَالَ حَدَّثَنِيْ أَبِيْ عَنْ قَتَادَةَ عَنِ أَلْحَسَنِ عَنْ أَبِيْ هُرَيْرَةَ نَحْوَهُ وَلَمْ يَرْفَعْهُ
+
+############################################################
+## TranslationBetaCode
+Type your translation on this line
+
+############################################################
+## TranslationTranslit
+Type your translation on this line
+

@@ -1,0 +1,33 @@
+############################################################
+## hadithID::     nasai24_1129270
+## Completed by:: ADDYOURNAME
+## Finished::     NO/YES
+
+############################################################
+## ArabicInitial
+أَخْبَرَنَا إِسْمَاعِيلُ بْنُ مَسْعُودٍ قَالَ حَدَّثَنَا خَالِدٌ عَنْ عَبْدِ الْمَلِكِ عَنْ عَطَاءٍ عَنْ أُسَامَةَ قَالَ خَرَجَ رَسُولُ اللَّهِ صلى الله عليه وسلم مِنَ الْبَيْتِ صَلَّى رَكْعَتَيْنِ فِي قُبُلِ الْكَعْبَةِ ثُمَّ قَالَ هَذِهِ الْقِبْلَةُ
+
+############################################################
+## betaCodeAuto
+'a_hbaran_a 'iism_a`iylu bnu mas`uwdi.n q_ala .hadda_tan_a _h_alidu.n `an `abdi almaliki `an `a.t_a'i.n `an 'aus_ama:ta q_ala _hara^ga rasuwlu allahi .sl`m mina albayti .salla/a rak`atayni fiy qubuli alka`ba:ti _tumma q_ala ha_dihi alqibla:tu
+
+############################################################
+## betaCodeManual
+'a_hbaran_a 'iism_a`iylu bnu mas`uwdi.n q_ala .hadda_tan_a _h_alidu.n `an `abdi almaliki `an `a.t_a'i.n `an 'aus_ama:ta q_ala _hara^ga rasuwlu allahi .sl`m mina albayti .salla/a rak`atayni fiy qubuli alka`ba:ti _tumma q_ala ha_dihi alqibla:tu
+
+############################################################
+## betaCodeManual>Translit
+ʾaḫbaranā ʾiismāʿiylu bnu masʿuwdiȵ ḳāla ḥaddaṯanā ḫāliduȵ ʿan ʿabdi almaliki ʿan ʿaṭāʾiȵ ʿan ʾausāmaŧa ḳāla ḫaraǧa rasuwlu allahi ṣlʿm mina albayti ṣallaá rakʿatayni fiy ḳubuli alkaʿbaŧi ṯumma ḳāla haḏihi alḳiblaŧu
+
+############################################################
+## betaCodeManual>Arabic
+أَخْبَرَنَا إِِسْمَاعِيْلُ بْنُ مَسْعُوْدٍ قَالَ حَدَّثَنَا خَالِدٌ عَنْ عَبْدِ أَلْمَلِكِ عَنْ عَطاءٍ عَنْ أَأُسَامَةَ قَالَ خَرَجَ رَسُوْلُ أَلَّهِ صْلْعْمْ مِنَ أَلْبَيْتِ صَلَّى رَكْعَتَيْنِ فِيْ قُبُلِ أَلْكَعْبَةِ ثُمَّ قَالَ هَذِهِ أَلْقِبْلَةُ
+
+############################################################
+## TranslationBetaCode
+Type your translation on this line
+
+############################################################
+## TranslationTranslit
+Type your translation on this line
+

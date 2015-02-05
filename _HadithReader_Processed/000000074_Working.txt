@@ -1,0 +1,33 @@
+############################################################
+## hadithID::     muslim29_345880
+## Completed by:: ADDYOURNAME
+## Finished::     NO/YES
+
+############################################################
+## ArabicInitial
+حَدَّثَنَا مُحَمَّدُ بْنُ الْمُثَنَّى حَدَّثَنَا يَحْيَى بْنُ سَعِيدٍ حَدَّثَنَا هِشَامٌ بِهَذَا الإِسْنَادِ مِثْلَهُ
+
+############################################################
+## betaCodeAuto
+.hadda_tan_a mu.hammadu bnu almu_tanna/a .hadda_tan_a ya.hya/a bnu sa`iydi.n .hadda_tan_a hi^s_amu.n biha_d_a al'iisn_adi mi_tlahu
+
+############################################################
+## betaCodeManual
+.hadda_tan_a mu.hammadu bnu almu_tanna/a .hadda_tan_a ya.hya/a bnu sa`iydi.n .hadda_tan_a hi^s_amu.n biha_d_a al'iisn_adi mi_tlahu
+
+############################################################
+## betaCodeManual>Translit
+ḥaddaṯanā muḥammadu bnu almuṯannaá ḥaddaṯanā yaḥyaá bnu saʿiydiȵ ḥaddaṯanā hišāmuȵ bihaḏā alʾiisnādi miṯlahu
+
+############################################################
+## betaCodeManual>Arabic
+حَدَّثَنَا مُحَمَّدُ بْنُ أَلْمُثَنَّى حَدَّثَنَا يَحْيَى بْنُ سَعِيْدٍ حَدَّثَنَا هِشَامٌ بِهَذَا أَلْئِِسْنَادِ مِثْلَهُ
+
+############################################################
+## TranslationBetaCode
+Type your translation on this line
+
+############################################################
+## TranslationTranslit
+Type your translation on this line
+

@@ -1,0 +1,33 @@
+############################################################
+## hadithID::     tirmidhi20_716180
+## Completed by:: ADDYOURNAME
+## Finished::     NO/YES
+
+############################################################
+## ArabicInitial
+حَدَّثَنَا مُحَمَّدُ بْنُ الْمُثَنَّى حَدَّثَنَا ابْنُ أَبِي عَدِيٍّ عَنْ حُمَيْدٍ عَنْ أَنَسٍ أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم رَأَى رَجُلاً فَذَكَرَ نَحْوَهُ هَذَا حَدِيثٌ حَسَنٌ صَحِيحٌ
+
+############################################################
+## betaCodeAuto
+.hadda_tan_a mu.hammadu bnu almu_tanna/a .hadda_tan_a abnu 'abiy `adiyyi.n `an .humaydi.n `an 'anasi.n 'anna rasuwla allahi .sl`m ra'a/a ra^gul_a.n fa_dakara na.hwahu ha_d_a .hadiy_tu.n .hasanu.n .sa.hiy.hu.n
+
+############################################################
+## betaCodeManual
+.hadda_tan_a mu.hammadu bnu almu_tanna/a .hadda_tan_a abnu 'abiy `adiyyi.n `an .humaydi.n `an 'anasi.n 'anna rasuwla allahi .sl`m ra'a/a ra^gul_a.n fa_dakara na.hwahu ha_d_a .hadiy_tu.n .hasanu.n .sa.hiy.hu.n
+
+############################################################
+## betaCodeManual>Translit
+ḥaddaṯanā muḥammadu bnu almuṯannaá ḥaddaṯanā abnu ʾabiy ʿadiyyiȵ ʿan ḥumaydiȵ ʿan ʾanasiȵ ʾanna rasuwla allahi ṣlʿm raʾaá raǧulāȵ faḏakara naḥwahu haḏā ḥadiyṯuȵ ḥasanuȵ ṣaḥiyḥuȵ
+
+############################################################
+## betaCodeManual>Arabic
+حَدَّثَنَا مُحَمَّدُ بْنُ أَلْمُثَنَّى حَدَّثَنَا أَبْنُ أَبِيْ عَدِيٍّ عَنْ حُمَيْدٍ عَنْ أَنَسٍ أَنَّ رَسُوْلَ أَلَّهِ صْلْعْمْ رَأَى رَجُلَاȵ فَذَكَرَ نَحْوَهُ هَذَا حَدِيْثٌ حَسَنٌ صَحِيْحٌ
+
+############################################################
+## TranslationBetaCode
+Type your translation on this line
+
+############################################################
+## TranslationTranslit
+Type your translation on this line
+

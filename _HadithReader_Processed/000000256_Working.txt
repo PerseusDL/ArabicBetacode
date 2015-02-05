@@ -1,0 +1,33 @@
+############################################################
+## hadithID::     muslim15_329840
+## Completed by:: ADDYOURNAME
+## Finished::     NO/YES
+
+############################################################
+## ArabicInitial
+حَدَّثَنَا عَبْدُ بْنُ حُمَيْدٍ أَخْبَرَنَا مُحَمَّدُ بْنُ بَكْرٍ أَخْبَرَنَا ابْنُ جُرَيْجٍ أَخْبَرَنِي عُبَيْدُ اللَّهِ بْنُ عُمَرَ عَنِ الْقَاسِمِ بْنِ مُحَمَّدٍ قَالَ جَاءَتْ عَائِشَةُ حَاجَّةً
+
+############################################################
+## betaCodeAuto
+.hadda_tan_a `abdu bnu .humaydi.n 'a_hbaran_a mu.hammadu bnu bakri.n 'a_hbaran_a abnu ^guray^gi.n 'a_hbaraniy `ubaydu allahi bnu `umara `ani alq_asimi bni mu.hammadi.n q_ala ^g_a'at `_a'ii^sa:tu .h_a^gga:ta.n
+
+############################################################
+## betaCodeManual
+.hadda_tan_a `abdu bnu .humaydi.n 'a_hbaran_a mu.hammadu bnu bakri.n 'a_hbaran_a abnu ^guray^gi.n 'a_hbaraniy `ubaydu allahi bnu `umara `ani alq_asimi bni mu.hammadi.n q_ala ^g_a'at `_a'ii^sa:tu .h_a^gga:ta.n
+
+############################################################
+## betaCodeManual>Translit
+ḥaddaṯanā ʿabdu bnu ḥumaydiȵ ʾaḫbaranā muḥammadu bnu bakriȵ ʾaḫbaranā abnu ǧurayǧiȵ ʾaḫbaraniy ʿubaydu allahi bnu ʿumara ʿani alḳāsimi bni muḥammadiȵ ḳāla ǧāʾat ʿāʾiišaŧu ḥāǧgaŧaȵ
+
+############################################################
+## betaCodeManual>Arabic
+حَدَّثَنَا عَبْدُ بْنُ حُمَيْدٍ أَخْبَرَنَا مُحَمَّدُ بْنُ بَكْرٍ أَخْبَرَنَا أَبْنُ جُرَيْجٍ أَخْبَرَنِيْ عُبَيْدُ أَلَّهِ بْنُ عُمَرَ عَنِ أَلْقَاسِمِ بْنِ مُحَمَّدٍ قَالَ جَاءَتْ عائِِشَةُ حَاجْگَةً
+
+############################################################
+## TranslationBetaCode
+Type your translation on this line
+
+############################################################
+## TranslationTranslit
+Type your translation on this line
+

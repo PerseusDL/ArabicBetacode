@@ -1,0 +1,33 @@
+############################################################
+## hadithID::     tirmidhi49_736270
+## Completed by:: ADDYOURNAME
+## Finished::     NO/YES
+
+############################################################
+## ArabicInitial
+أَخْبَرَنَا أَبُو مُصْعَبٍ قِرَاءَةً عَنْ عَبْدِ الْعَزِيزِ بْنِ مُحَمَّدٍ عَنْ عَبْدِ الرَّحْمَنِ بْنِ حُمَيْدٍ عَنْ أَبِيهِ عَنِ النَّبِيِّ صلى الله عليه وسلم نَحْوَهُ وَلَمْ يَذْكُرْ فِيهِ عَنْ عَبْدِ الرَّحْمَنِ بْنِ عَوْفٍ قَالَ وَقَدْ رُوِيَ هَذَا الْحَدِيثُ عَنْ عَبْدِ الرَّحْمَنِ بْنِ حُمَيْدٍ عَنْ أَبِيهِ عَنْ سَعِيدِ بْنِ زَيْدٍ عَنِ النَّبِيِّ صلى الله عليه وسلم نَحْوَ هَذَا وَهَذَا أَصَحُّ مِنَ الْحَدِيثِ الأَوَّلِ
+
+############################################################
+## betaCodeAuto
+'a_hbaran_a 'abuw mu.s`abi.n qir_a'a:ta.n `an `abdi al`aziyzi bni mu.hammadi.n `an `abdi alrra.hmani bni .humaydi.n `an 'abiyhi `ani alnnabiyyi .sl`m na.hwahu walam ya_dkur fiyhi `an `abdi alrra.hmani bni `awfi.n q_ala waqad ruwiya ha_d_a al.hadiy_tu `an `abdi alrra.hmani bni .humaydi.n `an 'abiyhi `an sa`iydi bni zaydi.n `ani alnnabiyyi .sl`m na.hwa ha_d_a waha_d_a 'a.sa.hhu mina al.hadiy_ti al'awwali
+
+############################################################
+## betaCodeManual
+'a_hbaran_a 'abuw mu.s`abi.n qir_a'a:ta.n `an `abdi al`aziyzi bni mu.hammadi.n `an `abdi alrra.hmani bni .humaydi.n `an 'abiyhi `ani alnnabiyyi .sl`m na.hwahu walam ya_dkur fiyhi `an `abdi alrra.hmani bni `awfi.n q_ala waqad ruwiya ha_d_a al.hadiy_tu `an `abdi alrra.hmani bni .humaydi.n `an 'abiyhi `an sa`iydi bni zaydi.n `ani alnnabiyyi .sl`m na.hwa ha_d_a waha_d_a 'a.sa.hhu mina al.hadiy_ti al'awwali
+
+############################################################
+## betaCodeManual>Translit
+ʾaḫbaranā ʾabuw muṣʿabiȵ ḳirāʾaŧaȵ ʿan ʿabdi alʿaziyzi bni muḥammadiȵ ʿan ʿabdi alrraḥmani bni ḥumaydiȵ ʿan ʾabiyhi ʿani alnnabiyyi ṣlʿm naḥwahu walam yaḏkur fiyhi ʿan ʿabdi alrraḥmani bni ʿawfiȵ ḳāla waḳad ruwiya haḏā alḥadiyṯu ʿan ʿabdi alrraḥmani bni ḥumaydiȵ ʿan ʾabiyhi ʿan saʿiydi bni zaydiȵ ʿani alnnabiyyi ṣlʿm naḥwa haḏā wahaḏā ʾaṣaḥhu mina alḥadiyṯi alʾawwali
+
+############################################################
+## betaCodeManual>Arabic
+أَخْبَرَنَا أَبُوْ مُصْعَبٍ قِرَاءَةً عَنْ عَبْدِ أَلْعَزِيْزِ بْنِ مُحَمَّدٍ عَنْ عَبْدِ أَلْرَّحْمَنِ بْنِ حُمَيْدٍ عَنْ أَبِيْهِ عَنِ أَلْنَّبِيِّ صْلْعْمْ نَحْوَهُ وَلَمْ يَذْكُرْ فِيْهِ عَنْ عَبْدِ أَلْرَّحْمَنِ بْنِ عَوْفٍ قَالَ وَقَدْ رُوِيَ هَذَا أَلْحَدِيْثُ عَنْ عَبْدِ أَلْرَّحْمَنِ بْنِ حُمَيْدٍ عَنْ أَبِيْهِ عَنْ سَعِيْدِ بْنِ زَيْدٍ عَنِ أَلْنَّبِيِّ صْلْعْمْ نَحْوَ هَذَا وَهَذَا أَصَحْهُ مِنَ أَلْحَدِيْثِ أَلْأَوَّلِ
+
+############################################################
+## TranslationBetaCode
+Type your translation on this line
+
+############################################################
+## TranslationTranslit
+Type your translation on this line
+

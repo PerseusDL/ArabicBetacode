@@ -1,0 +1,33 @@
+############################################################
+## hadithID::     muslim50_372140
+## Completed by:: ADDYOURNAME
+## Finished::     NO/YES
+
+############################################################
+## ArabicInitial
+وَحَدَّثَنَا مُحَمَّدُ بْنُ الْمُثَنَّى حَدَّثَنَا مُحَمَّدُ بْنُ جَعْفَرٍ حَدَّثَنَا شُعْبَةُ قَالَ سَمِعْتُ الْعَلاَءَ بِهَذَا الإِسْنَادِ
+
+############################################################
+## betaCodeAuto
+wa.hadda_tan_a mu.hammadu bnu almu_tanna/a .hadda_tan_a mu.hammadu bnu ^ga`fari.n .hadda_tan_a ^su`ba:tu q_ala sami`tu al`al_a'a biha_d_a al'iisn_adi
+
+############################################################
+## betaCodeManual
+wa.hadda_tan_a mu.hammadu bnu almu_tanna/a .hadda_tan_a mu.hammadu bnu ^ga`fari.n .hadda_tan_a ^su`ba:tu q_ala sami`tu al`al_a'a biha_d_a al'iisn_adi
+
+############################################################
+## betaCodeManual>Translit
+waḥaddaṯanā muḥammadu bnu almuṯannaá ḥaddaṯanā muḥammadu bnu ǧaʿfariȵ ḥaddaṯanā šuʿbaŧu ḳāla samiʿtu alʿalāʾa bihaḏā alʾiisnādi
+
+############################################################
+## betaCodeManual>Arabic
+وَحَدَّثَنَا مُحَمَّدُ بْنُ أَلْمُثَنَّى حَدَّثَنَا مُحَمَّدُ بْنُ جَعْفَرٍ حَدَّثَنَا شُعْبَةُ قَالَ سَمِعْتُ أَلْعَلاءَ بِهَذَا أَلْئِِسْنَادِ
+
+############################################################
+## TranslationBetaCode
+Type your translation on this line
+
+############################################################
+## TranslationTranslit
+Type your translation on this line
+

@@ -1,0 +1,33 @@
+############################################################
+## hadithID::     ibnmajah05_1314090
+## Completed by:: ADDYOURNAME
+## Finished::     NO/YES
+
+############################################################
+## ArabicInitial
+حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ حَدَّثَنَا مُحَمَّدُ بْنُ بِشْرٍ حَدَّثَنَا سَعِيدُ بْنُ أَبِي عَرُوبَةَ حَدَّثَنَا قَتَادَةُ عَنْ زُرَارَةَ بْنِ أَوْفَى عَنْ سَعْدِ بْنِ هِشَامٍ عَنْ عَائِشَةَ قَالَتْ لاَ أَعْلَمُ نَبِيَّ اللَّهِ ـ صلى الله عليه وسلم ـ قَرَأَ الْقُرْآنَ كُلَّهُ حَتَّى الصَّبَاحِ
+
+############################################################
+## betaCodeAuto
+.hadda_tan_a 'abuw bakri bnu 'abiy ^sayba:ta .hadda_tan_a mu.hammadu bnu bi^sri.n .hadda_tan_a sa`iydu bnu 'abiy `aruwba:ta .hadda_tan_a qat_ada:tu `an zur_ara:ta bni 'awfa/a `an sa`di bni hi^s_ami.n `an `_a'ii^sa:ta q_alat l_a 'a`lamu nabiyya allahi  .sl`m  qara'a alqur'ana kullahu .hatta/a al.ssab_a.hi
+
+############################################################
+## betaCodeManual
+.hadda_tan_a 'abuw bakri bnu 'abiy ^sayba:ta .hadda_tan_a mu.hammadu bnu bi^sri.n .hadda_tan_a sa`iydu bnu 'abiy `aruwba:ta .hadda_tan_a qat_ada:tu `an zur_ara:ta bni 'awfa/a `an sa`di bni hi^s_ami.n `an `_a'ii^sa:ta q_alat l_a 'a`lamu nabiyya allahi  .sl`m  qara'a alqur'ana kullahu .hatta/a al.ssab_a.hi
+
+############################################################
+## betaCodeManual>Translit
+ḥaddaṯanā ʾabuw bakri bnu ʾabiy šaybaŧa ḥaddaṯanā muḥammadu bnu bišriȵ ḥaddaṯanā saʿiydu bnu ʾabiy ʿaruwbaŧa ḥaddaṯanā ḳatādaŧu ʿan zurāraŧa bni ʾawfaá ʿan saʿdi bni hišāmiȵ ʿan ʿāʾiišaŧa ḳālat lā ʾaʿlamu nabiyya allahi  ṣlʿm  ḳaraʾa alḳurʾana kullahu ḥattaá alṣsabāḥi
+
+############################################################
+## betaCodeManual>Arabic
+حَدَّثَنَا أَبُوْ بَكْرِ بْنُ أَبِيْ شَيْبَةَ حَدَّثَنَا مُحَمَّدُ بْنُ بِشْرٍ حَدَّثَنَا سَعِيْدُ بْنُ أَبِيْ عَرُوْبَةَ حَدَّثَنَا قَتَادَةُ عَنْ زُرَارَةَ بْنِ أَوْفَى عَنْ سَعْدِ بْنِ هِشَامٍ عَنْ عائِِشَةَ قَالَتْ لَا أَعْلَمُ نَبِيَّ أَلَّهِ  صْلْعْمْ  قَرَأَ أَلْقُرْأَنَ كُلَّهُ حَتَّى أَلْصْسَبَاحِ
+
+############################################################
+## TranslationBetaCode
+Type your translation on this line
+
+############################################################
+## TranslationTranslit
+Type your translation on this line
+

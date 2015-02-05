@@ -1,0 +1,33 @@
+############################################################
+## hadithID::     muslim11_322550
+## Completed by:: ADDYOURNAME
+## Finished::     NO/YES
+
+############################################################
+## ArabicInitial
+وَحَدَّثَنَا يَحْيَى بْنُ يَحْيَى أَخْبَرَنَا هُشَيْمٌ ح وَحَدَّثَنَا حَسَنُ بْنُ الرَّبِيعِ وَأَبُو كَامِلٍ قَالاَ حَدَّثَنَا عَبْدُ الْوَاحِدِ بْنُ زِيَادٍ ح وَحَدَّثَنَا إِسْحَاقُ بْنُ إِبْرَاهِيمَ أَخْبَرَنَا جَرِيرٌ ح وَحَدَّثَنِي مُحَمَّدُ بْنُ حَاتِمٍ حَدَّثَنَا وَكِيعٌ حَدَّثَنَا سُفْيَانُ ح وَحَدَّثَنَا عُبَيْدُ اللَّهِ بْنُ مُعَاذٍ حَدَّثَنَا أَبِي ح وَحَدَّثَنَا مُحَمَّدُ بْنُ الْمُثَنَّى حَدَّثَنَا مُحَمَّدُ بْنُ جَعْفَرٍ قَالَ حَدَّثَنَا شُعْبَةُ كُلُّ هَؤُلاَءِ عَنِ الشَّيْبَانِيِّ عَنِ الشَّعْبِيِّ عَنِ ابْنِ عَبَّاسٍ عَنِ النَّبِيِّ صلى الله عليه وسلم بِمِثْلِهِ وَلَيْسَ فِي حَدِيثِ أَحَدٍ مِنْهُمْ أَنَّ النَّبِيَّ صلى الله عليه وسلم كَبَّرَ عَلَيْهِ أَرْبَعًا
+
+############################################################
+## betaCodeAuto
+wa.hadda_tan_a ya.hya/a bnu ya.hya/a 'a_hbaran_a hu^saymu.n .h wa.hadda_tan_a .hasanu bnu alrrabiy`i wa'abuw k_amili.n q_al_a .hadda_tan_a `abdu alw_a.hidi bnu ziy_adi.n .h wa.hadda_tan_a 'iis.h_aqu bnu 'iibr_ahiyma 'a_hbaran_a ^gariyru.n .h wa.hadda_taniy mu.hammadu bnu .h_atimi.n .hadda_tan_a wakiy`u.n .hadda_tan_a sufy_anu .h wa.hadda_tan_a `ubaydu allahi bnu mu`_a_di.n .hadda_tan_a 'abiy .h wa.hadda_tan_a mu.hammadu bnu almu_tanna/a .hadda_tan_a mu.hammadu bnu ^ga`fari.n q_ala .hadda_tan_a ^su`ba:tu kullu ha'uul_a'i `ani al^ssayb_aniyyi `ani al^ssa`biyyi `ani abni `abb_asi.n `ani alnnabiyyi .sl`m bimi_tlihi walaysa fiy .hadiy_ti 'a.hadi.n minhum 'anna alnnabiyya .sl`m kabbara `alayhi 'arba`a.n_a
+
+############################################################
+## betaCodeManual
+wa.hadda_tan_a ya.hya/a bnu ya.hya/a 'a_hbaran_a hu^saymu.n .h wa.hadda_tan_a .hasanu bnu alrrabiy`i wa'abuw k_amili.n q_al_a .hadda_tan_a `abdu alw_a.hidi bnu ziy_adi.n .h wa.hadda_tan_a 'iis.h_aqu bnu 'iibr_ahiyma 'a_hbaran_a ^gariyru.n .h wa.hadda_taniy mu.hammadu bnu .h_atimi.n .hadda_tan_a wakiy`u.n .hadda_tan_a sufy_anu .h wa.hadda_tan_a `ubaydu allahi bnu mu`_a_di.n .hadda_tan_a 'abiy .h wa.hadda_tan_a mu.hammadu bnu almu_tanna/a .hadda_tan_a mu.hammadu bnu ^ga`fari.n q_ala .hadda_tan_a ^su`ba:tu kullu ha'uul_a'i `ani al^ssayb_aniyyi `ani al^ssa`biyyi `ani abni `abb_asi.n `ani alnnabiyyi .sl`m bimi_tlihi walaysa fiy .hadiy_ti 'a.hadi.n minhum 'anna alnnabiyya .sl`m kabbara `alayhi 'arba`a.n_a
+
+############################################################
+## betaCodeManual>Translit
+waḥaddaṯanā yaḥyaá bnu yaḥyaá ʾaḫbaranā hušaymuȵ ḥ waḥaddaṯanā ḥasanu bnu alrrabiyʿi waʾabuw kāmiliȵ ḳālā ḥaddaṯanā ʿabdu alwāḥidi bnu ziyādiȵ ḥ waḥaddaṯanā ʾiisḥāḳu bnu ʾiibrāhiyma ʾaḫbaranā ǧariyruȵ ḥ waḥaddaṯaniy muḥammadu bnu ḥātimiȵ ḥaddaṯanā wakiyʿuȵ ḥaddaṯanā sufyānu ḥ waḥaddaṯanā ʿubaydu allahi bnu muʿāḏiȵ ḥaddaṯanā ʾabiy ḥ waḥaddaṯanā muḥammadu bnu almuṯannaá ḥaddaṯanā muḥammadu bnu ǧaʿfariȵ ḳāla ḥaddaṯanā šuʿbaŧu kullu haʾuulāʾi ʿani alšsaybāniyyi ʿani alšsaʿbiyyi ʿani abni ʿabbāsiȵ ʿani alnnabiyyi ṣlʿm bimiṯlihi walaysa fiy ḥadiyṯi ʾaḥadiȵ minhum ʾanna alnnabiyya ṣlʿm kabbara ʿalayhi ʾarbaʿaȵā
+
+############################################################
+## betaCodeManual>Arabic
+وَحَدَّثَنَا يَحْيَى بْنُ يَحْيَى أَخْبَرَنَا هُشَيْمٌ حْ وَحَدَّثَنَا حَسَنُ بْنُ أَلْرَّبِيْعِ وَأَبُوْ كَامِلٍ قَالَا حَدَّثَنَا عَبْدُ أَلْوَاحِدِ بْنُ زِيَادٍ حْ وَحَدَّثَنَا إِِسْحَاقُ بْنُ إِِبْرَاهِيْمَ أَخْبَرَنَا جَرِيْرٌ حْ وَحَدَّثَنِيْ مُحَمَّدُ بْنُ حَاتِمٍ حَدَّثَنَا وَكِيْعٌ حَدَّثَنَا سُفْيَانُ حْ وَحَدَّثَنَا عُبَيْدُ أَلَّهِ بْنُ مُعَاذٍ حَدَّثَنَا أَبِيْ حْ وَحَدَّثَنَا مُحَمَّدُ بْنُ أَلْمُثَنَّى حَدَّثَنَا مُحَمَّدُ بْنُ جَعْفَرٍ قَالَ حَدَّثَنَا شُعْبَةُ كُلُّ هَؤُُلاءِ عَنِ أَلْشْسَيْبَانِيِّ عَنِ أَلْشْسَعْبِيِّ عَنِ أَبْنِ عَبّاسٍ عَنِ أَلْنَّبِيِّ صْلْعْمْ بِمِثْلِهِ وَلَيْسَ فِيْ حَدِيْثِ أَحَدٍ مِنْهُمْ أَنَّ أَلْنَّبِيَّ صْلْعْمْ كَبَّرَ عَلَيْهِ أَرْبَعاًا
+
+############################################################
+## TranslationBetaCode
+Type your translation on this line
+
+############################################################
+## TranslationTranslit
+Type your translation on this line
+

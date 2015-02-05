@@ -1,0 +1,33 @@
+############################################################
+## hadithID::     bukhari04_101570
+## Completed by:: ADDYOURNAME
+## Finished::     NO/YES
+
+############################################################
+## ArabicInitial
+حَدَّثَنَا مُحَمَّدُ بْنُ يُوسُفَ قَالَ حَدَّثَنَا سُفْيَانُ عَنْ زَيْدِ بْنِ أَسْلَمَ عَنْ عَطَاءِ بْنِ يَسَارٍ عَنِ ابْنِ عَبَّاسٍ قَالَ تَوَضَّأَ النَّبِيُّ صلى الله عليه وسلم مَرَّةً مَرَّةً
+
+############################################################
+## betaCodeAuto
+.hadda_tan_a mu.hammadu bnu yuwsufa q_ala .hadda_tan_a sufy_anu `an zaydi bni 'aslama `an `a.t_a'i bni yas_ari.n `ani abni `abb_asi.n q_ala tawa.dda'a alnnabiyyu .sl`m marra:ta.n marra:ta.n
+
+############################################################
+## betaCodeManual
+.hadda_tan_a mu.hammadu bnu yuwsufa q_ala .hadda_tan_a sufy_anu `an zaydi bni 'aslama `an `a.t_a'i bni yas_ari.n `ani abni `abb_asi.n q_ala tawa.dda'a alnnabiyyu .sl`m marra:ta.n marra:ta.n
+
+############################################################
+## betaCodeManual>Translit
+ḥaddaṯanā muḥammadu bnu yuwsufa ḳāla ḥaddaṯanā sufyānu ʿan zaydi bni ʾaslama ʿan ʿaṭāʾi bni yasāriȵ ʿani abni ʿabbāsiȵ ḳāla tawaḍdaʾa alnnabiyyu ṣlʿm marraŧaȵ marraŧaȵ
+
+############################################################
+## betaCodeManual>Arabic
+حَدَّثَنَا مُحَمَّدُ بْنُ يُوْسُفَ قَالَ حَدَّثَنَا سُفْيَانُ عَنْ زَيْدِ بْنِ أَسْلَمَ عَنْ عَطاءِ بْنِ يَسَارٍ عَنِ أَبْنِ عَبّاسٍ قَالَ تَوَضْدَأَ أَلْنَّبِيُّ صْلْعْمْ مَرَّةً مَرَّةً
+
+############################################################
+## TranslationBetaCode
+Type your translation on this line
+
+############################################################
+## TranslationTranslit
+Type your translation on this line
+

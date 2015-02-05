@@ -1,0 +1,33 @@
+STATUS:: INCLUDE
+HADITH:: muslim43_363370
+RANK:: 000000067
+WEIGTH:: 00000000782000000000
+LENGTH:: 15
+hadithID:: muslim43_363370
+None
+bookNo:: 43
+bookArTitle:: كتاب الفضائل
+arHadithInit::  قَالَ أَبُو إِسْحَاقَ حَدَّثَنَا مُحَمَّدُ بْنُ يَحْيَى حَدَّثَنَا عَبْدُ الرَّزَّاقِ أَخْبَرَنَا مَعْمَرٌ بِمِثْلِ هَذَا الْحَدِيثِ
+bookEnTitle:: The Book of Virtues
+enHadith::  This hadith has been transmitted on the authority of Ma'mar.
+Reference:: Sahih Muslim 2372 c
+In-book reference:: Book 43, Hadith 208
+USC-MSA web (English) reference:: Book 30, Hadith 5852
+(deprecated numbering scheme)
+FREQREPORT::
+##000000002	000109869	بن
+##000000004	000076449	قال
+##000000005	000065785	حدثنا
+##000000013	000027774	عبد
+##000000016	000019118	ابو
+##000000020	000015288	محمد
+##000000023	000011455	اخبرنا
+##000000025	000009168	هذا
+##000000030	000007737	يحيي
+##000000062	000003922	اسحاق
+##000000096	000002481	الحديث
+##000000172	000001468	معمر
+##000000218	000001071	الرزاق
+##000000482	000000441	بمثل
+
+

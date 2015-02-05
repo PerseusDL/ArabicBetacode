@@ -1,0 +1,33 @@
+############################################################
+## hadithID::     ibnmajah05_1309140
+## Completed by:: ADDYOURNAME
+## Finished::     NO/YES
+
+############################################################
+## ArabicInitial
+حَدَّثَنَا مُحَمَّدُ بْنُ بَشَّارٍ حَدَّثَنَا عَبْدُ الْوَهَّابِ حَدَّثَنَا حُمَيْدٌ عَنْ أَنَسٍ أَنَّ رَسُولَ اللَّهِ ـ صلى الله عليه وسلم ـ كَانَ يَرْفَعُ يَدَيْهِ إِذَا دَخَلَ فِي الصَّلاَةِ وَإِذَا رَكَعَ
+
+############################################################
+## betaCodeAuto
+.hadda_tan_a mu.hammadu bnu ba^ss_ari.n .hadda_tan_a `abdu alwahh_abi .hadda_tan_a .humaydu.n `an 'anasi.n 'anna rasuwla allahi  .sl`m  k_ana yarfa`u yadayhi 'ii_d_a da_hala fiy al.ssal_a:ti wa'ii_d_a raka`a
+
+############################################################
+## betaCodeManual
+.hadda_tan_a mu.hammadu bnu ba^ss_ari.n .hadda_tan_a `abdu alwahh_abi .hadda_tan_a .humaydu.n `an 'anasi.n 'anna rasuwla allahi  .sl`m  k_ana yarfa`u yadayhi 'ii_d_a da_hala fiy al.ssal_a:ti wa'ii_d_a raka`a
+
+############################################################
+## betaCodeManual>Translit
+ḥaddaṯanā muḥammadu bnu bašsāriȵ ḥaddaṯanā ʿabdu alwahhābi ḥaddaṯanā ḥumayduȵ ʿan ʾanasiȵ ʾanna rasuwla allahi  ṣlʿm  kāna yarfaʿu yadayhi ʾiiḏā daḫala fiy alṣsalāŧi waʾiiḏā rakaʿa
+
+############################################################
+## betaCodeManual>Arabic
+حَدَّثَنَا مُحَمَّدُ بْنُ بَشْسَارٍ حَدَّثَنَا عَبْدُ أَلْوَهّابِ حَدَّثَنَا حُمَيْدٌ عَنْ أَنَسٍ أَنَّ رَسُوْلَ أَلَّهِ  صْلْعْمْ  كَانَ يَرْفَعُ يَدَيْهِ إِِذَا دَخَلَ فِيْ أَلْصْسَلَاةِ وَئِِذَا رَكَعَ
+
+############################################################
+## TranslationBetaCode
+Type your translation on this line
+
+############################################################
+## TranslationTranslit
+Type your translation on this line
+

@@ -1,0 +1,33 @@
+############################################################
+## hadithID::     ibnmajah05_1314210
+## Completed by:: ADDYOURNAME
+## Finished::     NO/YES
+
+############################################################
+## ArabicInitial
+حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ حَدَّثَنَا عَبْدَةُ بْنُ سُلَيْمَانَ عَنْ هِشَامِ بْنِ عُرْوَةَ عَنْ أَبِيهِ عَنْ عَائِشَةَ قَالَتْ كَانَ النَّبِيُّ ـ صلى الله عليه وسلم ـ يُصَلِّي مِنَ اللَّيْلِ ثَلاَثَ عَشْرَةَ رَكْعَةً
+
+############################################################
+## betaCodeAuto
+.hadda_tan_a 'abuw bakri bnu 'abiy ^sayba:ta .hadda_tan_a `abda:tu bnu sulaym_ana `an hi^s_ami bni `urwa:ta `an 'abiyhi `an `_a'ii^sa:ta q_alat k_ana alnnabiyyu  .sl`m  yu.salliy mina allayli _tal_a_ta `a^sra:ta rak`a:ta.n
+
+############################################################
+## betaCodeManual
+.hadda_tan_a 'abuw bakri bnu 'abiy ^sayba:ta .hadda_tan_a `abda:tu bnu sulaym_ana `an hi^s_ami bni `urwa:ta `an 'abiyhi `an `_a'ii^sa:ta q_alat k_ana alnnabiyyu  .sl`m  yu.salliy mina allayli _tal_a_ta `a^sra:ta rak`a:ta.n
+
+############################################################
+## betaCodeManual>Translit
+ḥaddaṯanā ʾabuw bakri bnu ʾabiy šaybaŧa ḥaddaṯanā ʿabdaŧu bnu sulaymāna ʿan hišāmi bni ʿurwaŧa ʿan ʾabiyhi ʿan ʿāʾiišaŧa ḳālat kāna alnnabiyyu  ṣlʿm  yuṣalliy mina allayli ṯalāṯa ʿašraŧa rakʿaŧaȵ
+
+############################################################
+## betaCodeManual>Arabic
+حَدَّثَنَا أَبُوْ بَكْرِ بْنُ أَبِيْ شَيْبَةَ حَدَّثَنَا عَبْدَةُ بْنُ سُلَيْمَانَ عَنْ هِشَامِ بْنِ عُرْوَةَ عَنْ أَبِيْهِ عَنْ عائِِشَةَ قَالَتْ كَانَ أَلْنَّبِيُّ  صْلْعْمْ  يُصَلِّيْ مِنَ أَلَّيْلِ ثَلَاثَ عَشْرَةَ رَكْعَةً
+
+############################################################
+## TranslationBetaCode
+Type your translation on this line
+
+############################################################
+## TranslationTranslit
+Type your translation on this line
+

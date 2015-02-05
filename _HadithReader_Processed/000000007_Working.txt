@@ -1,0 +1,33 @@
+############################################################
+## hadithID::     muslim44_365670
+## Completed by:: ADDYOURNAME
+## Finished::     NO/YES
+
+############################################################
+## ArabicInitial
+حَدَّثَنَا مُحَمَّدُ بْنُ بَشَّارٍ حَدَّثَنَا مُحَمَّدُ بْنُ جَعْفَرٍ حَدَّثَنَا شُعْبَةُ عَنْ هِشَامِ بْنِ زَيْدٍ سَمِعْتُ أَنَسَ بْنَ مَالِكٍ يَقُولُ مِثْلَ ذَلِكَ
+
+############################################################
+## betaCodeAuto
+.hadda_tan_a mu.hammadu bnu ba^ss_ari.n .hadda_tan_a mu.hammadu bnu ^ga`fari.n .hadda_tan_a ^su`ba:tu `an hi^s_ami bni zaydi.n sami`tu 'anasa bna m_aliki.n yaquwlu mi_tla _dalika
+
+############################################################
+## betaCodeManual
+.hadda_tan_a mu.hammadu bnu ba^ss_ari.n .hadda_tan_a mu.hammadu bnu ^ga`fari.n .hadda_tan_a ^su`ba:tu `an hi^s_ami bni zaydi.n sami`tu 'anasa bna m_aliki.n yaquwlu mi_tla _dalika
+
+############################################################
+## betaCodeManual>Translit
+ḥaddaṯanā muḥammadu bnu bašsāriȵ ḥaddaṯanā muḥammadu bnu ǧaʿfariȵ ḥaddaṯanā šuʿbaŧu ʿan hišāmi bni zaydiȵ samiʿtu ʾanasa bna mālikiȵ yaḳuwlu miṯla ḏalika
+
+############################################################
+## betaCodeManual>Arabic
+حَدَّثَنَا مُحَمَّدُ بْنُ بَشْسَارٍ حَدَّثَنَا مُحَمَّدُ بْنُ جَعْفَرٍ حَدَّثَنَا شُعْبَةُ عَنْ هِشَامِ بْنِ زَيْدٍ سَمِعْتُ أَنَسَ بْنَ مَالِكٍ يَقُوْلُ مِثْلَ ذَلِكَ
+
+############################################################
+## TranslationBetaCode
+Type your translation on this line
+
+############################################################
+## TranslationTranslit
+Type your translation on this line
+

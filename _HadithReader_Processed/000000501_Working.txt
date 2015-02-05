@@ -1,0 +1,33 @@
+############################################################
+## hadithID::     nasai22_1121900
+## Completed by:: ADDYOURNAME
+## Finished::     NO/YES
+
+############################################################
+## ArabicInitial
+أَخْبَرَنَا أَحْمَدُ بْنُ سُلَيْمَانَ قَالَ حَدَّثَنَا أَبُو دَاوُدَ عَنْ سُفْيَانَ عَنْ مَنْصُورٍ عَنْ خَالِدِ بْنِ سَعْدٍ عَنْ عَائِشَةَ قَالَتْ كَانَ النَّبِيُّ صلى الله عليه وسلم يَصُومُ شَعْبَانَ
+
+############################################################
+## betaCodeAuto
+'a_hbaran_a 'a.hmadu bnu sulaym_ana q_ala .hadda_tan_a 'abuw d_awuda `an sufy_ana `an man.suwri.n `an _h_alidi bni sa`di.n `an `_a'ii^sa:ta q_alat k_ana alnnabiyyu .sl`m ya.suwmu ^sa`b_ana
+
+############################################################
+## betaCodeManual
+'a_hbaran_a 'a.hmadu bnu sulaym_ana q_ala .hadda_tan_a 'abuw d_awuda `an sufy_ana `an man.suwri.n `an _h_alidi bni sa`di.n `an `_a'ii^sa:ta q_alat k_ana alnnabiyyu .sl`m ya.suwmu ^sa`b_ana
+
+############################################################
+## betaCodeManual>Translit
+ʾaḫbaranā ʾaḥmadu bnu sulaymāna ḳāla ḥaddaṯanā ʾabuw dāwuda ʿan sufyāna ʿan manṣuwriȵ ʿan ḫālidi bni saʿdiȵ ʿan ʿāʾiišaŧa ḳālat kāna alnnabiyyu ṣlʿm yaṣuwmu šaʿbāna
+
+############################################################
+## betaCodeManual>Arabic
+أَخْبَرَنَا أَحْمَدُ بْنُ سُلَيْمَانَ قَالَ حَدَّثَنَا أَبُوْ دَاوُدَ عَنْ سُفْيَانَ عَنْ مَنْصُوْرٍ عَنْ خَالِدِ بْنِ سَعْدٍ عَنْ عائِِشَةَ قَالَتْ كَانَ أَلْنَّبِيُّ صْلْعْمْ يَصُوْمُ شَعْبَانَ
+
+############################################################
+## TranslationBetaCode
+Type your translation on this line
+
+############################################################
+## TranslationTranslit
+Type your translation on this line
+

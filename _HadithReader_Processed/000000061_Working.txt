@@ -1,0 +1,33 @@
+############################################################
+## hadithID::     muslim45_367240
+## Completed by:: ADDYOURNAME
+## Finished::     NO/YES
+
+############################################################
+## ArabicInitial
+حَدَّثَنَا مُحَمَّدُ بْنُ رَافِعٍ وَعَبْدُ بْنُ حُمَيْدٍ عَنْ عَبْدِ الرَّزَّاقِ عَنْ مَعْمَرٍ عَنِ الزُّهْرِيِّ بِهَذَا الإِسْنَادِ مِثْلَهُ وَقَالَ سَمِعْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم
+
+############################################################
+## betaCodeAuto
+.hadda_tan_a mu.hammadu bnu r_afi`i.n wa`abdu bnu .humaydi.n `an `abdi alrrazz_aqi `an ma`mari.n `ani alzzuhriyyi biha_d_a al'iisn_adi mi_tlahu waq_ala sami`tu rasuwla allahi .sl`m
+
+############################################################
+## betaCodeManual
+.hadda_tan_a mu.hammadu bnu r_afi`i.n wa`abdu bnu .humaydi.n `an `abdi alrrazz_aqi `an ma`mari.n `ani alzzuhriyyi biha_d_a al'iisn_adi mi_tlahu waq_ala sami`tu rasuwla allahi .sl`m
+
+############################################################
+## betaCodeManual>Translit
+ḥaddaṯanā muḥammadu bnu rāfiʿiȵ waʿabdu bnu ḥumaydiȵ ʿan ʿabdi alrrazzāḳi ʿan maʿmariȵ ʿani alzzuhriyyi bihaḏā alʾiisnādi miṯlahu waḳāla samiʿtu rasuwla allahi ṣlʿm
+
+############################################################
+## betaCodeManual>Arabic
+حَدَّثَنَا مُحَمَّدُ بْنُ رَافِعٍ وَعَبْدُ بْنُ حُمَيْدٍ عَنْ عَبْدِ أَلْرَّزّاقِ عَنْ مَعْمَرٍ عَنِ أَلْزُّهْرِيِّ بِهَذَا أَلْئِِسْنَادِ مِثْلَهُ وَقَالَ سَمِعْتُ رَسُوْلَ أَلَّهِ صْلْعْمْ
+
+############################################################
+## TranslationBetaCode
+Type your translation on this line
+
+############################################################
+## TranslationTranslit
+Type your translation on this line
+

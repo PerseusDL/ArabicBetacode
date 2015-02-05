@@ -1,0 +1,33 @@
+############################################################
+## hadithID::     muslim54_375540
+## Completed by:: ADDYOURNAME
+## Finished::     NO/YES
+
+############################################################
+## ArabicInitial
+حَدَّثَنَا مُحَمَّدُ بْنُ الْمُثَنَّى وَابْنُ بَشَّارٍ قَالاَ حَدَّثَنَا مُحَمَّدُ بْنُ جَعْفَرٍ حَدَّثَنَا شُعْبَةُ عَنْ سِمَاكِ بْنِ حَرْبٍ قَالَ سَمِعْتُ جَابِرَ بْنَ سَمُرَةَ قَالَ سَمِعْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم بِمَعْنَى حَدِيثِ أَبِي عَوَانَةَ
+
+############################################################
+## betaCodeAuto
+.hadda_tan_a mu.hammadu bnu almu_tanna/a w_abnu ba^ss_ari.n q_al_a .hadda_tan_a mu.hammadu bnu ^ga`fari.n .hadda_tan_a ^su`ba:tu `an sim_aki bni .harbi.n q_ala sami`tu ^g_abira bna samura:ta q_ala sami`tu rasuwla allahi .sl`m bima`na/a .hadiy_ti 'abiy `aw_ana:ta
+
+############################################################
+## betaCodeManual
+.hadda_tan_a mu.hammadu bnu almu_tanna/a w_abnu ba^ss_ari.n q_al_a .hadda_tan_a mu.hammadu bnu ^ga`fari.n .hadda_tan_a ^su`ba:tu `an sim_aki bni .harbi.n q_ala sami`tu ^g_abira bna samura:ta q_ala sami`tu rasuwla allahi .sl`m bima`na/a .hadiy_ti 'abiy `aw_ana:ta
+
+############################################################
+## betaCodeManual>Translit
+ḥaddaṯanā muḥammadu bnu almuṯannaá wābnu bašsāriȵ ḳālā ḥaddaṯanā muḥammadu bnu ǧaʿfariȵ ḥaddaṯanā šuʿbaŧu ʿan simāki bni ḥarbiȵ ḳāla samiʿtu ǧābira bna samuraŧa ḳāla samiʿtu rasuwla allahi ṣlʿm bimaʿnaá ḥadiyṯi ʾabiy ʿawānaŧa
+
+############################################################
+## betaCodeManual>Arabic
+حَدَّثَنَا مُحَمَّدُ بْنُ أَلْمُثَنَّى وَابْنُ بَشْسَارٍ قَالَا حَدَّثَنَا مُحَمَّدُ بْنُ جَعْفَرٍ حَدَّثَنَا شُعْبَةُ عَنْ سِمَاكِ بْنِ حَرْبٍ قَالَ سَمِعْتُ جَابِرَ بْنَ سَمُرَةَ قَالَ سَمِعْتُ رَسُوْلَ أَلَّهِ صْلْعْمْ بِمَعْنَى حَدِيْثِ أَبِيْ عَوَانَةَ
+
+############################################################
+## TranslationBetaCode
+Type your translation on this line
+
+############################################################
+## TranslationTranslit
+Type your translation on this line
+

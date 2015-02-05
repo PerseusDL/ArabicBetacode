@@ -1,0 +1,33 @@
+############################################################
+## hadithID::     ibnmajah06_1316310
+## Completed by:: ADDYOURNAME
+## Finished::     NO/YES
+
+############################################################
+## ArabicInitial
+حَدَّثَنَا عَبْدُ اللَّهِ بْنُ سَعِيدٍ حَدَّثَنَا حَفْصُ بْنُ غِيَاثٍ عَنِ ابْنِ جُرَيْجٍ عَنْ سُلَيْمَانَ بْنِ مُوسَى عَنْ جَابِرٍ قَالَ نَهَى رَسُولُ اللَّهِ ـ صلى الله عليه وسلم ـ أَنْ يُكْتَبَ عَلَى الْقَبْرِ شَىْءٌ
+
+############################################################
+## betaCodeAuto
+.hadda_tan_a `abdu allahi bnu sa`iydi.n .hadda_tan_a .haf.su bnu .giy_a_ti.n `ani abni ^guray^gi.n `an sulaym_ana bni muwsa/a `an ^g_abiri.n q_ala naha/a rasuwlu allahi  .sl`m  'an yuktaba `ala/a alqabri ^sa/a'u.n
+
+############################################################
+## betaCodeManual
+.hadda_tan_a `abdu allahi bnu sa`iydi.n .hadda_tan_a .haf.su bnu .giy_a_ti.n `ani abni ^guray^gi.n `an sulaym_ana bni muwsa/a `an ^g_abiri.n q_ala naha/a rasuwlu allahi  .sl`m  'an yuktaba `ala/a alqabri ^sa/a'u.n
+
+############################################################
+## betaCodeManual>Translit
+ḥaddaṯanā ʿabdu allahi bnu saʿiydiȵ ḥaddaṯanā ḥafṣu bnu ġiyāṯiȵ ʿani abni ǧurayǧiȵ ʿan sulaymāna bni muwsaá ʿan ǧābiriȵ ḳāla nahaá rasuwlu allahi  ṣlʿm  ʾan yuktaba ʿalaá alḳabri šaáʾuȵ
+
+############################################################
+## betaCodeManual>Arabic
+حَدَّثَنَا عَبْدُ أَلَّهِ بْنُ سَعِيْدٍ حَدَّثَنَا حَفْصُ بْنُ غِيَاثٍ عَنِ أَبْنِ جُرَيْجٍ عَنْ سُلَيْمَانَ بْنِ مُوْسَى عَنْ جَابِرٍ قَالَ نَهَى رَسُوْلُ أَلَّهِ  صْلْعْمْ  أَنْ يُكْتَبَ عَلَى أَلْقَبْرِ شَىءٌ
+
+############################################################
+## TranslationBetaCode
+Type your translation on this line
+
+############################################################
+## TranslationTranslit
+Type your translation on this line
+

@@ -1,0 +1,33 @@
+############################################################
+## hadithID::     muslim04_309850
+## Completed by:: ADDYOURNAME
+## Finished::     NO/YES
+
+############################################################
+## ArabicInitial
+حَدَّثَنَا مُحَمَّدُ بْنُ رَافِعٍ حَدَّثَنَا عَبْدُ الرَّزَّاقِ أَخْبَرَنَا مَعْمَرٌ عَنْ هَمَّامٍ عَنْ أَبِي هُرَيْرَةَ عَنِ النَّبِيِّ صلى الله عليه وسلم بِمِثْلِهِ وَزَادَ فِي الصَّلاَةِ
+
+############################################################
+## betaCodeAuto
+.hadda_tan_a mu.hammadu bnu r_afi`i.n .hadda_tan_a `abdu alrrazz_aqi 'a_hbaran_a ma`maru.n `an hamm_ami.n `an 'abiy hurayra:ta `ani alnnabiyyi .sl`m bimi_tlihi waz_ada fiy al.ssal_a:ti
+
+############################################################
+## betaCodeManual
+.hadda_tan_a mu.hammadu bnu r_afi`i.n .hadda_tan_a `abdu alrrazz_aqi 'a_hbaran_a ma`maru.n `an hamm_ami.n `an 'abiy hurayra:ta `ani alnnabiyyi .sl`m bimi_tlihi waz_ada fiy al.ssal_a:ti
+
+############################################################
+## betaCodeManual>Translit
+ḥaddaṯanā muḥammadu bnu rāfiʿiȵ ḥaddaṯanā ʿabdu alrrazzāḳi ʾaḫbaranā maʿmaruȵ ʿan hammāmiȵ ʿan ʾabiy hurayraŧa ʿani alnnabiyyi ṣlʿm bimiṯlihi wazāda fiy alṣsalāŧi
+
+############################################################
+## betaCodeManual>Arabic
+حَدَّثَنَا مُحَمَّدُ بْنُ رَافِعٍ حَدَّثَنَا عَبْدُ أَلْرَّزّاقِ أَخْبَرَنَا مَعْمَرٌ عَنْ هَمّامٍ عَنْ أَبِيْ هُرَيْرَةَ عَنِ أَلْنَّبِيِّ صْلْعْمْ بِمِثْلِهِ وَزَادَ فِيْ أَلْصْسَلَاةِ
+
+############################################################
+## TranslationBetaCode
+Type your translation on this line
+
+############################################################
+## TranslationTranslit
+Type your translation on this line
+

@@ -1,0 +1,33 @@
+STATUS:: INCLUDE
+HADITH:: abudawud21_932200
+RANK:: 000000108
+WEIGTH:: 00000000852105263157
+LENGTH:: 19
+hadithID:: abudawud21_932200
+None
+bookNo:: 21
+bookArTitle:: كتاب الجنائز
+arHadithInit::  حَدَّثَنَا مُوسَى بْنُ إِسْمَاعِيلَ حَدَّثَنَا جَرِيرٌ حَدَّثَنَا حُمَيْدٌ يَعْنِي ابْنَ هِلاَلٍ عَنْ سَعْدِ بْنِ هِشَامِ بْنِ عَامِرٍ بِهَذَا الْحَدِيثِ
+bookEnTitle:: Funerals (Kitab Al-Jana'iz)
+enHadith::  This tradition has also been transmitted by Sa'd b. Hisham b. 'Amir with a different chain of narrators.
+Reference:: Sunan Abi Dawud 3217
+In-book reference:: Book 21, Hadith 129
+English translation:: Book 20, Hadith 3211
+FREQREPORT::
+##000000002	000109869	بن
+##000000003	000104417	عن
+##000000005	000065785	حدثنا
+##000000015	000020747	ابن
+##000000069	000003538	موسي
+##000000076	000003121	اسماعيل
+##000000081	000002999	هشام
+##000000093	000002566	سعد
+##000000096	000002481	الحديث
+##000000098	000002422	يعني
+##000000141	000001739	حميد
+##000000152	000001625	بهذا
+##000000186	000001311	جرير
+##000000203	000001179	عامر
+##000000385	000000565	هلال
+
+

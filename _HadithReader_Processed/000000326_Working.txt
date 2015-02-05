@@ -1,0 +1,33 @@
+############################################################
+## hadithID::     tirmidhi49_736400
+## Completed by:: ADDYOURNAME
+## Finished::     NO/YES
+
+############################################################
+## ArabicInitial
+حَدَّثَنَا الْقَاسِمُ بْنُ دِينَارٍ الْكُوفِيُّ حَدَّثَنَا عُبَيْدُ اللَّهِ عَنْ إِسْرَائِيلَ عَنْ عَبْدِ الأَعْلَى عَنْ سَعِيدِ بْنِ جُبَيْرٍ عَنِ ابْنِ عَبَّاسٍ قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم الْعَبَّاسُ مِنِّي وَأَنَا مِنْهُ قَالَ هَذَا حَدِيثٌ حَسَنٌ صَحِيحٌ غَرِيبٌ لاَ نَعْرِفُهُ إِلاَّ مِنْ حَدِيثِ إِسْرَائِيلَ
+
+############################################################
+## betaCodeAuto
+.hadda_tan_a alq_asimu bnu diyn_ari.n alkuwfiyyu .hadda_tan_a `ubaydu allahi `an 'iisr_a'iiyla `an `abdi al'a`la/a `an sa`iydi bni ^gubayri.n `ani abni `abb_asi.n q_ala q_ala rasuwlu allahi .sl`m al`abb_asu minniy wa'an_a minhu q_ala ha_d_a .hadiy_tu.n .hasanu.n .sa.hiy.hu.n .gariybu.n l_a na`rifuhu 'iil_aa min .hadiy_ti 'iisr_a'iiyla
+
+############################################################
+## betaCodeManual
+.hadda_tan_a alq_asimu bnu diyn_ari.n alkuwfiyyu .hadda_tan_a `ubaydu allahi `an 'iisr_a'iiyla `an `abdi al'a`la/a `an sa`iydi bni ^gubayri.n `ani abni `abb_asi.n q_ala q_ala rasuwlu allahi .sl`m al`abb_asu minniy wa'an_a minhu q_ala ha_d_a .hadiy_tu.n .hasanu.n .sa.hiy.hu.n .gariybu.n l_a na`rifuhu 'iil_aa min .hadiy_ti 'iisr_a'iiyla
+
+############################################################
+## betaCodeManual>Translit
+ḥaddaṯanā alḳāsimu bnu diynāriȵ alkuwfiyyu ḥaddaṯanā ʿubaydu allahi ʿan ʾiisrāʾiiyla ʿan ʿabdi alʾaʿlaá ʿan saʿiydi bni ǧubayriȵ ʿani abni ʿabbāsiȵ ḳāla ḳāla rasuwlu allahi ṣlʿm alʿabbāsu minniy waʾanā minhu ḳāla haḏā ḥadiyṯuȵ ḥasanuȵ ṣaḥiyḥuȵ ġariybuȵ lā naʿrifuhu ʾiilāa min ḥadiyṯi ʾiisrāʾiiyla
+
+############################################################
+## betaCodeManual>Arabic
+حَدَّثَنَا أَلْقَاسِمُ بْنُ دِيْنَارٍ أَلْكُوْفِيُّ حَدَّثَنَا عُبَيْدُ أَلَّهِ عَنْ إِِسْرائِِيْلَ عَنْ عَبْدِ أَلْأَعْلَى عَنْ سَعِيْدِ بْنِ جُبَيْرٍ عَنِ أَبْنِ عَبّاسٍ قَالَ قَالَ رَسُوْلُ أَلَّهِ صْلْعْمْ أَلْعَبّاسُ مِنِّيْ وَأَنَا مِنْهُ قَالَ هَذَا حَدِيْثٌ حَسَنٌ صَحِيْحٌ غَرِيْبٌ لَا نَعْرِفُهُ إِِلَاَ مِنْ حَدِيْثِ إِِسْرائِِيْلَ
+
+############################################################
+## TranslationBetaCode
+Type your translation on this line
+
+############################################################
+## TranslationTranslit
+Type your translation on this line
+

@@ -1,0 +1,33 @@
+############################################################
+## hadithID::     nasai01_1102740
+## Completed by:: ADDYOURNAME
+## Finished::     NO/YES
+
+############################################################
+## ArabicInitial
+أَخْبَرَنَا إِسْحَاقُ بْنُ إِبْرَاهِيمَ قَالَ حَدَّثَنَا أَبُو مُعَاوِيَةَ عَنِ الأَعْمَشِ بِهَذَا الإِسْنَادِ مِثْلَهُ
+
+############################################################
+## betaCodeAuto
+'a_hbaran_a 'iis.h_aqu bnu 'iibr_ahiyma q_ala .hadda_tan_a 'abuw mu`_awiya:ta `ani al'a`ma^si biha_d_a al'iisn_adi mi_tlahu
+
+############################################################
+## betaCodeManual
+'a_hbaran_a 'iis.h_aqu bnu 'iibr_ahiyma q_ala .hadda_tan_a 'abuw mu`_awiya:ta `ani al'a`ma^si biha_d_a al'iisn_adi mi_tlahu
+
+############################################################
+## betaCodeManual>Translit
+ʾaḫbaranā ʾiisḥāḳu bnu ʾiibrāhiyma ḳāla ḥaddaṯanā ʾabuw muʿāwiyaŧa ʿani alʾaʿmaši bihaḏā alʾiisnādi miṯlahu
+
+############################################################
+## betaCodeManual>Arabic
+أَخْبَرَنَا إِِسْحَاقُ بْنُ إِِبْرَاهِيْمَ قَالَ حَدَّثَنَا أَبُوْ مُعَاوِيَةَ عَنِ أَلْأَعْمَشِ بِهَذَا أَلْئِِسْنَادِ مِثْلَهُ
+
+############################################################
+## TranslationBetaCode
+Type your translation on this line
+
+############################################################
+## TranslationTranslit
+Type your translation on this line
+

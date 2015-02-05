@@ -62,10 +62,12 @@ betacodeTranslit = {
     'u'  : 'u', # ḍammaŧ
     'i'  : 'i', # kasraŧ
 
-    '^n' : 'ȵ',  # n of tanwīn
     '.n' : 'ȵ',  # n of tanwīn
-    '_n' : 'ȵ',  # n of tanwīn
-    '*n' : 'ȵ'   # n of tanwīn
+    #'^n' : 'ȵ',  # n of tanwīn
+    #'_n' : 'ȵ',  # n of tanwīn
+    #'*n' : 'ȵ'   # n of tanwīn
+    '.w' : 'ů',  # silent w, like in `Amru.n.w
+    '.a' : 'å'  # silent alif, like in fa`al_u.a    
     }
 
 # conventional US/LOC transliteration
@@ -212,4 +214,54 @@ translitArabic = {
     'aȵ' : ' ً ',  # tanwīn fatḥ
     'uȵ' : ' ٌ ',  # tanwīn ḍamm
     'iȵ' : ' ٍ ',  # tanwīn kasr
+    }
+
+arabicBetaCode = {
+# Alphabet letters
+    " ا " :  "_a",   # alif
+    " أ " :  "'a",   # alif
+    " إ " :  "'i",   # alif
+    " آ " :  "'_a",  # alif
+    " ب " :  "b",   # bāʾ
+    " ت " :  "t",   # tāʾ
+    " ث " :  "_t",  # thāʾ
+    " ج " :  "^g",  # jīm
+    " ح " :  ".h",  # ḥāʾ
+    " خ " :  "_h",  # khāʾ
+    " د " :  "d",   # dāl
+    " ذ " :  "_d",  # dhāl
+    " ر " :  "r",   # rāʾ
+    " ز " :  "z",   # zayn
+    " س " :  "s",   # sīn
+    " ش " :  "^s",  # shīn
+    " ص " :  ".s",  # ṣād
+    " ض " :  ".d",  # ḍād
+    " ط " :  ".t",  # ṭāʾ
+    " ظ " :  ".z",  # ẓāʾ
+    " ع " :  "`",   # ʿayn
+    " غ " :  ".g",  # ghayn
+    " ف " :  "f",   # fā’
+    " ق " :  "q",   # qāf
+    " ك " :  "k",   # kāf
+    " ل " :  "l",   # lām
+    " م " :  "m",   # mīm
+    " ن " :  "n",   # nūn
+    " ه " :  "h",   # hāʾ
+    " و " :  "w",   # wāw
+    " ي " :  "y",   # yāʾ
+# Non-alphabetic letters
+    " ء " :  "'",   # hamza
+    " ئ " :  "'i",   # hamza
+    " ؤ " :  "'u",  # hamza
+    " ى " :  "/a",  # alif maqṣūraŧ
+    " ة " :  ":t",  # tāʾ marbūṭaŧ
+    " ـ " :  "",    # kashīdaŧ
+# Vowels
+    " ٰ " :  "~a",  # dagger alif
+    " َ " :  "a",   # fatḥaŧ
+    " ُ " :  "u",   # ḍammaŧ
+    " ِ " :  "i",   # kasraŧ
+    " ً " :  "a.n", # tanwīn fatḥ
+    " ٌ " :  "u.n", # tanwīn ḍamm
+    " ٍ " :  "i.n", # tanwīn kasr
     }

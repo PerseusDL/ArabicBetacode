@@ -1,0 +1,34 @@
+STATUS:: INCLUDE
+HADITH:: nasai45_1148460
+RANK:: 000000552
+WEIGTH:: 00000001568500000000
+LENGTH:: 20
+hadithID:: nasai45_1148460
+None
+bookNo:: 45
+bookArTitle:: كتاب القسامة
+arHadithInit::  أَخْبَرَنِي مَحْمُودُ بْنُ خَالِدٍ قَالَ حَدَّثَنَا الْوَلِيدُ عَنِ ابْنِ جُرَيْجٍ عَنْ عَمْرِو بْنِ شُعَيْبٍ عَنْ أَبِيهِ عَنْ جَدِّهِ مِثْلَهُ سَوَاءً
+bookEnTitle:: The Book of Oaths (qasamah), Retaliation and Blood Money
+enHadith::  Narrator mentioned in hadith: A similar report was narrated from 'Amr bin shu'aib, from his father, from his grandfather. (Daif)
+Reference:: Sunan an-Nasa'i 4831
+In-book reference:: Book 45, Hadith 126
+English translation:: Vol. 5, Book 45, Hadith 4835
+FREQREPORT::
+##000000002	000109869	بن
+##000000003	000104417	عن
+##000000004	000076449	قال
+##000000005	000065785	حدثنا
+##000000015	000020747	ابن
+##000000041	000005894	عمرو
+##000000048	000005312	ابيه
+##000000068	000003579	اخبرني
+##000000088	000002716	خالد
+##000000192	000001242	الوليد
+##000000197	000001205	جريج
+##000000234	000001014	شعيب
+##000000335	000000680	مثله
+##000000372	000000591	جده
+##000000377	000000585	محمود
+##000001145	000000155	سواء
+
+

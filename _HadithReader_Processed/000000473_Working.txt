@@ -1,0 +1,33 @@
+############################################################
+## hadithID::     nasai21_1119760
+## Completed by:: ADDYOURNAME
+## Finished::     NO/YES
+
+############################################################
+## ArabicInitial
+أَخْبَرَنَا إِسْحَاقُ بْنُ إِبْرَاهِيمَ وَعَلِيُّ بْنُ حُجْرٍ قَالاَ حَدَّثَنَا عَبْدُ الْعَزِيزِ بْنُ مُحَمَّدٍ عَنْ عَبْدِ الْوَاحِدِ بْنِ حَمْزَةَ عَنْ عَبَّادِ بْنِ عَبْدِ اللَّهِ بْنِ الزُّبَيْرِ عَنْ عَائِشَةَ قَالَتْ مَا صَلَّى رَسُولُ اللَّهِ صلى الله عليه وسلم عَلَى سُهَيْلِ ابْنِ بَيْضَاءَ إِلاَّ فِي الْمَسْجِدِ
+
+############################################################
+## betaCodeAuto
+'a_hbaran_a 'iis.h_aqu bnu 'iibr_ahiyma wa`aliyyu bnu .hu^gri.n q_al_a .hadda_tan_a `abdu al`aziyzi bnu mu.hammadi.n `an `abdi alw_a.hidi bni .hamza:ta `an `abb_adi bni `abdi allahi bni alzzubayri `an `_a'ii^sa:ta q_alat m_a .salla/a rasuwlu allahi .sl`m `ala/a suhayli abni bay.d_a'a 'iil_aa fiy almas^gidi
+
+############################################################
+## betaCodeManual
+'a_hbaran_a 'iis.h_aqu bnu 'iibr_ahiyma wa`aliyyu bnu .hu^gri.n q_al_a .hadda_tan_a `abdu al`aziyzi bnu mu.hammadi.n `an `abdi alw_a.hidi bni .hamza:ta `an `abb_adi bni `abdi allahi bni alzzubayri `an `_a'ii^sa:ta q_alat m_a .salla/a rasuwlu allahi .sl`m `ala/a suhayli abni bay.d_a'a 'iil_aa fiy almas^gidi
+
+############################################################
+## betaCodeManual>Translit
+ʾaḫbaranā ʾiisḥāḳu bnu ʾiibrāhiyma waʿaliyyu bnu ḥuǧriȵ ḳālā ḥaddaṯanā ʿabdu alʿaziyzi bnu muḥammadiȵ ʿan ʿabdi alwāḥidi bni ḥamzaŧa ʿan ʿabbādi bni ʿabdi allahi bni alzzubayri ʿan ʿāʾiišaŧa ḳālat mā ṣallaá rasuwlu allahi ṣlʿm ʿalaá suhayli abni bayḍāʾa ʾiilāa fiy almasǧidi
+
+############################################################
+## betaCodeManual>Arabic
+أَخْبَرَنَا إِِسْحَاقُ بْنُ إِِبْرَاهِيْمَ وَعَلِيُّ بْنُ حُجْرٍ قَالَا حَدَّثَنَا عَبْدُ أَلْعَزِيْزِ بْنُ مُحَمَّدٍ عَنْ عَبْدِ أَلْوَاحِدِ بْنِ حَمْزَةَ عَنْ عَبّادِ بْنِ عَبْدِ أَلَّهِ بْنِ أَلْزُّبَيْرِ عَنْ عائِِشَةَ قَالَتْ مَا صَلَّى رَسُوْلُ أَلَّهِ صْلْعْمْ عَلَى سُهَيْلِ أَبْنِ بَيْضاءَ إِِلَاَ فِيْ أَلْمَسْجِدِ
+
+############################################################
+## TranslationBetaCode
+Type your translation on this line
+
+############################################################
+## TranslationTranslit
+Type your translation on this line
+

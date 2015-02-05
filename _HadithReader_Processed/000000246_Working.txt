@@ -1,0 +1,33 @@
+############################################################
+## hadithID::     muslim06_316210
+## Completed by:: ADDYOURNAME
+## Finished::     NO/YES
+
+############################################################
+## ArabicInitial
+وَحَدَّثَنَا عُبَيْدُ اللَّهِ بْنُ مُعَاذٍ حَدَّثَنَا أَبِي حَدَّثَنَا شُعْبَةُ قَالَ حَدَّثَنِي يَحْيَى بْنُ أَبِي إِسْحَاقَ قَالَ سَمِعْتُ أَنَسَ بْنَ مَالِكٍ يَقُولُ خَرَجْنَا مِنَ الْمَدِينَةِ إِلَى الْحَجِّ ثُمَّ ذَكَرَ مِثْلَهُ
+
+############################################################
+## betaCodeAuto
+wa.hadda_tan_a `ubaydu allahi bnu mu`_a_di.n .hadda_tan_a 'abiy .hadda_tan_a ^su`ba:tu q_ala .hadda_taniy ya.hya/a bnu 'abiy 'iis.h_aqa q_ala sami`tu 'anasa bna m_aliki.n yaquwlu _hara^gn_a mina almadiyna:ti 'iila/a al.ha^ggi _tumma _dakara mi_tlahu
+
+############################################################
+## betaCodeManual
+wa.hadda_tan_a `ubaydu allahi bnu mu`_a_di.n .hadda_tan_a 'abiy .hadda_tan_a ^su`ba:tu q_ala .hadda_taniy ya.hya/a bnu 'abiy 'iis.h_aqa q_ala sami`tu 'anasa bna m_aliki.n yaquwlu _hara^gn_a mina almadiyna:ti 'iila/a al.ha^ggi _tumma _dakara mi_tlahu
+
+############################################################
+## betaCodeManual>Translit
+waḥaddaṯanā ʿubaydu allahi bnu muʿāḏiȵ ḥaddaṯanā ʾabiy ḥaddaṯanā šuʿbaŧu ḳāla ḥaddaṯaniy yaḥyaá bnu ʾabiy ʾiisḥāḳa ḳāla samiʿtu ʾanasa bna mālikiȵ yaḳuwlu ḫaraǧnā mina almadiynaŧi ʾiilaá alḥaǧgi ṯumma ḏakara miṯlahu
+
+############################################################
+## betaCodeManual>Arabic
+وَحَدَّثَنَا عُبَيْدُ أَلَّهِ بْنُ مُعَاذٍ حَدَّثَنَا أَبِيْ حَدَّثَنَا شُعْبَةُ قَالَ حَدَّثَنِيْ يَحْيَى بْنُ أَبِيْ إِِسْحَاقَ قَالَ سَمِعْتُ أَنَسَ بْنَ مَالِكٍ يَقُوْلُ خَرَجْنَا مِنَ أَلْمَدِيْنَةِ إِِلَى أَلْحَجْگِ ثُمَّ ذَكَرَ مِثْلَهُ
+
+############################################################
+## TranslationBetaCode
+Type your translation on this line
+
+############################################################
+## TranslationTranslit
+Type your translation on this line
+

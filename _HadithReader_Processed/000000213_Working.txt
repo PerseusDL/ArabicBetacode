@@ -1,0 +1,33 @@
+############################################################
+## hadithID::     tirmidhi29_722390
+## Completed by:: ADDYOURNAME
+## Finished::     NO/YES
+
+############################################################
+## ArabicInitial
+حَدَّثَنَا عَبْدُ بْنُ حُمَيْدٍ أَخْبَرَنَا عَبْدُ الرَّزَّاقِ عَنْ مَعْمَرٍ عَنِ ابْنِ طَاوُسٍ عَنْ أَبِيهِ عَنِ ابْنِ عَبَّاسٍ عَنِ النَّبِيِّ صلى الله عليه وسلم نَحْوَهُ قَالَ أَبُو عِيسَى هَذَا حَدِيثٌ حَسَنٌ وَقَدْ رَوَى بَعْضُهُمْ عَنِ ابْنِ طَاوُسٍ عَنْ أَبِيهِ عَنِ النَّبِيِّ صلى الله عليه وسلم مُرْسَلاً
+
+############################################################
+## betaCodeAuto
+.hadda_tan_a `abdu bnu .humaydi.n 'a_hbaran_a `abdu alrrazz_aqi `an ma`mari.n `ani abni .t_awusi.n `an 'abiyhi `ani abni `abb_asi.n `ani alnnabiyyi .sl`m na.hwahu q_ala 'abuw `iysa/a ha_d_a .hadiy_tu.n .hasanu.n waqad rawa/a ba`.duhum `ani abni .t_awusi.n `an 'abiyhi `ani alnnabiyyi .sl`m mursal_a.n
+
+############################################################
+## betaCodeManual
+.hadda_tan_a `abdu bnu .humaydi.n 'a_hbaran_a `abdu alrrazz_aqi `an ma`mari.n `ani abni .t_awusi.n `an 'abiyhi `ani abni `abb_asi.n `ani alnnabiyyi .sl`m na.hwahu q_ala 'abuw `iysa/a ha_d_a .hadiy_tu.n .hasanu.n waqad rawa/a ba`.duhum `ani abni .t_awusi.n `an 'abiyhi `ani alnnabiyyi .sl`m mursal_a.n
+
+############################################################
+## betaCodeManual>Translit
+ḥaddaṯanā ʿabdu bnu ḥumaydiȵ ʾaḫbaranā ʿabdu alrrazzāḳi ʿan maʿmariȵ ʿani abni ṭāwusiȵ ʿan ʾabiyhi ʿani abni ʿabbāsiȵ ʿani alnnabiyyi ṣlʿm naḥwahu ḳāla ʾabuw ʿiysaá haḏā ḥadiyṯuȵ ḥasanuȵ waḳad rawaá baʿḍuhum ʿani abni ṭāwusiȵ ʿan ʾabiyhi ʿani alnnabiyyi ṣlʿm mursalāȵ
+
+############################################################
+## betaCodeManual>Arabic
+حَدَّثَنَا عَبْدُ بْنُ حُمَيْدٍ أَخْبَرَنَا عَبْدُ أَلْرَّزّاقِ عَنْ مَعْمَرٍ عَنِ أَبْنِ طَاوُسٍ عَنْ أَبِيْهِ عَنِ أَبْنِ عَبّاسٍ عَنِ أَلْنَّبِيِّ صْلْعْمْ نَحْوَهُ قَالَ أَبُوْ عِيْسَى هَذَا حَدِيْثٌ حَسَنٌ وَقَدْ رَوَى بَعْضُهُمْ عَنِ أَبْنِ طَاوُسٍ عَنْ أَبِيْهِ عَنِ أَلْنَّبِيِّ صْلْعْمْ مُرْسَلَاȵ
+
+############################################################
+## TranslationBetaCode
+Type your translation on this line
+
+############################################################
+## TranslationTranslit
+Type your translation on this line
+

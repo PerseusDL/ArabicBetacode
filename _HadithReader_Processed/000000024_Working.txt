@@ -1,0 +1,33 @@
+############################################################
+## hadithID::     bukhari87_160110
+## Completed by:: ADDYOURNAME
+## Finished::     NO/YES
+
+############################################################
+## ArabicInitial
+حَدَّثَنَا مُحَمَّدُ بْنُ بَشَّارٍ حَدَّثَنَا ابْنُ أَبِي عَدِيٍّ عَنْ شُعْبَةَ عَنْ قَتَادَةَ عَنْ عِكْرِمَةَ عَنِ ابْنِ عَبَّاسٍ قَالَ سَمِعْتُ النَّبِيَّ صلى الله عليه وسلم نَحْوَهُ
+
+############################################################
+## betaCodeAuto
+.hadda_tan_a mu.hammadu bnu ba^ss_ari.n .hadda_tan_a abnu 'abiy `adiyyi.n `an ^su`ba:ta `an qat_ada:ta `an `ikrima:ta `ani abni `abb_asi.n q_ala sami`tu alnnabiyya .sl`m na.hwahu
+
+############################################################
+## betaCodeManual
+.hadda_tan_a mu.hammadu bnu ba^ss_ari.n .hadda_tan_a abnu 'abiy `adiyyi.n `an ^su`ba:ta `an qat_ada:ta `an `ikrima:ta `ani abni `abb_asi.n q_ala sami`tu alnnabiyya .sl`m na.hwahu
+
+############################################################
+## betaCodeManual>Translit
+ḥaddaṯanā muḥammadu bnu bašsāriȵ ḥaddaṯanā abnu ʾabiy ʿadiyyiȵ ʿan šuʿbaŧa ʿan ḳatādaŧa ʿan ʿikrimaŧa ʿani abni ʿabbāsiȵ ḳāla samiʿtu alnnabiyya ṣlʿm naḥwahu
+
+############################################################
+## betaCodeManual>Arabic
+حَدَّثَنَا مُحَمَّدُ بْنُ بَشْسَارٍ حَدَّثَنَا أَبْنُ أَبِيْ عَدِيٍّ عَنْ شُعْبَةَ عَنْ قَتَادَةَ عَنْ عِكْرِمَةَ عَنِ أَبْنِ عَبّاسٍ قَالَ سَمِعْتُ أَلْنَّبِيَّ صْلْعْمْ نَحْوَهُ
+
+############################################################
+## TranslationBetaCode
+Type your translation on this line
+
+############################################################
+## TranslationTranslit
+Type your translation on this line
+

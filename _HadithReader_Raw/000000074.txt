@@ -1,0 +1,29 @@
+STATUS:: INCLUDE
+HADITH:: muslim29_345880
+RANK:: 000000074
+WEIGTH:: 00000000790769230769
+LENGTH:: 13
+hadithID:: muslim29_345880
+None
+bookNo:: 29
+bookArTitle:: كتاب الحدود
+arHadithInit::  حَدَّثَنَا مُحَمَّدُ بْنُ الْمُثَنَّى حَدَّثَنَا يَحْيَى بْنُ سَعِيدٍ حَدَّثَنَا هِشَامٌ بِهَذَا الإِسْنَادِ مِثْلَهُ
+bookEnTitle:: The Book of Legal Punishments
+enHadith::  This hadith has been narrated on the authority of Hisham with the same chain of transmitters.
+Reference:: Sahih Muslim 1706 d
+In-book reference:: Book 29, Hadith 58
+USC-MSA web (English) reference:: Book 17, Hadith 4229
+(deprecated numbering scheme)
+FREQREPORT::
+##000000002	000109869	بن
+##000000005	000065785	حدثنا
+##000000020	000015288	محمد
+##000000027	000008764	سعيد
+##000000030	000007737	يحيي
+##000000081	000002999	هشام
+##000000152	000001625	بهذا
+##000000154	000001602	المثني
+##000000210	000001117	الاسناد
+##000000335	000000680	مثله
+
+

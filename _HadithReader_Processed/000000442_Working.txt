@@ -1,0 +1,33 @@
+############################################################
+## hadithID::     abudawud08_915330
+## Completed by:: ADDYOURNAME
+## Finished::     NO/YES
+
+############################################################
+## ArabicInitial
+حَدَّثَنَا سُلَيْمَانُ بْنُ دَاوُدَ الْعَتَكِيُّ حَدَّثَنَا إِسْمَاعِيلُ بْنُ جَعْفَرٍ عَنِ الْعَلاَءِ بْنِ عَبْدِ الرَّحْمَنِ عَنْ أَبِيهِ عَنْ أَبِي هُرَيْرَةَ أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ مَنْ صَلَّى عَلَىَّ وَاحِدَةً صَلَّى اللَّهُ عَلَيْهِ عَشْرًا
+
+############################################################
+## betaCodeAuto
+.hadda_tan_a sulaym_anu bnu d_awuda al`atakiyyu .hadda_tan_a 'iism_a`iylu bnu ^ga`fari.n `ani al`al_a'i bni `abdi alrra.hmani `an 'abiyhi `an 'abiy hurayra:ta 'anna rasuwla allahi .sl`m q_ala man .salla/a `ala/aa w_a.hida:ta.n .salla/a allahu `alayhi `a^sra.n_a
+
+############################################################
+## betaCodeManual
+.hadda_tan_a sulaym_anu bnu d_awuda al`atakiyyu .hadda_tan_a 'iism_a`iylu bnu ^ga`fari.n `ani al`al_a'i bni `abdi alrra.hmani `an 'abiyhi `an 'abiy hurayra:ta 'anna rasuwla allahi .sl`m q_ala man .salla/a `ala/aa w_a.hida:ta.n .salla/a allahu `alayhi `a^sra.n_a
+
+############################################################
+## betaCodeManual>Translit
+ḥaddaṯanā sulaymānu bnu dāwuda alʿatakiyyu ḥaddaṯanā ʾiismāʿiylu bnu ǧaʿfariȵ ʿani alʿalāʾi bni ʿabdi alrraḥmani ʿan ʾabiyhi ʿan ʾabiy hurayraŧa ʾanna rasuwla allahi ṣlʿm ḳāla man ṣallaá ʿalaáa wāḥidaŧaȵ ṣallaá allahu ʿalayhi ʿašraȵā
+
+############################################################
+## betaCodeManual>Arabic
+حَدَّثَنَا سُلَيْمَانُ بْنُ دَاوُدَ أَلْعَتَكِيُّ حَدَّثَنَا إِِسْمَاعِيْلُ بْنُ جَعْفَرٍ عَنِ أَلْعَلاءِ بْنِ عَبْدِ أَلْرَّحْمَنِ عَنْ أَبِيْهِ عَنْ أَبِيْ هُرَيْرَةَ أَنَّ رَسُوْلَ أَلَّهِ صْلْعْمْ قَالَ مَنْ صَلَّى عَلَىَ وَاحِدَةً صَلَّى أَلَّهُ عَلَيْهِ عَشْراًا
+
+############################################################
+## TranslationBetaCode
+Type your translation on this line
+
+############################################################
+## TranslationTranslit
+Type your translation on this line
+

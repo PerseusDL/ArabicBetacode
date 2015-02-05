@@ -1,0 +1,33 @@
+############################################################
+## hadithID::     abudawud33_940160
+## Completed by:: ADDYOURNAME
+## Finished::     NO/YES
+
+############################################################
+## ArabicInitial
+حَدَّثَنَا مُحَمَّدُ بْنُ أَحْمَدَ بْنِ أَبِي خَلَفٍ حَدَّثَنَا الأَسْوَدُ بْنُ عَامِرٍ حَدَّثَنَا أَبُو بَكْرِ بْنُ عَيَّاشٍ عَنْ عَبْدِ الْمَلِكِ بْنِ أَبِي سُلَيْمَانَ عَنْ عَطَاءٍ عَنْ صَفْوَانَ بْنِ يَعْلَى عَنْ أَبِيهِ عَنِ النَّبِيِّ صلى الله عليه وسلم بِهَذَا الْحَدِيثِ قَالَ أَبُو دَاوُدَ الأَوَّلُ أَتَمُّ
+
+############################################################
+## betaCodeAuto
+.hadda_tan_a mu.hammadu bnu 'a.hmada bni 'abiy _halafi.n .hadda_tan_a al'aswadu bnu `_amiri.n .hadda_tan_a 'abuw bakri bnu `ayy_a^si.n `an `abdi almaliki bni 'abiy sulaym_ana `an `a.t_a'i.n `an .safw_ana bni ya`la/a `an 'abiyhi `ani alnnabiyyi .sl`m biha_d_a al.hadiy_ti q_ala 'abuw d_awuda al'awwalu 'atammu
+
+############################################################
+## betaCodeManual
+.hadda_tan_a mu.hammadu bnu 'a.hmada bni 'abiy _halafi.n .hadda_tan_a al'aswadu bnu `_amiri.n .hadda_tan_a 'abuw bakri bnu `ayy_a^si.n `an `abdi almaliki bni 'abiy sulaym_ana `an `a.t_a'i.n `an .safw_ana bni ya`la/a `an 'abiyhi `ani alnnabiyyi .sl`m biha_d_a al.hadiy_ti q_ala 'abuw d_awuda al'awwalu 'atammu
+
+############################################################
+## betaCodeManual>Translit
+ḥaddaṯanā muḥammadu bnu ʾaḥmada bni ʾabiy ḫalafiȵ ḥaddaṯanā alʾaswadu bnu ʿāmiriȵ ḥaddaṯanā ʾabuw bakri bnu ʿayyāšiȵ ʿan ʿabdi almaliki bni ʾabiy sulaymāna ʿan ʿaṭāʾiȵ ʿan ṣafwāna bni yaʿlaá ʿan ʾabiyhi ʿani alnnabiyyi ṣlʿm bihaḏā alḥadiyṯi ḳāla ʾabuw dāwuda alʾawwalu ʾatammu
+
+############################################################
+## betaCodeManual>Arabic
+حَدَّثَنَا مُحَمَّدُ بْنُ أَحْمَدَ بْنِ أَبِيْ خَلَفٍ حَدَّثَنَا أَلْأَسْوَدُ بْنُ عَامِرٍ حَدَّثَنَا أَبُوْ بَكْرِ بْنُ عَيّاشٍ عَنْ عَبْدِ أَلْمَلِكِ بْنِ أَبِيْ سُلَيْمَانَ عَنْ عَطاءٍ عَنْ صَفْوَانَ بْنِ يَعْلَى عَنْ أَبِيْهِ عَنِ أَلْنَّبِيِّ صْلْعْمْ بِهَذَا أَلْحَدِيْثِ قَالَ أَبُوْ دَاوُدَ أَلْأَوَّلُ أَتَمُّ
+
+############################################################
+## TranslationBetaCode
+Type your translation on this line
+
+############################################################
+## TranslationTranslit
+Type your translation on this line
+

@@ -1,0 +1,33 @@
+############################################################
+## hadithID::     muslim06_319730
+## Completed by:: ADDYOURNAME
+## Finished::     NO/YES
+
+############################################################
+## ArabicInitial
+حَدَّثَنَا زُهَيْرُ بْنُ حَرْبٍ حَدَّثَنَا جَرِيرٌ ح وَحَدَّثَنَا ابْنُ نُمَيْرٍ حَدَّثَنَا أَبِي جَمِيعًا عَنْ هِشَامِ بْنِ عُرْوَةَ عَنْ أَبِيهِ عَنْ عَائِشَةَ قَالَتْ مَا تَرَكَ رَسُولُ اللَّهِ صلى الله عليه وسلم رَكْعَتَيْنِ بَعْدَ الْعَصْرِ عِنْدِي قَطُّ
+
+############################################################
+## betaCodeAuto
+.hadda_tan_a zuhayru bnu .harbi.n .hadda_tan_a ^gariyru.n .h wa.hadda_tan_a abnu numayri.n .hadda_tan_a 'abiy ^gamiy`a.n_a `an hi^s_ami bni `urwa:ta `an 'abiyhi `an `_a'ii^sa:ta q_alat m_a taraka rasuwlu allahi .sl`m rak`atayni ba`da al`a.sri `indiy qa.ttu
+
+############################################################
+## betaCodeManual
+.hadda_tan_a zuhayru bnu .harbi.n .hadda_tan_a ^gariyru.n .h wa.hadda_tan_a abnu numayri.n .hadda_tan_a 'abiy ^gamiy`a.n_a `an hi^s_ami bni `urwa:ta `an 'abiyhi `an `_a'ii^sa:ta q_alat m_a taraka rasuwlu allahi .sl`m rak`atayni ba`da al`a.sri `indiy qa.ttu
+
+############################################################
+## betaCodeManual>Translit
+ḥaddaṯanā zuhayru bnu ḥarbiȵ ḥaddaṯanā ǧariyruȵ ḥ waḥaddaṯanā abnu numayriȵ ḥaddaṯanā ʾabiy ǧamiyʿaȵā ʿan hišāmi bni ʿurwaŧa ʿan ʾabiyhi ʿan ʿāʾiišaŧa ḳālat mā taraka rasuwlu allahi ṣlʿm rakʿatayni baʿda alʿaṣri ʿindiy ḳaṭtu
+
+############################################################
+## betaCodeManual>Arabic
+حَدَّثَنَا زُهَيْرُ بْنُ حَرْبٍ حَدَّثَنَا جَرِيْرٌ حْ وَحَدَّثَنَا أَبْنُ نُمَيْرٍ حَدَّثَنَا أَبِيْ جَمِيْعاًا عَنْ هِشَامِ بْنِ عُرْوَةَ عَنْ أَبِيْهِ عَنْ عائِِشَةَ قَالَتْ مَا تَرَكَ رَسُوْلُ أَلَّهِ صْلْعْمْ رَكْعَتَيْنِ بَعْدَ أَلْعَصْرِ عِنْدِيْ قَطْتُ
+
+############################################################
+## TranslationBetaCode
+Type your translation on this line
+
+############################################################
+## TranslationTranslit
+Type your translation on this line
+

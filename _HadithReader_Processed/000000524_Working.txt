@@ -1,0 +1,33 @@
+############################################################
+## hadithID::     nasai14_1114330
+## Completed by:: ADDYOURNAME
+## Finished::     NO/YES
+
+############################################################
+## ArabicInitial
+أَخْبَرَنَا قُتَيْبَةُ وَمُحَمَّدُ بْنُ مَنْصُورٍ وَاللَّفْظُ لَهُ عَنْ سُفْيَانَ عَنْ أَبِي سَلَمَةَ عَنْ أَبِي هُرَيْرَةَ عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ مَنْ أَدْرَكَ مِنْ صَلاَةِ الْجُمُعَةِ رَكْعَةً فَقَدْ أَدْرَكَ
+
+############################################################
+## betaCodeAuto
+'a_hbaran_a qutayba:tu wamu.hammadu bnu man.suwri.n w_allaf.zu lahu `an sufy_ana `an 'abiy salama:ta `an 'abiy hurayra:ta `ani alnnabiyyi .sl`m q_ala man 'adraka min .sal_a:ti al^gumu`a:ti rak`a:ta.n faqad 'adraka
+
+############################################################
+## betaCodeManual
+'a_hbaran_a qutayba:tu wamu.hammadu bnu man.suwri.n w_allaf.zu lahu `an sufy_ana `an 'abiy salama:ta `an 'abiy hurayra:ta `ani alnnabiyyi .sl`m q_ala man 'adraka min .sal_a:ti al^gumu`a:ti rak`a:ta.n faqad 'adraka
+
+############################################################
+## betaCodeManual>Translit
+ʾaḫbaranā ḳutaybaŧu wamuḥammadu bnu manṣuwriȵ wāllafẓu lahu ʿan sufyāna ʿan ʾabiy salamaŧa ʿan ʾabiy hurayraŧa ʿani alnnabiyyi ṣlʿm ḳāla man ʾadraka min ṣalāŧi alǧumuʿaŧi rakʿaŧaȵ faḳad ʾadraka
+
+############################################################
+## betaCodeManual>Arabic
+أَخْبَرَنَا قُتَيْبَةُ وَمُحَمَّدُ بْنُ مَنْصُوْرٍ وَالَّفْظُ لَهُ عَنْ سُفْيَانَ عَنْ أَبِيْ سَلَمَةَ عَنْ أَبِيْ هُرَيْرَةَ عَنِ أَلْنَّبِيِّ صْلْعْمْ قَالَ مَنْ أَدْرَكَ مِنْ صَلَاةِ أَلْجُمُعَةِ رَكْعَةً فَقَدْ أَدْرَكَ
+
+############################################################
+## TranslationBetaCode
+Type your translation on this line
+
+############################################################
+## TranslationTranslit
+Type your translation on this line
+

@@ -1,0 +1,33 @@
+############################################################
+## hadithID::     muslim32_347100
+## Completed by:: ADDYOURNAME
+## Finished::     NO/YES
+
+############################################################
+## ArabicInitial
+حَدَّثَنَا يَحْيَى بْنُ يَحْيَى قَالَ أَخْبَرَنَا سُفْيَانُ بْنُ عُيَيْنَةَ عَنْ مَعْمَرٍ عَنِ الزُّهْرِيِّ بِهَذَا الإِسْنَادِ
+
+############################################################
+## betaCodeAuto
+.hadda_tan_a ya.hya/a bnu ya.hya/a q_ala 'a_hbaran_a sufy_anu bnu `uyayna:ta `an ma`mari.n `ani alzzuhriyyi biha_d_a al'iisn_adi
+
+############################################################
+## betaCodeManual
+.hadda_tan_a ya.hya/a bnu ya.hya/a q_ala 'a_hbaran_a sufy_anu bnu `uyayna:ta `an ma`mari.n `ani alzzuhriyyi biha_d_a al'iisn_adi
+
+############################################################
+## betaCodeManual>Translit
+ḥaddaṯanā yaḥyaá bnu yaḥyaá ḳāla ʾaḫbaranā sufyānu bnu ʿuyaynaŧa ʿan maʿmariȵ ʿani alzzuhriyyi bihaḏā alʾiisnādi
+
+############################################################
+## betaCodeManual>Arabic
+حَدَّثَنَا يَحْيَى بْنُ يَحْيَى قَالَ أَخْبَرَنَا سُفْيَانُ بْنُ عُيَيْنَةَ عَنْ مَعْمَرٍ عَنِ أَلْزُّهْرِيِّ بِهَذَا أَلْئِِسْنَادِ
+
+############################################################
+## TranslationBetaCode
+Type your translation on this line
+
+############################################################
+## TranslationTranslit
+Type your translation on this line
+

@@ -1,0 +1,33 @@
+############################################################
+## hadithID::     bukhari19_110510
+## Completed by:: ADDYOURNAME
+## Finished::     NO/YES
+
+############################################################
+## ArabicInitial
+حَدَّثَنَا عَبْدُ اللَّهِ بْنُ يُوسُفَ قَالَ أَخْبَرَنَا مَالِكٌ عَنْ إِسْحَاقَ بْنِ عَبْدِ اللَّهِ بْنِ أَبِي طَلْحَةَ عَنْ أَنَسِ بْنِ مَالِكٍ ـ رضى الله عنه ـ قَالَ صَلَّى لَنَا رَسُولُ اللَّهِ صلى الله عليه وسلم رَكْعَتَيْنِ ثُمَّ انْصَرَفَ
+
+############################################################
+## betaCodeAuto
+.hadda_tan_a `abdu allahi bnu yuwsufa q_ala 'a_hbaran_a m_aliku.n `an 'iis.h_aqa bni `abdi allahi bni 'abiy .tal.ha:ta `an 'anasi bni m_aliki.n  r.d/a allh `nh  q_ala .salla/a lan_a rasuwlu allahi .sl`m rak`atayni _tumma an.sarafa
+
+############################################################
+## betaCodeManual
+.hadda_tan_a `abdu allahi bnu yuwsufa q_ala 'a_hbaran_a m_aliku.n `an 'iis.h_aqa bni `abdi allahi bni 'abiy .tal.ha:ta `an 'anasi bni m_aliki.n  r.d/a allh `nh  q_ala .salla/a lan_a rasuwlu allahi .sl`m rak`atayni _tumma an.sarafa
+
+############################################################
+## betaCodeManual>Translit
+ḥaddaṯanā ʿabdu allahi bnu yuwsufa ḳāla ʾaḫbaranā mālikuȵ ʿan ʾiisḥāḳa bni ʿabdi allahi bni ʾabiy ṭalḥaŧa ʿan ʾanasi bni mālikiȵ  rḍá allh ʿnh  ḳāla ṣallaá lanā rasuwlu allahi ṣlʿm rakʿatayni ṯumma anṣarafa
+
+############################################################
+## betaCodeManual>Arabic
+حَدَّثَنَا عَبْدُ أَلَّهِ بْنُ يُوْسُفَ قَالَ أَخْبَرَنَا مَالِكٌ عَنْ إِِسْحَاقَ بْنِ عَبْدِ أَلَّهِ بْنِ أَبِيْ طَلْحَةَ عَنْ أَنَسِ بْنِ مَالِكٍ  رْضى أَلّهْ عْنْهْ  قَالَ صَلَّى لَنَا رَسُوْلُ أَلَّهِ صْلْعْمْ رَكْعَتَيْنِ ثُمَّ أَنْصَرَفَ
+
+############################################################
+## TranslationBetaCode
+Type your translation on this line
+
+############################################################
+## TranslationTranslit
+Type your translation on this line
+

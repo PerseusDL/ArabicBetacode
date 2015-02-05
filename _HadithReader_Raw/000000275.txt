@@ -1,0 +1,32 @@
+STATUS:: INCLUDE
+HADITH:: abudawud34_941110
+RANK:: 000000275
+WEIGTH:: 00000001147777777777
+LENGTH:: 18
+hadithID:: abudawud34_941110
+None
+bookNo:: 34
+bookArTitle:: كتاب اللباس
+arHadithInit::  حَدَّثَنَا مُحَمَّدُ بْنُ دَاوُدَ بْنِ سُفْيَانَ حَدَّثَنَا عَبْدُ الرَّزَّاقِ أَخْبَرَنَا مَعْمَرٌ عَنِ الزُّهْرِيِّ عَنْ عُرْوَةَ عَنْ عَائِشَةَ بِمَعْنَاهُ
+bookEnTitle:: Clothing (Kitab Al-Libas)
+enHadith::  The tradition mentioned above has also been transmitted by 'Aishah through a different chain of narrators to the same effect.
+Reference:: Sunan Abi Dawud 4108
+In-book reference:: Book 34, Hadith 89
+English translation:: Book 33, Hadith 4096
+FREQREPORT::
+##000000002	000109869	بن
+##000000003	000104417	عن
+##000000005	000065785	حدثنا
+##000000013	000027774	عبد
+##000000020	000015288	محمد
+##000000023	000011455	اخبرنا
+##000000049	000005041	سفيان
+##000000053	000004603	عايشه
+##000000087	000002717	الزهري
+##000000105	000002288	داود
+##000000123	000002035	عروه
+##000000172	000001468	معمر
+##000000218	000001071	الرزاق
+##000001180	000000150	بمعناه
+
+

@@ -1,0 +1,33 @@
+############################################################
+## hadithID::     tirmidhi49_735550
+## Completed by:: ADDYOURNAME
+## Finished::     NO/YES
+
+############################################################
+## ArabicInitial
+حَدَّثَنَا مُحَمَّدُ بْنُ بَشَّارٍ حَدَّثَنَا مُحَمَّدُ بْنُ جَعْفَرٍ حَدَّثَنَا شُعْبَةُ بِهَذَا الإِسْنَادِ نَحْوَهُ قَالَ أَبُو عِيسَى هَذَا حَدِيثٌ حَسَنٌ صَحِيحٌ
+
+############################################################
+## betaCodeAuto
+.hadda_tan_a mu.hammadu bnu ba^ss_ari.n .hadda_tan_a mu.hammadu bnu ^ga`fari.n .hadda_tan_a ^su`ba:tu biha_d_a al'iisn_adi na.hwahu q_ala 'abuw `iysa/a ha_d_a .hadiy_tu.n .hasanu.n .sa.hiy.hu.n
+
+############################################################
+## betaCodeManual
+.hadda_tan_a mu.hammadu bnu ba^ss_ari.n .hadda_tan_a mu.hammadu bnu ^ga`fari.n .hadda_tan_a ^su`ba:tu biha_d_a al'iisn_adi na.hwahu q_ala 'abuw `iysa/a ha_d_a .hadiy_tu.n .hasanu.n .sa.hiy.hu.n
+
+############################################################
+## betaCodeManual>Translit
+ḥaddaṯanā muḥammadu bnu bašsāriȵ ḥaddaṯanā muḥammadu bnu ǧaʿfariȵ ḥaddaṯanā šuʿbaŧu bihaḏā alʾiisnādi naḥwahu ḳāla ʾabuw ʿiysaá haḏā ḥadiyṯuȵ ḥasanuȵ ṣaḥiyḥuȵ
+
+############################################################
+## betaCodeManual>Arabic
+حَدَّثَنَا مُحَمَّدُ بْنُ بَشْسَارٍ حَدَّثَنَا مُحَمَّدُ بْنُ جَعْفَرٍ حَدَّثَنَا شُعْبَةُ بِهَذَا أَلْئِِسْنَادِ نَحْوَهُ قَالَ أَبُوْ عِيْسَى هَذَا حَدِيْثٌ حَسَنٌ صَحِيْحٌ
+
+############################################################
+## TranslationBetaCode
+Type your translation on this line
+
+############################################################
+## TranslationTranslit
+Type your translation on this line
+

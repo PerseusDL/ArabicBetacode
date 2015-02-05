@@ -1,0 +1,33 @@
+############################################################
+## hadithID::     nasai11_1109690
+## Completed by:: romanov
+## Finished::     NO/YES
+
+############################################################
+## ArabicInitial
+أَخْبَرَنَا قُتَيْبَةُ قَالَ حَدَّثَنَا سُفْيَانُ عَنْ يَحْيَى بْنِ سَعِيدٍ عَنْ أَبِي بَكْرِ بْنِ مُحَمَّدٍ عَنْ عُمَرَ بْنِ عَبْدِ الْعَزِيزِ عَنْ أَبِي بَكْرِ بْنِ عَبْدِ الرَّحْمَنِ بْنِ الْحَارِثِ بْنِ هِشَامٍ عَنْ أَبِي هُرَيْرَةَ مِثْلَهُ
+
+############################################################
+## betaCodeAuto
+'a_hbaran_a qutayba:tu q_ala .hadda_tan_a sufy_anu `an ya.hya/a bni sa`iydi.n `an 'abiy bakri bni mu.hammadi.n `an `umara bni `abdi al`aziyzi `an 'abiy bakri bni `abdi alrra.hmani bni al.h_ari_ti bni hi^s_ami.n `an 'abiy hurayra:ta mi_tlahu
+
+############################################################
+## betaCodeManual
+'a_hbara-n_a Qutayba:tu q_ala , .hadda_ta-n_a Sufy_anu , `an Ya.hy/a bni Sa`_idi.n , `an 'Ab_i Bakri bni Mu.hammadi.n , `an `Umara bni `Abdi al-`Az_izi , `an 'Ab_i Bakri bni `Abdi al-Ra.hm~ani bni al-.H_ari_ti bni Hi^s_ami.n , `an 'Ab_i Hurayra:ta mi_tla-hu
+
+############################################################
+## betaCodeManual>Translit
+ʾaḫbara-nā Ḳutaybaŧu ḳāla , ḥaddaṯa-nā Sufyānu , ʿan Yaḥyá bni Saʿīdiȵ , ʿan ʾAbī Bakri bni Muḥammadiȵ , ʿan ʿUmara bni ʿAbdi al-ʿAzīzi , ʿan ʾAbī Bakri bni ʿAbdi al-Raḥmãni bni al-Ḥāriṯi bni Hišāmiȵ , ʿan ʾAbī Hurayraŧa miṯla-hu
+
+############################################################
+## betaCodeManual>Arabic
+أَخْبَرَنَا قُتَيْبَةُ قَالَ ، حَدَّثَنَا سُفْيَانُ ، عَنْ يَحْيى بْنِ سَعِيدٍ ، عَنْ أَبِي بَكْرِ بْنِ مُحَمَّدٍ ، عَنْ عُمَرَ بْنِ عَبْدِ ﭐلْعَزِيزِ ، عَنْ أَبِي بَكْرِ بْنِ عَبْدِ ﭐلرَّحْمٰنِ بْنِ ﭐلْحَارِثِ بْنِ هِشَامٍ ، عَنْ أَبِي هُرَيْرَةَ مِثْلَهُ
+
+############################################################
+## TranslationBetaCode
+Qutayba:t reported to us [and] said, Sufy_an narrated to us, from Ya.hy/a b. Sa`_id, from from Ab_u Bakr b. Mu.hammad, from `Umar b. `Abd al-`Az_iz, from Ab_u Bakr b. `Abd al-Ra.hm~an b. al-.H_ari_t b. Hi^s_am, from Ab_u Hurayra:t something like that.
+
+############################################################
+## TranslationTranslit
+Ḳutaybaŧ reported to us [and] said, Sufyān narrated to us, from Yaḥyá b. Saʿīd, from from Abū Bakr b. Muḥammad, from ʿUmar b. ʿAbd al-ʿAzīz, from Abū Bakr b. ʿAbd al-Raḥmãn b. al-Ḥāriṯ b. Hišām, from Abū Hurayraŧ something like that.
+

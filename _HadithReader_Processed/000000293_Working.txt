@@ -1,0 +1,33 @@
+############################################################
+## hadithID::     abudawud02_911350
+## Completed by:: ADDYOURNAME
+## Finished::     NO/YES
+
+############################################################
+## ArabicInitial
+حَدَّثَنَا الْحَسَنُ بْنُ عَلِيٍّ حَدَّثَنَا عَبْدُ الرَّزَّاقِ عَنْ مَعْمَرٍ عَنِ الزُّهْرِيِّ عَنْ سَالِمٍ عَنِ ابْنِ عُمَرَ قَالَ كَانَ رَسُولُ اللَّهِ صلى الله عليه وسلم يُصَلِّي بَعْدَ الْجُمُعَةِ رَكْعَتَيْنِ فِي بَيْتِهِ قَالَ أَبُو دَاوُدَ وَكَذَلِكَ رَوَاهُ عَبْدُ اللَّهِ بْنُ دِينَارٍ عَنِ ابْنِ عُمَرَ
+
+############################################################
+## betaCodeAuto
+.hadda_tan_a al.hasanu bnu `aliyyi.n .hadda_tan_a `abdu alrrazz_aqi `an ma`mari.n `ani alzzuhriyyi `an s_alimi.n `ani abni `umara q_ala k_ana rasuwlu allahi .sl`m yu.salliy ba`da al^gumu`a:ti rak`atayni fiy baytihi q_ala 'abuw d_awuda waka_dalika raw_ahu `abdu allahi bnu diyn_ari.n `ani abni `umara
+
+############################################################
+## betaCodeManual
+.hadda_tan_a al.hasanu bnu `aliyyi.n .hadda_tan_a `abdu alrrazz_aqi `an ma`mari.n `ani alzzuhriyyi `an s_alimi.n `ani abni `umara q_ala k_ana rasuwlu allahi .sl`m yu.salliy ba`da al^gumu`a:ti rak`atayni fiy baytihi q_ala 'abuw d_awuda waka_dalika raw_ahu `abdu allahi bnu diyn_ari.n `ani abni `umara
+
+############################################################
+## betaCodeManual>Translit
+ḥaddaṯanā alḥasanu bnu ʿaliyyiȵ ḥaddaṯanā ʿabdu alrrazzāḳi ʿan maʿmariȵ ʿani alzzuhriyyi ʿan sālimiȵ ʿani abni ʿumara ḳāla kāna rasuwlu allahi ṣlʿm yuṣalliy baʿda alǧumuʿaŧi rakʿatayni fiy baytihi ḳāla ʾabuw dāwuda wakaḏalika rawāhu ʿabdu allahi bnu diynāriȵ ʿani abni ʿumara
+
+############################################################
+## betaCodeManual>Arabic
+حَدَّثَنَا أَلْحَسَنُ بْنُ عَلِيٍّ حَدَّثَنَا عَبْدُ أَلْرَّزّاقِ عَنْ مَعْمَرٍ عَنِ أَلْزُّهْرِيِّ عَنْ سَالِمٍ عَنِ أَبْنِ عُمَرَ قَالَ كَانَ رَسُوْلُ أَلَّهِ صْلْعْمْ يُصَلِّيْ بَعْدَ أَلْجُمُعَةِ رَكْعَتَيْنِ فِيْ بَيْتِهِ قَالَ أَبُوْ دَاوُدَ وَكَذَلِكَ رَوَاهُ عَبْدُ أَلَّهِ بْنُ دِيْنَارٍ عَنِ أَبْنِ عُمَرَ
+
+############################################################
+## TranslationBetaCode
+Type your translation on this line
+
+############################################################
+## TranslationTranslit
+Type your translation on this line
+

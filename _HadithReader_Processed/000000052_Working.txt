@@ -1,0 +1,33 @@
+############################################################
+## hadithID::     muslim43_362111
+## Completed by:: ADDYOURNAME
+## Finished::     NO/YES
+
+############################################################
+## ArabicInitial
+وَحَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ حَدَّثَنَا وَكِيعٌ وَعَبْدُ اللَّهِ بْنُ نُمَيْرٍ عَنْ إِسْمَاعِيلَ عَنْ قَيْسٍ عَنْ جَرِيرٍ عَنِ النَّبِيِّ صلى الله عليه وسلم ح وَحَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ وَابْنُ أَبِي عُمَرَ وَأَحْمَدُ بْنُ عَبْدَةَ قَالُوا حَدَّثَنَا سُفْيَانُ عَنْ عَمْرٍو عَنْ نَافِعِ بْنِ جُبَيْرٍ عَنْ جَرِيرٍ عَنِ النَّبِيِّ صلى الله عليه وسلم بِمِثْلِ حَدِيثِ الأَعْمَشِ
+
+############################################################
+## betaCodeAuto
+wa.hadda_tan_a 'abuw bakri bnu 'abiy ^sayba:ta .hadda_tan_a wakiy`u.n wa`abdu allahi bnu numayri.n `an 'iism_a`iyla `an qaysi.n `an ^gariyri.n `ani alnnabiyyi .sl`m .h wa.hadda_tan_a 'abuw bakri bnu 'abiy ^sayba:ta w_abnu 'abiy `umara wa'a.hmadu bnu `abda:ta q_aluw_a .hadda_tan_a sufy_anu `an `amri.nw `an n_afi`i bni ^gubayri.n `an ^gariyri.n `ani alnnabiyyi .sl`m bimi_tli .hadiy_ti al'a`ma^si
+
+############################################################
+## betaCodeManual
+wa.hadda_tan_a 'abuw bakri bnu 'abiy ^sayba:ta .hadda_tan_a wakiy`u.n wa`abdu allahi bnu numayri.n `an 'iism_a`iyla `an qaysi.n `an ^gariyri.n `ani alnnabiyyi .sl`m .h wa.hadda_tan_a 'abuw bakri bnu 'abiy ^sayba:ta w_abnu 'abiy `umara wa'a.hmadu bnu `abda:ta q_aluw_a .hadda_tan_a sufy_anu `an `amri.nw `an n_afi`i bni ^gubayri.n `an ^gariyri.n `ani alnnabiyyi .sl`m bimi_tli .hadiy_ti al'a`ma^si
+
+############################################################
+## betaCodeManual>Translit
+waḥaddaṯanā ʾabuw bakri bnu ʾabiy šaybaŧa ḥaddaṯanā wakiyʿuȵ waʿabdu allahi bnu numayriȵ ʿan ʾiismāʿiyla ʿan ḳaysiȵ ʿan ǧariyriȵ ʿani alnnabiyyi ṣlʿm ḥ waḥaddaṯanā ʾabuw bakri bnu ʾabiy šaybaŧa wābnu ʾabiy ʿumara waʾaḥmadu bnu ʿabdaŧa ḳāluwā ḥaddaṯanā sufyānu ʿan ʿamriȵw ʿan nāfiʿi bni ǧubayriȵ ʿan ǧariyriȵ ʿani alnnabiyyi ṣlʿm bimiṯli ḥadiyṯi alʾaʿmaši
+
+############################################################
+## betaCodeManual>Arabic
+وَحَدَّثَنَا أَبُوْ بَكْرِ بْنُ أَبِيْ شَيْبَةَ حَدَّثَنَا وَكِيْعٌ وَعَبْدُ أَلَّهِ بْنُ نُمَيْرٍ عَنْ إِِسْمَاعِيْلَ عَنْ قَيْسٍ عَنْ جَرِيْرٍ عَنِ أَلْنَّبِيِّ صْلْعْمْ حْ وَحَدَّثَنَا أَبُوْ بَكْرِ بْنُ أَبِيْ شَيْبَةَ وَابْنُ أَبِيْ عُمَرَ وَأَحْمَدُ بْنُ عَبْدَةَ قَالُوَا حَدَّثَنَا سُفْيَانُ عَنْ عَمْرٍوْ عَنْ نَافِعِ بْنِ جُبَيْرٍ عَنْ جَرِيْرٍ عَنِ أَلْنَّبِيِّ صْلْعْمْ بِمِثْلِ حَدِيْثِ أَلْأَعْمَشِ
+
+############################################################
+## TranslationBetaCode
+Type your translation on this line
+
+############################################################
+## TranslationTranslit
+Type your translation on this line
+

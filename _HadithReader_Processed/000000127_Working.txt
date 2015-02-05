@@ -1,0 +1,33 @@
+############################################################
+## hadithID::     nasai13_1113010
+## Completed by:: ADDYOURNAME
+## Finished::     NO/YES
+
+############################################################
+## ArabicInitial
+أَخْبَرَنَا عَلِيُّ بْنُ حُجْرٍ قَالَ حَدَّثَنَا إِسْمَاعِيلُ بْنُ جَعْفَرٍ عَنِ الْعَلاَءِ عَنْ أَبِيهِ عَنْ أَبِي هُرَيْرَةَ عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ مَنْ صَلَّى عَلَىَّ وَاحِدَةً صَلَّى اللَّهُ عَلَيْهِ عَشْرًا
+
+############################################################
+## betaCodeAuto
+'a_hbaran_a `aliyyu bnu .hu^gri.n q_ala .hadda_tan_a 'iism_a`iylu bnu ^ga`fari.n `ani al`al_a'i `an 'abiyhi `an 'abiy hurayra:ta `ani alnnabiyyi .sl`m q_ala man .salla/a `ala/aa w_a.hida:ta.n .salla/a allahu `alayhi `a^sra.n_a
+
+############################################################
+## betaCodeManual
+'a_hbaran_a `aliyyu bnu .hu^gri.n q_ala .hadda_tan_a 'iism_a`iylu bnu ^ga`fari.n `ani al`al_a'i `an 'abiyhi `an 'abiy hurayra:ta `ani alnnabiyyi .sl`m q_ala man .salla/a `ala/aa w_a.hida:ta.n .salla/a allahu `alayhi `a^sra.n_a
+
+############################################################
+## betaCodeManual>Translit
+ʾaḫbaranā ʿaliyyu bnu ḥuǧriȵ ḳāla ḥaddaṯanā ʾiismāʿiylu bnu ǧaʿfariȵ ʿani alʿalāʾi ʿan ʾabiyhi ʿan ʾabiy hurayraŧa ʿani alnnabiyyi ṣlʿm ḳāla man ṣallaá ʿalaáa wāḥidaŧaȵ ṣallaá allahu ʿalayhi ʿašraȵā
+
+############################################################
+## betaCodeManual>Arabic
+أَخْبَرَنَا عَلِيُّ بْنُ حُجْرٍ قَالَ حَدَّثَنَا إِِسْمَاعِيْلُ بْنُ جَعْفَرٍ عَنِ أَلْعَلاءِ عَنْ أَبِيْهِ عَنْ أَبِيْ هُرَيْرَةَ عَنِ أَلْنَّبِيِّ صْلْعْمْ قَالَ مَنْ صَلَّى عَلَىَ وَاحِدَةً صَلَّى أَلَّهُ عَلَيْهِ عَشْراًا
+
+############################################################
+## TranslationBetaCode
+Type your translation on this line
+
+############################################################
+## TranslationTranslit
+Type your translation on this line
+

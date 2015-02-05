@@ -1,0 +1,33 @@
+############################################################
+## hadithID::     tirmidhi33_723620
+## Completed by:: ADDYOURNAME
+## Finished::     NO/YES
+
+############################################################
+## ArabicInitial
+حَدَّثَنَا مُحَمَّدُ بْنُ بَشَّارٍ حَدَّثَنَا ابْنُ أَبِي عَدِيٍّ عَنْ حُمَيْدٍ عَنْ أَنَسٍ قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم لاَ تَقُومُ السَّاعَةُ حَتَّى لاَ يُقَالَ فِي الأَرْضِ اللَّهُ اللَّهُ قَالَ أَبُو عِيسَى هَذَا حَدِيثٌ حَسَنٌ
+
+############################################################
+## betaCodeAuto
+.hadda_tan_a mu.hammadu bnu ba^ss_ari.n .hadda_tan_a abnu 'abiy `adiyyi.n `an .humaydi.n `an 'anasi.n q_ala q_ala rasuwlu allahi .sl`m l_a taquwmu alss_a`a:tu .hatta/a l_a yuq_ala fiy al'ar.di allahu allahu q_ala 'abuw `iysa/a ha_d_a .hadiy_tu.n .hasanu.n
+
+############################################################
+## betaCodeManual
+.hadda_tan_a mu.hammadu bnu ba^ss_ari.n .hadda_tan_a abnu 'abiy `adiyyi.n `an .humaydi.n `an 'anasi.n q_ala q_ala rasuwlu allahi .sl`m l_a taquwmu alss_a`a:tu .hatta/a l_a yuq_ala fiy al'ar.di allahu allahu q_ala 'abuw `iysa/a ha_d_a .hadiy_tu.n .hasanu.n
+
+############################################################
+## betaCodeManual>Translit
+ḥaddaṯanā muḥammadu bnu bašsāriȵ ḥaddaṯanā abnu ʾabiy ʿadiyyiȵ ʿan ḥumaydiȵ ʿan ʾanasiȵ ḳāla ḳāla rasuwlu allahi ṣlʿm lā taḳuwmu alssāʿaŧu ḥattaá lā yuḳāla fiy alʾarḍi allahu allahu ḳāla ʾabuw ʿiysaá haḏā ḥadiyṯuȵ ḥasanuȵ
+
+############################################################
+## betaCodeManual>Arabic
+حَدَّثَنَا مُحَمَّدُ بْنُ بَشْسَارٍ حَدَّثَنَا أَبْنُ أَبِيْ عَدِيٍّ عَنْ حُمَيْدٍ عَنْ أَنَسٍ قَالَ قَالَ رَسُوْلُ أَلَّهِ صْلْعْمْ لَا تَقُوْمُ أَلْسّاعَةُ حَتَّى لَا يُقَالَ فِيْ أَلْأَرْضِ أَلَّهُ أَلَّهُ قَالَ أَبُوْ عِيْسَى هَذَا حَدِيْثٌ حَسَنٌ
+
+############################################################
+## TranslationBetaCode
+Type your translation on this line
+
+############################################################
+## TranslationTranslit
+Type your translation on this line
+

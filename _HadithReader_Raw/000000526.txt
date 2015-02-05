@@ -1,0 +1,38 @@
+STATUS:: INCLUDE
+HADITH:: tirmidhi07_706252
+RANK:: 000000526
+WEIGTH:: 00000001532758620689
+LENGTH:: 29
+hadithID:: tirmidhi07_706252
+None
+bookNo:: 7
+bookArTitle:: كتاب الزكاة عن رسول الله صلى الله عليه وسلم
+arHadithInit::  حَدَّثَنَا مُحَمَّدُ بْنُ بَشَّارٍ حَدَّثَنَا مُحَمَّدُ بْنُ جَعْفَرٍ حَدَّثَنَا شُعْبَةُ عَنْ عَمْرِو بْنِ مُرَّةَ قَالَ سَأَلْتُ أَبَا عُبَيْدَةَ بْنَ عَبْدِ اللَّهِ هَلْ تَذْكُرُ مِنْ عَبْدِ اللَّهِ شَيْئًا قَالَ لاَ
+bookEnTitle:: The Book on Zakat
+enHadith::  Muhammad bin Bash-shar (Al-Abdi) narrated to us, : Muhammad bin Ja'far narrated to us, from Shu'bah, from Amr bin Murrah who said: I asked Abu Ubaidah bin Abdullah: 'Did you remember anything from Abdullah?' He said, 'No' (Sahih) 
+Reference:: Jami` at-Tirmidhi 624
+In-book reference:: Book 7, Hadith 8
+English translation:: Vol. 2, Book 2, Hadith 624
+FREQREPORT::
+##000000001	000115208	الله
+##000000002	000109869	بن
+##000000003	000104417	عن
+##000000004	000076449	قال
+##000000005	000065785	حدثنا
+##000000011	000030865	من
+##000000013	000027774	عبد
+##000000020	000015288	محمد
+##000000022	000011471	لا
+##000000041	000005894	عمرو
+##000000067	000003631	شعبه
+##000000078	000003080	ابا
+##000000121	000002054	جعفر
+##000000150	000001634	شييا
+##000000161	000001550	بشار
+##000000240	000000996	هل
+##000000277	000000838	مره
+##000000329	000000692	سالت
+##000000429	000000493	عبيده
+##000002417	000000063	تذكر
+
+

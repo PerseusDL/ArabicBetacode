@@ -1,0 +1,33 @@
+############################################################
+## hadithID::     nasai51_1155740
+## Completed by:: ADDYOURNAME
+## Finished::     NO/YES
+
+############################################################
+## ArabicInitial
+أَخْبَرَنَا مُحَمَّدُ بْنُ الْمُثَنَّى قَالَ حَدَّثَنَا يَحْيَى بْنُ سَعِيدٍ عَنْ مُحَمَّدِ بْنِ عَمْرٍو عَنْ أَبِي سَلَمَةَ عَنْ أَبِي هُرَيْرَةَ قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم كُلُّ مُسْكِرٍ حَرَامٌ
+
+############################################################
+## betaCodeAuto
+'a_hbaran_a mu.hammadu bnu almu_tanna/a q_ala .hadda_tan_a ya.hya/a bnu sa`iydi.n `an mu.hammadi bni `amri.nw `an 'abiy salama:ta `an 'abiy hurayra:ta q_ala q_ala rasuwlu allahi .sl`m kullu muskiri.n .har_amu.n
+
+############################################################
+## betaCodeManual
+'a_hbaran_a mu.hammadu bnu almu_tanna/a q_ala .hadda_tan_a ya.hya/a bnu sa`iydi.n `an mu.hammadi bni `amri.nw `an 'abiy salama:ta `an 'abiy hurayra:ta q_ala q_ala rasuwlu allahi .sl`m kullu muskiri.n .har_amu.n
+
+############################################################
+## betaCodeManual>Translit
+ʾaḫbaranā muḥammadu bnu almuṯannaá ḳāla ḥaddaṯanā yaḥyaá bnu saʿiydiȵ ʿan muḥammadi bni ʿamriȵw ʿan ʾabiy salamaŧa ʿan ʾabiy hurayraŧa ḳāla ḳāla rasuwlu allahi ṣlʿm kullu muskiriȵ ḥarāmuȵ
+
+############################################################
+## betaCodeManual>Arabic
+أَخْبَرَنَا مُحَمَّدُ بْنُ أَلْمُثَنَّى قَالَ حَدَّثَنَا يَحْيَى بْنُ سَعِيْدٍ عَنْ مُحَمَّدِ بْنِ عَمْرٍوْ عَنْ أَبِيْ سَلَمَةَ عَنْ أَبِيْ هُرَيْرَةَ قَالَ قَالَ رَسُوْلُ أَلَّهِ صْلْعْمْ كُلُّ مُسْكِرٍ حَرَامٌ
+
+############################################################
+## TranslationBetaCode
+Type your translation on this line
+
+############################################################
+## TranslationTranslit
+Type your translation on this line
+

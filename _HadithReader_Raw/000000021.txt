@@ -1,0 +1,36 @@
+STATUS:: INCLUDE
+HADITH:: muslim36_353090
+RANK:: 000000021
+WEIGTH:: 00000000593333333333
+LENGTH:: 18
+hadithID:: muslim36_353090
+None
+bookNo:: 36
+bookArTitle:: كتاب الأشربة
+arHadithInit::  وَحَدَّثَنِي أَبُو سَلَمَةَ بْنُ عَبْدِ الرَّحْمَنِ عَنْ أَبِي قَتَادَةَ عَنِ النَّبِيِّ صلى الله عليه وسلم بِمِثْلِ هَذَا الْحَدِيثِ
+bookEnTitle:: The Book of Drinks
+enHadith::  This hadith is narrated on the authority of Abu Qatada through another chain of transmitters.
+Reference:: Sahih Muslim 1988 f
+In-book reference:: Book 36, Hadith 33
+USC-MSA web (English) reference:: Book 23, Hadith 4908
+(deprecated numbering scheme)
+FREQREPORT::
+##000000001	000115208	الله
+##000000002	000109869	بن
+##000000003	000104417	عن
+##000000006	000049847	عليه
+##000000007	000047089	صلي
+##000000008	000045611	وسلم
+##000000009	000032575	ابي
+##000000013	000027774	عبد
+##000000016	000019118	ابو
+##000000018	000016562	النبي
+##000000025	000009168	هذا
+##000000040	000006020	الرحمن
+##000000065	000003716	سلمه
+##000000096	000002481	الحديث
+##000000112	000002181	قتاده
+##000000162	000001544	وحدثني
+##000000482	000000441	بمثل
+
+

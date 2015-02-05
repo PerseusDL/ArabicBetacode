@@ -1,0 +1,33 @@
+############################################################
+## hadithID::     nasai24_1129460
+## Completed by:: ADDYOURNAME
+## Finished::     NO/YES
+
+############################################################
+## ArabicInitial
+أَخْبَرَنِي إِبْرَاهِيمُ بْنُ يَعْقُوبَ قَالَ حَدَّثَنَا مُوسَى بْنُ دَاوُدَ عَنْ حَمَّادِ بْنِ سَلَمَةَ عَنْ عَطَاءِ بْنِ السَّائِبِ عَنْ سَعِيدِ بْنِ جُبَيْرٍ عَنِ ابْنِ عَبَّاسٍ أَنَّ النَّبِيَّ صلى الله عليه وسلم قَالَ الْحَجَرُ الأَسْوَدُ مِنَ الْجَنَّةِ
+
+############################################################
+## betaCodeAuto
+'a_hbaraniy 'iibr_ahiymu bnu ya`quwba q_ala .hadda_tan_a muwsa/a bnu d_awuda `an .hamm_adi bni salama:ta `an `a.t_a'i bni alss_a'iibi `an sa`iydi bni ^gubayri.n `ani abni `abb_asi.n 'anna alnnabiyya .sl`m q_ala al.ha^garu al'aswadu mina al^ganna:ti
+
+############################################################
+## betaCodeManual
+'a_hbaraniy 'iibr_ahiymu bnu ya`quwba q_ala .hadda_tan_a muwsa/a bnu d_awuda `an .hamm_adi bni salama:ta `an `a.t_a'i bni alss_a'iibi `an sa`iydi bni ^gubayri.n `ani abni `abb_asi.n 'anna alnnabiyya .sl`m q_ala al.ha^garu al'aswadu mina al^ganna:ti
+
+############################################################
+## betaCodeManual>Translit
+ʾaḫbaraniy ʾiibrāhiymu bnu yaʿḳuwba ḳāla ḥaddaṯanā muwsaá bnu dāwuda ʿan ḥammādi bni salamaŧa ʿan ʿaṭāʾi bni alssāʾiibi ʿan saʿiydi bni ǧubayriȵ ʿani abni ʿabbāsiȵ ʾanna alnnabiyya ṣlʿm ḳāla alḥaǧaru alʾaswadu mina alǧannaŧi
+
+############################################################
+## betaCodeManual>Arabic
+أَخْبَرَنِيْ إِِبْرَاهِيْمُ بْنُ يَعْقُوْبَ قَالَ حَدَّثَنَا مُوْسَى بْنُ دَاوُدَ عَنْ حَمّادِ بْنِ سَلَمَةَ عَنْ عَطاءِ بْنِ أَلْسّائِِبِ عَنْ سَعِيْدِ بْنِ جُبَيْرٍ عَنِ أَبْنِ عَبّاسٍ أَنَّ أَلْنَّبِيَّ صْلْعْمْ قَالَ أَلْحَجَرُ أَلْأَسْوَدُ مِنَ أَلْجَنَّةِ
+
+############################################################
+## TranslationBetaCode
+Type your translation on this line
+
+############################################################
+## TranslationTranslit
+Type your translation on this line
+
