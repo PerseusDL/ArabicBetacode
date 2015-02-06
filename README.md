@@ -101,11 +101,11 @@ preceded (if necessary) with a technical symbol that is similar to a diacritical
 
 NB: These are examples of converting betaCode to full transliteration and Arabic script. The very last paragraph showcases conversion of hamza in different positions.
 
-q\_ala 'ab\_u Mas`\_udi.n :: 'an\_a qad sami`tu h~a\_d\_a min ras\_uli All~ahi ( .sl`m )
+q\_ala 'ab\_u Mas\`\_udi.n :: 'an\_a qad sami\`tu h~a\_d\_a min ras\_uli All~ahi ( .sl\`m )
 
-.hadda\_ta-n\_a `Amru.w bnu R\_afi`i.n , .hadda\_ta-n\_a `Abdu All~ahi bnu al-Mub\_araki , `an Mu.hammadi bni 'is.h\_aqa , `an Mu.hammadi bni ^Ga`fari.n , `an `Ubaydi All~ahi bni `Abdi All~ahi bni `Umara , `an 'Ab\_i-hi , `ani al-nabiyyi ( .sl`m ) na.hwa-hu
+.hadda\_ta-n\_a \`Amru.w bnu R\_afi\`i.n , .hadda\_ta-n\_a \`Abdu All~ahi bnu al-Mub\_araki , \`an Mu.hammadi bni 'is.h\_aqa , \`an Mu.hammadi bni ^Ga\`fari.n , \`an \`Ubaydi All~ahi bni \`Abdi All~ahi bni \`Umara , \`an 'Ab\_i-hi , \`ani al-nabiyyi ( .sl\`m ) na.hwa-hu
 
-'a\_hbara-n\_a Qutayba:tu q\_ala , .hadda\_ta-n\_a Sufy\_anu , `an Ya.hy/a bni Sa`\_idi.n , `an 'Ab\_i Bakri bni Mu.hammadi.n , `an `Umara bni `Abdi al-`Az\_izi , `an 'Ab\_i Bakri bni `Abdi al-Ra.hm~ani bni al-.H\_ari\_ti bni Hi^s\_ami.n , `an 'Ab\_i Hurayra:ta mi\_tla-hu
+'a\_hbara-n\_a Qutayba:tu q\_ala , .hadda\_ta-n\_a Sufy\_anu , \`an Ya.hy/a bni Sa\`\_idi.n , \`an 'Ab\_i Bakri bni Mu.hammadi.n , \`an \`Umara bni \`Abdi al-\`Az\_izi , \`an 'Ab\_i Bakri bni \`Abdi al-Ra.hm~ani bni al-.H\_ari\_ti bni Hi^s\_ami.n , \`an 'Ab\_i Hurayra:ta mi\_tla-hu
 
 Ta.hw\_ilu al-.hamza:ti ( kalim\_atu.n mufrada:tu.n )
 
@@ -123,7 +123,7 @@ daf\_a'a:tu.n .taff\_a'a:tu.n ta'r\_i\_hu.n fa'ru.n
 juz'u.n  juz'i.n  juz'a.n mabda'u.n mabda'i.n mabda'a.n
 naba'a q\_ari'u.n tak\_afu'u.n tak\_afu'i.n tak\_afu'a.n
 abn\_a'u abn\_a'i abn\_a'a jar\_i'u.n maqr\_u'u.n .daw'u.n ^say'u.n juz'u.n
-`ulam\_a'u al-`ulam\_a'i al-`ulam\_a'a `Amru.n.w wa-fa`al\_u.a
+\`ulam\_a'u al-\`ulam\_a'i al-\`ulam\_a'a \`Amru.n.w wa-fa\`al\_u.a
 
 ## BETACODE#TO#ONE#TO#ONE###
 
