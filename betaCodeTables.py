@@ -117,6 +117,8 @@ translitLOC = {
     'aȵ' : '',  # tanwīn fatḥ
     'uȵ' : '',  # tanwīn ḍamm
     'iȵ' : '',  # tanwīn kasr
+    'ů' : '',  # silent w, like in `Amru.n.w
+    'å' : ''  # silent alif, like in fa`al_u.a   
     }
 
 # necessary for rendering searcheable lines
@@ -166,6 +168,8 @@ translitSearch = {
     'aȵ' : 'an',  # tanwīn fatḥ
     'uȵ' : '',  # tanwīn ḍamm
     'iȵ' : '',  # tanwīn kasr
+    'ů' : '',  # silent w, like in `Amru.n.w
+    'å' : ''  # silent alif, like in fa`al_u.a   
     }
 
 translitArabic = {
@@ -214,6 +218,8 @@ translitArabic = {
     'aȵ' : ' ً ',  # tanwīn fatḥ
     'uȵ' : ' ٌ ',  # tanwīn ḍamm
     'iȵ' : ' ٍ ',  # tanwīn kasr
+    'ů' : ' و ',  # silent w, like in `Amru.n.w
+    'å' : ' ا '  # silent alif, like in fa`al_u.a   
     }
 
 arabicBetaCode = {

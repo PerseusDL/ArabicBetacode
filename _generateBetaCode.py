@@ -46,7 +46,7 @@ def arabicAllFiles(mainFolder):
                 textToConvert = re.sub("###BETACODE#.*\n|NB:.*\n", "", text[0])
 
                 translitOTO = "###TRANSLIT#ONE#TO#ONE###\n\n%s" % betaCode.betacodeToTranslit(textToConvert)
-                translitLOC = "###TRANSLIT#LIBRARY#OF#CONGRESS###\n\n%s" % betaCode.betacodeToArabic(textToConvert)
+                translitLOC = "###TRANSLIT#ARABIC#SCRIPT###\n\n%s" % betaCode.betacodeToArabic(textToConvert)
 
                 newText = text[0] + "\n" + testLine + translitOTO + translitLOC
                 newText = re.sub("\n{2,}", "\n\n", newText)
