@@ -102,9 +102,9 @@ translitLOC = {
     'n' : 'n',  # nūn
     'h' : 'h',  # hā’
     'w' : 'w',  # wāw
-    'ū' : 'u',  # wāw
+    'ū' : 'ū',  # wāw
     'y' : 'y',  # yā’
-    'ī' : 'i',  # yā’
+    'ī' : 'ī',  # yā’
 # Non-alphabetic letters
     'ʾ' : 'ʾ',   # hamzaŧ
     'á' : 'ā',  # alif maqṣūraŧ

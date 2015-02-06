@@ -1,0 +1,27 @@
+###BETACODE#TO#TRANSLIT#EXAMPLES###
+
+NB: This is an example of the English text with terms, names and toponyms given in betaCode and automatically converted into different transliteration flavors (exerpts are from Brill’s *Encyclopaedia of Islam*).
+
+Dima^s.k, Dima^s.k al-^S_am or simply al-^S_am , (Lat. Damascus, Fr. Damas) is the largest city of Syria. It is situated ... very much at the same latitude as Ba.gd_ad and F_as, at an altitude of nearly 700 metres, on the edge of the desert at the foot of ^Gabal .K_asiy_un.
+
+al-_Dahab_i, ^Sams al-D_in Ab_u `Abd All~ah Mu.hammad b. `U_tm_an b. .K_aym_a.z b. `Abd All~ah al-Turkum_an_i al-F_ari.k_i al-Dima^s.k_i al-^S_afi`_i, an Arab historian and theologian, was born at Damascus or at Mayy_afari.k_in on 1 or 3 Rab_i` II (according to al-Kutub_i, in Rab_i` I) 673/5 or 7 October 1274, and died at Damascus, according to al-Subk_i and al-Suy_u.t_i, in the night of Sunday-Monday on 3 _D_u al-.Ka`da:t 748/4 February 1348, or, according to A.hmad b. `Iy_as, in 753/1352-3. He was buried at the B_ab al-.Sa.g_ir.
+
+###KEEP#THIS#LINE#TEXT#WILL#BE#GENERATED#BELOW#
+###TRANSLIT#ONE#TO#ONE###
+
+Dimašḳ, Dimašḳ al-Šām or simply al-Šām , (Lat. Damascus, Fr. Damas) is the largest city of Syria. It is situated ... very much at the same latitude as Baġdād and Fās, at an altitude of nearly 700 metres, on the edge of the desert at the foot of Ǧabal Ḳāsiyūn.
+
+al-Ḏahabī, Šams al-Dīn Abū ʿAbd Allãh Muḥammad b. ʿUṯmān b. Ḳāymāẓ b. ʿAbd Allãh al-Turkumānī al-Fāriḳī al-Dimašḳī al-Šāfiʿī, an Arab historian and theologian, was born at Damascus or at Mayyāfariḳīn on 1 or 3 Rabīʿ II (according to al-Kutubī, in Rabīʿ I) 673/5 or 7 October 1274, and died at Damascus, according to al-Subkī and al-Suyūṭī, in the night of Sunday-Monday on 3 Ḏū al-Ḳaʿdaŧ 748/4 February 1348, or, according to Aḥmad b. ʿIyās, in 753/1352-3. He was buried at the Bāb al-Ṣaġīr.
+
+###TRANSLIT#LIBRARY#OF#CONGRESS###
+
+Dimashq, Dimashq al-Shām or simply al-Shām , (Lat. Damascus, Fr. Damas) is the largest city of Syria. It is situated ... very much at the same latitude as Baghdād and Fās, at an altitude of nearly 700 metres, on the edge of the desert at the foot of Jabal Qāsiyūn.
+
+al-Dhahabī, Shams al-Dīn Abū ʿAbd Allāh Muḥammad b. ʿUthmān b. Qāymāẓ b. ʿAbd Allāh al-Turkumānī al-Fāriqī al-Dimashqī al-Shāfiʿī, an Arab historian and theologian, was born at Damascus or at Mayyāfariqīn on 1 or 3 Rabīʿ II (according to al-Kutubī, in Rabīʿ I) 673/5 or 7 October 1274, and died at Damascus, according to al-Subkī and al-Suyūṭī, in the night of Sunday-Monday on 3 Dhū al-Qaʿda 748/4 February 1348, or, according to Aḥmad b. ʿIyās, in 753/1352-3. He was buried at the Bāb al-Ṣaghīr.
+
+###TRANSLIT#SEARCHEABLE###
+
+Dimashq, Dimashq al-Sham or simply al-Sham , (Lat. Damascus, Fr. Damas) is the largest city of Syria. It is situated ... very much at the same latitude as Baghdad and Fas, at an altitude of nearly 700 metres, on the edge of the desert at the foot of Jabal Qasiyun.
+
+al-Dhahabi, Shams al-Din Abu Abd Allah Muhammad b. Uthman b. Qaymaz b. Abd Allah al-Turkumani al-Fariqi al-Dimashqi al-Shafii, an Arab historian and theologian, was born at Damascus or at Mayyafariqin on 1 or 3 Rabi II (according to al-Kutubi, in Rabi I) 673/5 or 7 October 1274, and died at Damascus, according to al-Subki and al-Suyuti, in the night of Sunday-Monday on 3 Dhu al-Qada 748/4 February 1348, or, according to Ahmad b. Iyas, in 753/1352-3. He was buried at the Bab al-Saghir.
+

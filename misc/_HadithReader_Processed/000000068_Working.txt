@@ -13,15 +13,15 @@ wa.hadda_tan_a mu.hammadu bnu almu_tanna/a .hadda_tan_a mu.hammadu bnu ^ga`fari.
 
 ############################################################
 ## betaCodeManual
-wa.hadda_tan_a mu.hammadu bnu almu_tanna/a .hadda_tan_a mu.hammadu bnu ^ga`fari.n .hadda_tan_a ^su`ba:tu q_ala sami`tu al`al_a'a biha_d_a al'iisn_adi
+wa-.hadda_ta-n_a Mu.hammadu bnu al-Mu_tann/a , .hadda_ta-n_a Mu.hammadu bnu ^Ga`fari.n , .hadda_ta-n_a ^Su`ba:tu q_ala , sami`tu al-`Al_a'a bi-h~a_d_a al-'isn_adi
 
 ############################################################
 ## betaCodeManual>Translit
-waḥaddaṯanā muḥammadu bnu almuṯannaá ḥaddaṯanā muḥammadu bnu ǧaʿfariȵ ḥaddaṯanā šuʿbaŧu ḳāla samiʿtu alʿalāʾa bihaḏā alʾiisnādi
+wa-ḥaddaṯa-nā Muḥammadu bnu al-Muṯanná , ḥaddaṯa-nā Muḥammadu bnu Ǧaʿfariȵ , ḥaddaṯa-nā Šuʿbaŧu ḳāla , samiʿtu al-ʿAlāʾa bi-hãḏā al-ʾisnādi
 
 ############################################################
 ## betaCodeManual>Arabic
-وَحَدَّثَنَا مُحَمَّدُ بْنُ أَلْمُثَنَّٰى حَدَّثَنَا مُحَمَّدُ بْنُ جَعْفَرٍ حَدَّثَنَا شُعْبَةُ قَالَ سَمِعْتُ أَلْعَلاءَ بِهَذَا أَلْئِِسْنَادِ
+وَحَدَّثَنَا مُحَمَّدُ بْنُ ﭐلْمُثَنّٰى ، حَدَّثَنَا مُحَمَّدُ بْنُ جَعْفَرٍ ، حَدَّثَنَا شُعْبَةُ قَالَ ، سَمِعْتُ ﭐلْعَلاءَ بِهٰذَا ﭐلْإِسْنَادِ
 
 ############################################################
 ## TranslationBetaCode

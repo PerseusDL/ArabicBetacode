@@ -2,8 +2,8 @@ import os, re
 import betaCode, betaCodeTables
 
 div = "############################################################\n"
-sourceFolder = "./_HadithReader_Raw/"
-targetFolder = "./_HadithReader_Processed/"
+sourceFolder = "./misc/_HadithReader_Raw/"
+targetFolder = "./misc/_HadithReader_Processed/"
 
 def processAllFiles():
     listOfFiles = os.listdir(sourceFolder)
