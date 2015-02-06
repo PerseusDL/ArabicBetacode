@@ -6,9 +6,9 @@
 
 * Library of Congress Romanization of Arabic
 * Simplified transliteration (essentially, LOC but with diacritics removed)
-* Arabic script (*hamzaŧ* orthography rules are not implemented yet)
+* Arabic script (*hamzaŧ* orthography are implemented, but may require some additional testing)
 
-**NB:** The idea of **betaCode** is borrowed from the Classicists who developed ["a method of representing, using only ASCII characters, characters and formatting found in ancient Greek texts"](http://en.wikipedia.org/wiki/Beta_Code). The current **betaCode** is inspired by, and is therefore quite similar to, the [arabTex scheme](http://www2.informatik.uni-stuttgart.de/ivi/bs/research/arab_e.htm).
+**NB:** The idea of **betaCode** is borrowed from the Classicists who developed ["a method of representing, using only ASCII characters, characters and formatting found in ancient Greek texts"](http://en.wikipedia.org/wiki/Beta_Code). The current **betaCode** is inspired by, and is therefore quite similar to, the [arabTex scheme](http://www2.informatik.uni-stuttgart.de/ivi/bs/research/arab_e.htm). Linguists working with Arabic are commonly using (Buckwalter transliteration)[http://en.wikipedia.org/wiki/Buckwalter_transliteration], which essentially is a betaCode, but less readable. 
 
 ## Basic principles of *betaCode*:
 Every Arabic letter is betaCoded with its one-letter equivalent (thus pulling from different academic transliteration schemes),
@@ -83,12 +83,9 @@ preceded (if necessary) with a technical symbol that is similar to a diacritical
 
 ## Additional *betaCode* rules
 
-* vowel case endings add "_", i.e.:
-	* ``` f_i al-kit_abi_ ```, but not:
-	* ``` f_i al-kit_abi.n ``` (all *tanwīn kasr* and *tanwīn ḍamm* will be automatically removed from transliterated versions)
 * attached prepositions/conjunctions must be separated with "-", i.e.:
-	* ``` bi-Llahi_ ```
-	* ``` fa-_dahaba_ ```
+	* ``` bi-Llahi  ```
+	* ``` fa-_dahaba ```
 * *tāʾ marbūṭaŧ*: add "+" after *tāʾ marbūṭaŧ*, if the first word of *iḏāfaŧ*
 	* ``` `_amma:t+u Ba.gd_ada ```, but:
 	* ``` al-`_amma:tu f_i Ba.gd_ada ```
