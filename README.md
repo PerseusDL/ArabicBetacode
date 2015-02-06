@@ -101,34 +101,32 @@ preceded (if necessary) with a technical symbol that is similar to a diacritical
 
 NB: These are examples of converting betaCode to full transliteration and Arabic script. The very last paragraph showcases conversion of hamza in different positions.
 
-```
-q_ala 'ab_u Mas`_udi.n :: 'an_a qad sami`tu h~a_d_a min ras_uli All~ahi ( .sl`m )
+q\_ala 'ab\_u Mas`\_udi.n :: 'an\_a qad sami`tu h~a\_d\_a min ras\_uli All~ahi ( .sl`m )
 
-.hadda_ta-n_a `Amru.w bnu R_afi`i.n , .hadda_ta-n_a `Abdu All~ahi bnu al-Mub_araki , `an Mu.hammadi bni 'is.h_aqa , `an Mu.hammadi bni ^Ga`fari.n , `an `Ubaydi All~ahi bni `Abdi All~ahi bni `Umara , `an 'Ab_i-hi , `ani al-nabiyyi ( .sl`m ) na.hwa-hu
+.hadda\_ta-n\_a `Amru.w bnu R\_afi`i.n , .hadda\_ta-n\_a `Abdu All~ahi bnu al-Mub\_araki , `an Mu.hammadi bni 'is.h\_aqa , `an Mu.hammadi bni ^Ga`fari.n , `an `Ubaydi All~ahi bni `Abdi All~ahi bni `Umara , `an 'Ab\_i-hi , `ani al-nabiyyi ( .sl`m ) na.hwa-hu
 
-'a_hbara-n_a Qutayba:tu q_ala , .hadda_ta-n_a Sufy_anu , `an Ya.hy/a bni Sa`_idi.n , `an 'Ab_i Bakri bni Mu.hammadi.n , `an `Umara bni `Abdi al-`Az_izi , `an 'Ab_i Bakri bni `Abdi al-Ra.hm~ani bni al-.H_ari_ti bni Hi^s_ami.n , `an 'Ab_i Hurayra:ta mi_tla-hu
+'a\_hbara-n\_a Qutayba:tu q\_ala , .hadda\_ta-n\_a Sufy\_anu , `an Ya.hy/a bni Sa`\_idi.n , `an 'Ab\_i Bakri bni Mu.hammadi.n , `an `Umara bni `Abdi al-`Az\_izi , `an 'Ab\_i Bakri bni `Abdi al-Ra.hm~ani bni al-.H\_ari\_ti bni Hi^s\_ami.n , `an 'Ab\_i Hurayra:ta mi\_tla-hu
 
-Ta.hw_ilu al-.hamza:ti ( kalim_atu.n mufrada:tu.n )
+Ta.hw\_ilu al-.hamza:ti ( kalim\_atu.n mufrada:tu.n )
 
-'amru.n 'unsu.n 'insu.n '_im_anu.n
-'_aya:tu.n '_amana mas'ala:tu.n sa'ala ra'su.n qur'_anu.n ta'_amara
-_di'bu.n as'ila:tu.n q_ari'i-hi su'lu.n mas'_ulu.n
-tak_afu'u-hu su'ila q_ari'i-hi _di'_abu.n ra'_isu.n
-bu'isa ru'_ufu.n ra'_ufu.n su'_alu.n mu'arri_hu.n
-abn_a'a-hu abn_a'u-hu abn_a'i-hi ^say'a.n _ha.t_i'a:tu.n
-.daw'u-hu .d_u'u-hu .daw'a-hu .daw'i-hi mur_u'a:tu.n
-'abn_a'i-hi bar_i'u-hu s_u'ila f_ilu.n f_annu.n f_unnu.n
-s_a'ala fu'_adu.n ^surak_a'u-hu ri'_asa:tu.n tahni'a:tu.n
-daf_a'a:tu.n .taff_a'a:tu.n ta'r_i_hu.n fa'ru.n
+'amru.n 'unsu.n 'insu.n '\_im\_anu.n
+'\_aya:tu.n '\_amana mas'ala:tu.n sa'ala ra'su.n qur'\_anu.n ta'\_amara
+\_di'bu.n as'ila:tu.n q\_ari'i-hi su'lu.n mas'\_ulu.n
+tak\_afu'u-hu su'ila q\_ari'i-hi \_di'\_abu.n ra'\_isu.n
+bu'isa ru'\_ufu.n ra'\_ufu.n su'\_alu.n mu'arri\_hu.n
+abn\_a'a-hu abn\_a'u-hu abn\_a'i-hi ^say'a.n \_ha.t\_i'a:tu.n
+.daw'u-hu .d\_u'u-hu .daw'a-hu .daw'i-hi mur\_u'a:tu.n
+'abn\_a'i-hi bar\_i'u-hu s\_u'ila f\_ilu.n f\_annu.n f\_unnu.n
+s\_a'ala fu'\_adu.n ^surak\_a'u-hu ri'\_asa:tu.n tahni'a:tu.n
+daf\_a'a:tu.n .taff\_a'a:tu.n ta'r\_i\_hu.n fa'ru.n
 ^say'u.n ^say'i.n ^say'a.n  .daw'u.n .daw'i.n .daw'a.n
 juz'u.n  juz'i.n  juz'a.n mabda'u.n mabda'i.n mabda'a.n
-naba'a q_ari'u.n tak_afu'u.n tak_afu'i.n tak_afu'a.n
-abn_a'u abn_a'i abn_a'a jar_i'u.n maqr_u'u.n .daw'u.n ^say'u.n juz'u.n
-`ulam_a'u al-`ulam_a'i al-`ulam_a'a `Amru.n.w wa-fa`al_u.a
-```
+naba'a q\_ari'u.n tak\_afu'u.n tak\_afu'i.n tak\_afu'a.n
+abn\_a'u abn\_a'i abn\_a'a jar\_i'u.n maqr\_u'u.n .daw'u.n ^say'u.n juz'u.n
+`ulam\_a'u al-`ulam\_a'i al-`ulam\_a'a `Amru.n.w wa-fa`al\_u.a
 
 ## BETACODE#TO#ONE#TO#ONE###
-```
+
 ḳāla ʾabū Masʿūdiȵ :: ʾanā ḳad samiʿtu hãḏā min rasūli Allãhi ( ṣlʿm )
 
 ḥaddaṯa-nā ʿAmruů bnu Rāfiʿiȵ , ḥaddaṯa-nā ʿAbdu Allãhi bnu al-Mubāraki , ʿan Muḥammadi bni ʾisḥāḳa , ʿan Muḥammadi bni Ǧaʿfariȵ , ʿan ʿUbaydi Allãhi bni ʿAbdi Allãhi bni ʿUmara , ʿan ʾAbī-hi , ʿani al-nabiyyi ( ṣlʿm ) naḥwa-hu
@@ -152,11 +150,10 @@ dafāʾaŧuȵ ṭaffāʾaŧuȵ taʾrīḫuȵ faʾruȵ
 nabaʾa ḳāriʾuȵ takāfuʾuȵ takāfuʾiȵ takāfuʾaȵ
 abnāʾu abnāʾi abnāʾa ǧarīʾuȵ maḳrūʾuȵ ḍawʾuȵ šayʾuȵ ǧuzʾuȵ
 ʿulamāʾu al-ʿulamāʾi al-ʿulamāʾa ʿAmruȵů wa-faʿalūå
-```
+
 
 ## TRANSLIT#TO#ARABIC#SCRIPT##
 
-```
 قَالَ أَبُو مَسْعُودٍ :: أَنَا قَدْ سَمِعْتُ هٰذَا مِنْ رَسُولِ ﭐلـلّٰـهِ ( صْلْعْمْ )
 
 حَدَّثَنَا عَمْرُو بْنُ رَافِعٍ ، حَدَّثَنَا عَبْدُ ﭐلـلّٰـهِ بْنُ ﭐلْمُبَارَكِ ، عَنْ مُحَمَّدِ بْنِ إِسْحَاقَ ، عَنْ مُحَمَّدِ بْنِ جَعْفَرٍ ، عَنْ عُبَيْدِ ﭐلـلّٰـهِ بْنِ عَبْدِ ﭐلـلّٰـهِ بْنِ عُمَرَ ، عَنْ أَبِيهِ ، عَنِ ﭐلنَّبِيِّ ( صْلْعْمْ ) نَحْوَهُ
@@ -180,6 +177,5 @@ abnāʾu abnāʾi abnāʾa ǧarīʾuȵ maḳrūʾuȵ ḍawʾuȵ šayʾuȵ ǧuzʾ
 نَبَأَ قَارِئٌ تَكَافُؤٌ تَكَافُؤٍ تَكَافُؤًا
 أَبْناءُ أَبْناءِ أَبْناءَ جَريءٌ مَقْروءٌ ضَوْءٌ شَيْءٌ جُزْءٌ
 عُلَماءُ ﭐلْعُلَماءِ ﭐلْعُلَماءَ عَمْرٌو وَفَعَلُوا
-```
 
 ## betaCode into Translit
