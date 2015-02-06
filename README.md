@@ -128,7 +128,7 @@ abn_a'u abn_a'i abn_a'a jar_i'u.n maqr_u'u.n .daw'u.n ^say'u.n juz'u.n
 ```
 
 ## BETACODE#TO#ONE#TO#ONE###
-
+```
 ḳāla ʾabū Masʿūdiȵ :: ʾanā ḳad samiʿtu hãḏā min rasūli Allãhi ( ṣlʿm )
 
 ḥaddaṯa-nā ʿAmruů bnu Rāfiʿiȵ , ḥaddaṯa-nā ʿAbdu Allãhi bnu al-Mubāraki , ʿan Muḥammadi bni ʾisḥāḳa , ʿan Muḥammadi bni Ǧaʿfariȵ , ʿan ʿUbaydi Allãhi bni ʿAbdi Allãhi bni ʿUmara , ʿan ʾAbī-hi , ʿani al-nabiyyi ( ṣlʿm ) naḥwa-hu
