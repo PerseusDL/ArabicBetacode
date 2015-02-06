@@ -1,7 +1,7 @@
 ############################################################
 ## hadithID::     muslim44_365670
-## Completed by:: ADDYOURNAME
-## Finished::     NO/YES
+## Completed by:: romanov
+## Finished::     YES
 
 ############################################################
 ## ArabicInitial
@@ -13,21 +13,21 @@
 
 ############################################################
 ## betaCodeManual
-.hadda_tan_a mu.hammadu bnu ba^ss_ari.n .hadda_tan_a mu.hammadu bnu ^ga`fari.n .hadda_tan_a ^su`ba:tu `an hi^s_ami bni zaydi.n sami`tu 'anasa bna m_aliki.n yaquwlu mi_tla _dalika
+.hadda_ta-n_a Mu.hammadu bnu Ba^s^s_ari.n , .hadda_ta-n_a Mu.hammadu bnu ^Ga`fari.n , .hadda_tan_a ^Su`ba:tu , `an Hi^s_ami bni Zaydi.n :: sami`tu 'Anasa bna M_aliki.n yaq_ulu mi_tla _d~alika
 
 ############################################################
 ## betaCodeManual>Translit
-ḥaddaṯanā muḥammadu bnu bašsāriȵ ḥaddaṯanā muḥammadu bnu ǧaʿfariȵ ḥaddaṯanā šuʿbaŧu ʿan hišāmi bni zaydiȵ samiʿtu ʾanasa bna mālikiȵ yaḳuwlu miṯla ḏalika
+ḥaddaṯa-nā Muḥammadu bnu Baššāriȵ , ḥaddaṯa-nā Muḥammadu bnu Ǧaʿfariȵ , ḥaddaṯanā Šuʿbaŧu , ʿan Hišāmi bni Zaydiȵ :: samiʿtu ʾAnasa bna Mālikiȵ yaḳūlu miṯla ḏãlika
 
 ############################################################
 ## betaCodeManual>Arabic
-حَدَّثَنَا مُحَمَّدُ بْنُ بَشْسَارٍ حَدَّثَنَا مُحَمَّدُ بْنُ جَعْفَرٍ حَدَّثَنَا شُعْبَةُ عَنْ هِشَامِ بْنِ زَيْدٍ سَمِعْتُ أَنَسَ بْنَ مَالِكٍ يَقُوْلُ مِثْلَ ذَلِكَ
+حَدَّثَنَا مُحَمَّدُ بْنُ بَشّارٍ ، حَدَّثَنَا مُحَمَّدُ بْنُ جَعْفَرٍ ، حَدَّثَنَا شُعْبَةُ ، عَنْ هِشَامِ بْنِ زَيْدٍ :: سَمِعْتُ أَنَسَ بْنَ مَالِكٍ يَقُولُ مِثْلَ ذٰلِكَ
 
 ############################################################
 ## TranslationBetaCode
-Type your translation on this line
+Mu.hammad b. Ba^s^s_ar narrated to us, Mu.hammad b. ^Ga`far narrated to us, from Hi^s_am b. Zayd: I heard Anas b. M_alik saying something like that.
 
 ############################################################
 ## TranslationTranslit
-Type your translation on this line
+Muḥammad b. Baššār narrated to us, Muḥammad b. Ǧaʿfar narrated to us, from Hišām b. Zayd: I heard Anas b. Mālik saying something like that.
 

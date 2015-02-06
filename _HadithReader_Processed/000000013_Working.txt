@@ -1,7 +1,7 @@
 ############################################################
 ## hadithID::     tirmidhi49_735740
-## Completed by:: ADDYOURNAME
-## Finished::     NO/YES
+## Completed by:: romanov
+## Finished::     YES
 
 ############################################################
 ## ArabicInitial
@@ -13,21 +13,21 @@
 
 ############################################################
 ## betaCodeManual
-.hadda_tan_a mu.hammadu bnu ba^ss_ari.n .hadda_tan_a mu.hammadu bnu ^ga`fari.n .hadda_tan_a ^su`ba:tu `an sa`di bni 'iibr_ahiyma na.hwahu q_ala 'abuw `iysa/a ha_d_a .hadiy_tu.n .hasanu.n .sa.hiy.hu.n
+.hadda_ta-n_a Mu.hammadu bnu Ba^s^s_ari.n , .hadda_ta-n_a Mu.hammadu bnu ^Ga`fari.n , .hadda_ta-n_a ^Su`ba:tu , `an Sa`di bni 'Ibr_ah_ima na.hwa-hu ( ^S ) Q_ala 'Ab_u `_Is/a : h~a_d_a .had_i_tu.n .hasanu.n .sa.h_i.hu.n
 
 ############################################################
 ## betaCodeManual>Translit
-ḥaddaṯanā muḥammadu bnu bašsāriȵ ḥaddaṯanā muḥammadu bnu ǧaʿfariȵ ḥaddaṯanā šuʿbaŧu ʿan saʿdi bni ʾiibrāhiyma naḥwahu ḳāla ʾabuw ʿiysaá haḏā ḥadiyṯuȵ ḥasanuȵ ṣaḥiyḥuȵ
+ḥaddaṯa-nā Muḥammadu bnu Baššāriȵ , ḥaddaṯa-nā Muḥammadu bnu Ǧaʿfariȵ , ḥaddaṯa-nā Šuʿbaŧu , ʿan Saʿdi bni ʾIbrāhīma naḥwa-hu ( Š ) Ḳāla ʾAbū ʿĪsá : hãḏā ḥadīṯuȵ ḥasanuȵ ṣaḥīḥuȵ
 
 ############################################################
 ## betaCodeManual>Arabic
-حَدَّثَنَا مُحَمَّدُ بْنُ بَشْسَارٍ حَدَّثَنَا مُحَمَّدُ بْنُ جَعْفَرٍ حَدَّثَنَا شُعْبَةُ عَنْ سَعْدِ بْنِ إِِبْرَاهِيْمَ نَحْوَهُ قَالَ أَبُوْ عِيْسَٰى هَذَا حَدِيْثٌ حَسَنٌ صَحِيْحٌ
+حَدَّثَنَا مُحَمَّدُ بْنُ بَشّارٍ ، حَدَّثَنَا مُحَمَّدُ بْنُ جَعْفَرٍ ، حَدَّثَنَا شُعْبَةُ ، عَنْ سَعْدِ بْنِ إِبْرَاهِيمَ نَحْوَهُ ( شْ ) قَالَ أَبُو عِيسٰى : هٰذَا حَدِيثٌ حَسَنٌ صَحِيحٌ
 
 ############################################################
 ## TranslationBetaCode
-Type your translation on this line
+Mu.hammad b. Ba^s^s_ar narrated to us, Mu.hammad b. ^Ga`far narrated to us, ^Su`ba narrated to us, from Sa`d b. Ibr_ah_im something similar to that. ( ^S ) Ab_u `_Is/a said : This is a good sound .had_i_t.
 
 ############################################################
 ## TranslationTranslit
-Type your translation on this line
+Muḥammad b. Baššār narrated to us, Muḥammad b. Ǧaʿfar narrated to us, Šuʿba narrated to us, from Saʿd b. Ibrāhīm something similar to that. ( Š ) Abū ʿĪsá said : This is a good sound ḥadīṯ.
 

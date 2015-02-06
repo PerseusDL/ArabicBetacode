@@ -1,7 +1,7 @@
 ############################################################
 ## hadithID::     muslim36_353090
-## Completed by:: ADDYOURNAME
-## Finished::     NO/YES
+## Completed by:: romanov
+## Finished::     YES
 
 ############################################################
 ## ArabicInitial
@@ -13,21 +13,21 @@ wa.hadda_taniy 'abuw salama:ta bnu `abdi alrra.hmani `an 'abiy qat_ada:ta `ani a
 
 ############################################################
 ## betaCodeManual
-wa.hadda_taniy 'abuw salama:ta bnu `abdi alrra.hmani `an 'abiy qat_ada:ta `ani alnnabiyyi .sl`m bimi_tli ha_d_a al.hadiy_ti
+wa-.hadda_ta-n_i Ab_u Salama:ta bnu `Abdi al-Ra.hm~ani , `an 'Ab_i Qat_ada:ta , `ani al-nabiyyi  ( .sl`m ) bi-mi_tli h~a_d_a al-.had_i_ti
 
 ############################################################
 ## betaCodeManual>Translit
-waḥaddaṯaniy ʾabuw salamaŧa bnu ʿabdi alrraḥmani ʿan ʾabiy ḳatādaŧa ʿani alnnabiyyi ṣlʿm bimiṯli haḏā alḥadiyṯi
+wa-ḥaddaṯa-nī Abū Salamaŧa bnu ʿAbdi al-Raḥmãni , ʿan ʾAbī Ḳatādaŧa , ʿani al-nabiyyi  ( ṣlʿm ) bi-miṯli hãḏā al-ḥadīṯi
 
 ############################################################
 ## betaCodeManual>Arabic
-وَحَدَّثَنِيْ أَبُوْ سَلَمَةَ بْنُ عَبْدِ أَلْرَّحْمَنِ عَنْ أَبِيْ قَتَادَةَ عَنِ أَلْنَّبِيِّ صْلْعْمْ بِمِثْلِ هَذَا أَلْحَدِيْثِ
+وَحَدَّثَنِي أَبُو سَلَمَةَ بْنُ عَبْدِ ﭐلرَّحْمٰنِ ، عَنْ أَبِي قَتَادَةَ ، عَنِ ﭐلنَّبِيِّ  ( صْلْعْمْ ) بِمِثْلِ هٰذَا ﭐلْحَدِيثِ
 
 ############################################################
 ## TranslationBetaCode
-Type your translation on this line
+And Ab_u Salama:t b. `Abd al-Ra.hm~an narrated to me, from Ab_i Qat_ada:t, from the Prophet ( .sl`m ) something similar to this .had_i_t
 
 ############################################################
 ## TranslationTranslit
-Type your translation on this line
+And Abū Salamaŧ b. ʿAbd al-Raḥmãn narrated to me, from Abī Ḳatādaŧ, from the Prophet ( ṣlʿm ) something similar to this ḥadīṯ
 
