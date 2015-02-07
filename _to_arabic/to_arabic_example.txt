@@ -2,6 +2,15 @@
 
 NB: These are examples of converting betaCode to full transliteration and Arabic script. The very last paragraph showcases conversion of hamza in different positions.
 
+bi-al-`ilm?i
+fa-_dahaba
+bi-al-`ilm?i
+fa-_dahaba
+`_amma:t+?u Ba.gd_ad?a
+al-`_amma:t?u f_i Ba.gd_ad?a
+`Amr?u.n.w
+wa-fa`al_u.a
+
 q_ala 'ab_u Mas`_ud?i.n :: 'an_a qad sami`tu h~a_d_a min ras_ul?i All~ah?i ( .sl`m )
 
 .hadda_ta-n_a `Amr?u.w bn?u R_afi`?i.n , .hadda_ta-n_a `Abd?u All~ah?i bn?u al-Mub_arak?i , `an Mu.hammad?i bn?i 'Is.h_aq?a , `an Mu.hammad?i bn?i ^Ga`far?i.n , `an `Ubayd?i All~ah?i bn?i `Abd?i All~ah?i bn?i `Umar?a , `an 'Ab_i-hi , `an?i al-Nabiyy?i ( .sl`m ) na.hwa-hu
@@ -29,6 +38,15 @@ abn_a'u abn_a'i abn_a'a jar_i'?u.n maqr_u'?u.n .daw'?u.n ^say'?u.n juz'?u.n
 ###KEEP#THIS#LINE#TEXT#WILL#BE#GENERATED#BELOW#
 ###TRANSLIT#ONE#TO#ONE###
 
+bi-al-ʿilmỉ
+fa-ḏahaba
+bi-al-ʿilmỉ
+fa-ḏahaba
+ʿāmmaŧủ Baġdādả
+al-ʿāmmaŧủ fī Baġdādả
+ʿAmrủȵů
+wa-faʿalūå
+
 ḳāla ʾabū Masʿūdỉȵ :: ʾanā ḳad samiʿtu hãḏā min rasūlỉ Allãhỉ ( ṣlʿm )
 
 ḥaddaṯa-nā ʿAmrủů bnủ Rāfiʿỉȵ , ḥaddaṯa-nā ʿAbdủ Allãhỉ bnủ al-Mubārakỉ , ʿan Muḥammadỉ bnỉ ʾIsḥāḳả , ʿan Muḥammadỉ bnỉ Ǧaʿfarỉȵ , ʿan ʿUbaydỉ Allãhỉ bnỉ ʿAbdỉ Allãhỉ bnỉ ʿUmarả , ʿan ʾAbī-hi , ʿanỉ al-Nabiyyỉ ( ṣlʿm ) naḥwa-hu
@@ -54,6 +72,15 @@ abnāʾu abnāʾi abnāʾa ǧarīʾủȵ maḳrūʾủȵ ḍawʾủȵ šayʾủ�
 ʿulamāʾu al-ʿulamāʾi al-ʿulamāʾa ʿAmrủȵů wa-faʿalūå
 
 ###TRANSLIT#ARABIC#SCRIPT###
+
+بِﭐلْعِلْمِ
+فَذَهَبَ
+بِﭐلْعِلْمِ
+فَذَهَبَ
+عَامَّةُ بَغْدَادَ
+ﭐلْعَامَّةُ فِي بَغْدَادَ
+عَمْرٌو
+وَفَعَلُوا
 
 قَالَ أَبُو مَسْعُودٍ :: أَنَا قَدْ سَمِعْتُ هٰذَا مِنْ رَسُولِ ﭐلـلّٰـهِ ( صْلْعْمْ )
 
