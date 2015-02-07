@@ -13,11 +13,11 @@ q_ala 'abuw mus`uwdi.n 'an_a qad sami`tu ha_d_a min rasuwli allahi .sl`m
 
 ############################################################
 ## betaCodeManual
-q_ala 'ab_u Mas`_udi.n :: 'an_a qad sami`tu h~a_d_a min ras_uli All~ahi ( .sl`m )
+q_ala 'Ab_u Mas`_ud?i.n :: 'an_a qad sami`tu h~a_d_a min ras_ul?i All~ah?i ( .sl`m )
 
 ############################################################
 ## betaCodeManual>Translit
-ḳāla ʾabū Masʿūdiȵ :: ʾanā ḳad samiʿtu hãḏā min rasūli Allãhi ( ṣlʿm )
+ḳāla ʾAbū Masʿūdỉȵ :: ʾanā ḳad samiʿtu hãḏā min rasūlỉ Allãhỉ ( ṣlʿm )
 
 ############################################################
 ## betaCodeManual>Arabic
