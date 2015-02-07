@@ -1,14 +1,14 @@
 # Arabic betaCode
 
- Although both Windows and Mac OS now support Arabic, it is still quite difficult to type and edit Arabic texts. It is particularly frustrating to edit and manipulate fully vocalized texts, since most fonts either render “short vowels” (*ḥarakāt*) invisible, or do not render them properly. Because of the “stacking,” i.e. “short vowels” being placed on top of letters and on top of each other, it becomes impossible to *edit* texts and one is often forced to go into delete-and-retype mode (and there is still no guarantee, because of visual issues, that all the letters and “short vowels” will actually be in the right order). **betaCode** makes typing fully-vocalized Arabic texts easy on any machine through the use of simple character combinations and rendering into various transliteration schemes and the Arabic script (scroll below for examples). 
+ Although both Windows and Mac OS now support Arabic, it is still quite difficult to type and edit Arabic texts. It is particularly frustrating to edit and manipulate fully vocalized texts, since most fonts either render “short vowels” (*ḥarakāt*) invisible, or do not render them properly. Because of the “stacking,” i.e. “short vowels” being placed on top of letters and on top of each other, it becomes impossible to *edit* texts and one is often forced to go into delete-and-retype mode (and there is still no guarantee, because of visual issues, that all the letters and “short vowels” will actually be in the right order). **betaCode** can make it easy to type fully-vocalized Arabic texts on any machine through the use of simple character combinations and automatic rendering into various transliteration schemes and the Arabic script (scroll below for examples). 
 
-**betaCode** is first converted into a one-to-one transliteration scheme, which combines one-to-one transliteration conventions from various academic transliteration schemes. Such scheme is necessary, since none of the existing academic transliteration schemes (American/Library of Congress, British, French, German) allow to represent Arabic text unambiguously for computational purposes. Arabic **betaCode** transliteration can be then converted into any transliteration conventions. At the moment the following schemes are implemented (not yet fully):
+**betaCode** is first converted into a one-to-one transliteration scheme, which combines conventions from various academic transliteration schemes. Such scheme is necessary, since none of the existing academic schemes (American/Library of Congress, British, French, German, etc.) allow representing Arabic text unambiguously for computational purposes. Arabic **betaCode** transliteration can be then converted into any transliteration convention. At the moment the following schemes are implemented:
 
 * Library of Congress Romanization of Arabic
-* Simplified transliteration (essentially LOC but without diacritics)
+* Simplified transliteration (LOC without diacritics)
 * Arabic script (the rules of *hamzaŧ* orthography are implemented, but may require some additional testing)
 
-**NB:** The idea of **betaCode** is borrowed from the Classicists who developed ["a method of representing, using only ASCII characters, characters and formatting found in ancient Greek texts"](http://en.wikipedia.org/wiki/Beta_Code). The current **betaCode** is inspired by, and is therefore quite similar to, the [arabTex scheme](http://www2.informatik.uni-stuttgart.de/ivi/bs/research/arab_e.htm). Linguists working with Arabic are commonly using [Buckwalter transliteration](http://en.wikipedia.org/wiki/Buckwalter_transliteration), which essentially is a betaCode, but less readable. 
+**NB:** The idea of **betaCode** is borrowed from the Classicists who developed ["a method of representing, using only ASCII characters, characters and formatting found in ancient Greek texts"](http://en.wikipedia.org/wiki/Beta_Code). The current **betaCode** is inspired by, and is therefore quite similar to, the [arabTex scheme](http://www2.informatik.uni-stuttgart.de/ivi/bs/research/arab_e.htm). Linguists working with Arabic are commonly using [Buckwalter transliteration](http://en.wikipedia.org/wiki/Buckwalter_transliteration), which is very similar to the current betaCode, but less readable. 
 
 ## Basic principles:
 Every Arabic letter is betaCoded with its one-letter equivalent,
@@ -20,7 +20,7 @@ preceded (if necessary) with a technical character that is similar to a diacriti
 * **^** (caret), if letter can be transliterated with *caron* (ǧ, š)
 
 #### *Specifics*
-* attached prepositions/conjunctions and pronominal suffixes must be separated with "-" (primarily for readability and text alignment):
+* attached prepositions/conjunctions and pronominal suffixes must be separated with "-" (mostly relevant for text alignment, treebanking,  and general readability):
 	* ``` bi-Llah?i  ```
 	* ``` fa-_dahaba ```
 * add "?" before “optional” final vowels that are usually dropped in transliteration and pronounciation (mostly relevant  for transliteration):
@@ -29,15 +29,16 @@ preceded (if necessary) with a technical character that is similar to a diacriti
 * *tāʾ marbūṭaŧ*: add "+" after *tāʾ marbūṭaŧ*, if the first word of *iḏāfaŧ* (mostly relevant for transliteration):
 	* ``` `_amma:t+u Ba.gd_ada ```, but:
 	* ``` al-`_amma:tu f_i Ba.gd_ada ```
-* more to be added...
+* a few more to be added...
 
 ## Running the converter
+* (Python 3.xx must be installed on the machine)
 * clone [git repository](https://github.com/PerseusDL/ArabicBetacode)
-* save texts that must be transliterated (i.e., the text is in English, but has some Arabic terms that must be transliterated) into “./to\_translit” (follow the format of given in the example file).
+* save texts that must be transliterated (i.e., the text is in English, but has some Arabic terms that must be transliterated) into “./to\_translit” (follow the format given in the example file).
 * save texts that must be fully transliterated or/and converted into Arabic script (i.e., the entire texts is in Arabic) into “./to_arabic/” (follow the format given in the example file).
-* run the script “\_generateBetaCode.py”.
-* converted texts (in all available modes of conversion) will be automatically added after the betaCoded texts.
-* if you need to make any changes, edit your initial betaCoded text and run the script again, converted results will be replaced with updated versions.
+* run the script “\_generateBetaCode.py” (in Mac terminal: ```python3 \_generateBetaCode.py```; on Windows: double-click on the script should work).
+* converted texts (in all available modes of conversion) will be appended to the file.
+* if you need to make any changes, edit your initial betaCode text and run the script again, converted results will be replaced with relevant updated versions.
 
 ## betaCode and One-To-One Transliteration
 
@@ -156,16 +157,23 @@ abnāʾu abnāʾi abnāʾa ǧarīʾủȵ maḳrūʾủȵ ḍawʾủȵ šayʾủ�
 
 ### betaCode converted into arabic script
 
-**NB** The formatting is off because gitHub does not have a proper style for Arabic 
-
+<p class="arabic">
+	
 قَالَ أَبُو مَسْعُودٍ :: أَنَا قَدْ سَمِعْتُ هٰذَا مِنْ رَسُولِ ﭐلـلّٰـهِ ( صْلْعْمْ )
 
+</p>
+<p class="arabic">
 حَدَّثَنَا عَمْرُو بْنُ رَافِعٍ ، حَدَّثَنَا عَبْدُ ﭐلـلّٰـهِ بْنُ ﭐلْمُبَارَكِ ، عَنْ مُحَمَّدِ بْنِ إِسْحَاقَ ، عَنْ مُحَمَّدِ بْنِ جَعْفَرٍ ، عَنْ عُبَيْدِ ﭐلـلّٰـهِ بْنِ عَبْدِ ﭐلـلّٰـهِ بْنِ عُمَرَ ، عَنْ أَبِيهِ ، عَنِ ﭐلنَّبِيِّ ( صْلْعْمْ ) نَحْوَهُ
-
+</p>
+<p class="arabic">
 أَخْبَرَنَا قُتَيْبَةُ قَالَ ، حَدَّثَنَا سُفْيَانُ ، عَنْ يَحْيٰى بْنِ سَعِيدٍ ، عَنْ أَبِي بَكْرِ بْنِ مُحَمَّدٍ ، عَنْ عُمَرَ بْنِ عَبْدِ ﭐلْعَزِيزِ ، عَنْ أَبِي بَكْرِ بْنِ عَبْدِ ﭐلرَّحْمٰنِ بْنِ ﭐلْحَارِثِ بْنِ هِشَامٍ ، عَنْ أَبِي هُرَيْرَةَ مِثْلَهُ
-
+</p>
+<p class="arabic">
+<b>
 تَحْوِيلُ ﭐلْحَمْزَةِ ( كَلِمَاتٌ مُفْرَدَةٌ )
-
+</b>
+</p>
+<p class="arabic">
 أَمْرٌ أُنْسٌ إِنْسٌ إِيمَانٌ
 آيَةٌ آمَنَ مَسْأَلَةٌ سَأَلَ رَأْسٌ قُرْآنٌ تَآمَرَ
 ذِئْبٌ أَسْئِلَةٌ قَارِئِهِ سُؤْلٌ مَسْؤُولٌ
@@ -181,6 +189,7 @@ abnāʾu abnāʾi abnāʾa ǧarīʾủȵ maḳrūʾủȵ ḍawʾủȵ šayʾủ�
 نَبَأَ قَارِئٌ تَكَافُؤٌ تَكَافُؤٍ تَكَافُؤًا
 أَبْناءُ أَبْناءِ أَبْناءَ جَريءٌ مَقْروءٌ ضَوْءٌ شَيْءٌ جُزْءٌ
 عُلَماءُ ﭐلْعُلَماءِ ﭐلْعُلَماءَ عَمْرٌو وَفَعَلُوا
+</p>
 
 ## betaCode into Translit
 
