@@ -2,17 +2,17 @@
 
 NB: These are examples of converting betaCode to full transliteration and Arabic script. The very last paragraph showcases conversion of hamza in different positions.
 
-q_ala 'ab_u Mas`_udi.n :: 'an_a qad sami`tu h~a_d_a min ras_uli All~ahi ( .sl`m )
+q_ala 'ab_u Mas`_udi.n :: 'an_a qad sami`tu h~a_d_a min ras_ul?i All~ah?i ( .sl`m )
 
-.hadda_ta-n_a `Amru.w bnu R_afi`i.n , .hadda_ta-n_a `Abdu All~ahi bnu al-Mub_araki , `an Mu.hammadi bni 'is.h_aqa , `an Mu.hammadi bni ^Ga`fari.n , `an `Ubaydi All~ahi bni `Abdi All~ahi bni `Umara , `an 'Ab_i-hi , `ani al-nabiyyi ( .sl`m ) na.hwa-hu
+.hadda_ta-n_a `Amr?u.w bn?u R_afi`?i.n , .hadda_ta-n_a `Abd?u All~ah?i bn?u al-Mub_arak?i , `an Mu.hammad?i bn?i 'Is.h_aq?a , `an Mu.hammad?i bn?i ^Ga`far?i.n , `an `Ubayd?i All~ah?i bn?i `Abd?i All~ah?i bn?i `Umar?a , `an 'Ab_i-hi , `an?i al-Nabiyy?i ( .sl`m ) na.hwa-hu
 
-'a_hbara-n_a Qutayba:tu q_ala , .hadda_ta-n_a Sufy_anu , `an Ya.hy/a bni Sa`_idi.n , `an 'Ab_i Bakri bni Mu.hammadi.n , `an `Umara bni `Abdi al-`Az_izi , `an 'Ab_i Bakri bni `Abdi al-Ra.hm~ani bni al-.H_ari_ti bni Hi^s_ami.n , `an 'Ab_i Hurayra:ta mi_tla-hu
+'a_hbara-n_a Qutayba:t?u q_ala , .hadda_ta-n_a Sufy_an?u , `an Ya.hy/a bn?i Sa`_id?i.n , `an 'Ab_i Bakr?i bn?i Mu.hammad?i.n , `an `Umar?a bn?i `Abd?i al-`Az_iz?i , `an 'Ab_i Bakr?i bn?i `Abd?i al-Ra.hm~an?i bn?i al-.H_ari_t?i bn?i Hi^s_am?i.n , `an 'Ab_i Hurayra:t?a mi_tla-hu
 
-Ta.hw_ilu al-.hamza:ti ( kalim_atu.n mufrada:tu.n )
+Ta.hw_il?u al-.hamza:t?i ( kalim_at?u.n mufrada:t?u.n )
 
-'amru.n 'unsu.n 'insu.n '_im_anu.n
-'_aya:tu.n '_amana mas'ala:tu.n sa'ala ra'su.n qur'_anu.n ta'_amara
-_di'bu.n as'ila:tu.n q_ari'i-hi su'lu.n mas'_ulu.n
+'amr?u.n 'uns?u.n 'ins?u.n '_im_an?u.n
+'_aya:t?u.n '_amana mas'ala:t?u.n sa'ala ra's?u.n qur'_an?u.n ta'_amara
+_di'b?u.n as'ila:tu.n q_ari'i-hi su'lu.n mas'_ulu.n
 tak_afu'u-hu su'ila q_ari'i-hi _di'_abu.n ra'_isu.n
 bu'isa ru'_ufu.n ra'_ufu.n su'_alu.n mu'arri_hu.n
 abn_a'a-hu abn_a'u-hu abn_a'i-hi ^say'a.n _ha.t_i'a:tu.n
@@ -29,17 +29,17 @@ abn_a'u abn_a'i abn_a'a jar_i'u.n maqr_u'u.n .daw'u.n ^say'u.n juz'u.n
 ###KEEP#THIS#LINE#TEXT#WILL#BE#GENERATED#BELOW#
 ###TRANSLIT#ONE#TO#ONE###
 
-ḳāla ʾabū Masʿūdiȵ :: ʾanā ḳad samiʿtu hãḏā min rasūli Allãhi ( ṣlʿm )
+ḳāla ʾabū Masʿūdiȵ :: ʾanā ḳad samiʿtu hãḏā min rasūlỉ Allãhỉ ( ṣlʿm )
 
-ḥaddaṯa-nā ʿAmruů bnu Rāfiʿiȵ , ḥaddaṯa-nā ʿAbdu Allãhi bnu al-Mubāraki , ʿan Muḥammadi bni ʾisḥāḳa , ʿan Muḥammadi bni Ǧaʿfariȵ , ʿan ʿUbaydi Allãhi bni ʿAbdi Allãhi bni ʿUmara , ʿan ʾAbī-hi , ʿani al-nabiyyi ( ṣlʿm ) naḥwa-hu
+ḥaddaṯa-nā ʿAmrủů bnủ Rāfiʿỉȵ , ḥaddaṯa-nā ʿAbdủ Allãhỉ bnủ al-Mubārakỉ , ʿan Muḥammadỉ bnỉ ʾIsḥāḳả , ʿan Muḥammadỉ bnỉ Ǧaʿfarỉȵ , ʿan ʿUbaydỉ Allãhỉ bnỉ ʿAbdỉ Allãhỉ bnỉ ʿUmarả , ʿan ʾAbī-hi , ʿanỉ al-Nabiyyỉ ( ṣlʿm ) naḥwa-hu
 
-ʾaḫbara-nā Ḳutaybaŧu ḳāla , ḥaddaṯa-nā Sufyānu , ʿan Yaḥyá bni Saʿīdiȵ , ʿan ʾAbī Bakri bni Muḥammadiȵ , ʿan ʿUmara bni ʿAbdi al-ʿAzīzi , ʿan ʾAbī Bakri bni ʿAbdi al-Raḥmãni bni al-Ḥāriṯi bni Hišāmiȵ , ʿan ʾAbī Hurayraŧa miṯla-hu
+ʾaḫbara-nā Ḳutaybaŧủ ḳāla , ḥaddaṯa-nā Sufyānủ , ʿan Yaḥyá bnỉ Saʿīdỉȵ , ʿan ʾAbī Bakrỉ bnỉ Muḥammadỉȵ , ʿan ʿUmarả bnỉ ʿAbdỉ al-ʿAzīzỉ , ʿan ʾAbī Bakrỉ bnỉ ʿAbdỉ al-Raḥmãnỉ bnỉ al-Ḥāriṯỉ bnỉ Hišāmỉȵ , ʿan ʾAbī Hurayraŧả miṯla-hu
 
-Taḥwīlu al-ḥamzaŧi ( kalimātuȵ mufradaŧuȵ )
+Taḥwīlủ al-ḥamzaŧỉ ( kalimātủȵ mufradaŧủȵ )
 
-ʾamruȵ ʾunsuȵ ʾinsuȵ ʾīmānuȵ
-ʾāyaŧuȵ ʾāmana masʾalaŧuȵ saʾala raʾsuȵ ḳurʾānuȵ taʾāmara
-ḏiʾbuȵ asʾilaŧuȵ ḳāriʾi-hi suʾluȵ masʾūluȵ
+ʾamrủȵ ʾunsủȵ ʾinsủȵ ʾīmānủȵ
+ʾāyaŧủȵ ʾāmana masʾalaŧủȵ saʾala raʾsủȵ ḳurʾānủȵ taʾāmara
+ḏiʾbủȵ asʾilaŧuȵ ḳāriʾi-hi suʾluȵ masʾūluȵ
 takāfuʾu-hu suʾila ḳāriʾi-hi ḏiʾābuȵ raʾīsuȵ
 buʾisa ruʾūfuȵ raʾūfuȵ suʾāluȵ muʾarriḫuȵ
 abnāʾa-hu abnāʾu-hu abnāʾi-hi šayʾaȵ ḫaṭīʾaŧuȵ

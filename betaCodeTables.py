@@ -58,10 +58,12 @@ betacodeTranslit = {
     ':t' : 'ŧ', # tā’ marbūṭaŧ, add +, it in idafa (`_amma:t+ ba.gd_ad)
 # Vowels
     '~a' : 'ã', # dagger alif
-    'a'  : 'a', # fatḥaŧ
-    'u'  : 'u', # ḍammaŧ
+    'u'  : 'u', # ḍammaŧ    
     'i'  : 'i', # kasraŧ
-
+    'a'  : 'a', # fatḥaŧ
+    '?u'  : 'ủ', # ḍammaŧ    
+    '?i'  : 'ỉ', # kasraŧ
+    '?a'  : 'ả', # fatḥaŧ    
     '.n' : 'ȵ',  # n of tanwīn
     #'^n' : 'ȵ',  # n of tanwīn
     #'_n' : 'ȵ',  # n of tanwīn
@@ -114,11 +116,14 @@ translitLOC = {
     'a' : 'a',  # fatḥaŧ
     'u' : 'u',  # ḍammaŧ
     'i' : 'i',  # kasraŧ
-    'aȵ' : '',  # tanwīn fatḥ
+    'aȵ' : 'an',  # tanwīn fatḥ
     'uȵ' : '',  # tanwīn ḍamm
     'iȵ' : '',  # tanwīn kasr
     'ů' : '',  # silent w, like in `Amru.n.w
-    'å' : ''  # silent alif, like in fa`al_u.a   
+    'å' : '',  # silent alif, like in fa`al_u.a
+    'ả' : '',  # final fatḥaŧ
+    'ỉ' : '',  # final ḍammaŧ
+    'ủ' : '',  # final kasraŧ    
     }
 
 # necessary for rendering searcheable lines
@@ -169,7 +174,10 @@ translitSearch = {
     'uȵ' : '',  # tanwīn ḍamm
     'iȵ' : '',  # tanwīn kasr
     'ů' : '',  # silent w, like in `Amru.n.w
-    'å' : ''  # silent alif, like in fa`al_u.a   
+    'å' : '',  # silent alif, like in fa`al_u.a
+    'ả' : '',  # final fatḥaŧ
+    'ỉ' : '',  # final ḍammaŧ
+    'ủ' : '',  # final kasraŧ 
     }
 
 translitArabic = {
@@ -219,7 +227,10 @@ translitArabic = {
     'uȵ' : ' ٌ ',  # tanwīn ḍamm
     'iȵ' : ' ٍ ',  # tanwīn kasr
     'ů' : ' و ',  # silent w, like in `Amru.n.w
-    'å' : ' ا '  # silent alif, like in fa`al_u.a   
+    'å' : ' ا ',  # silent alif, like in fa`al_u.a
+    'ả' : ' َ ',  # final fatḥaŧ
+    'ỉ' : ' ِ ',  # final ḍammaŧ
+    'ủ' : ' ُ ',  # final kasraŧ 
     }
 
 arabicBetaCode = {

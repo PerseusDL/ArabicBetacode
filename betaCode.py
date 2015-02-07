@@ -79,12 +79,17 @@ def arabicToBetaCode(text):
 def betacodeToArabic(text):
     cnsnnts = "btṯǧčḥḥḫdḏrzsšṣḍṭẓʿġfḳkglmnhwy"
     cnsnnts = "%s%s" % (cnsnnts, cnsnnts.upper())
-    
+
     #print("betacodeToArabic()")
     text = dictReplace(text, betaCodeTables.betacodeTranslit)
     text = re.sub('\+' , '', text)
-    text = text.lower()
 
+    # fix irrelevant variables for Arabic script
+    text = text.lower()
+    text = re.sub("ủ", "u", text)
+    text = re.sub("ỉ", "i", text)
+    text = re.sub("ả", "a", text)
+    
     # complex combinations
     sun = "tṯdḏrzsšṣḍṭẓln"
     text = re.sub(r"\b[aA]l-([%s])" % sun, r"ﭐل-\1\1", text) # converts articles w/ sun letters

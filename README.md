@@ -1,23 +1,32 @@
 # Arabic betaCode
 
- Although both Windows and Mac OS now support Arabic, it is still quite difficult to type and edit Arabic texts. In particular, it is extremely difficult to edit and manipulate fully vocalized texts, since most fonts either render “short vowels” (*ḥarakāt*) invisible, or do not render them properly. Moreover, because of the “stacking,” i.e. when “short vowels” are placed on top of each other, it becomes impossible to edit texts, one is forced to delete and re-type, rather then to edit (and still, because of visual issues, there is no guarantee that all the letters and “short vowels” are actually in the right order). **betaCode** can help to make typing fully-vocalized Arabic texts possible and easy on any machine and render it into various transliteration conventions and into Arabic script (scroll below for examples). 
+ Although both Windows and Mac OS now support Arabic, it is still quite difficult to type and edit Arabic texts. It is particularly frustrating to edit and manipulate fully vocalized texts, since most fonts either render “short vowels” (*ḥarakāt*) invisible, or do not render them properly. Because of the “stacking,” i.e. “short vowels” being placed on top of letters and on top of each other, it becomes impossible to *edit* texts and one is often forced to go into delete-and-retype mode (and there is still no guarantee, because of visual issues, that all the letters and “short vowels” will actually be in the right order). **betaCode** makes typing fully-vocalized Arabic texts easy on any machine through the use of simple character combinations and rendering into various transliteration schemes and the Arabic script (scroll below for examples). 
 
-**betaCode** is first converted into a one-to-one transliteration scheme (the one to rule them all), which combines one-to-one transliteration conventions from major academic transliteration schemes. Such scheme is necessary, since none of the existing academic transliteration schemes (American/Library of Congress, British, French, German) allow to represent Arabic text unambiguously for computational purposes. Arabic **betaCode** transliteration can be then converted into any transliteration conventions. At the moment the following schemes are implemented (not yet fully):
+**betaCode** is first converted into a one-to-one transliteration scheme, which combines one-to-one transliteration conventions from various academic transliteration schemes. Such scheme is necessary, since none of the existing academic transliteration schemes (American/Library of Congress, British, French, German) allow to represent Arabic text unambiguously for computational purposes. Arabic **betaCode** transliteration can be then converted into any transliteration conventions. At the moment the following schemes are implemented (not yet fully):
 
 * Library of Congress Romanization of Arabic
-* Simplified transliteration (essentially, LOC but with diacritics removed)
-* Arabic script (*hamzaŧ* orthography are implemented, but may require some additional testing)
+* Simplified transliteration (essentially LOC but without diacritics)
+* Arabic script (the rules of *hamzaŧ* orthography are implemented, but may require some additional testing)
 
-**NB:** The idea of **betaCode** is borrowed from the Classicists who developed ["a method of representing, using only ASCII characters, characters and formatting found in ancient Greek texts"](http://en.wikipedia.org/wiki/Beta_Code). The current **betaCode** is inspired by, and is therefore quite similar to, the [arabTex scheme](http://www2.informatik.uni-stuttgart.de/ivi/bs/research/arab_e.htm). Linguists working with Arabic are commonly using (Buckwalter transliteration)[http://en.wikipedia.org/wiki/Buckwalter_transliteration], which essentially is a betaCode, but less readable. 
+**NB:** The idea of **betaCode** is borrowed from the Classicists who developed ["a method of representing, using only ASCII characters, characters and formatting found in ancient Greek texts"](http://en.wikipedia.org/wiki/Beta_Code). The current **betaCode** is inspired by, and is therefore quite similar to, the [arabTex scheme](http://www2.informatik.uni-stuttgart.de/ivi/bs/research/arab_e.htm). Linguists working with Arabic are commonly using [Buckwalter transliteration](http://en.wikipedia.org/wiki/Buckwalter_transliteration), which essentially is a betaCode, but less readable. 
 
-## Basic principles of *betaCode*:
-Every Arabic letter is betaCoded with its one-letter equivalent (thus pulling from different academic transliteration schemes),
-preceded (if necessary) with a technical symbol that is similar to a diacritical mark in the transliterated version. Thus, most common symbols are as follows:
+## Basic principles:
+Every Arabic letter is betaCoded with its one-letter equivalent,
+preceded (if necessary) with a technical character that is similar to a diacritical mark in the transliterated version. Thus, most common symbols are as follows:
 
+#### *General*
 * **\_** (underscore), if letter can be transliterated with *macron*/*breve* below or above (ā, ṯ, ḫ, ḏ, ū, ī)
 * **.** (period), or  <b>\*</b> (asterisk), if letter can be transliterated transliterated with *dot* below or above (ḥ, ṣ, ḍ, ṭ, ẓ, ġ, ḳ)
 * **^** (caret), if letter can be transliterated with *caron* (ǧ, š)
-* plus some new combinations (scroll down for the complete table)
+
+#### *Specifics*
+* attached prepositions/conjunctions and pronominal suffixes must be separated with "-", i.e.:
+	* ``` bi-Llahi  ```
+	* ``` fa-_dahaba ```
+* *tāʾ marbūṭaŧ*: add "+" after *tāʾ marbūṭaŧ*, if the first word of *iḏāfaŧ*
+	* ``` `_amma:t+u Ba.gd_ada ```, but:
+	* ``` al-`_amma:tu f_i Ba.gd_ada ```
+* more to be added...
 
 ## Running the converter
 * clone the repository
@@ -74,23 +83,17 @@ preceded (if necessary) with a technical symbol that is similar to a diacritical
 | **betacode** | translit | Arabic |
 |----------|-----------------|---------------|
 | **~a** | ã | *dagger alif* |
-| **a** | a | *fatḥaŧ* |
 | **u** | u | *ḍammaŧ* |
 | **i** | i | *kasraŧ* |
+| **a** | a | *fatḥaŧ* |
 | **.n** | ȵ | *n of tanwīn* |
 | **.a** | å | *silent alif* |
 | **.w** | ů | *silent wāw* |
+| **?u** | ủ | final *ḍammaŧ* \* |
+| **?i** | ỉ | final *kasraŧ* \* |
+| **?a** | ả | final *fatḥaŧ* \* |
 
-## Additional *betaCode* rules
-
-* attached prepositions/conjunctions must be separated with "-", i.e.:
-	* ``` bi-Llahi  ```
-	* ``` fa-_dahaba ```
-* *tāʾ marbūṭaŧ*: add "+" after *tāʾ marbūṭaŧ*, if the first word of *iḏāfaŧ*
-	* ``` `_amma:t+u Ba.gd_ada ```, but:
-	* ``` al-`_amma:tu f_i Ba.gd_ada ```
-* more to be added...
-
+\* “finals” are those final vowels that are usually dropped in transliteration and pronounciation (i.e., *al-kitāb*, instead of *al-kitābủ*, *al-kitābỉ*, *al-kitābả*), vs those that are not (huwa, hiyya, ḏãlika, tilka).
 
 # Examples 
 
