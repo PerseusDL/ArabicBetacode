@@ -20,16 +20,19 @@ preceded (if necessary) with a technical character that is similar to a diacriti
 * **^** (caret), if letter can be transliterated with *caron* (ǧ, š)
 
 #### *Specifics*
-* attached prepositions/conjunctions and pronominal suffixes must be separated with "-", i.e.:
-	* ``` bi-Llahi  ```
+* attached prepositions/conjunctions and pronominal suffixes must be separated with "-" (primarily for readability and text alignment):
+	* ``` bi-Llah?i  ```
 	* ``` fa-_dahaba ```
-* *tāʾ marbūṭaŧ*: add "+" after *tāʾ marbūṭaŧ*, if the first word of *iḏāfaŧ*
+* add "?" before “optional” final vowels that are usually dropped in transliteration and pronounciation (mostly relevant  for transliteration):
+	* ``` bi-Llah?i  ```, but not:
+	* ``` fa-_dahaba ```	
+* *tāʾ marbūṭaŧ*: add "+" after *tāʾ marbūṭaŧ*, if the first word of *iḏāfaŧ* (mostly relevant for transliteration):
 	* ``` `_amma:t+u Ba.gd_ada ```, but:
 	* ``` al-`_amma:tu f_i Ba.gd_ada ```
 * more to be added...
 
 ## Running the converter
-* clone the repository
+* clone [git repository](https://github.com/PerseusDL/ArabicBetacode)
 * save texts that must be transliterated (i.e., the text is in English, but has some Arabic terms that must be transliterated) into “./to\_translit” (follow the format of given in the example file).
 * save texts that must be fully transliterated or/and converted into Arabic script (i.e., the entire texts is in Arabic) into “./to_arabic/” (follow the format given in the example file).
 * run the script “\_generateBetaCode.py”.
@@ -101,60 +104,59 @@ preceded (if necessary) with a technical character that is similar to a diacriti
 
 NB: These are examples of converting betaCode to full transliteration and Arabic script. The very last paragraph showcases conversion of hamza in different positions.
 
-q\_ala 'ab\_u Mas\`\_udi.n :: 'an\_a qad sami\`tu h~a\_d\_a min ras\_uli All~ahi ( .sl\`m )
+q\_ala 'ab\_u Mas\`\_ud?i.n :: 'an\_a qad sami\`tu h~a\_d\_a min ras\_ul?i All~ah?i ( .sl\`m )
 
-.hadda\_ta-n\_a \`Amru.w bnu R\_afi\`i.n , .hadda\_ta-n\_a \`Abdu All~ahi bnu al-Mub\_araki , \`an Mu.hammadi bni 'is.h\_aqa , \`an Mu.hammadi bni ^Ga\`fari.n , \`an \`Ubaydi All~ahi bni \`Abdi All~ahi bni \`Umara , \`an 'Ab\_i-hi , \`ani al-nabiyyi ( .sl\`m ) na.hwa-hu
+.hadda\_ta-n\_a \`Amr?u.w bn?u R\_afi\`?i.n , .hadda\_ta-n\_a \`Abd?u All~ah?i bn?u al-Mub\_arak?i , \`an Mu.hammad?i bn?i 'Is.h\_aq?a , \`an Mu.hammad?i bn?i ^Ga\`far?i.n , \`an \`Ubayd?i All~ah?i bn?i \`Abd?i All~ah?i bn?i \`Umar?a , \`an 'Ab\_i-hi , \`an?i al-Nabiyy?i ( .sl\`m ) na.hwa-hu
 
-'a\_hbara-n\_a Qutayba:tu q\_ala , .hadda\_ta-n\_a Sufy\_anu , \`an Ya.hy/a bni Sa\`\_idi.n , \`an 'Ab\_i Bakri bni Mu.hammadi.n , \`an \`Umara bni \`Abdi al-\`Az\_izi , \`an 'Ab\_i Bakri bni \`Abdi al-Ra.hm~ani bni al-.H\_ari\_ti bni Hi^s\_ami.n , \`an 'Ab\_i Hurayra:ta mi\_tla-hu
+'a\_hbara-n\_a Qutayba:t?u q\_ala , .hadda\_ta-n\_a Sufy\_an?u , \`an Ya.hy/a bn?i Sa\`\_id?i.n , \`an 'Ab\_i Bakr?i bn?i Mu.hammad?i.n , \`an \`Umar?a bn?i \`Abd?i al-\`Az\_iz?i , \`an 'Ab\_i Bakr?i bn?i \`Abd?i al-Ra.hm~an?i bn?i al-.H\_ari\_t?i bn?i Hi^s\_am?i.n , \`an 'Ab\_i Hurayra:t?a mi\_tla-hu
 
-Ta.hw\_ilu al-.hamza:ti ( kalim\_atu.n mufrada:tu.n )
+Ta.hw\_il?u al-.hamza:t?i ( kalim\_at?u.n mufrada:t?u.n )
 
-'amru.n 'unsu.n 'insu.n '\_im\_anu.n
-'\_aya:tu.n '\_amana mas'ala:tu.n sa'ala ra'su.n qur'\_anu.n ta'\_amara
-\_di'bu.n as'ila:tu.n q\_ari'i-hi su'lu.n mas'\_ulu.n
-tak\_afu'u-hu su'ila q\_ari'i-hi \_di'\_abu.n ra'\_isu.n
-bu'isa ru'\_ufu.n ra'\_ufu.n su'\_alu.n mu'arri\_hu.n
-abn\_a'a-hu abn\_a'u-hu abn\_a'i-hi ^say'a.n \_ha.t\_i'a:tu.n
-.daw'u-hu .d\_u'u-hu .daw'a-hu .daw'i-hi mur\_u'a:tu.n
-'abn\_a'i-hi bar\_i'u-hu s\_u'ila f\_ilu.n f\_annu.n f\_unnu.n
-s\_a'ala fu'\_adu.n ^surak\_a'u-hu ri'\_asa:tu.n tahni'a:tu.n
-daf\_a'a:tu.n .taff\_a'a:tu.n ta'r\_i\_hu.n fa'ru.n
-^say'u.n ^say'i.n ^say'a.n  .daw'u.n .daw'i.n .daw'a.n
-juz'u.n  juz'i.n  juz'a.n mabda'u.n mabda'i.n mabda'a.n
-naba'a q\_ari'u.n tak\_afu'u.n tak\_afu'i.n tak\_afu'a.n
-abn\_a'u abn\_a'i abn\_a'a jar\_i'u.n maqr\_u'u.n .daw'u.n ^say'u.n juz'u.n
-\`ulam\_a'u al-\`ulam\_a'i al-\`ulam\_a'a \`Amru.n.w wa-fa\`al\_u.a
-
+'amr?u.n 'uns?u.n 'ins?u.n '\_im\_an?u.n
+'\_aya:t?u.n '\_amana mas'ala:t?u.n sa'ala ra's?u.n qur'\_an?u.n ta'\_amara
+\_di'b?u.n as'ila:t?u.n q\_ari'i-hi su'l?u.n mas'\_ul?u.n
+tak\_afu'u-hu su'ila q\_ari'i-hi \_di'\_ab?u.n ra'\_is?u.n
+bu'isa ru'\_uf?u.n ra'\_uf?u.n su'\_al?u.n mu'arri\_h?u.n
+abn\_a'a-hu abn\_a'u-hu abn\_a'i-hi ^say'?a.n \_ha.t\_i'a:t?u.n
+.daw'u-hu .d\_u'u-hu .daw'a-hu .daw'i-hi mur\_u'a:t?u.n
+'abn\_a'i-hi bar\_i'u-hu s\_u'ila f\_il?u.n f\_ann?u.n f\_unn?u.n
+s\_a'ala fu'\_ad?u.n ^surak\_a'u-hu ri'\_asa:t?u.n tahni'a:t?u.n
+daf\_a'a:t?u.n .taff\_a'a:t?u.n ta'r\_i\_h?u.n fa'r?u.n
+^say'?u.n ^say'?i.n ^say'?a.n  .daw'?u.n .daw'?i.n .daw'?a.n
+juz'?u.n  juz'?i.n  juz'?a.n mabda'?u.n mabda'?i.n mabda'?a.n
+naba'a q\_ari'?u.n tak\_afu'?u.n tak\_afu'?i.n tak\_afu'?a.n
+abn\_a'u abn\_a'i abn\_a'a jar\_i'?u.n maqr\_u'?u.n .daw'?u.n ^say'?u.n juz'?u.n
+\`ulam\_a'u al-\`ulam\_a'i al-\`ulam\_a'a \`Amr?u.n.w wa-fa\`al\_u.a
 
 ## betaCode converted into one-to-one translit
 
-ḳāla ʾabū Masʿūdiȵ :: ʾanā ḳad samiʿtu hãḏā min rasūli Allãhi ( ṣlʿm )
+ḳāla ʾabū Masʿūdỉȵ :: ʾanā ḳad samiʿtu hãḏā min rasūlỉ Allãhỉ ( ṣlʿm )
 
-ḥaddaṯa-nā ʿAmruů bnu Rāfiʿiȵ , ḥaddaṯa-nā ʿAbdu Allãhi bnu al-Mubāraki , ʿan Muḥammadi bni ʾisḥāḳa , ʿan Muḥammadi bni Ǧaʿfariȵ , ʿan ʿUbaydi Allãhi bni ʿAbdi Allãhi bni ʿUmara , ʿan ʾAbī-hi , ʿani al-nabiyyi ( ṣlʿm ) naḥwa-hu
+ḥaddaṯa-nā ʿAmrủů bnủ Rāfiʿỉȵ , ḥaddaṯa-nā ʿAbdủ Allãhỉ bnủ al-Mubārakỉ , ʿan Muḥammadỉ bnỉ ʾIsḥāḳả , ʿan Muḥammadỉ bnỉ Ǧaʿfarỉȵ , ʿan ʿUbaydỉ Allãhỉ bnỉ ʿAbdỉ Allãhỉ bnỉ ʿUmarả , ʿan ʾAbī-hi , ʿanỉ al-Nabiyyỉ ( ṣlʿm ) naḥwa-hu
 
-ʾaḫbara-nā Ḳutaybaŧu ḳāla , ḥaddaṯa-nā Sufyānu , ʿan Yaḥyá bni Saʿīdiȵ , ʿan ʾAbī Bakri bni Muḥammadiȵ , ʿan ʿUmara bni ʿAbdi al-ʿAzīzi , ʿan ʾAbī Bakri bni ʿAbdi al-Raḥmãni bni al-Ḥāriṯi bni Hišāmiȵ , ʿan ʾAbī Hurayraŧa miṯla-hu
+ʾaḫbara-nā Ḳutaybaŧủ ḳāla , ḥaddaṯa-nā Sufyānủ , ʿan Yaḥyá bnỉ Saʿīdỉȵ , ʿan ʾAbī Bakrỉ bnỉ Muḥammadỉȵ , ʿan ʿUmarả bnỉ ʿAbdỉ al-ʿAzīzỉ , ʿan ʾAbī Bakrỉ bnỉ ʿAbdỉ al-Raḥmãnỉ bnỉ al-Ḥāriṯỉ bnỉ Hišāmỉȵ , ʿan ʾAbī Hurayraŧả miṯla-hu
 
-Taḥwīlu al-ḥamzaŧi ( kalimātuȵ mufradaŧuȵ )
+Taḥwīlủ al-ḥamzaŧỉ ( kalimātủȵ mufradaŧủȵ )
 
-ʾamruȵ ʾunsuȵ ʾinsuȵ ʾīmānuȵ
-ʾāyaŧuȵ ʾāmana masʾalaŧuȵ saʾala raʾsuȵ ḳurʾānuȵ taʾāmara
-ḏiʾbuȵ asʾilaŧuȵ ḳāriʾi-hi suʾluȵ masʾūluȵ
-takāfuʾu-hu suʾila ḳāriʾi-hi ḏiʾābuȵ raʾīsuȵ
-buʾisa ruʾūfuȵ raʾūfuȵ suʾāluȵ muʾarriḫuȵ
-abnāʾa-hu abnāʾu-hu abnāʾi-hi šayʾaȵ ḫaṭīʾaŧuȵ
-ḍawʾu-hu ḍūʾu-hu ḍawʾa-hu ḍawʾi-hi murūʾaŧuȵ
-ʾabnāʾi-hi barīʾu-hu sūʾila fīluȵ fānnuȵ fūnnuȵ
-sāʾala fuʾāduȵ šurakāʾu-hu riʾāsaŧuȵ tahniʾaŧuȵ
-dafāʾaŧuȵ ṭaffāʾaŧuȵ taʾrīḫuȵ faʾruȵ
-šayʾuȵ šayʾiȵ šayʾaȵ  ḍawʾuȵ ḍawʾiȵ ḍawʾaȵ
-ǧuzʾuȵ  ǧuzʾiȵ  ǧuzʾaȵ mabdaʾuȵ mabdaʾiȵ mabdaʾaȵ
-nabaʾa ḳāriʾuȵ takāfuʾuȵ takāfuʾiȵ takāfuʾaȵ
-abnāʾu abnāʾi abnāʾa ǧarīʾuȵ maḳrūʾuȵ ḍawʾuȵ šayʾuȵ ǧuzʾuȵ
-ʿulamāʾu al-ʿulamāʾi al-ʿulamāʾa ʿAmruȵů wa-faʿalūå
+ʾamrủȵ ʾunsủȵ ʾinsủȵ ʾīmānủȵ
+ʾāyaŧủȵ ʾāmana masʾalaŧủȵ saʾala raʾsủȵ ḳurʾānủȵ taʾāmara
+ḏiʾbủȵ asʾilaŧủȵ ḳāriʾi-hi suʾlủȵ masʾūlủȵ
+takāfuʾu-hu suʾila ḳāriʾi-hi ḏiʾābủȵ raʾīsủȵ
+buʾisa ruʾūfủȵ raʾūfủȵ suʾālủȵ muʾarriḫủȵ
+abnāʾa-hu abnāʾu-hu abnāʾi-hi šayʾảȵ ḫaṭīʾaŧủȵ
+ḍawʾu-hu ḍūʾu-hu ḍawʾa-hu ḍawʾi-hi murūʾaŧủȵ
+ʾabnāʾi-hi barīʾu-hu sūʾila fīlủȵ fānnủȵ fūnnủȵ
+sāʾala fuʾādủȵ šurakāʾu-hu riʾāsaŧủȵ tahniʾaŧủȵ
+dafāʾaŧủȵ ṭaffāʾaŧủȵ taʾrīḫủȵ faʾrủȵ
+šayʾủȵ šayʾỉȵ šayʾảȵ  ḍawʾủȵ ḍawʾỉȵ ḍawʾảȵ
+ǧuzʾủȵ  ǧuzʾỉȵ  ǧuzʾảȵ mabdaʾủȵ mabdaʾỉȵ mabdaʾảȵ
+nabaʾa ḳāriʾủȵ takāfuʾủȵ takāfuʾỉȵ takāfuʾảȵ
+abnāʾu abnāʾi abnāʾa ǧarīʾủȵ maḳrūʾủȵ ḍawʾủȵ šayʾủȵ ǧuzʾủȵ
+ʿulamāʾu al-ʿulamāʾi al-ʿulamāʾa ʿAmrủȵů wa-faʿalūå
 
 ### betaCode converted into arabic script
 
-**NB** Formatting below is simply because of the lack of a proper style for Arabic in gitHub 
+**NB** The formatting is off because gitHub does not have a proper style for Arabic 
 
 قَالَ أَبُو مَسْعُودٍ :: أَنَا قَدْ سَمِعْتُ هٰذَا مِنْ رَسُولِ ﭐلـلّٰـهِ ( صْلْعْمْ )
 

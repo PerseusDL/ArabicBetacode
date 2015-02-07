@@ -2,7 +2,7 @@
 
 NB: These are examples of converting betaCode to full transliteration and Arabic script. The very last paragraph showcases conversion of hamza in different positions.
 
-q_ala 'ab_u Mas`_udi.n :: 'an_a qad sami`tu h~a_d_a min ras_ul?i All~ah?i ( .sl`m )
+q_ala 'ab_u Mas`_ud?i.n :: 'an_a qad sami`tu h~a_d_a min ras_ul?i All~ah?i ( .sl`m )
 
 .hadda_ta-n_a `Amr?u.w bn?u R_afi`?i.n , .hadda_ta-n_a `Abd?u All~ah?i bn?u al-Mub_arak?i , `an Mu.hammad?i bn?i 'Is.h_aq?a , `an Mu.hammad?i bn?i ^Ga`far?i.n , `an `Ubayd?i All~ah?i bn?i `Abd?i All~ah?i bn?i `Umar?a , `an 'Ab_i-hi , `an?i al-Nabiyy?i ( .sl`m ) na.hwa-hu
 
@@ -12,24 +12,24 @@ Ta.hw_il?u al-.hamza:t?i ( kalim_at?u.n mufrada:t?u.n )
 
 'amr?u.n 'uns?u.n 'ins?u.n '_im_an?u.n
 '_aya:t?u.n '_amana mas'ala:t?u.n sa'ala ra's?u.n qur'_an?u.n ta'_amara
-_di'b?u.n as'ila:tu.n q_ari'i-hi su'lu.n mas'_ulu.n
-tak_afu'u-hu su'ila q_ari'i-hi _di'_abu.n ra'_isu.n
-bu'isa ru'_ufu.n ra'_ufu.n su'_alu.n mu'arri_hu.n
-abn_a'a-hu abn_a'u-hu abn_a'i-hi ^say'a.n _ha.t_i'a:tu.n
-.daw'u-hu .d_u'u-hu .daw'a-hu .daw'i-hi mur_u'a:tu.n
-'abn_a'i-hi bar_i'u-hu s_u'ila f_ilu.n f_annu.n f_unnu.n
-s_a'ala fu'_adu.n ^surak_a'u-hu ri'_asa:tu.n tahni'a:tu.n
-daf_a'a:tu.n .taff_a'a:tu.n ta'r_i_hu.n fa'ru.n
-^say'u.n ^say'i.n ^say'a.n  .daw'u.n .daw'i.n .daw'a.n
-juz'u.n  juz'i.n  juz'a.n mabda'u.n mabda'i.n mabda'a.n
-naba'a q_ari'u.n tak_afu'u.n tak_afu'i.n tak_afu'a.n
-abn_a'u abn_a'i abn_a'a jar_i'u.n maqr_u'u.n .daw'u.n ^say'u.n juz'u.n
-`ulam_a'u al-`ulam_a'i al-`ulam_a'a `Amru.n.w wa-fa`al_u.a
+_di'b?u.n as'ila:t?u.n q_ari'i-hi su'l?u.n mas'_ul?u.n
+tak_afu'u-hu su'ila q_ari'i-hi _di'_ab?u.n ra'_is?u.n
+bu'isa ru'_uf?u.n ra'_uf?u.n su'_al?u.n mu'arri_h?u.n
+abn_a'a-hu abn_a'u-hu abn_a'i-hi ^say'?a.n _ha.t_i'a:t?u.n
+.daw'u-hu .d_u'u-hu .daw'a-hu .daw'i-hi mur_u'a:t?u.n
+'abn_a'i-hi bar_i'u-hu s_u'ila f_il?u.n f_ann?u.n f_unn?u.n
+s_a'ala fu'_ad?u.n ^surak_a'u-hu ri'_asa:t?u.n tahni'a:t?u.n
+daf_a'a:t?u.n .taff_a'a:t?u.n ta'r_i_h?u.n fa'r?u.n
+^say'?u.n ^say'?i.n ^say'?a.n  .daw'?u.n .daw'?i.n .daw'?a.n
+juz'?u.n  juz'?i.n  juz'?a.n mabda'?u.n mabda'?i.n mabda'?a.n
+naba'a q_ari'?u.n tak_afu'?u.n tak_afu'?i.n tak_afu'?a.n
+abn_a'u abn_a'i abn_a'a jar_i'?u.n maqr_u'?u.n .daw'?u.n ^say'?u.n juz'?u.n
+`ulam_a'u al-`ulam_a'i al-`ulam_a'a `Amr?u.n.w wa-fa`al_u.a
 
 ###KEEP#THIS#LINE#TEXT#WILL#BE#GENERATED#BELOW#
 ###TRANSLIT#ONE#TO#ONE###
 
-ḳāla ʾabū Masʿūdiȵ :: ʾanā ḳad samiʿtu hãḏā min rasūlỉ Allãhỉ ( ṣlʿm )
+ḳāla ʾabū Masʿūdỉȵ :: ʾanā ḳad samiʿtu hãḏā min rasūlỉ Allãhỉ ( ṣlʿm )
 
 ḥaddaṯa-nā ʿAmrủů bnủ Rāfiʿỉȵ , ḥaddaṯa-nā ʿAbdủ Allãhỉ bnủ al-Mubārakỉ , ʿan Muḥammadỉ bnỉ ʾIsḥāḳả , ʿan Muḥammadỉ bnỉ Ǧaʿfarỉȵ , ʿan ʿUbaydỉ Allãhỉ bnỉ ʿAbdỉ Allãhỉ bnỉ ʿUmarả , ʿan ʾAbī-hi , ʿanỉ al-Nabiyyỉ ( ṣlʿm ) naḥwa-hu
 
@@ -39,19 +39,19 @@ Taḥwīlủ al-ḥamzaŧỉ ( kalimātủȵ mufradaŧủȵ )
 
 ʾamrủȵ ʾunsủȵ ʾinsủȵ ʾīmānủȵ
 ʾāyaŧủȵ ʾāmana masʾalaŧủȵ saʾala raʾsủȵ ḳurʾānủȵ taʾāmara
-ḏiʾbủȵ asʾilaŧuȵ ḳāriʾi-hi suʾluȵ masʾūluȵ
-takāfuʾu-hu suʾila ḳāriʾi-hi ḏiʾābuȵ raʾīsuȵ
-buʾisa ruʾūfuȵ raʾūfuȵ suʾāluȵ muʾarriḫuȵ
-abnāʾa-hu abnāʾu-hu abnāʾi-hi šayʾaȵ ḫaṭīʾaŧuȵ
-ḍawʾu-hu ḍūʾu-hu ḍawʾa-hu ḍawʾi-hi murūʾaŧuȵ
-ʾabnāʾi-hi barīʾu-hu sūʾila fīluȵ fānnuȵ fūnnuȵ
-sāʾala fuʾāduȵ šurakāʾu-hu riʾāsaŧuȵ tahniʾaŧuȵ
-dafāʾaŧuȵ ṭaffāʾaŧuȵ taʾrīḫuȵ faʾruȵ
-šayʾuȵ šayʾiȵ šayʾaȵ  ḍawʾuȵ ḍawʾiȵ ḍawʾaȵ
-ǧuzʾuȵ  ǧuzʾiȵ  ǧuzʾaȵ mabdaʾuȵ mabdaʾiȵ mabdaʾaȵ
-nabaʾa ḳāriʾuȵ takāfuʾuȵ takāfuʾiȵ takāfuʾaȵ
-abnāʾu abnāʾi abnāʾa ǧarīʾuȵ maḳrūʾuȵ ḍawʾuȵ šayʾuȵ ǧuzʾuȵ
-ʿulamāʾu al-ʿulamāʾi al-ʿulamāʾa ʿAmruȵů wa-faʿalūå
+ḏiʾbủȵ asʾilaŧủȵ ḳāriʾi-hi suʾlủȵ masʾūlủȵ
+takāfuʾu-hu suʾila ḳāriʾi-hi ḏiʾābủȵ raʾīsủȵ
+buʾisa ruʾūfủȵ raʾūfủȵ suʾālủȵ muʾarriḫủȵ
+abnāʾa-hu abnāʾu-hu abnāʾi-hi šayʾảȵ ḫaṭīʾaŧủȵ
+ḍawʾu-hu ḍūʾu-hu ḍawʾa-hu ḍawʾi-hi murūʾaŧủȵ
+ʾabnāʾi-hi barīʾu-hu sūʾila fīlủȵ fānnủȵ fūnnủȵ
+sāʾala fuʾādủȵ šurakāʾu-hu riʾāsaŧủȵ tahniʾaŧủȵ
+dafāʾaŧủȵ ṭaffāʾaŧủȵ taʾrīḫủȵ faʾrủȵ
+šayʾủȵ šayʾỉȵ šayʾảȵ  ḍawʾủȵ ḍawʾỉȵ ḍawʾảȵ
+ǧuzʾủȵ  ǧuzʾỉȵ  ǧuzʾảȵ mabdaʾủȵ mabdaʾỉȵ mabdaʾảȵ
+nabaʾa ḳāriʾủȵ takāfuʾủȵ takāfuʾỉȵ takāfuʾảȵ
+abnāʾu abnāʾi abnāʾa ǧarīʾủȵ maḳrūʾủȵ ḍawʾủȵ šayʾủȵ ǧuzʾủȵ
+ʿulamāʾu al-ʿulamāʾi al-ʿulamāʾa ʿAmrủȵů wa-faʿalūå
 
 ###TRANSLIT#ARABIC#SCRIPT###
 
