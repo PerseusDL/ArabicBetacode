@@ -9,19 +9,19 @@
 
 ############################################################
 ## betaCodeAuto
-.hadda_tan_a mu.hammadu bnu ba^ss_ari.n .hadda_tan_a mu.hammadu bnu ^ga`fari.n .hadda_tan_a ^su`ba:tu `ani al.hakami na.hwahu q_ala 'abuw `iysa/a .hadiy_tu albar_a'i .hadiy_tu.n .hasanu.n .sa.hiy.hu.n w_al`amalu `alayhi `inda 'ahli al`ilmi
+.hadda_tan_a mu.hammadu bnu ba^ss_ari.n .hadda_tan_a mu.hammadu bnu ^ga`fari.n .hadda_tan_a ^su`ba:tu `ani al.hakami na.hwahu q_ala 'ab_u `_is/a .had_i_tu albar_a'i .had_i_tu.n .hasanu.n .sa.h_i.hu.n w_al`amalu `alayhi `inda 'ahli al`ilmi
 
 ############################################################
 ## betaCodeManual
-.hadda_tan_a mu.hammadu bnu ba^ss_ari.n .hadda_tan_a mu.hammadu bnu ^ga`fari.n .hadda_tan_a ^su`ba:tu `ani al.hakami na.hwahu q_ala 'abuw `iysa/a .hadiy_tu albar_a'i .hadiy_tu.n .hasanu.n .sa.hiy.hu.n w_al`amalu `alayhi `inda 'ahli al`ilmi
+.hadda_tan_a mu.hammadu bnu ba^ss_ari.n .hadda_tan_a mu.hammadu bnu ^ga`fari.n .hadda_tan_a ^su`ba:tu `ani al.hakami na.hwahu q_ala 'ab_u `_is/a .had_i_tu albar_a'i .had_i_tu.n .hasanu.n .sa.h_i.hu.n w_al`amalu `alayhi `inda 'ahli al`ilmi
 
 ############################################################
 ## betaCodeManual>Translit
-ḥaddaṯanā muḥammadu bnu bašsāriȵ ḥaddaṯanā muḥammadu bnu ǧaʿfariȵ ḥaddaṯanā šuʿbaŧu ʿani alḥakami naḥwahu ḳāla ʾabuw ʿiysaá ḥadiyṯu albarāʾi ḥadiyṯuȵ ḥasanuȵ ṣaḥiyḥuȵ wālʿamalu ʿalayhi ʿinda ʾahli alʿilmi
+ḥaddaṯanā muḥammadu bnu bašsāriȵ ḥaddaṯanā muḥammadu bnu ǧaʿfariȵ ḥaddaṯanā šuʿbaŧu ʿani alḥakami naḥwahu ḳāla ʾabū ʿīsá ḥadīṯu albarāʾi ḥadīṯuȵ ḥasanuȵ ṣaḥīḥuȵ wālʿamalu ʿalayhi ʿinda ʾahli alʿilmi
 
 ############################################################
 ## betaCodeManual>Arabic
-حَدَّثَنَا مُحَمَّدُ بْنُ بَشْسَارٍ حَدَّثَنَا مُحَمَّدُ بْنُ جَعْفَرٍ حَدَّثَنَا شُعْبَةُ عَنِ أَلْحَكَمِ نَحْوَهُ قَالَ أَبُوْ عِيْسَٰى حَدِيْثُ أَلْبَراءِ حَدِيْثٌ حَسَنٌ صَحِيْحٌ وَالْعَمَلُ عَلَيْهِ عِنْدَ أَهْلِ أَلْعِلْمِ
+حَدَّثَنَا مُحَمَّدُ بْنُ بَشْسَارٍ حَدَّثَنَا مُحَمَّدُ بْنُ جَعْفَرٍ حَدَّثَنَا شُعْبَةُ عَنِ أَلْحَكَمِ نَحْوَهُ قَالَ أَبُو عِيسٰى حَدِيثُ أَلْبَراءِ حَدِيثٌ حَسَنٌ صَحِيحٌ وَالْعَمَلُ عَلَيْهِ عِنْدَ أَهْلِ أَلْعِلْمِ
 
 ############################################################
 ## TranslationBetaCode

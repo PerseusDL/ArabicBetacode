@@ -9,19 +9,19 @@
 
 ############################################################
 ## betaCodeAuto
-.hadda_tan_a `aliyyu bnu .hu^gri.n .hadda_tan_a ^su`aybu bnu .safw_ana `an `abdi almaliki bni `umayri.n `an muwsa/a bni .tal.ha:ta `an 'abiy hurayra:ta `ani alnnabiyyi .sl`m na.hwahu bima`n_ahu
+.hadda_tan_a `al_iyu bnu .hu^gri.n .hadda_tan_a ^su`aybu bnu .safw_ana `an `abdi almaliki bni `umayri.n `an m_us/a bni .tal.ha:ta `an 'ab_i hurayra:ta `ani alnnab_iyi .sl`m na.hwahu bima`n_ahu
 
 ############################################################
 ## betaCodeManual
-.hadda_tan_a `aliyyu bnu .hu^gri.n .hadda_tan_a ^su`aybu bnu .safw_ana `an `abdi almaliki bni `umayri.n `an muwsa/a bni .tal.ha:ta `an 'abiy hurayra:ta `ani alnnabiyyi .sl`m na.hwahu bima`n_ahu
+.hadda_tan_a `al_iyu bnu .hu^gri.n .hadda_tan_a ^su`aybu bnu .safw_ana `an `abdi almaliki bni `umayri.n `an m_us/a bni .tal.ha:ta `an 'ab_i hurayra:ta `ani alnnab_iyi .sl`m na.hwahu bima`n_ahu
 
 ############################################################
 ## betaCodeManual>Translit
-ḥaddaṯanā ʿaliyyu bnu ḥuǧriȵ ḥaddaṯanā šuʿaybu bnu ṣafwāna ʿan ʿabdi almaliki bni ʿumayriȵ ʿan muwsaá bni ṭalḥaŧa ʿan ʾabiy hurayraŧa ʿani alnnabiyyi ṣlʿm naḥwahu bimaʿnāhu
+ḥaddaṯanā ʿalīyu bnu ḥuǧriȵ ḥaddaṯanā šuʿaybu bnu ṣafwāna ʿan ʿabdi almaliki bni ʿumayriȵ ʿan mūsá bni ṭalḥaŧa ʿan ʾabī hurayraŧa ʿani alnnabīyi ṣlʿm naḥwahu bimaʿnāhu
 
 ############################################################
 ## betaCodeManual>Arabic
-حَدَّثَنَا عَلِيُّ بْنُ حُجْرٍ حَدَّثَنَا شُعَيْبُ بْنُ صَفْوَانَ عَنْ عَبْدِ أَلْمَلِكِ بْنِ عُمَيْرٍ عَنْ مُوْسَٰى بْنِ طَلْحَةَ عَنْ أَبِيْ هُرَيْرَةَ عَنِ أَلْنَّبِيِّ صْلْعْمْ نَحْوَهُ بِمَعْنَاهُ
+حَدَّثَنَا عَلِييُ بْنُ حُجْرٍ حَدَّثَنَا شُعَيْبُ بْنُ صَفْوَانَ عَنْ عَبْدِ أَلْمَلِكِ بْنِ عُمَيْرٍ عَنْ مُوسٰى بْنِ طَلْحَةَ عَنْ أَبِي هُرَيْرَةَ عَنِ أَلْنَّبِييِ صْلْعْمْ نَحْوَهُ بِمَعْنَاهُ
 
 ############################################################
 ## TranslationBetaCode

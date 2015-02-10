@@ -9,19 +9,19 @@
 
 ############################################################
 ## betaCodeAuto
-wa.hadda_tan_a ya.hya/a bnu ya.hya/a q_ala qara'atu `ala/a m_aliki.n `ani abni ^sih_abi.n `an 'abiy salama:ta bni `abdi alrra.hmani `an 'abiy hurayra:ta 'anna alnnabiyya .sl`m q_ala man 'adraka rak`a:ta.n mina al.ssal_a:ti faqad 'adraka al.ssal_a:ta
+wa.hadda_tan_a ya.hy/a bnu ya.hy/a q_ala qara'atu `al/a m_aliki.n `ani abni ^sih_abi.n `an 'ab_i salama:ta bni `abdi alrra.hmani `an 'ab_i hurayra:ta 'anna alnnab_iya .sl`m q_ala man 'adraka rak`a:ta.n mina al.ssal_a:ti faqad 'adraka al.ssal_a:ta
 
 ############################################################
 ## betaCodeManual
-wa.hadda_tan_a ya.hya/a bnu ya.hya/a q_ala qara'atu `ala/a m_aliki.n `ani abni ^sih_abi.n `an 'abiy salama:ta bni `abdi alrra.hmani `an 'abiy hurayra:ta 'anna alnnabiyya .sl`m q_ala man 'adraka rak`a:ta.n mina al.ssal_a:ti faqad 'adraka al.ssal_a:ta
+wa.hadda_tan_a ya.hy/a bnu ya.hy/a q_ala qara'atu `al/a m_aliki.n `ani abni ^sih_abi.n `an 'ab_i salama:ta bni `abdi alrra.hmani `an 'ab_i hurayra:ta 'anna alnnab_iya .sl`m q_ala man 'adraka rak`a:ta.n mina al.ssal_a:ti faqad 'adraka al.ssal_a:ta
 
 ############################################################
 ## betaCodeManual>Translit
-waḥaddaṯanā yaḥyaá bnu yaḥyaá ḳāla ḳaraʾatu ʿalaá mālikiȵ ʿani abni šihābiȵ ʿan ʾabiy salamaŧa bni ʿabdi alrraḥmani ʿan ʾabiy hurayraŧa ʾanna alnnabiyya ṣlʿm ḳāla man ʾadraka rakʿaŧaȵ mina alṣsalāŧi faḳad ʾadraka alṣsalāŧa
+waḥaddaṯanā yaḥyá bnu yaḥyá ḳāla ḳaraʾatu ʿalá mālikiȵ ʿani abni šihābiȵ ʿan ʾabī salamaŧa bni ʿabdi alrraḥmani ʿan ʾabī hurayraŧa ʾanna alnnabīya ṣlʿm ḳāla man ʾadraka rakʿaŧaȵ mina alṣsalāŧi faḳad ʾadraka alṣsalāŧa
 
 ############################################################
 ## betaCodeManual>Arabic
-وَحَدَّثَنَا يَحْيَٰى بْنُ يَحْيَٰى قَالَ قَرَأَتُ عَلَٰى مَالِكٍ عَنِ أَبْنِ شِهَابٍ عَنْ أَبِيْ سَلَمَةَ بْنِ عَبْدِ أَلْرَّحْمَنِ عَنْ أَبِيْ هُرَيْرَةَ أَنَّ أَلْنَّبِيَّ صْلْعْمْ قَالَ مَنْ أَدْرَكَ رَكْعَةً مِنَ أَلْصْسَلَاةِ فَقَدْ أَدْرَكَ أَلْصْسَلَاةَ
+وَحَدَّثَنَا يَحْيٰى بْنُ يَحْيٰى قَالَ قَرَأَتُ عَلٰى مَالِكٍ عَنِ أَبْنِ شِهَابٍ عَنْ أَبِي سَلَمَةَ بْنِ عَبْدِ أَلْرَّحْمَنِ عَنْ أَبِي هُرَيْرَةَ أَنَّ أَلْنَّبِييَ صْلْعْمْ قَالَ مَنْ أَدْرَكَ رَكْعَةً مِنَ أَلْصْسَلَاةِ فَقَدْ أَدْرَكَ أَلْصْسَلَاةَ
 
 ############################################################
 ## TranslationBetaCode

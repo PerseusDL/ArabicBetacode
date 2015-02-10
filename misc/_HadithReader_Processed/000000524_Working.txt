@@ -9,19 +9,19 @@
 
 ############################################################
 ## betaCodeAuto
-'a_hbaran_a qutayba:tu wamu.hammadu bnu man.suwri.n w_allaf.zu lahu `an sufy_ana `an 'abiy salama:ta `an 'abiy hurayra:ta `ani alnnabiyyi .sl`m q_ala man 'adraka min .sal_a:ti al^gumu`a:ti rak`a:ta.n faqad 'adraka
+'a_hbaran_a qutayba:tu wamu.hammadu bnu man.s_uri.n w_allaf.zu lahu `an sufy_ana `an 'ab_i salama:ta `an 'ab_i hurayra:ta `ani alnnab_iyi .sl`m q_ala man 'adraka min .sal_a:ti al^gumu`a:ti rak`a:ta.n faqad 'adraka
 
 ############################################################
 ## betaCodeManual
-'a_hbaran_a qutayba:tu wamu.hammadu bnu man.suwri.n w_allaf.zu lahu `an sufy_ana `an 'abiy salama:ta `an 'abiy hurayra:ta `ani alnnabiyyi .sl`m q_ala man 'adraka min .sal_a:ti al^gumu`a:ti rak`a:ta.n faqad 'adraka
+'a_hbaran_a qutayba:tu wamu.hammadu bnu man.s_uri.n w_allaf.zu lahu `an sufy_ana `an 'ab_i salama:ta `an 'ab_i hurayra:ta `ani alnnab_iyi .sl`m q_ala man 'adraka min .sal_a:ti al^gumu`a:ti rak`a:ta.n faqad 'adraka
 
 ############################################################
 ## betaCodeManual>Translit
-ʾaḫbaranā ḳutaybaŧu wamuḥammadu bnu manṣuwriȵ wāllafẓu lahu ʿan sufyāna ʿan ʾabiy salamaŧa ʿan ʾabiy hurayraŧa ʿani alnnabiyyi ṣlʿm ḳāla man ʾadraka min ṣalāŧi alǧumuʿaŧi rakʿaŧaȵ faḳad ʾadraka
+ʾaḫbaranā ḳutaybaŧu wamuḥammadu bnu manṣūriȵ wāllafẓu lahu ʿan sufyāna ʿan ʾabī salamaŧa ʿan ʾabī hurayraŧa ʿani alnnabīyi ṣlʿm ḳāla man ʾadraka min ṣalāŧi alǧumuʿaŧi rakʿaŧaȵ faḳad ʾadraka
 
 ############################################################
 ## betaCodeManual>Arabic
-أَخْبَرَنَا قُتَيْبَةُ وَمُحَمَّدُ بْنُ مَنْصُوْرٍ وَالَّفْظُ لَهُ عَنْ سُفْيَانَ عَنْ أَبِيْ سَلَمَةَ عَنْ أَبِيْ هُرَيْرَةَ عَنِ أَلْنَّبِيِّ صْلْعْمْ قَالَ مَنْ أَدْرَكَ مِنْ صَلَاةِ أَلْجُمُعَةِ رَكْعَةً فَقَدْ أَدْرَكَ
+أَخْبَرَنَا قُتَيْبَةُ وَمُحَمَّدُ بْنُ مَنْصُورٍ وَالَّفْظُ لَهُ عَنْ سُفْيَانَ عَنْ أَبِي سَلَمَةَ عَنْ أَبِي هُرَيْرَةَ عَنِ أَلْنَّبِييِ صْلْعْمْ قَالَ مَنْ أَدْرَكَ مِنْ صَلَاةِ أَلْجُمُعَةِ رَكْعَةً فَقَدْ أَدْرَكَ
 
 ############################################################
 ## TranslationBetaCode

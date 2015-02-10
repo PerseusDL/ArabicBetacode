@@ -9,19 +9,19 @@
 
 ############################################################
 ## betaCodeAuto
-.hadda_tan_a al.hasanu bnu `aliyyi.n al_hal_aalu .hadda_tan_a `abdu alrrazz_aqi 'a_hbaran_a ma`maru.n `ani alzzuhriyyi `an sa`iydi bni almusayyabi `an 'abiy hurayra:ta `ani alnnabiyyi .sl`m na.hwa .hadiy_ti 'abiy salama:ta `an 'abiy hurayra:ta bima`n_ahu haka_d_a q_ala `abdu alrrazz_aqi `an sa`iydi bni almusayyabi `an 'abiy hurayra:ta `ani alnnabiyyi .sl`m waha_d_a 'a.sa.hhu min .hadiy_ti yaziyda bni zuray`i.n
+.hadda_tan_a al.hasanu bnu `al_iyi.n al_hal_aalu .hadda_tan_a `abdu alrrazz_aqi 'a_hbaran_a ma`maru.n `ani alzzuhr_iyi `an sa`_idi bni almusayyabi `an 'ab_i hurayra:ta `ani alnnab_iyi .sl`m na.hwa .had_i_ti 'ab_i salama:ta `an 'ab_i hurayra:ta bima`n_ahu haka_d_a q_ala `abdu alrrazz_aqi `an sa`_idi bni almusayyabi `an 'ab_i hurayra:ta `ani alnnab_iyi .sl`m waha_d_a 'a.sa.hhu min .had_i_ti yaz_ida bni zuray`i.n
 
 ############################################################
 ## betaCodeManual
-.hadda_tan_a al.hasanu bnu `aliyyi.n al_hal_aalu .hadda_tan_a `abdu alrrazz_aqi 'a_hbaran_a ma`maru.n `ani alzzuhriyyi `an sa`iydi bni almusayyabi `an 'abiy hurayra:ta `ani alnnabiyyi .sl`m na.hwa .hadiy_ti 'abiy salama:ta `an 'abiy hurayra:ta bima`n_ahu haka_d_a q_ala `abdu alrrazz_aqi `an sa`iydi bni almusayyabi `an 'abiy hurayra:ta `ani alnnabiyyi .sl`m waha_d_a 'a.sa.hhu min .hadiy_ti yaziyda bni zuray`i.n
+.hadda_tan_a al.hasanu bnu `al_iyi.n al_hal_aalu .hadda_tan_a `abdu alrrazz_aqi 'a_hbaran_a ma`maru.n `ani alzzuhr_iyi `an sa`_idi bni almusayyabi `an 'ab_i hurayra:ta `ani alnnab_iyi .sl`m na.hwa .had_i_ti 'ab_i salama:ta `an 'ab_i hurayra:ta bima`n_ahu haka_d_a q_ala `abdu alrrazz_aqi `an sa`_idi bni almusayyabi `an 'ab_i hurayra:ta `ani alnnab_iyi .sl`m waha_d_a 'a.sa.hhu min .had_i_ti yaz_ida bni zuray`i.n
 
 ############################################################
 ## betaCodeManual>Translit
-ḥaddaṯanā alḥasanu bnu ʿaliyyiȵ alḫalāalu ḥaddaṯanā ʿabdu alrrazzāḳi ʾaḫbaranā maʿmaruȵ ʿani alzzuhriyyi ʿan saʿiydi bni almusayyabi ʿan ʾabiy hurayraŧa ʿani alnnabiyyi ṣlʿm naḥwa ḥadiyṯi ʾabiy salamaŧa ʿan ʾabiy hurayraŧa bimaʿnāhu hakaḏā ḳāla ʿabdu alrrazzāḳi ʿan saʿiydi bni almusayyabi ʿan ʾabiy hurayraŧa ʿani alnnabiyyi ṣlʿm wahaḏā ʾaṣaḥhu min ḥadiyṯi yaziyda bni zurayʿiȵ
+ḥaddaṯanā alḥasanu bnu ʿalīyiȵ alḫalāalu ḥaddaṯanā ʿabdu alrrazzāḳi ʾaḫbaranā maʿmaruȵ ʿani alzzuhrīyi ʿan saʿīdi bni almusayyabi ʿan ʾabī hurayraŧa ʿani alnnabīyi ṣlʿm naḥwa ḥadīṯi ʾabī salamaŧa ʿan ʾabī hurayraŧa bimaʿnāhu hakaḏā ḳāla ʿabdu alrrazzāḳi ʿan saʿīdi bni almusayyabi ʿan ʾabī hurayraŧa ʿani alnnabīyi ṣlʿm wahaḏā ʾaṣaḥhu min ḥadīṯi yazīda bni zurayʿiȵ
 
 ############################################################
 ## betaCodeManual>Arabic
-حَدَّثَنَا أَلْحَسَنُ بْنُ عَلِيٍّ أَلْخَلَاَلُ حَدَّثَنَا عَبْدُ أَلْرَّزّاقِ أَخْبَرَنَا مَعْمَرٌ عَنِ أَلْزُّهْرِيِّ عَنْ سَعِيْدِ بْنِ أَلْمُسَيَّبِ عَنْ أَبِيْ هُرَيْرَةَ عَنِ أَلْنَّبِيِّ صْلْعْمْ نَحْوَ حَدِيْثِ أَبِيْ سَلَمَةَ عَنْ أَبِيْ هُرَيْرَةَ بِمَعْنَاهُ هَكَذَا قَالَ عَبْدُ أَلْرَّزّاقِ عَنْ سَعِيْدِ بْنِ أَلْمُسَيَّبِ عَنْ أَبِيْ هُرَيْرَةَ عَنِ أَلْنَّبِيِّ صْلْعْمْ وَهَذَا أَصَحْهُ مِنْ حَدِيْثِ يَزِيْدَ بْنِ زُرَيْعٍ
+حَدَّثَنَا أَلْحَسَنُ بْنُ عَلِييٍ أَلْخَلَاَلُ حَدَّثَنَا عَبْدُ أَلْرَّزّاقِ أَخْبَرَنَا مَعْمَرٌ عَنِ أَلْزُّهْرِييِ عَنْ سَعِيدِ بْنِ أَلْمُسَيَّبِ عَنْ أَبِي هُرَيْرَةَ عَنِ أَلْنَّبِييِ صْلْعْمْ نَحْوَ حَدِيثِ أَبِي سَلَمَةَ عَنْ أَبِي هُرَيْرَةَ بِمَعْنَاهُ هَكَذَا قَالَ عَبْدُ أَلْرَّزّاقِ عَنْ سَعِيدِ بْنِ أَلْمُسَيَّبِ عَنْ أَبِي هُرَيْرَةَ عَنِ أَلْنَّبِييِ صْلْعْمْ وَهَذَا أَصَحْهُ مِنْ حَدِيثِ يَزِيدَ بْنِ زُرَيْعٍ
 
 ############################################################
 ## TranslationBetaCode

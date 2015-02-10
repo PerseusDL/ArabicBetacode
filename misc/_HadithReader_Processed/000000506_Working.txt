@@ -9,19 +9,19 @@
 
 ############################################################
 ## betaCodeAuto
-.hadda_tan_a `aliyyu bnu mu.hammadi.n .hadda_tan_a `ubaydu allahi bnu muwsa/a `ani al.hasani bni .s_ali.hi.n `an ^g_abiri.n `an 'abiy alzzubayri `an ^g_abiri.n q_ala q_ala rasuwlu allahi  .sl`m  man k_ana lahu 'iim_amu.n fa'iinna qir_a'a:ta al'iim_ami lahu qir_a'a:tu.n
+.hadda_tan_a `al_iyu bnu mu.hammadi.n .hadda_tan_a `ubaydu allahi bnu m_us/a `ani al.hasani bni .s_ali.hi.n `an ^g_abiri.n `an 'ab_i alzzubayri `an ^g_abiri.n q_ala q_ala ras_ulu allahi  .sl`m  man k_ana lahu 'im_amu.n fa'inna qir_a'a:ta al'im_ami lahu qir_a'a:tu.n
 
 ############################################################
 ## betaCodeManual
-.hadda_tan_a `aliyyu bnu mu.hammadi.n .hadda_tan_a `ubaydu allahi bnu muwsa/a `ani al.hasani bni .s_ali.hi.n `an ^g_abiri.n `an 'abiy alzzubayri `an ^g_abiri.n q_ala q_ala rasuwlu allahi  .sl`m  man k_ana lahu 'iim_amu.n fa'iinna qir_a'a:ta al'iim_ami lahu qir_a'a:tu.n
+.hadda_tan_a `al_iyu bnu mu.hammadi.n .hadda_tan_a `ubaydu allahi bnu m_us/a `ani al.hasani bni .s_ali.hi.n `an ^g_abiri.n `an 'ab_i alzzubayri `an ^g_abiri.n q_ala q_ala ras_ulu allahi  .sl`m  man k_ana lahu 'im_amu.n fa'inna qir_a'a:ta al'im_ami lahu qir_a'a:tu.n
 
 ############################################################
 ## betaCodeManual>Translit
-ḥaddaṯanā ʿaliyyu bnu muḥammadiȵ ḥaddaṯanā ʿubaydu allahi bnu muwsaá ʿani alḥasani bni ṣāliḥiȵ ʿan ǧābiriȵ ʿan ʾabiy alzzubayri ʿan ǧābiriȵ ḳāla ḳāla rasuwlu allahi  ṣlʿm  man kāna lahu ʾiimāmuȵ faʾiinna ḳirāʾaŧa alʾiimāmi lahu ḳirāʾaŧuȵ
+ḥaddaṯanā ʿalīyu bnu muḥammadiȵ ḥaddaṯanā ʿubaydu allahi bnu mūsá ʿani alḥasani bni ṣāliḥiȵ ʿan ǧābiriȵ ʿan ʾabī alzzubayri ʿan ǧābiriȵ ḳāla ḳāla rasūlu allahi  ṣlʿm  man kāna lahu ʾimāmuȵ faʾinna ḳirāʾaŧa alʾimāmi lahu ḳirāʾaŧuȵ
 
 ############################################################
 ## betaCodeManual>Arabic
-حَدَّثَنَا عَلِيُّ بْنُ مُحَمَّدٍ حَدَّثَنَا عُبَيْدُ أَلَّهِ بْنُ مُوْسَٰى عَنِ أَلْحَسَنِ بْنِ صَالِحٍ عَنْ جَابِرٍ عَنْ أَبِيْ أَلْزُّبَيْرِ عَنْ جَابِرٍ قَالَ قَالَ رَسُوْلُ أَلَّهِ  صْلْعْمْ  مَنْ كَانَ لَهُ إِِمَامٌ فَئِِنَّ قِرَاءَةَ أَلْئِِمَامِ لَهُ قِرَاءَةٌ
+حَدَّثَنَا عَلِييُ بْنُ مُحَمَّدٍ حَدَّثَنَا عُبَيْدُ أَلَّهِ بْنُ مُوسٰى عَنِ أَلْحَسَنِ بْنِ صَالِحٍ عَنْ جَابِرٍ عَنْ أَبِي أَلْزُّبَيْرِ عَنْ جَابِرٍ قَالَ قَالَ رَسُولُ أَلَّهِ  صْلْعْمْ  مَنْ كَانَ لَهُ إِمَامٌ فَئِنَّ قِرَاءَةَ أَلْئِمَامِ لَهُ قِرَاءَةٌ
 
 ############################################################
 ## TranslationBetaCode

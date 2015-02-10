@@ -9,19 +9,19 @@
 
 ############################################################
 ## betaCodeAuto
-.hadda_tan_a 'abuw bakri bnu 'abiy ^sayba:ta wa`amru.nw alnn_aqidu q_al_a .hadda_tan_a sufy_anu bnu `uyayna:ta `ani abni almunkadiri sami`a ^g_abira bna `abdi allahi q_ala m_a su'iila rasuwlu allahi .sl`m ^say'ia.n_a qa.ttu faq_ala l_a
+.hadda_tan_a 'ab_u bakri bnu 'ab_i ^sayba:ta wa`amru.nw alnn_aqidu q_al_a .hadda_tan_a sufy_anu bnu `uyayna:ta `ani abni almunkadiri sami`a ^g_abira bna `abdi allahi q_ala m_a su'ila ras_ulu allahi .sl`m ^say'ia.n_a qa.ttu faq_ala l_a
 
 ############################################################
 ## betaCodeManual
-.hadda_tan_a 'abuw bakri bnu 'abiy ^sayba:ta wa`amru.nw alnn_aqidu q_al_a .hadda_tan_a sufy_anu bnu `uyayna:ta `ani abni almunkadiri sami`a ^g_abira bna `abdi allahi q_ala m_a su'iila rasuwlu allahi .sl`m ^say'ia.n_a qa.ttu faq_ala l_a
+.hadda_tan_a 'ab_u bakri bnu 'ab_i ^sayba:ta wa`amru.nw alnn_aqidu q_al_a .hadda_tan_a sufy_anu bnu `uyayna:ta `ani abni almunkadiri sami`a ^g_abira bna `abdi allahi q_ala m_a su'ila ras_ulu allahi .sl`m ^say'ia.n_a qa.ttu faq_ala l_a
 
 ############################################################
 ## betaCodeManual>Translit
-ḥaddaṯanā ʾabuw bakri bnu ʾabiy šaybaŧa waʿamruȵw alnnāḳidu ḳālā ḥaddaṯanā sufyānu bnu ʿuyaynaŧa ʿani abni almunkadiri samiʿa ǧābira bna ʿabdi allahi ḳāla mā suʾiila rasuwlu allahi ṣlʿm šayʾiaȵā ḳaṭtu faḳāla lā
+ḥaddaṯanā ʾabū bakri bnu ʾabī šaybaŧa waʿamruȵw alnnāḳidu ḳālā ḥaddaṯanā sufyānu bnu ʿuyaynaŧa ʿani abni almunkadiri samiʿa ǧābira bna ʿabdi allahi ḳāla mā suʾila rasūlu allahi ṣlʿm šayʾiaȵā ḳaṭtu faḳāla lā
 
 ############################################################
 ## betaCodeManual>Arabic
-حَدَّثَنَا أَبُوْ بَكْرِ بْنُ أَبِيْ شَيْبَةَ وَعَمْرٌوْ أَلْنّاقِدُ قَالَا حَدَّثَنَا سُفْيَانُ بْنُ عُيَيْنَةَ عَنِ أَبْنِ أَلْمُنْكَدِرِ سَمِعَ جَابِرَ بْنَ عَبْدِ أَلَّهِ قَالَ مَا سُئِِلَ رَسُوْلُ أَلَّهِ صْلْعْمْ شَيْئًِا قَطْتُ فَقَالَ لَا
+حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ وَعَمْرٌوْ أَلْنّاقِدُ قَالَا حَدَّثَنَا سُفْيَانُ بْنُ عُيَيْنَةَ عَنِ أَبْنِ أَلْمُنْكَدِرِ سَمِعَ جَابِرَ بْنَ عَبْدِ أَلَّهِ قَالَ مَا سُئِلَ رَسُولُ أَلَّهِ صْلْعْمْ شَيْئًِا قَطْتُ فَقَالَ لَا
 
 ############################################################
 ## TranslationBetaCode

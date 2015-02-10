@@ -9,19 +9,19 @@
 
 ############################################################
 ## betaCodeAuto
-.hadda_tan_a 'abuw bakri bnu 'abiy ^sayba:ta .hadda_tan_a `ubaydu allahi 'anba'an_a ^sayb_anu `ani al'a`ma^si `an 'abiy .s_ali.hi.n `an 'abiy hurayra:ta `ani alnnabiyyi  .sl`m  q_ala man .salla/a `alayhi mi_a'ia:tu.n mina almuslimiyna .gufira lahu
+.hadda_tan_a 'ab_u bakri bnu 'ab_i ^sayba:ta .hadda_tan_a `ubaydu allahi 'anba'an_a ^sayb_anu `ani al'a`ma^si `an 'ab_i .s_ali.hi.n `an 'ab_i hurayra:ta `ani alnnab_iyi  .sl`m  q_ala man .sall/a `alayhi mi_a'ia:tu.n mina almuslim_ina .gufira lahu
 
 ############################################################
 ## betaCodeManual
-.hadda_tan_a 'abuw bakri bnu 'abiy ^sayba:ta .hadda_tan_a `ubaydu allahi 'anba'an_a ^sayb_anu `ani al'a`ma^si `an 'abiy .s_ali.hi.n `an 'abiy hurayra:ta `ani alnnabiyyi  .sl`m  q_ala man .salla/a `alayhi mi_a'ia:tu.n mina almuslimiyna .gufira lahu
+.hadda_tan_a 'ab_u bakri bnu 'ab_i ^sayba:ta .hadda_tan_a `ubaydu allahi 'anba'an_a ^sayb_anu `ani al'a`ma^si `an 'ab_i .s_ali.hi.n `an 'ab_i hurayra:ta `ani alnnab_iyi  .sl`m  q_ala man .sall/a `alayhi mi_a'ia:tu.n mina almuslim_ina .gufira lahu
 
 ############################################################
 ## betaCodeManual>Translit
-ḥaddaṯanā ʾabuw bakri bnu ʾabiy šaybaŧa ḥaddaṯanā ʿubaydu allahi ʾanbaʾanā šaybānu ʿani alʾaʿmaši ʿan ʾabiy ṣāliḥiȵ ʿan ʾabiy hurayraŧa ʿani alnnabiyyi  ṣlʿm  ḳāla man ṣallaá ʿalayhi miāʾiaŧuȵ mina almuslimiyna ġufira lahu
+ḥaddaṯanā ʾabū bakri bnu ʾabī šaybaŧa ḥaddaṯanā ʿubaydu allahi ʾanbaʾanā šaybānu ʿani alʾaʿmaši ʿan ʾabī ṣāliḥiȵ ʿan ʾabī hurayraŧa ʿani alnnabīyi  ṣlʿm  ḳāla man ṣallá ʿalayhi miāʾiaŧuȵ mina almuslimīna ġufira lahu
 
 ############################################################
 ## betaCodeManual>Arabic
-حَدَّثَنَا أَبُوْ بَكْرِ بْنُ أَبِيْ شَيْبَةَ حَدَّثَنَا عُبَيْدُ أَلَّهِ أَنْبَأَنَا شَيْبَانُ عَنِ أَلْأَعْمَشِ عَنْ أَبِيْ صَالِحٍ عَنْ أَبِيْ هُرَيْرَةَ عَنِ أَلْنَّبِيِّ  صْلْعْمْ  قَالَ مَنْ صَلَّٰى عَلَيْهِ مِائَِةٌ مِنَ أَلْمُسْلِمِيْنَ غُفِرَ لَهُ
+حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ حَدَّثَنَا عُبَيْدُ أَلَّهِ أَنْبَأَنَا شَيْبَانُ عَنِ أَلْأَعْمَشِ عَنْ أَبِي صَالِحٍ عَنْ أَبِي هُرَيْرَةَ عَنِ أَلْنَّبِييِ  صْلْعْمْ  قَالَ مَنْ صَلّٰى عَلَيْهِ مِائَِةٌ مِنَ أَلْمُسْلِمِينَ غُفِرَ لَهُ
 
 ############################################################
 ## TranslationBetaCode

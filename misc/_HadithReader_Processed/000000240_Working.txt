@@ -9,19 +9,19 @@
 
 ############################################################
 ## betaCodeAuto
-'a_hbaran_a ya`quwbu bnu 'iibr_ahiyma wamu.hammadu bnu almu_tanna/a q_al_a .hadda_tan_a ya.hya/a `an sufy_ana q_ala .hadda_taniy muwsa/a bnu 'abiy `_a'ii^sa:ta `an `ubaydi allahi bni `abdi allahi `ani abni `abb_asi.n wa`an `_a'ii^sa:ta 'anna 'ab_a bakri.n qabbala alnnabiyya .sl`m wahuwa mayyitu.n
+'a_hbaran_a ya`q_ubu bnu 'ibr_ah_ima wamu.hammadu bnu almu_tann/a q_al_a .hadda_tan_a ya.hy/a `an sufy_ana q_ala .hadda_tan_i m_us/a bnu 'ab_i `_a'i^sa:ta `an `ubaydi allahi bni `abdi allahi `ani abni `abb_asi.n wa`an `_a'i^sa:ta 'anna 'ab_a bakri.n qabbala alnnab_iya .sl`m wah_ua mayyitu.n
 
 ############################################################
 ## betaCodeManual
-'a_hbaran_a ya`quwbu bnu 'iibr_ahiyma wamu.hammadu bnu almu_tanna/a q_al_a .hadda_tan_a ya.hya/a `an sufy_ana q_ala .hadda_taniy muwsa/a bnu 'abiy `_a'ii^sa:ta `an `ubaydi allahi bni `abdi allahi `ani abni `abb_asi.n wa`an `_a'ii^sa:ta 'anna 'ab_a bakri.n qabbala alnnabiyya .sl`m wahuwa mayyitu.n
+'a_hbaran_a ya`q_ubu bnu 'ibr_ah_ima wamu.hammadu bnu almu_tann/a q_al_a .hadda_tan_a ya.hy/a `an sufy_ana q_ala .hadda_tan_i m_us/a bnu 'ab_i `_a'i^sa:ta `an `ubaydi allahi bni `abdi allahi `ani abni `abb_asi.n wa`an `_a'i^sa:ta 'anna 'ab_a bakri.n qabbala alnnab_iya .sl`m wah_ua mayyitu.n
 
 ############################################################
 ## betaCodeManual>Translit
-ʾaḫbaranā yaʿḳuwbu bnu ʾiibrāhiyma wamuḥammadu bnu almuṯannaá ḳālā ḥaddaṯanā yaḥyaá ʿan sufyāna ḳāla ḥaddaṯaniy muwsaá bnu ʾabiy ʿāʾiišaŧa ʿan ʿubaydi allahi bni ʿabdi allahi ʿani abni ʿabbāsiȵ waʿan ʿāʾiišaŧa ʾanna ʾabā bakriȵ ḳabbala alnnabiyya ṣlʿm wahuwa mayyituȵ
+ʾaḫbaranā yaʿḳūbu bnu ʾibrāhīma wamuḥammadu bnu almuṯanná ḳālā ḥaddaṯanā yaḥyá ʿan sufyāna ḳāla ḥaddaṯanī mūsá bnu ʾabī ʿāʾišaŧa ʿan ʿubaydi allahi bni ʿabdi allahi ʿani abni ʿabbāsiȵ waʿan ʿāʾišaŧa ʾanna ʾabā bakriȵ ḳabbala alnnabīya ṣlʿm wahūa mayyituȵ
 
 ############################################################
 ## betaCodeManual>Arabic
-أَخْبَرَنَا يَعْقُوْبُ بْنُ إِِبْرَاهِيْمَ وَمُحَمَّدُ بْنُ أَلْمُثَنَّٰى قَالَا حَدَّثَنَا يَحْيَٰى عَنْ سُفْيَانَ قَالَ حَدَّثَنِيْ مُوْسَٰى بْنُ أَبِيْ عائِِشَةَ عَنْ عُبَيْدِ أَلَّهِ بْنِ عَبْدِ أَلَّهِ عَنِ أَبْنِ عَبّاسٍ وَعَنْ عائِِشَةَ أَنَّ أَبَا بَكْرٍ قَبَّلَ أَلْنَّبِيَّ صْلْعْمْ وَهُوَ مَيِّتٌ
+أَخْبَرَنَا يَعْقُوبُ بْنُ إِبْرَاهِيمَ وَمُحَمَّدُ بْنُ أَلْمُثَنّٰى قَالَا حَدَّثَنَا يَحْيٰى عَنْ سُفْيَانَ قَالَ حَدَّثَنِي مُوسٰى بْنُ أَبِي عائِشَةَ عَنْ عُبَيْدِ أَلَّهِ بْنِ عَبْدِ أَلَّهِ عَنِ أَبْنِ عَبّاسٍ وَعَنْ عائِشَةَ أَنَّ أَبَا بَكْرٍ قَبَّلَ أَلْنَّبِييَ صْلْعْمْ وَهُوَ مَيِّتٌ
 
 ############################################################
 ## TranslationBetaCode

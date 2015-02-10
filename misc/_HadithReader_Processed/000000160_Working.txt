@@ -9,19 +9,19 @@
 
 ############################################################
 ## betaCodeAuto
-'a_hbaran_a 'iis.h_aqu bnu 'iibr_ahiyma q_ala 'anba'an_a `abdu alrrazz_aqi q_ala .hadda_tan_a ma`maru.n `ani alzzuhriyyi `an s_alimi.n `an 'abiyhi q_ala k_ana rasuwlu allahi .sl`m yu.salliy ba`da al^gumu`a:ti rak`atayni fiy baytihi
+'a_hbaran_a 'is.h_aqu bnu 'ibr_ah_ima q_ala 'anba'an_a `abdu alrrazz_aqi q_ala .hadda_tan_a ma`maru.n `ani alzzuhr_iyi `an s_alimi.n `an 'ab_ihi q_ala k_ana ras_ulu allahi .sl`m yu.sall_i ba`da al^gumu`a:ti rak`atayni f_i baytihi
 
 ############################################################
 ## betaCodeManual
-'a_hbaran_a 'iis.h_aqu bnu 'iibr_ahiyma q_ala 'anba'an_a `abdu alrrazz_aqi q_ala .hadda_tan_a ma`maru.n `ani alzzuhriyyi `an s_alimi.n `an 'abiyhi q_ala k_ana rasuwlu allahi .sl`m yu.salliy ba`da al^gumu`a:ti rak`atayni fiy baytihi
+'a_hbaran_a 'is.h_aqu bnu 'ibr_ah_ima q_ala 'anba'an_a `abdu alrrazz_aqi q_ala .hadda_tan_a ma`maru.n `ani alzzuhr_iyi `an s_alimi.n `an 'ab_ihi q_ala k_ana ras_ulu allahi .sl`m yu.sall_i ba`da al^gumu`a:ti rak`atayni f_i baytihi
 
 ############################################################
 ## betaCodeManual>Translit
-ʾaḫbaranā ʾiisḥāḳu bnu ʾiibrāhiyma ḳāla ʾanbaʾanā ʿabdu alrrazzāḳi ḳāla ḥaddaṯanā maʿmaruȵ ʿani alzzuhriyyi ʿan sālimiȵ ʿan ʾabiyhi ḳāla kāna rasuwlu allahi ṣlʿm yuṣalliy baʿda alǧumuʿaŧi rakʿatayni fiy baytihi
+ʾaḫbaranā ʾisḥāḳu bnu ʾibrāhīma ḳāla ʾanbaʾanā ʿabdu alrrazzāḳi ḳāla ḥaddaṯanā maʿmaruȵ ʿani alzzuhrīyi ʿan sālimiȵ ʿan ʾabīhi ḳāla kāna rasūlu allahi ṣlʿm yuṣallī baʿda alǧumuʿaŧi rakʿatayni fī baytihi
 
 ############################################################
 ## betaCodeManual>Arabic
-أَخْبَرَنَا إِِسْحَاقُ بْنُ إِِبْرَاهِيْمَ قَالَ أَنْبَأَنَا عَبْدُ أَلْرَّزّاقِ قَالَ حَدَّثَنَا مَعْمَرٌ عَنِ أَلْزُّهْرِيِّ عَنْ سَالِمٍ عَنْ أَبِيْهِ قَالَ كَانَ رَسُوْلُ أَلَّهِ صْلْعْمْ يُصَلِّيْ بَعْدَ أَلْجُمُعَةِ رَكْعَتَيْنِ فِيْ بَيْتِهِ
+أَخْبَرَنَا إِسْحَاقُ بْنُ إِبْرَاهِيمَ قَالَ أَنْبَأَنَا عَبْدُ أَلْرَّزّاقِ قَالَ حَدَّثَنَا مَعْمَرٌ عَنِ أَلْزُّهْرِييِ عَنْ سَالِمٍ عَنْ أَبِيهِ قَالَ كَانَ رَسُولُ أَلَّهِ صْلْعْمْ يُصَلّي بَعْدَ أَلْجُمُعَةِ رَكْعَتَيْنِ فِي بَيْتِهِ
 
 ############################################################
 ## TranslationBetaCode

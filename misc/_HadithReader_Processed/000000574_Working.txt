@@ -9,19 +9,19 @@
 
 ############################################################
 ## betaCodeAuto
-.hadda_tan_a 'abuw bakri bnu 'abiy ^sayba:ta .hadda_tan_a mu.hammadu bnu bi^sri.n .hadda_tan_a sa`iydu bnu 'abiy `aruwba:ta .hadda_tan_a qat_ada:tu `an zur_ara:ta bni 'awfa/a `an sa`di bni hi^s_ami.n `an `_a'ii^sa:ta q_alat l_a 'a`lamu nabiyya allahi  .sl`m  qara'a alqur'ana kullahu .hatta/a al.ssab_a.hi
+.hadda_tan_a 'ab_u bakri bnu 'ab_i ^sayba:ta .hadda_tan_a mu.hammadu bnu bi^sri.n .hadda_tan_a sa`_idu bnu 'ab_i `ar_uba:ta .hadda_tan_a qat_ada:tu `an zur_ara:ta bni 'awf/a `an sa`di bni hi^s_ami.n `an `_a'i^sa:ta q_alat l_a 'a`lamu nab_iya allahi  .sl`m  qara'a alqur'ana kullahu .hatt/a al.ssab_a.hi
 
 ############################################################
 ## betaCodeManual
-.hadda_tan_a 'abuw bakri bnu 'abiy ^sayba:ta .hadda_tan_a mu.hammadu bnu bi^sri.n .hadda_tan_a sa`iydu bnu 'abiy `aruwba:ta .hadda_tan_a qat_ada:tu `an zur_ara:ta bni 'awfa/a `an sa`di bni hi^s_ami.n `an `_a'ii^sa:ta q_alat l_a 'a`lamu nabiyya allahi  .sl`m  qara'a alqur'ana kullahu .hatta/a al.ssab_a.hi
+.hadda_tan_a 'ab_u bakri bnu 'ab_i ^sayba:ta .hadda_tan_a mu.hammadu bnu bi^sri.n .hadda_tan_a sa`_idu bnu 'ab_i `ar_uba:ta .hadda_tan_a qat_ada:tu `an zur_ara:ta bni 'awf/a `an sa`di bni hi^s_ami.n `an `_a'i^sa:ta q_alat l_a 'a`lamu nab_iya allahi  .sl`m  qara'a alqur'ana kullahu .hatt/a al.ssab_a.hi
 
 ############################################################
 ## betaCodeManual>Translit
-ḥaddaṯanā ʾabuw bakri bnu ʾabiy šaybaŧa ḥaddaṯanā muḥammadu bnu bišriȵ ḥaddaṯanā saʿiydu bnu ʾabiy ʿaruwbaŧa ḥaddaṯanā ḳatādaŧu ʿan zurāraŧa bni ʾawfaá ʿan saʿdi bni hišāmiȵ ʿan ʿāʾiišaŧa ḳālat lā ʾaʿlamu nabiyya allahi  ṣlʿm  ḳaraʾa alḳurʾana kullahu ḥattaá alṣsabāḥi
+ḥaddaṯanā ʾabū bakri bnu ʾabī šaybaŧa ḥaddaṯanā muḥammadu bnu bišriȵ ḥaddaṯanā saʿīdu bnu ʾabī ʿarūbaŧa ḥaddaṯanā ḳatādaŧu ʿan zurāraŧa bni ʾawfá ʿan saʿdi bni hišāmiȵ ʿan ʿāʾišaŧa ḳālat lā ʾaʿlamu nabīya allahi  ṣlʿm  ḳaraʾa alḳurʾana kullahu ḥattá alṣsabāḥi
 
 ############################################################
 ## betaCodeManual>Arabic
-حَدَّثَنَا أَبُوْ بَكْرِ بْنُ أَبِيْ شَيْبَةَ حَدَّثَنَا مُحَمَّدُ بْنُ بِشْرٍ حَدَّثَنَا سَعِيْدُ بْنُ أَبِيْ عَرُوْبَةَ حَدَّثَنَا قَتَادَةُ عَنْ زُرَارَةَ بْنِ أَوْفَٰى عَنْ سَعْدِ بْنِ هِشَامٍ عَنْ عائِِشَةَ قَالَتْ لَا أَعْلَمُ نَبِيَّ أَلَّهِ  صْلْعْمْ  قَرَأَ أَلْقُرْأَنَ كُلَّهُ حَتَّٰى أَلْصْسَبَاحِ
+حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ حَدَّثَنَا مُحَمَّدُ بْنُ بِشْرٍ حَدَّثَنَا سَعِيدُ بْنُ أَبِي عَرُوبَةَ حَدَّثَنَا قَتَادَةُ عَنْ زُرَارَةَ بْنِ أَوْفٰى عَنْ سَعْدِ بْنِ هِشَامٍ عَنْ عائِشَةَ قَالَتْ لَا أَعْلَمُ نَبِييَ أَلَّهِ  صْلْعْمْ  قَرَأَ أَلْقُرْأَنَ كُلَّهُ حَتّٰى أَلْصْسَبَاحِ
 
 ############################################################
 ## TranslationBetaCode

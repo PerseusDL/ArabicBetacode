@@ -9,19 +9,19 @@
 
 ############################################################
 ## betaCodeAuto
-.hadda_tan_a ma.hmuwdu bnu .gayl_ana .hadda_tan_a ya.hya/a bnu 'adama `an `abdi alrra.hiymi bni sulaym_ana na.hwahu q_ala 'abuw `iysa/a ha_d_a .hadiy_tu.n .gariybu.n min ha_d_a alwa^ghi
+.hadda_tan_a ma.hm_udu bnu .gayl_ana .hadda_tan_a ya.hy/a bnu 'adama `an `abdi alrra.h_imi bni sulaym_ana na.hwahu q_ala 'ab_u `_is/a ha_d_a .had_i_tu.n .gar_ibu.n min ha_d_a alwa^ghi
 
 ############################################################
 ## betaCodeManual
-.hadda_tan_a ma.hmuwdu bnu .gayl_ana .hadda_tan_a ya.hya/a bnu 'adama `an `abdi alrra.hiymi bni sulaym_ana na.hwahu q_ala 'abuw `iysa/a ha_d_a .hadiy_tu.n .gariybu.n min ha_d_a alwa^ghi
+.hadda_tan_a ma.hm_udu bnu .gayl_ana .hadda_tan_a ya.hy/a bnu 'adama `an `abdi alrra.h_imi bni sulaym_ana na.hwahu q_ala 'ab_u `_is/a ha_d_a .had_i_tu.n .gar_ibu.n min ha_d_a alwa^ghi
 
 ############################################################
 ## betaCodeManual>Translit
-ḥaddaṯanā maḥmuwdu bnu ġaylāna ḥaddaṯanā yaḥyaá bnu ʾadama ʿan ʿabdi alrraḥiymi bni sulaymāna naḥwahu ḳāla ʾabuw ʿiysaá haḏā ḥadiyṯuȵ ġariybuȵ min haḏā alwaǧhi
+ḥaddaṯanā maḥmūdu bnu ġaylāna ḥaddaṯanā yaḥyá bnu ʾadama ʿan ʿabdi alrraḥīmi bni sulaymāna naḥwahu ḳāla ʾabū ʿīsá haḏā ḥadīṯuȵ ġarībuȵ min haḏā alwaǧhi
 
 ############################################################
 ## betaCodeManual>Arabic
-حَدَّثَنَا مَحْمُوْدُ بْنُ غَيْلَانَ حَدَّثَنَا يَحْيَٰى بْنُ أَدَمَ عَنْ عَبْدِ أَلْرَّحِيْمِ بْنِ سُلَيْمَانَ نَحْوَهُ قَالَ أَبُوْ عِيْسَٰى هَذَا حَدِيْثٌ غَرِيْبٌ مِنْ هَذَا أَلْوَجْهِ
+حَدَّثَنَا مَحْمُودُ بْنُ غَيْلَانَ حَدَّثَنَا يَحْيٰى بْنُ أَدَمَ عَنْ عَبْدِ أَلْرَّحِيمِ بْنِ سُلَيْمَانَ نَحْوَهُ قَالَ أَبُو عِيسٰى هَذَا حَدِيثٌ غَرِيبٌ مِنْ هَذَا أَلْوَجْهِ
 
 ############################################################
 ## TranslationBetaCode

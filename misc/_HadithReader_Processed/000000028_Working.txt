@@ -1,7 +1,7 @@
 ############################################################
 ## hadithID::     bukhari19_110510
-## Completed by:: ADDYOURNAME
-## Finished::     NO/YES
+## Completed by:: romanov
+## Finished::     YES
 
 ############################################################
 ## ArabicInitial
@@ -9,25 +9,25 @@
 
 ############################################################
 ## betaCodeAuto
-.hadda_tan_a `abdu allahi bnu yuwsufa q_ala 'a_hbaran_a m_aliku.n `an 'iis.h_aqa bni `abdi allahi bni 'abiy .tal.ha:ta `an 'anasi bni m_aliki.n  r.d/a allh `nh  q_ala .salla/a lan_a rasuwlu allahi .sl`m rak`atayni _tumma an.sarafa
+.hadda_tan_a `abdu allahi bnu y_usufa q_ala 'a_hbaran_a m_aliku.n `an 'is.h_aqa bni `abdi allahi bni 'ab_i .tal.ha:ta `an 'anasi bni m_aliki.n  r.d/a allh `nh  q_ala .sall/a lan_a ras_ulu allahi .sl`m rak`atayni _tumma an.sarafa
 
 ############################################################
 ## betaCodeManual
-.hadda_tan_a `abdu allahi bnu yuwsufa q_ala 'a_hbaran_a m_aliku.n `an 'iis.h_aqa bni `abdi allahi bni 'abiy .tal.ha:ta `an 'anasi bni m_aliki.n  r.d/a allh `nh  q_ala .salla/a lan_a rasuwlu allahi .sl`m rak`atayni _tumma an.sarafa
+.hadda_ta-n_a `Abd?u All~ah?i bn?u Y_usuf?a q_ala , 'a_hbara-n_a M_alik?u.n , `an Is.h_aq?a bn?i `Abd?i All~ah?i bn?i Ab_i .Tal.ha:t?a , `an Anas?i bn?i M_alik?i.n ( r.dh )  q_ala ( M ) .sall/a la-n_a ras_ul?u All~ah?i ( .sl`m ) rak`atayn?i _tumm?a in.sarafa
 
 ############################################################
 ## betaCodeManual>Translit
-ḥaddaṯanā ʿabdu allahi bnu yuwsufa ḳāla ʾaḫbaranā mālikuȵ ʿan ʾiisḥāḳa bni ʿabdi allahi bni ʾabiy ṭalḥaŧa ʿan ʾanasi bni mālikiȵ  rḍá allh ʿnh  ḳāla ṣallaá lanā rasuwlu allahi ṣlʿm rakʿatayni ṯumma anṣarafa
+ḥaddaṯa-nā ʿAbdủ Allãhỉ bnủ Yūsufả ḳāla , ʾaḫbaranā Mālikủȵ , ʿan Isḥāḳả bnỉ ʿAbdỉ Allãhỉ bnỉ Abī Ṭalḥaŧả , ʿan Anasỉ bnỉ Mālikỉȵ ( rḍh )  ḳāla ( M ) ṣallá la-nā rasūlủ Allãhỉ ( ṣlʿm ) rakʿataynỉ ṯummả inṣarafa
 
 ############################################################
 ## betaCodeManual>Arabic
-حَدَّثَنَا عَبْدُ أَلَّهِ بْنُ يُوْسُفَ قَالَ أَخْبَرَنَا مَالِكٌ عَنْ إِِسْحَاقَ بْنِ عَبْدِ أَلَّهِ بْنِ أَبِيْ طَلْحَةَ عَنْ أَنَسِ بْنِ مَالِكٍ  رْضٰى أَلّهْ عْنْهْ  قَالَ صَلَّٰى لَنَا رَسُوْلُ أَلَّهِ صْلْعْمْ رَكْعَتَيْنِ ثُمَّ أَنْصَرَفَ
+حَدَّثَنَا عَبْدُ ﭐلـلّٰـهِ بْنُ يُوسُفَ قَالَ ، أَخْبَرَنَا مَالِكٌ ، عَنْ إِسْحَاقَ بْنِ عَبْدِ ﭐلـلّٰـهِ بْنِ أَبِي طَلْحَةَ ، عَنْ أَنَسِ بْنِ مَالِكٍ ( رْضْهْ )  قَالَ ( مْ ) صَلّٰى لَنَا رَسُولُ ﭐلـلّٰـهِ ( صْلْعْمْ ) رَكْعَتَيْنِ ثُمَّ إِنْصَرَفَ
 
 ############################################################
 ## TranslationBetaCode
-Type your translation on this line
+`Abd All~ah b. Y_usuf narrated to us [and] he said, M_alik reported to us, from Is.h_aq b. `Abd All~ah b. Ab_i .Tal.ha:t, from Anas b. M_alik ( r.dh ) [and] he said: ( M ) the Messenger of God ( .sl`m ) prayed two cycles with us and then left.  
 
 ############################################################
 ## TranslationTranslit
-Type your translation on this line
+ʿAbd Allãh b. Yūsuf narrated to us [and] he said, Mālik reported to us, from Isḥāḳ b. ʿAbd Allãh b. Abī Ṭalḥaŧ, from Anas b. Mālik ( rḍh ) [and] he said: ( M ) the Messenger of God ( ṣlʿm ) prayed two cycles with us and then left.  
 

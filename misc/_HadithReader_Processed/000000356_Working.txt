@@ -9,19 +9,19 @@
 
 ############################################################
 ## betaCodeAuto
-'a_hbaran_a 'iis.h_aqu bnu 'iibr_ahiyma q_ala .hadda_tan_a `abdu alrrazz_aqi q_ala .hadda_tan_a ma`maru.n `ani alzzuhriyyi `an 'abiy salama:ta `an 'abiy hurayra:ta q_ala k_ana rasuwlu allahi .sl`m 'ii_d_a rafa`a ra'asahu mina alrrukuw`i q_ala allahumma rabban_a walaka al.hamdu
+'a_hbaran_a 'is.h_aqu bnu 'ibr_ah_ima q_ala .hadda_tan_a `abdu alrrazz_aqi q_ala .hadda_tan_a ma`maru.n `ani alzzuhr_iyi `an 'ab_i salama:ta `an 'ab_i hurayra:ta q_ala k_ana ras_ulu allahi .sl`m 'i_d_a rafa`a ra'asahu mina alrruk_u`i q_ala allahumma rabban_a walaka al.hamdu
 
 ############################################################
 ## betaCodeManual
-'a_hbaran_a 'iis.h_aqu bnu 'iibr_ahiyma q_ala .hadda_tan_a `abdu alrrazz_aqi q_ala .hadda_tan_a ma`maru.n `ani alzzuhriyyi `an 'abiy salama:ta `an 'abiy hurayra:ta q_ala k_ana rasuwlu allahi .sl`m 'ii_d_a rafa`a ra'asahu mina alrrukuw`i q_ala allahumma rabban_a walaka al.hamdu
+'a_hbaran_a 'is.h_aqu bnu 'ibr_ah_ima q_ala .hadda_tan_a `abdu alrrazz_aqi q_ala .hadda_tan_a ma`maru.n `ani alzzuhr_iyi `an 'ab_i salama:ta `an 'ab_i hurayra:ta q_ala k_ana ras_ulu allahi .sl`m 'i_d_a rafa`a ra'asahu mina alrruk_u`i q_ala allahumma rabban_a walaka al.hamdu
 
 ############################################################
 ## betaCodeManual>Translit
-ʾaḫbaranā ʾiisḥāḳu bnu ʾiibrāhiyma ḳāla ḥaddaṯanā ʿabdu alrrazzāḳi ḳāla ḥaddaṯanā maʿmaruȵ ʿani alzzuhriyyi ʿan ʾabiy salamaŧa ʿan ʾabiy hurayraŧa ḳāla kāna rasuwlu allahi ṣlʿm ʾiiḏā rafaʿa raʾasahu mina alrrukuwʿi ḳāla allahumma rabbanā walaka alḥamdu
+ʾaḫbaranā ʾisḥāḳu bnu ʾibrāhīma ḳāla ḥaddaṯanā ʿabdu alrrazzāḳi ḳāla ḥaddaṯanā maʿmaruȵ ʿani alzzuhrīyi ʿan ʾabī salamaŧa ʿan ʾabī hurayraŧa ḳāla kāna rasūlu allahi ṣlʿm ʾiḏā rafaʿa raʾasahu mina alrrukūʿi ḳāla allahumma rabbanā walaka alḥamdu
 
 ############################################################
 ## betaCodeManual>Arabic
-أَخْبَرَنَا إِِسْحَاقُ بْنُ إِِبْرَاهِيْمَ قَالَ حَدَّثَنَا عَبْدُ أَلْرَّزّاقِ قَالَ حَدَّثَنَا مَعْمَرٌ عَنِ أَلْزُّهْرِيِّ عَنْ أَبِيْ سَلَمَةَ عَنْ أَبِيْ هُرَيْرَةَ قَالَ كَانَ رَسُوْلُ أَلَّهِ صْلْعْمْ إِِذَا رَفَعَ رَأَسَهُ مِنَ أَلْرُّكُوْعِ قَالَ أَلَّهُمَّ رَبَّنَا وَلَكَ أَلْحَمْدُ
+أَخْبَرَنَا إِسْحَاقُ بْنُ إِبْرَاهِيمَ قَالَ حَدَّثَنَا عَبْدُ أَلْرَّزّاقِ قَالَ حَدَّثَنَا مَعْمَرٌ عَنِ أَلْزُّهْرِييِ عَنْ أَبِي سَلَمَةَ عَنْ أَبِي هُرَيْرَةَ قَالَ كَانَ رَسُولُ أَلَّهِ صْلْعْمْ إِذَا رَفَعَ رَأَسَهُ مِنَ أَلْرُّكُوعِ قَالَ أَلَّهُمَّ رَبَّنَا وَلَكَ أَلْحَمْدُ
 
 ############################################################
 ## TranslationBetaCode

@@ -9,19 +9,19 @@
 
 ############################################################
 ## betaCodeAuto
-.hadda_taniy `abdu almaliki bnu ^su`aybi bni allay_ti q_ala .hadda_taniy 'abiy `an ^gaddiy q_ala .hadda_taniy `uqaylu bnu _h_alidi.n q_ala q_ala abnu ^sih_abi.n 'a_hbaraniy `urwa:tu bnu alzzubayri 'anna 'ab_a hurayra:ta q_ala q_ala rasuwlu allahi .sl`m ya'atiy al`abda al^ssay.t_anu fayaquwlu man _halaqa ka_d_a waka_d_a mi_tla .hadiy_ti abni 'a_hiy abni ^sih_abi.n
+.hadda_tan_i `abdu almaliki bnu ^su`aybi bni allay_ti q_ala .hadda_tan_i 'ab_i `an ^gadd_i q_ala .hadda_tan_i `uqaylu bnu _h_alidi.n q_ala q_ala abnu ^sih_abi.n 'a_hbaran_i `urwa:tu bnu alzzubayri 'anna 'ab_a hurayra:ta q_ala q_ala ras_ulu allahi .sl`m ya'at_i al`abda al^ssay.t_anu fayaq_ulu man _halaqa ka_d_a waka_d_a mi_tla .had_i_ti abni 'a_h_i abni ^sih_abi.n
 
 ############################################################
 ## betaCodeManual
-.hadda_taniy `abdu almaliki bnu ^su`aybi bni allay_ti q_ala .hadda_taniy 'abiy `an ^gaddiy q_ala .hadda_taniy `uqaylu bnu _h_alidi.n q_ala q_ala abnu ^sih_abi.n 'a_hbaraniy `urwa:tu bnu alzzubayri 'anna 'ab_a hurayra:ta q_ala q_ala rasuwlu allahi .sl`m ya'atiy al`abda al^ssay.t_anu fayaquwlu man _halaqa ka_d_a waka_d_a mi_tla .hadiy_ti abni 'a_hiy abni ^sih_abi.n
+.hadda_tan_i `abdu almaliki bnu ^su`aybi bni allay_ti q_ala .hadda_tan_i 'ab_i `an ^gadd_i q_ala .hadda_tan_i `uqaylu bnu _h_alidi.n q_ala q_ala abnu ^sih_abi.n 'a_hbaran_i `urwa:tu bnu alzzubayri 'anna 'ab_a hurayra:ta q_ala q_ala ras_ulu allahi .sl`m ya'at_i al`abda al^ssay.t_anu fayaq_ulu man _halaqa ka_d_a waka_d_a mi_tla .had_i_ti abni 'a_h_i abni ^sih_abi.n
 
 ############################################################
 ## betaCodeManual>Translit
-ḥaddaṯaniy ʿabdu almaliki bnu šuʿaybi bni allayṯi ḳāla ḥaddaṯaniy ʾabiy ʿan ǧaddiy ḳāla ḥaddaṯaniy ʿuḳaylu bnu ḫālidiȵ ḳāla ḳāla abnu šihābiȵ ʾaḫbaraniy ʿurwaŧu bnu alzzubayri ʾanna ʾabā hurayraŧa ḳāla ḳāla rasuwlu allahi ṣlʿm yaʾatiy alʿabda alšsayṭānu fayaḳuwlu man ḫalaḳa kaḏā wakaḏā miṯla ḥadiyṯi abni ʾaḫiy abni šihābiȵ
+ḥaddaṯanī ʿabdu almaliki bnu šuʿaybi bni allayṯi ḳāla ḥaddaṯanī ʾabī ʿan ǧaddī ḳāla ḥaddaṯanī ʿuḳaylu bnu ḫālidiȵ ḳāla ḳāla abnu šihābiȵ ʾaḫbaranī ʿurwaŧu bnu alzzubayri ʾanna ʾabā hurayraŧa ḳāla ḳāla rasūlu allahi ṣlʿm yaʾatī alʿabda alšsayṭānu fayaḳūlu man ḫalaḳa kaḏā wakaḏā miṯla ḥadīṯi abni ʾaḫī abni šihābiȵ
 
 ############################################################
 ## betaCodeManual>Arabic
-حَدَّثَنِيْ عَبْدُ أَلْمَلِكِ بْنُ شُعَيْبِ بْنِ أَلَّيْثِ قَالَ حَدَّثَنِيْ أَبِيْ عَنْ جَدِّيْ قَالَ حَدَّثَنِيْ عُقَيْلُ بْنُ خَالِدٍ قَالَ قَالَ أَبْنُ شِهَابٍ أَخْبَرَنِيْ عُرْوَةُ بْنُ أَلْزُّبَيْرِ أَنَّ أَبَا هُرَيْرَةَ قَالَ قَالَ رَسُوْلُ أَلَّهِ صْلْعْمْ يَأَتِيْ أَلْعَبْدَ أَلْشْسَيْطَانُ فَيَقُوْلُ مَنْ خَلَقَ كَذَا وَكَذَا مِثْلَ حَدِيْثِ أَبْنِ أَخِيْ أَبْنِ شِهَابٍ
+حَدَّثَنِي عَبْدُ أَلْمَلِكِ بْنُ شُعَيْبِ بْنِ أَلَّيْثِ قَالَ حَدَّثَنِي أَبِي عَنْ جَدّي قَالَ حَدَّثَنِي عُقَيْلُ بْنُ خَالِدٍ قَالَ قَالَ أَبْنُ شِهَابٍ أَخْبَرَنِي عُرْوَةُ بْنُ أَلْزُّبَيْرِ أَنَّ أَبَا هُرَيْرَةَ قَالَ قَالَ رَسُولُ أَلَّهِ صْلْعْمْ يَأَتِي أَلْعَبْدَ أَلْشْسَيْطَانُ فَيَقُولُ مَنْ خَلَقَ كَذَا وَكَذَا مِثْلَ حَدِيثِ أَبْنِ أَخِي أَبْنِ شِهَابٍ
 
 ############################################################
 ## TranslationBetaCode

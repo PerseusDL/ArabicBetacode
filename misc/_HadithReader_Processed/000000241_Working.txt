@@ -9,19 +9,19 @@
 
 ############################################################
 ## betaCodeAuto
-wa.hadda_tan_a abnu numayri.n .hadda_tan_a 'abiy .h wa.hadda_tan_a 'abuw kuraybi.n .hadda_tan_a 'abuw 'aus_ama:ta ^gamiy`a.n_a `ani al_ttawriyyi `an ya.hya/a bni 'abiy 'iis.h_aqa `an 'anasi.n `ani alnnabiyyi .sl`m bimi_tlihi walam ya_dkuri al.ha^gga
+wa.hadda_tan_a abnu numayri.n .hadda_tan_a 'ab_i .h wa.hadda_tan_a 'ab_u kuraybi.n .hadda_tan_a 'ab_u 'aus_ama:ta ^gam_i`a.n_a `ani al_ttawr_iyi `an ya.hy/a bni 'ab_i 'is.h_aqa `an 'anasi.n `ani alnnab_iyi .sl`m bimi_tlihi walam ya_dkuri al.ha^gga
 
 ############################################################
 ## betaCodeManual
-wa.hadda_tan_a abnu numayri.n .hadda_tan_a 'abiy .h wa.hadda_tan_a 'abuw kuraybi.n .hadda_tan_a 'abuw 'aus_ama:ta ^gamiy`a.n_a `ani al_ttawriyyi `an ya.hya/a bni 'abiy 'iis.h_aqa `an 'anasi.n `ani alnnabiyyi .sl`m bimi_tlihi walam ya_dkuri al.ha^gga
+wa.hadda_tan_a abnu numayri.n .hadda_tan_a 'ab_i .h wa.hadda_tan_a 'ab_u kuraybi.n .hadda_tan_a 'ab_u 'aus_ama:ta ^gam_i`a.n_a `ani al_ttawr_iyi `an ya.hy/a bni 'ab_i 'is.h_aqa `an 'anasi.n `ani alnnab_iyi .sl`m bimi_tlihi walam ya_dkuri al.ha^gga
 
 ############################################################
 ## betaCodeManual>Translit
-waḥaddaṯanā abnu numayriȵ ḥaddaṯanā ʾabiy ḥ waḥaddaṯanā ʾabuw kuraybiȵ ḥaddaṯanā ʾabuw ʾausāmaŧa ǧamiyʿaȵā ʿani alṯtawriyyi ʿan yaḥyaá bni ʾabiy ʾiisḥāḳa ʿan ʾanasiȵ ʿani alnnabiyyi ṣlʿm bimiṯlihi walam yaḏkuri alḥaǧga
+waḥaddaṯanā abnu numayriȵ ḥaddaṯanā ʾabī ḥ waḥaddaṯanā ʾabū kuraybiȵ ḥaddaṯanā ʾabū ʾausāmaŧa ǧamīʿaȵā ʿani alṯtawrīyi ʿan yaḥyá bni ʾabī ʾisḥāḳa ʿan ʾanasiȵ ʿani alnnabīyi ṣlʿm bimiṯlihi walam yaḏkuri alḥaǧga
 
 ############################################################
 ## betaCodeManual>Arabic
-وَحَدَّثَنَا أَبْنُ نُمَيْرٍ حَدَّثَنَا أَبِيْ حْ وَحَدَّثَنَا أَبُوْ كُرَيْبٍ حَدَّثَنَا أَبُوْ أَأُسَامَةَ جَمِيْعاًا عَنِ أَلْثْتَوْرِيِّ عَنْ يَحْيَٰى بْنِ أَبِيْ إِِسْحَاقَ عَنْ أَنَسٍ عَنِ أَلْنَّبِيِّ صْلْعْمْ بِمِثْلِهِ وَلَمْ يَذْكُرِ أَلْحَجْگَ
+وَحَدَّثَنَا أَبْنُ نُمَيْرٍ حَدَّثَنَا أَبِي حْ وَحَدَّثَنَا أَبُو كُرَيْبٍ حَدَّثَنَا أَبُو أَأُسَامَةَ جَمِيعاًا عَنِ أَلْثْتَوْرِييِ عَنْ يَحْيٰى بْنِ أَبِي إِسْحَاقَ عَنْ أَنَسٍ عَنِ أَلْنَّبِييِ صْلْعْمْ بِمِثْلِهِ وَلَمْ يَذْكُرِ أَلْحَجْگَ
 
 ############################################################
 ## TranslationBetaCode

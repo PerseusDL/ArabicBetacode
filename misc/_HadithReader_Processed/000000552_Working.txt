@@ -9,19 +9,19 @@
 
 ############################################################
 ## betaCodeAuto
-'a_hbaraniy ma.hmuwdu bnu _h_alidi.n q_ala .hadda_tan_a alwaliydu `ani abni ^guray^gi.n `an `amriw bni ^su`aybi.n `an 'abiyhi `an ^gaddihi mi_tlahu saw_a'a.n
+'a_hbaran_i ma.hm_udu bnu _h_alidi.n q_ala .hadda_tan_a alwal_idu `ani abni ^guray^gi.n `an `amriw bni ^su`aybi.n `an 'ab_ihi `an ^gaddihi mi_tlahu saw_a'a.n
 
 ############################################################
 ## betaCodeManual
-'a_hbaraniy ma.hmuwdu bnu _h_alidi.n q_ala .hadda_tan_a alwaliydu `ani abni ^guray^gi.n `an `amriw bni ^su`aybi.n `an 'abiyhi `an ^gaddihi mi_tlahu saw_a'a.n
+'a_hbaran_i ma.hm_udu bnu _h_alidi.n q_ala .hadda_tan_a alwal_idu `ani abni ^guray^gi.n `an `amriw bni ^su`aybi.n `an 'ab_ihi `an ^gaddihi mi_tlahu saw_a'a.n
 
 ############################################################
 ## betaCodeManual>Translit
-ʾaḫbaraniy maḥmuwdu bnu ḫālidiȵ ḳāla ḥaddaṯanā alwaliydu ʿani abni ǧurayǧiȵ ʿan ʿamriw bni šuʿaybiȵ ʿan ʾabiyhi ʿan ǧaddihi miṯlahu sawāʾaȵ
+ʾaḫbaranī maḥmūdu bnu ḫālidiȵ ḳāla ḥaddaṯanā alwalīdu ʿani abni ǧurayǧiȵ ʿan ʿamriw bni šuʿaybiȵ ʿan ʾabīhi ʿan ǧaddihi miṯlahu sawāʾaȵ
 
 ############################################################
 ## betaCodeManual>Arabic
-أَخْبَرَنِيْ مَحْمُوْدُ بْنُ خَالِدٍ قَالَ حَدَّثَنَا أَلْوَلِيْدُ عَنِ أَبْنِ جُرَيْجٍ عَنْ عَمْرِوْ بْنِ شُعَيْبٍ عَنْ أَبِيْهِ عَنْ جَدِّهِ مِثْلَهُ سَواءً
+أَخْبَرَنِي مَحْمُودُ بْنُ خَالِدٍ قَالَ حَدَّثَنَا أَلْوَلِيدُ عَنِ أَبْنِ جُرَيْجٍ عَنْ عَمْرِوْ بْنِ شُعَيْبٍ عَنْ أَبِيهِ عَنْ جَدِّهِ مِثْلَهُ سَواءً
 
 ############################################################
 ## TranslationBetaCode

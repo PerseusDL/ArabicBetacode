@@ -9,19 +9,19 @@
 
 ############################################################
 ## betaCodeAuto
-.hadda_tan_a alqa`nabiyyu `an m_aliki.n `ani abni ^sih_abi.n `an 'abiy salama:ta `an 'abiy hurayra:ta q_ala q_ala rasuwlu allahi .sl`m man 'adraka rak`a:ta.n mina al.ssal_a:ti faqad 'adraka al.ssal_a:ta
+.hadda_tan_a alqa`nab_iyu `an m_aliki.n `ani abni ^sih_abi.n `an 'ab_i salama:ta `an 'ab_i hurayra:ta q_ala q_ala ras_ulu allahi .sl`m man 'adraka rak`a:ta.n mina al.ssal_a:ti faqad 'adraka al.ssal_a:ta
 
 ############################################################
 ## betaCodeManual
-.hadda_tan_a alqa`nabiyyu `an m_aliki.n `ani abni ^sih_abi.n `an 'abiy salama:ta `an 'abiy hurayra:ta q_ala q_ala rasuwlu allahi .sl`m man 'adraka rak`a:ta.n mina al.ssal_a:ti faqad 'adraka al.ssal_a:ta
+.hadda_tan_a alqa`nab_iyu `an m_aliki.n `ani abni ^sih_abi.n `an 'ab_i salama:ta `an 'ab_i hurayra:ta q_ala q_ala ras_ulu allahi .sl`m man 'adraka rak`a:ta.n mina al.ssal_a:ti faqad 'adraka al.ssal_a:ta
 
 ############################################################
 ## betaCodeManual>Translit
-ḥaddaṯanā alḳaʿnabiyyu ʿan mālikiȵ ʿani abni šihābiȵ ʿan ʾabiy salamaŧa ʿan ʾabiy hurayraŧa ḳāla ḳāla rasuwlu allahi ṣlʿm man ʾadraka rakʿaŧaȵ mina alṣsalāŧi faḳad ʾadraka alṣsalāŧa
+ḥaddaṯanā alḳaʿnabīyu ʿan mālikiȵ ʿani abni šihābiȵ ʿan ʾabī salamaŧa ʿan ʾabī hurayraŧa ḳāla ḳāla rasūlu allahi ṣlʿm man ʾadraka rakʿaŧaȵ mina alṣsalāŧi faḳad ʾadraka alṣsalāŧa
 
 ############################################################
 ## betaCodeManual>Arabic
-حَدَّثَنَا أَلْقَعْنَبِيُّ عَنْ مَالِكٍ عَنِ أَبْنِ شِهَابٍ عَنْ أَبِيْ سَلَمَةَ عَنْ أَبِيْ هُرَيْرَةَ قَالَ قَالَ رَسُوْلُ أَلَّهِ صْلْعْمْ مَنْ أَدْرَكَ رَكْعَةً مِنَ أَلْصْسَلَاةِ فَقَدْ أَدْرَكَ أَلْصْسَلَاةَ
+حَدَّثَنَا أَلْقَعْنَبِييُ عَنْ مَالِكٍ عَنِ أَبْنِ شِهَابٍ عَنْ أَبِي سَلَمَةَ عَنْ أَبِي هُرَيْرَةَ قَالَ قَالَ رَسُولُ أَلَّهِ صْلْعْمْ مَنْ أَدْرَكَ رَكْعَةً مِنَ أَلْصْسَلَاةِ فَقَدْ أَدْرَكَ أَلْصْسَلَاةَ
 
 ############################################################
 ## TranslationBetaCode

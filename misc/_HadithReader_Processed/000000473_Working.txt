@@ -9,19 +9,19 @@
 
 ############################################################
 ## betaCodeAuto
-'a_hbaran_a 'iis.h_aqu bnu 'iibr_ahiyma wa`aliyyu bnu .hu^gri.n q_al_a .hadda_tan_a `abdu al`aziyzi bnu mu.hammadi.n `an `abdi alw_a.hidi bni .hamza:ta `an `abb_adi bni `abdi allahi bni alzzubayri `an `_a'ii^sa:ta q_alat m_a .salla/a rasuwlu allahi .sl`m `ala/a suhayli abni bay.d_a'a 'iil_aa fiy almas^gidi
+'a_hbaran_a 'is.h_aqu bnu 'ibr_ah_ima wa`al_iyu bnu .hu^gri.n q_al_a .hadda_tan_a `abdu al`az_izi bnu mu.hammadi.n `an `abdi alw_a.hidi bni .hamza:ta `an `abb_adi bni `abdi allahi bni alzzubayri `an `_a'i^sa:ta q_alat m_a .sall/a ras_ulu allahi .sl`m `al/a suhayli abni bay.d_a'a 'il_aa f_i almas^gidi
 
 ############################################################
 ## betaCodeManual
-'a_hbaran_a 'iis.h_aqu bnu 'iibr_ahiyma wa`aliyyu bnu .hu^gri.n q_al_a .hadda_tan_a `abdu al`aziyzi bnu mu.hammadi.n `an `abdi alw_a.hidi bni .hamza:ta `an `abb_adi bni `abdi allahi bni alzzubayri `an `_a'ii^sa:ta q_alat m_a .salla/a rasuwlu allahi .sl`m `ala/a suhayli abni bay.d_a'a 'iil_aa fiy almas^gidi
+'a_hbaran_a 'is.h_aqu bnu 'ibr_ah_ima wa`al_iyu bnu .hu^gri.n q_al_a .hadda_tan_a `abdu al`az_izi bnu mu.hammadi.n `an `abdi alw_a.hidi bni .hamza:ta `an `abb_adi bni `abdi allahi bni alzzubayri `an `_a'i^sa:ta q_alat m_a .sall/a ras_ulu allahi .sl`m `al/a suhayli abni bay.d_a'a 'il_aa f_i almas^gidi
 
 ############################################################
 ## betaCodeManual>Translit
-ʾaḫbaranā ʾiisḥāḳu bnu ʾiibrāhiyma waʿaliyyu bnu ḥuǧriȵ ḳālā ḥaddaṯanā ʿabdu alʿaziyzi bnu muḥammadiȵ ʿan ʿabdi alwāḥidi bni ḥamzaŧa ʿan ʿabbādi bni ʿabdi allahi bni alzzubayri ʿan ʿāʾiišaŧa ḳālat mā ṣallaá rasuwlu allahi ṣlʿm ʿalaá suhayli abni bayḍāʾa ʾiilāa fiy almasǧidi
+ʾaḫbaranā ʾisḥāḳu bnu ʾibrāhīma waʿalīyu bnu ḥuǧriȵ ḳālā ḥaddaṯanā ʿabdu alʿazīzi bnu muḥammadiȵ ʿan ʿabdi alwāḥidi bni ḥamzaŧa ʿan ʿabbādi bni ʿabdi allahi bni alzzubayri ʿan ʿāʾišaŧa ḳālat mā ṣallá rasūlu allahi ṣlʿm ʿalá suhayli abni bayḍāʾa ʾilāa fī almasǧidi
 
 ############################################################
 ## betaCodeManual>Arabic
-أَخْبَرَنَا إِِسْحَاقُ بْنُ إِِبْرَاهِيْمَ وَعَلِيُّ بْنُ حُجْرٍ قَالَا حَدَّثَنَا عَبْدُ أَلْعَزِيْزِ بْنُ مُحَمَّدٍ عَنْ عَبْدِ أَلْوَاحِدِ بْنِ حَمْزَةَ عَنْ عَبّادِ بْنِ عَبْدِ أَلَّهِ بْنِ أَلْزُّبَيْرِ عَنْ عائِِشَةَ قَالَتْ مَا صَلَّٰى رَسُوْلُ أَلَّهِ صْلْعْمْ عَلَٰى سُهَيْلِ أَبْنِ بَيْضاءَ إِِلَاَ فِيْ أَلْمَسْجِدِ
+أَخْبَرَنَا إِسْحَاقُ بْنُ إِبْرَاهِيمَ وَعَلِييُ بْنُ حُجْرٍ قَالَا حَدَّثَنَا عَبْدُ أَلْعَزِيزِ بْنُ مُحَمَّدٍ عَنْ عَبْدِ أَلْوَاحِدِ بْنِ حَمْزَةَ عَنْ عَبّادِ بْنِ عَبْدِ أَلَّهِ بْنِ أَلْزُّبَيْرِ عَنْ عائِشَةَ قَالَتْ مَا صَلّٰى رَسُولُ أَلَّهِ صْلْعْمْ عَلٰى سُهَيْلِ أَبْنِ بَيْضاءَ إِلَاَ فِي أَلْمَسْجِدِ
 
 ############################################################
 ## TranslationBetaCode

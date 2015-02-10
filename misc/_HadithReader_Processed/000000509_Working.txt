@@ -9,19 +9,19 @@
 
 ############################################################
 ## betaCodeAuto
-'a_hbaran_a 'iism_a`iylu bnu mas`uwdi.n q_ala .hadda_tan_a _h_alidu.n q_ala .hadda_tan_a ^su`ba:tu `an sulaym_ana `an 'iibr_ahiyma `ani al'aswadi `an `_a'ii^sa:ta 'anna rasuwla allahi .sl`m k_ana yuhdiy al.ganama
+'a_hbaran_a 'ism_a`_ilu bnu mas`_udi.n q_ala .hadda_tan_a _h_alidu.n q_ala .hadda_tan_a ^su`ba:tu `an sulaym_ana `an 'ibr_ah_ima `ani al'aswadi `an `_a'i^sa:ta 'anna ras_ula allahi .sl`m k_ana yuhd_i al.ganama
 
 ############################################################
 ## betaCodeManual
-'a_hbaran_a 'iism_a`iylu bnu mas`uwdi.n q_ala .hadda_tan_a _h_alidu.n q_ala .hadda_tan_a ^su`ba:tu `an sulaym_ana `an 'iibr_ahiyma `ani al'aswadi `an `_a'ii^sa:ta 'anna rasuwla allahi .sl`m k_ana yuhdiy al.ganama
+'a_hbaran_a 'ism_a`_ilu bnu mas`_udi.n q_ala .hadda_tan_a _h_alidu.n q_ala .hadda_tan_a ^su`ba:tu `an sulaym_ana `an 'ibr_ah_ima `ani al'aswadi `an `_a'i^sa:ta 'anna ras_ula allahi .sl`m k_ana yuhd_i al.ganama
 
 ############################################################
 ## betaCodeManual>Translit
-ʾaḫbaranā ʾiismāʿiylu bnu masʿuwdiȵ ḳāla ḥaddaṯanā ḫāliduȵ ḳāla ḥaddaṯanā šuʿbaŧu ʿan sulaymāna ʿan ʾiibrāhiyma ʿani alʾaswadi ʿan ʿāʾiišaŧa ʾanna rasuwla allahi ṣlʿm kāna yuhdiy alġanama
+ʾaḫbaranā ʾismāʿīlu bnu masʿūdiȵ ḳāla ḥaddaṯanā ḫāliduȵ ḳāla ḥaddaṯanā šuʿbaŧu ʿan sulaymāna ʿan ʾibrāhīma ʿani alʾaswadi ʿan ʿāʾišaŧa ʾanna rasūla allahi ṣlʿm kāna yuhdī alġanama
 
 ############################################################
 ## betaCodeManual>Arabic
-أَخْبَرَنَا إِِسْمَاعِيْلُ بْنُ مَسْعُوْدٍ قَالَ حَدَّثَنَا خَالِدٌ قَالَ حَدَّثَنَا شُعْبَةُ عَنْ سُلَيْمَانَ عَنْ إِِبْرَاهِيْمَ عَنِ أَلْأَسْوَدِ عَنْ عائِِشَةَ أَنَّ رَسُوْلَ أَلَّهِ صْلْعْمْ كَانَ يُهْدِيْ أَلْغَنَمَ
+أَخْبَرَنَا إِسْمَاعِيلُ بْنُ مَسْعُودٍ قَالَ حَدَّثَنَا خَالِدٌ قَالَ حَدَّثَنَا شُعْبَةُ عَنْ سُلَيْمَانَ عَنْ إِبْرَاهِيمَ عَنِ أَلْأَسْوَدِ عَنْ عائِشَةَ أَنَّ رَسُولَ أَلَّهِ صْلْعْمْ كَانَ يُهْدِي أَلْغَنَمَ
 
 ############################################################
 ## TranslationBetaCode

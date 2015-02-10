@@ -9,19 +9,19 @@
 
 ############################################################
 ## betaCodeAuto
-.hadda_tan_a mu.hammadu bnu almu_tanna/a .hadda_tan_a abnu 'abiy `adiyyi.n `an .humaydi.n `an 'anasi.n 'anna rasuwla allahi .sl`m ra'a/a ra^gul_a.n fa_dakara na.hwahu ha_d_a .hadiy_tu.n .hasanu.n .sa.hiy.hu.n
+.hadda_tan_a mu.hammadu bnu almu_tann/a .hadda_tan_a abnu 'ab_i `ad_iyi.n `an .humaydi.n `an 'anasi.n 'anna ras_ula allahi .sl`m ra'/a ra^gul_a.n fa_dakara na.hwahu ha_d_a .had_i_tu.n .hasanu.n .sa.h_i.hu.n
 
 ############################################################
 ## betaCodeManual
-.hadda_tan_a mu.hammadu bnu almu_tanna/a .hadda_tan_a abnu 'abiy `adiyyi.n `an .humaydi.n `an 'anasi.n 'anna rasuwla allahi .sl`m ra'a/a ra^gul_a.n fa_dakara na.hwahu ha_d_a .hadiy_tu.n .hasanu.n .sa.hiy.hu.n
+.hadda_tan_a mu.hammadu bnu almu_tann/a .hadda_tan_a abnu 'ab_i `ad_iyi.n `an .humaydi.n `an 'anasi.n 'anna ras_ula allahi .sl`m ra'/a ra^gul_a.n fa_dakara na.hwahu ha_d_a .had_i_tu.n .hasanu.n .sa.h_i.hu.n
 
 ############################################################
 ## betaCodeManual>Translit
-ḥaddaṯanā muḥammadu bnu almuṯannaá ḥaddaṯanā abnu ʾabiy ʿadiyyiȵ ʿan ḥumaydiȵ ʿan ʾanasiȵ ʾanna rasuwla allahi ṣlʿm raʾaá raǧulāȵ faḏakara naḥwahu haḏā ḥadiyṯuȵ ḥasanuȵ ṣaḥiyḥuȵ
+ḥaddaṯanā muḥammadu bnu almuṯanná ḥaddaṯanā abnu ʾabī ʿadīyiȵ ʿan ḥumaydiȵ ʿan ʾanasiȵ ʾanna rasūla allahi ṣlʿm raʾá raǧulāȵ faḏakara naḥwahu haḏā ḥadīṯuȵ ḥasanuȵ ṣaḥīḥuȵ
 
 ############################################################
 ## betaCodeManual>Arabic
-حَدَّثَنَا مُحَمَّدُ بْنُ أَلْمُثَنَّٰى حَدَّثَنَا أَبْنُ أَبِيْ عَدِيٍّ عَنْ حُمَيْدٍ عَنْ أَنَسٍ أَنَّ رَسُوْلَ أَلَّهِ صْلْعْمْ رَأَٰى رَجُلَاȵ فَذَكَرَ نَحْوَهُ هَذَا حَدِيْثٌ حَسَنٌ صَحِيْحٌ
+حَدَّثَنَا مُحَمَّدُ بْنُ أَلْمُثَنّٰى حَدَّثَنَا أَبْنُ أَبِي عَدِييٍ عَنْ حُمَيْدٍ عَنْ أَنَسٍ أَنَّ رَسُولَ أَلَّهِ صْلْعْمْ رَءٰى رَجُلَاȵ فَذَكَرَ نَحْوَهُ هَذَا حَدِيثٌ حَسَنٌ صَحِيحٌ
 
 ############################################################
 ## TranslationBetaCode

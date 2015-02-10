@@ -9,19 +9,19 @@
 
 ############################################################
 ## betaCodeAuto
-.hadda_tan_a 'abuw bakri bnu 'abiy ^sayba:ta w_abnu numayri.n q_al_a .hadda_tan_a 'abuw _h_alidi.n al'a.hmaru `an `ubaydi allahi `an n_afi`i.n `ani abni `umara 'anna alnnabiyya .sl`m k_ana yu.salliy 'iila/a r_a.hilatihi waq_ala abnu numayri.n 'iinna alnnabiyya .sl`m .salla/a 'iila/a ba`iyri.n
+.hadda_tan_a 'ab_u bakri bnu 'ab_i ^sayba:ta w_abnu numayri.n q_al_a .hadda_tan_a 'ab_u _h_alidi.n al'a.hmaru `an `ubaydi allahi `an n_afi`i.n `ani abni `umara 'anna alnnab_iya .sl`m k_ana yu.sall_i 'il/a r_a.hilatihi waq_ala abnu numayri.n 'inna alnnab_iya .sl`m .sall/a 'il/a ba`_iri.n
 
 ############################################################
 ## betaCodeManual
-.hadda_tan_a 'abuw bakri bnu 'abiy ^sayba:ta w_abnu numayri.n q_al_a .hadda_tan_a 'abuw _h_alidi.n al'a.hmaru `an `ubaydi allahi `an n_afi`i.n `ani abni `umara 'anna alnnabiyya .sl`m k_ana yu.salliy 'iila/a r_a.hilatihi waq_ala abnu numayri.n 'iinna alnnabiyya .sl`m .salla/a 'iila/a ba`iyri.n
+.hadda_tan_a 'ab_u bakri bnu 'ab_i ^sayba:ta w_abnu numayri.n q_al_a .hadda_tan_a 'ab_u _h_alidi.n al'a.hmaru `an `ubaydi allahi `an n_afi`i.n `ani abni `umara 'anna alnnab_iya .sl`m k_ana yu.sall_i 'il/a r_a.hilatihi waq_ala abnu numayri.n 'inna alnnab_iya .sl`m .sall/a 'il/a ba`_iri.n
 
 ############################################################
 ## betaCodeManual>Translit
-ḥaddaṯanā ʾabuw bakri bnu ʾabiy šaybaŧa wābnu numayriȵ ḳālā ḥaddaṯanā ʾabuw ḫālidiȵ alʾaḥmaru ʿan ʿubaydi allahi ʿan nāfiʿiȵ ʿani abni ʿumara ʾanna alnnabiyya ṣlʿm kāna yuṣalliy ʾiilaá rāḥilatihi waḳāla abnu numayriȵ ʾiinna alnnabiyya ṣlʿm ṣallaá ʾiilaá baʿiyriȵ
+ḥaddaṯanā ʾabū bakri bnu ʾabī šaybaŧa wābnu numayriȵ ḳālā ḥaddaṯanā ʾabū ḫālidiȵ alʾaḥmaru ʿan ʿubaydi allahi ʿan nāfiʿiȵ ʿani abni ʿumara ʾanna alnnabīya ṣlʿm kāna yuṣallī ʾilá rāḥilatihi waḳāla abnu numayriȵ ʾinna alnnabīya ṣlʿm ṣallá ʾilá baʿīriȵ
 
 ############################################################
 ## betaCodeManual>Arabic
-حَدَّثَنَا أَبُوْ بَكْرِ بْنُ أَبِيْ شَيْبَةَ وَابْنُ نُمَيْرٍ قَالَا حَدَّثَنَا أَبُوْ خَالِدٍ أَلْأَحْمَرُ عَنْ عُبَيْدِ أَلَّهِ عَنْ نَافِعٍ عَنِ أَبْنِ عُمَرَ أَنَّ أَلْنَّبِيَّ صْلْعْمْ كَانَ يُصَلِّيْ إِِلَٰى رَاحِلَتِهِ وَقَالَ أَبْنُ نُمَيْرٍ إِِنَّ أَلْنَّبِيَّ صْلْعْمْ صَلَّٰى إِِلَٰى بَعِيْرٍ
+حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ وَابْنُ نُمَيْرٍ قَالَا حَدَّثَنَا أَبُو خَالِدٍ أَلْأَحْمَرُ عَنْ عُبَيْدِ أَلَّهِ عَنْ نَافِعٍ عَنِ أَبْنِ عُمَرَ أَنَّ أَلْنَّبِييَ صْلْعْمْ كَانَ يُصَلّي إِلٰى رَاحِلَتِهِ وَقَالَ أَبْنُ نُمَيْرٍ إِنَّ أَلْنَّبِييَ صْلْعْمْ صَلّٰى إِلٰى بَعِيرٍ
 
 ############################################################
 ## TranslationBetaCode

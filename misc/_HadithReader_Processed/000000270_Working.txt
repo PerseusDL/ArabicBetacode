@@ -9,19 +9,19 @@
 
 ############################################################
 ## betaCodeAuto
-'a_hbaran_a 'a.hmadu bnu sulaym_ana q_ala .hadda_tan_a mu`_awiya:tu bnu hi^s_ami.n q_ala .hadda_tan_a sufy_anu `an `abdi allahi bni al.hasani `an 'iibr_ahiyma bni mu.hammadi bni .tal.ha:ta `an `abdi allahi bni `amri.nw q_ala q_ala rasuwlu allahi .sl`m man qutila duwna m_alihi fahuwa ^sahiydu.n
+'a_hbaran_a 'a.hmadu bnu sulaym_ana q_ala .hadda_tan_a mu`_aw_ia:tu bnu hi^s_ami.n q_ala .hadda_tan_a sufy_anu `an `abdi allahi bni al.hasani `an 'ibr_ah_ima bni mu.hammadi bni .tal.ha:ta `an `abdi allahi bni `amri.nw q_ala q_ala ras_ulu allahi .sl`m man qutila d_una m_alihi fah_ua ^sah_idu.n
 
 ############################################################
 ## betaCodeManual
-'a_hbaran_a 'a.hmadu bnu sulaym_ana q_ala .hadda_tan_a mu`_awiya:tu bnu hi^s_ami.n q_ala .hadda_tan_a sufy_anu `an `abdi allahi bni al.hasani `an 'iibr_ahiyma bni mu.hammadi bni .tal.ha:ta `an `abdi allahi bni `amri.nw q_ala q_ala rasuwlu allahi .sl`m man qutila duwna m_alihi fahuwa ^sahiydu.n
+'a_hbaran_a 'a.hmadu bnu sulaym_ana q_ala .hadda_tan_a mu`_aw_ia:tu bnu hi^s_ami.n q_ala .hadda_tan_a sufy_anu `an `abdi allahi bni al.hasani `an 'ibr_ah_ima bni mu.hammadi bni .tal.ha:ta `an `abdi allahi bni `amri.nw q_ala q_ala ras_ulu allahi .sl`m man qutila d_una m_alihi fah_ua ^sah_idu.n
 
 ############################################################
 ## betaCodeManual>Translit
-ʾaḫbaranā ʾaḥmadu bnu sulaymāna ḳāla ḥaddaṯanā muʿāwiyaŧu bnu hišāmiȵ ḳāla ḥaddaṯanā sufyānu ʿan ʿabdi allahi bni alḥasani ʿan ʾiibrāhiyma bni muḥammadi bni ṭalḥaŧa ʿan ʿabdi allahi bni ʿamriȵw ḳāla ḳāla rasuwlu allahi ṣlʿm man ḳutila duwna mālihi fahuwa šahiyduȵ
+ʾaḫbaranā ʾaḥmadu bnu sulaymāna ḳāla ḥaddaṯanā muʿāwīaŧu bnu hišāmiȵ ḳāla ḥaddaṯanā sufyānu ʿan ʿabdi allahi bni alḥasani ʿan ʾibrāhīma bni muḥammadi bni ṭalḥaŧa ʿan ʿabdi allahi bni ʿamriȵw ḳāla ḳāla rasūlu allahi ṣlʿm man ḳutila dūna mālihi fahūa šahīduȵ
 
 ############################################################
 ## betaCodeManual>Arabic
-أَخْبَرَنَا أَحْمَدُ بْنُ سُلَيْمَانَ قَالَ حَدَّثَنَا مُعَاوِيَةُ بْنُ هِشَامٍ قَالَ حَدَّثَنَا سُفْيَانُ عَنْ عَبْدِ أَلَّهِ بْنِ أَلْحَسَنِ عَنْ إِِبْرَاهِيْمَ بْنِ مُحَمَّدِ بْنِ طَلْحَةَ عَنْ عَبْدِ أَلَّهِ بْنِ عَمْرٍوْ قَالَ قَالَ رَسُوْلُ أَلَّهِ صْلْعْمْ مَنْ قُتِلَ دُوْنَ مَالِهِ فَهُوَ شَهِيْدٌ
+أَخْبَرَنَا أَحْمَدُ بْنُ سُلَيْمَانَ قَالَ حَدَّثَنَا مُعَاوِيَةُ بْنُ هِشَامٍ قَالَ حَدَّثَنَا سُفْيَانُ عَنْ عَبْدِ أَلَّهِ بْنِ أَلْحَسَنِ عَنْ إِبْرَاهِيمَ بْنِ مُحَمَّدِ بْنِ طَلْحَةَ عَنْ عَبْدِ أَلَّهِ بْنِ عَمْرٍوْ قَالَ قَالَ رَسُولُ أَلَّهِ صْلْعْمْ مَنْ قُتِلَ دُونَ مَالِهِ فَهُوَ شَهِيدٌ
 
 ############################################################
 ## TranslationBetaCode

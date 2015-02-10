@@ -9,19 +9,19 @@
 
 ############################################################
 ## betaCodeAuto
-.hadda_tan_a qutayba:tu .hadda_tan_a `abdu allahi bnu wahbi.n `an 'abiy h_ani'ii.n al_hawl_aniyyi biha_d_a al'iisn_adi na.hwahu warawa/a ba`.duhum ha_d_a al.hadiy_ta `an `abdi allahi bni wahbi.n biha_d_a al'iisn_adi waq_ala `an `abdi allahi bni `amri.nw
+.hadda_tan_a qutayba:tu .hadda_tan_a `abdu allahi bnu wahbi.n `an 'ab_i h_ani'i.n al_hawl_an_iyi biha_d_a al'isn_adi na.hwahu waraw/a ba`.duhum ha_d_a al.had_i_ta `an `abdi allahi bni wahbi.n biha_d_a al'isn_adi waq_ala `an `abdi allahi bni `amri.nw
 
 ############################################################
 ## betaCodeManual
-.hadda_tan_a qutayba:tu .hadda_tan_a `abdu allahi bnu wahbi.n `an 'abiy h_ani'ii.n al_hawl_aniyyi biha_d_a al'iisn_adi na.hwahu warawa/a ba`.duhum ha_d_a al.hadiy_ta `an `abdi allahi bni wahbi.n biha_d_a al'iisn_adi waq_ala `an `abdi allahi bni `amri.nw
+.hadda_tan_a qutayba:tu .hadda_tan_a `abdu allahi bnu wahbi.n `an 'ab_i h_ani'i.n al_hawl_an_iyi biha_d_a al'isn_adi na.hwahu waraw/a ba`.duhum ha_d_a al.had_i_ta `an `abdi allahi bni wahbi.n biha_d_a al'isn_adi waq_ala `an `abdi allahi bni `amri.nw
 
 ############################################################
 ## betaCodeManual>Translit
-ḥaddaṯanā ḳutaybaŧu ḥaddaṯanā ʿabdu allahi bnu wahbiȵ ʿan ʾabiy hāniʾiiȵ alḫawlāniyyi bihaḏā alʾiisnādi naḥwahu warawaá baʿḍuhum haḏā alḥadiyṯa ʿan ʿabdi allahi bni wahbiȵ bihaḏā alʾiisnādi waḳāla ʿan ʿabdi allahi bni ʿamriȵw
+ḥaddaṯanā ḳutaybaŧu ḥaddaṯanā ʿabdu allahi bnu wahbiȵ ʿan ʾabī hāniʾiȵ alḫawlānīyi bihaḏā alʾisnādi naḥwahu warawá baʿḍuhum haḏā alḥadīṯa ʿan ʿabdi allahi bni wahbiȵ bihaḏā alʾisnādi waḳāla ʿan ʿabdi allahi bni ʿamriȵw
 
 ############################################################
 ## betaCodeManual>Arabic
-حَدَّثَنَا قُتَيْبَةُ حَدَّثَنَا عَبْدُ أَلَّهِ بْنُ وَهْبٍ عَنْ أَبِيْ هَانِئٍِ أَلْخَوْلَانِيِّ بِهَذَا أَلْئِِسْنَادِ نَحْوَهُ وَرَوَٰى بَعْضُهُمْ هَذَا أَلْحَدِيْثَ عَنْ عَبْدِ أَلَّهِ بْنِ وَهْبٍ بِهَذَا أَلْئِِسْنَادِ وَقَالَ عَنْ عَبْدِ أَلَّهِ بْنِ عَمْرٍوْ
+حَدَّثَنَا قُتَيْبَةُ حَدَّثَنَا عَبْدُ أَلَّهِ بْنُ وَهْبٍ عَنْ أَبِي هَانِئٍ أَلْخَوْلَانِييِ بِهَذَا أَلْئِسْنَادِ نَحْوَهُ وَرَوٰى بَعْضُهُمْ هَذَا أَلْحَدِيثَ عَنْ عَبْدِ أَلَّهِ بْنِ وَهْبٍ بِهَذَا أَلْئِسْنَادِ وَقَالَ عَنْ عَبْدِ أَلَّهِ بْنِ عَمْرٍوْ
 
 ############################################################
 ## TranslationBetaCode

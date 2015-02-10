@@ -9,19 +9,19 @@
 
 ############################################################
 ## betaCodeAuto
-'a_hbaran_a suwaydu.n q_ala 'anba'an_a `abdu allahi `an sufy_ana `ani al'a`ma^si `an 'iibr_ahiyma `ani al'aswadi mi_tla _dalika
+'a_hbaran_a s_uaydu.n q_ala 'anba'an_a `abdu allahi `an sufy_ana `ani al'a`ma^si `an 'ibr_ah_ima `ani al'aswadi mi_tla _dalika
 
 ############################################################
 ## betaCodeManual
-'a_hbaran_a suwaydu.n q_ala 'anba'an_a `abdu allahi `an sufy_ana `ani al'a`ma^si `an 'iibr_ahiyma `ani al'aswadi mi_tla _dalika
+'a_hbaran_a s_uaydu.n q_ala 'anba'an_a `abdu allahi `an sufy_ana `ani al'a`ma^si `an 'ibr_ah_ima `ani al'aswadi mi_tla _dalika
 
 ############################################################
 ## betaCodeManual>Translit
-ʾaḫbaranā suwayduȵ ḳāla ʾanbaʾanā ʿabdu allahi ʿan sufyāna ʿani alʾaʿmaši ʿan ʾiibrāhiyma ʿani alʾaswadi miṯla ḏalika
+ʾaḫbaranā sūayduȵ ḳāla ʾanbaʾanā ʿabdu allahi ʿan sufyāna ʿani alʾaʿmaši ʿan ʾibrāhīma ʿani alʾaswadi miṯla ḏalika
 
 ############################################################
 ## betaCodeManual>Arabic
-أَخْبَرَنَا سُوَيْدٌ قَالَ أَنْبَأَنَا عَبْدُ أَلَّهِ عَنْ سُفْيَانَ عَنِ أَلْأَعْمَشِ عَنْ إِِبْرَاهِيْمَ عَنِ أَلْأَسْوَدِ مِثْلَ ذَلِكَ
+أَخْبَرَنَا سُوَيْدٌ قَالَ أَنْبَأَنَا عَبْدُ أَلَّهِ عَنْ سُفْيَانَ عَنِ أَلْأَعْمَشِ عَنْ إِبْرَاهِيمَ عَنِ أَلْأَسْوَدِ مِثْلَ ذَلِكَ
 
 ############################################################
 ## TranslationBetaCode

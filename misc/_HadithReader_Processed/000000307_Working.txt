@@ -9,19 +9,19 @@
 
 ############################################################
 ## betaCodeAuto
-.hadda_tan_a abnu 'abiy `umara .hadda_tan_a sufy_anu bnu `uyayna:ta `an `amriw bni diyn_ari.n `ani alzzuhriyyi `an s_alimi.n `an 'abiyhi `ani alnnabiyyi .sl`m 'annahu k_ana yu.salliy ba`da al^gumu`a:ti rak`atayni q_ala wafiy alb_abi `an ^g_abiri.n q_ala 'abuw `iysa/a .hadiy_tu abni `umara .hadiy_tu.n .hasanu.n .sa.hiy.hu.n waqad ruwiya `an n_afi`i.n `ani abni `umara 'ay.da.n_a w_al`amalu `ala/a ha_d_a `inda ba`.di 'ahli al`ilmi wabihi yaquwlu al^ss_afi`iyyu wa'a.hmadu
+.hadda_tan_a abnu 'ab_i `umara .hadda_tan_a sufy_anu bnu `uyayna:ta `an `amriw bni d_in_ari.n `ani alzzuhr_iyi `an s_alimi.n `an 'ab_ihi `ani alnnab_iyi .sl`m 'annahu k_ana yu.sall_i ba`da al^gumu`a:ti rak`atayni q_ala waf_i alb_abi `an ^g_abiri.n q_ala 'ab_u `_is/a .had_i_tu abni `umara .had_i_tu.n .hasanu.n .sa.h_i.hu.n waqad r_u_ia `an n_afi`i.n `ani abni `umara 'ay.da.n_a w_al`amalu `al/a ha_d_a `inda ba`.di 'ahli al`ilmi wabihi yaq_ulu al^ss_afi`_iyu wa'a.hmadu
 
 ############################################################
 ## betaCodeManual
-.hadda_tan_a abnu 'abiy `umara .hadda_tan_a sufy_anu bnu `uyayna:ta `an `amriw bni diyn_ari.n `ani alzzuhriyyi `an s_alimi.n `an 'abiyhi `ani alnnabiyyi .sl`m 'annahu k_ana yu.salliy ba`da al^gumu`a:ti rak`atayni q_ala wafiy alb_abi `an ^g_abiri.n q_ala 'abuw `iysa/a .hadiy_tu abni `umara .hadiy_tu.n .hasanu.n .sa.hiy.hu.n waqad ruwiya `an n_afi`i.n `ani abni `umara 'ay.da.n_a w_al`amalu `ala/a ha_d_a `inda ba`.di 'ahli al`ilmi wabihi yaquwlu al^ss_afi`iyyu wa'a.hmadu
+.hadda_tan_a abnu 'ab_i `umara .hadda_tan_a sufy_anu bnu `uyayna:ta `an `amriw bni d_in_ari.n `ani alzzuhr_iyi `an s_alimi.n `an 'ab_ihi `ani alnnab_iyi .sl`m 'annahu k_ana yu.sall_i ba`da al^gumu`a:ti rak`atayni q_ala waf_i alb_abi `an ^g_abiri.n q_ala 'ab_u `_is/a .had_i_tu abni `umara .had_i_tu.n .hasanu.n .sa.h_i.hu.n waqad r_u_ia `an n_afi`i.n `ani abni `umara 'ay.da.n_a w_al`amalu `al/a ha_d_a `inda ba`.di 'ahli al`ilmi wabihi yaq_ulu al^ss_afi`_iyu wa'a.hmadu
 
 ############################################################
 ## betaCodeManual>Translit
-ḥaddaṯanā abnu ʾabiy ʿumara ḥaddaṯanā sufyānu bnu ʿuyaynaŧa ʿan ʿamriw bni diynāriȵ ʿani alzzuhriyyi ʿan sālimiȵ ʿan ʾabiyhi ʿani alnnabiyyi ṣlʿm ʾannahu kāna yuṣalliy baʿda alǧumuʿaŧi rakʿatayni ḳāla wafiy albābi ʿan ǧābiriȵ ḳāla ʾabuw ʿiysaá ḥadiyṯu abni ʿumara ḥadiyṯuȵ ḥasanuȵ ṣaḥiyḥuȵ waḳad ruwiya ʿan nāfiʿiȵ ʿani abni ʿumara ʾayḍaȵā wālʿamalu ʿalaá haḏā ʿinda baʿḍi ʾahli alʿilmi wabihi yaḳuwlu alšsāfiʿiyyu waʾaḥmadu
+ḥaddaṯanā abnu ʾabī ʿumara ḥaddaṯanā sufyānu bnu ʿuyaynaŧa ʿan ʿamriw bni dīnāriȵ ʿani alzzuhrīyi ʿan sālimiȵ ʿan ʾabīhi ʿani alnnabīyi ṣlʿm ʾannahu kāna yuṣallī baʿda alǧumuʿaŧi rakʿatayni ḳāla wafī albābi ʿan ǧābiriȵ ḳāla ʾabū ʿīsá ḥadīṯu abni ʿumara ḥadīṯuȵ ḥasanuȵ ṣaḥīḥuȵ waḳad rūīa ʿan nāfiʿiȵ ʿani abni ʿumara ʾayḍaȵā wālʿamalu ʿalá haḏā ʿinda baʿḍi ʾahli alʿilmi wabihi yaḳūlu alšsāfiʿīyu waʾaḥmadu
 
 ############################################################
 ## betaCodeManual>Arabic
-حَدَّثَنَا أَبْنُ أَبِيْ عُمَرَ حَدَّثَنَا سُفْيَانُ بْنُ عُيَيْنَةَ عَنْ عَمْرِوْ بْنِ دِيْنَارٍ عَنِ أَلْزُّهْرِيِّ عَنْ سَالِمٍ عَنْ أَبِيْهِ عَنِ أَلْنَّبِيِّ صْلْعْمْ أَنَّهُ كَانَ يُصَلِّيْ بَعْدَ أَلْجُمُعَةِ رَكْعَتَيْنِ قَالَ وَفِيْ أَلْبَابِ عَنْ جَابِرٍ قَالَ أَبُوْ عِيْسَٰى حَدِيْثُ أَبْنِ عُمَرَ حَدِيْثٌ حَسَنٌ صَحِيْحٌ وَقَدْ رُوِيَ عَنْ نَافِعٍ عَنِ أَبْنِ عُمَرَ أَيْضاًا وَالْعَمَلُ عَلَٰى هَذَا عِنْدَ بَعْضِ أَهْلِ أَلْعِلْمِ وَبِهِ يَقُوْلُ أَلْشْسَافِعِيُّ وَأَحْمَدُ
+حَدَّثَنَا أَبْنُ أَبِي عُمَرَ حَدَّثَنَا سُفْيَانُ بْنُ عُيَيْنَةَ عَنْ عَمْرِوْ بْنِ دِينَارٍ عَنِ أَلْزُّهْرِييِ عَنْ سَالِمٍ عَنْ أَبِيهِ عَنِ أَلْنَّبِييِ صْلْعْمْ أَنَّهُ كَانَ يُصَلّي بَعْدَ أَلْجُمُعَةِ رَكْعَتَيْنِ قَالَ وَفِي أَلْبَابِ عَنْ جَابِرٍ قَالَ أَبُو عِيسٰى حَدِيثُ أَبْنِ عُمَرَ حَدِيثٌ حَسَنٌ صَحِيحٌ وَقَدْ رُويَ عَنْ نَافِعٍ عَنِ أَبْنِ عُمَرَ أَيْضاًا وَالْعَمَلُ عَلٰى هَذَا عِنْدَ بَعْضِ أَهْلِ أَلْعِلْمِ وَبِهِ يَقُولُ أَلْشْسَافِعِييُ وَأَحْمَدُ
 
 ############################################################
 ## TranslationBetaCode

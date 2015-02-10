@@ -9,19 +9,19 @@
 
 ############################################################
 ## betaCodeAuto
-'a_hbaran_a qutayba:tu q_ala .hadda_tan_a m_aliku.n `an 'abiy bakri bni `umara bni `abdi alrra.hmani bni `abdi allahi bni `umara bni al_ha.tt_abi `an sa`iydi bni yas_ari.n q_ala q_ala liy abnu `umara 'anna rasuwla allahi .sl`m k_ana yuwtiru `ala/a alba`iyri
+'a_hbaran_a qutayba:tu q_ala .hadda_tan_a m_aliku.n `an 'ab_i bakri bni `umara bni `abdi alrra.hmani bni `abdi allahi bni `umara bni al_ha.tt_abi `an sa`_idi bni yas_ari.n q_ala q_ala l_i abnu `umara 'anna ras_ula allahi .sl`m k_ana y_utiru `al/a alba`_iri
 
 ############################################################
 ## betaCodeManual
-'a_hbaran_a qutayba:tu q_ala .hadda_tan_a m_aliku.n `an 'abiy bakri bni `umara bni `abdi alrra.hmani bni `abdi allahi bni `umara bni al_ha.tt_abi `an sa`iydi bni yas_ari.n q_ala q_ala liy abnu `umara 'anna rasuwla allahi .sl`m k_ana yuwtiru `ala/a alba`iyri
+'a_hbaran_a qutayba:tu q_ala .hadda_tan_a m_aliku.n `an 'ab_i bakri bni `umara bni `abdi alrra.hmani bni `abdi allahi bni `umara bni al_ha.tt_abi `an sa`_idi bni yas_ari.n q_ala q_ala l_i abnu `umara 'anna ras_ula allahi .sl`m k_ana y_utiru `al/a alba`_iri
 
 ############################################################
 ## betaCodeManual>Translit
-ʾaḫbaranā ḳutaybaŧu ḳāla ḥaddaṯanā mālikuȵ ʿan ʾabiy bakri bni ʿumara bni ʿabdi alrraḥmani bni ʿabdi allahi bni ʿumara bni alḫaṭtābi ʿan saʿiydi bni yasāriȵ ḳāla ḳāla liy abnu ʿumara ʾanna rasuwla allahi ṣlʿm kāna yuwtiru ʿalaá albaʿiyri
+ʾaḫbaranā ḳutaybaŧu ḳāla ḥaddaṯanā mālikuȵ ʿan ʾabī bakri bni ʿumara bni ʿabdi alrraḥmani bni ʿabdi allahi bni ʿumara bni alḫaṭtābi ʿan saʿīdi bni yasāriȵ ḳāla ḳāla lī abnu ʿumara ʾanna rasūla allahi ṣlʿm kāna yūtiru ʿalá albaʿīri
 
 ############################################################
 ## betaCodeManual>Arabic
-أَخْبَرَنَا قُتَيْبَةُ قَالَ حَدَّثَنَا مَالِكٌ عَنْ أَبِيْ بَكْرِ بْنِ عُمَرَ بْنِ عَبْدِ أَلْرَّحْمَنِ بْنِ عَبْدِ أَلَّهِ بْنِ عُمَرَ بْنِ أَلْخَطْتَابِ عَنْ سَعِيْدِ بْنِ يَسَارٍ قَالَ قَالَ لِيْ أَبْنُ عُمَرَ أَنَّ رَسُوْلَ أَلَّهِ صْلْعْمْ كَانَ يُوْتِرُ عَلَٰى أَلْبَعِيْرِ
+أَخْبَرَنَا قُتَيْبَةُ قَالَ حَدَّثَنَا مَالِكٌ عَنْ أَبِي بَكْرِ بْنِ عُمَرَ بْنِ عَبْدِ أَلْرَّحْمَنِ بْنِ عَبْدِ أَلَّهِ بْنِ عُمَرَ بْنِ أَلْخَطْتَابِ عَنْ سَعِيدِ بْنِ يَسَارٍ قَالَ قَالَ لِي أَبْنُ عُمَرَ أَنَّ رَسُولَ أَلَّهِ صْلْعْمْ كَانَ يُوتِرُ عَلٰى أَلْبَعِيرِ
 
 ############################################################
 ## TranslationBetaCode

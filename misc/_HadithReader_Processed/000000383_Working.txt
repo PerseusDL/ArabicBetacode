@@ -9,19 +9,19 @@
 
 ############################################################
 ## betaCodeAuto
-wa.hadda_tan_a mu.hammadu bnu ba^ss_ari.n .hadda_tan_a `abdu alrra.hmani .hadda_tan_a sufy_anu `an 'abiy alzzin_adi `an `aliyyi bni al.husayni `an `_a'ii^sa:ta r.d/a allh `nh_a 'anna alnnabiyya .sl`m k_ana yuqabbilu wahuwa .s_a'iimu.n
+wa.hadda_tan_a mu.hammadu bnu ba^ss_ari.n .hadda_tan_a `abdu alrra.hmani .hadda_tan_a sufy_anu `an 'ab_i alzzin_adi `an `al_iyi bni al.husayni `an `_a'i^sa:ta r.d/a allh `nh_a 'anna alnnab_iya .sl`m k_ana yuqabbilu wah_ua .s_a'imu.n
 
 ############################################################
 ## betaCodeManual
-wa.hadda_tan_a mu.hammadu bnu ba^ss_ari.n .hadda_tan_a `abdu alrra.hmani .hadda_tan_a sufy_anu `an 'abiy alzzin_adi `an `aliyyi bni al.husayni `an `_a'ii^sa:ta r.d/a allh `nh_a 'anna alnnabiyya .sl`m k_ana yuqabbilu wahuwa .s_a'iimu.n
+wa.hadda_tan_a mu.hammadu bnu ba^ss_ari.n .hadda_tan_a `abdu alrra.hmani .hadda_tan_a sufy_anu `an 'ab_i alzzin_adi `an `al_iyi bni al.husayni `an `_a'i^sa:ta r.d/a allh `nh_a 'anna alnnab_iya .sl`m k_ana yuqabbilu wah_ua .s_a'imu.n
 
 ############################################################
 ## betaCodeManual>Translit
-waḥaddaṯanā muḥammadu bnu bašsāriȵ ḥaddaṯanā ʿabdu alrraḥmani ḥaddaṯanā sufyānu ʿan ʾabiy alzzinādi ʿan ʿaliyyi bni alḥusayni ʿan ʿāʾiišaŧa rḍá allh ʿnhā ʾanna alnnabiyya ṣlʿm kāna yuḳabbilu wahuwa ṣāʾiimuȵ
+waḥaddaṯanā muḥammadu bnu bašsāriȵ ḥaddaṯanā ʿabdu alrraḥmani ḥaddaṯanā sufyānu ʿan ʾabī alzzinādi ʿan ʿalīyi bni alḥusayni ʿan ʿāʾišaŧa rḍá allh ʿnhā ʾanna alnnabīya ṣlʿm kāna yuḳabbilu wahūa ṣāʾimuȵ
 
 ############################################################
 ## betaCodeManual>Arabic
-وَحَدَّثَنَا مُحَمَّدُ بْنُ بَشْسَارٍ حَدَّثَنَا عَبْدُ أَلْرَّحْمَنِ حَدَّثَنَا سُفْيَانُ عَنْ أَبِيْ أَلْزِّنَادِ عَنْ عَلِيِّ بْنِ أَلْحُسَيْنِ عَنْ عائِِشَةَ رْضٰى أَلّهْ عْنْهَا أَنَّ أَلْنَّبِيَّ صْلْعْمْ كَانَ يُقَبِّلُ وَهُوَ صائِِمٌ
+وَحَدَّثَنَا مُحَمَّدُ بْنُ بَشْسَارٍ حَدَّثَنَا عَبْدُ أَلْرَّحْمَنِ حَدَّثَنَا سُفْيَانُ عَنْ أَبِي أَلْزِّنَادِ عَنْ عَلِييِ بْنِ أَلْحُسَيْنِ عَنْ عائِشَةَ رْضٰى أَلّهْ عْنْهَا أَنَّ أَلْنَّبِييَ صْلْعْمْ كَانَ يُقَبِّلُ وَهُوَ صائِمٌ
 
 ############################################################
 ## TranslationBetaCode

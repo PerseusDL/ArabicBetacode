@@ -9,19 +9,19 @@
 
 ############################################################
 ## betaCodeAuto
-.hadda_tan_a mu.hammadu bnu d_awuda bni sufy_ana .hadda_tan_a `abdu alrrazz_aqi 'a_hbaran_a ma`maru.n `ani alzzuhriyyi `an `urwa:ta `an `_a'ii^sa:ta bima`n_ahu
+.hadda_tan_a mu.hammadu bnu d_awuda bni sufy_ana .hadda_tan_a `abdu alrrazz_aqi 'a_hbaran_a ma`maru.n `ani alzzuhr_iyi `an `urwa:ta `an `_a'i^sa:ta bima`n_ahu
 
 ############################################################
 ## betaCodeManual
-.hadda_tan_a mu.hammadu bnu d_awuda bni sufy_ana .hadda_tan_a `abdu alrrazz_aqi 'a_hbaran_a ma`maru.n `ani alzzuhriyyi `an `urwa:ta `an `_a'ii^sa:ta bima`n_ahu
+.hadda_tan_a mu.hammadu bnu d_awuda bni sufy_ana .hadda_tan_a `abdu alrrazz_aqi 'a_hbaran_a ma`maru.n `ani alzzuhr_iyi `an `urwa:ta `an `_a'i^sa:ta bima`n_ahu
 
 ############################################################
 ## betaCodeManual>Translit
-ḥaddaṯanā muḥammadu bnu dāwuda bni sufyāna ḥaddaṯanā ʿabdu alrrazzāḳi ʾaḫbaranā maʿmaruȵ ʿani alzzuhriyyi ʿan ʿurwaŧa ʿan ʿāʾiišaŧa bimaʿnāhu
+ḥaddaṯanā muḥammadu bnu dāwuda bni sufyāna ḥaddaṯanā ʿabdu alrrazzāḳi ʾaḫbaranā maʿmaruȵ ʿani alzzuhrīyi ʿan ʿurwaŧa ʿan ʿāʾišaŧa bimaʿnāhu
 
 ############################################################
 ## betaCodeManual>Arabic
-حَدَّثَنَا مُحَمَّدُ بْنُ دَاوُدَ بْنِ سُفْيَانَ حَدَّثَنَا عَبْدُ أَلْرَّزّاقِ أَخْبَرَنَا مَعْمَرٌ عَنِ أَلْزُّهْرِيِّ عَنْ عُرْوَةَ عَنْ عائِِشَةَ بِمَعْنَاهُ
+حَدَّثَنَا مُحَمَّدُ بْنُ دَاوُدَ بْنِ سُفْيَانَ حَدَّثَنَا عَبْدُ أَلْرَّزّاقِ أَخْبَرَنَا مَعْمَرٌ عَنِ أَلْزُّهْرِييِ عَنْ عُرْوَةَ عَنْ عائِشَةَ بِمَعْنَاهُ
 
 ############################################################
 ## TranslationBetaCode

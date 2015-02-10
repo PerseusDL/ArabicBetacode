@@ -9,19 +9,19 @@
 
 ############################################################
 ## betaCodeAuto
-.hadda_tan_a qutayba:tu bnu sa`iydi.n .hadda_tan_a allay_tu `an yaziyda bni 'abiy .habiybi.n `an 'abiy al_hayri `an `uqba:ta bni `_amiri.n 'anna rasuwla allahi .sl`m _hara^ga yawma.n_a fa.salla/a `ala/a 'ahli 'au.hudi.n .sal_atahu `ala/a almayyiti _tumma an.sarafa
+.hadda_tan_a qutayba:tu bnu sa`_idi.n .hadda_tan_a allay_tu `an yaz_ida bni 'ab_i .hab_ibi.n `an 'ab_i al_hayri `an `uqba:ta bni `_amiri.n 'anna ras_ula allahi .sl`m _hara^ga yawma.n_a fa.sall/a `al/a 'ahli 'au.hudi.n .sal_atahu `al/a almayyiti _tumma an.sarafa
 
 ############################################################
 ## betaCodeManual
-.hadda_tan_a qutayba:tu bnu sa`iydi.n .hadda_tan_a allay_tu `an yaziyda bni 'abiy .habiybi.n `an 'abiy al_hayri `an `uqba:ta bni `_amiri.n 'anna rasuwla allahi .sl`m _hara^ga yawma.n_a fa.salla/a `ala/a 'ahli 'au.hudi.n .sal_atahu `ala/a almayyiti _tumma an.sarafa
+.hadda_tan_a qutayba:tu bnu sa`_idi.n .hadda_tan_a allay_tu `an yaz_ida bni 'ab_i .hab_ibi.n `an 'ab_i al_hayri `an `uqba:ta bni `_amiri.n 'anna ras_ula allahi .sl`m _hara^ga yawma.n_a fa.sall/a `al/a 'ahli 'au.hudi.n .sal_atahu `al/a almayyiti _tumma an.sarafa
 
 ############################################################
 ## betaCodeManual>Translit
-ḥaddaṯanā ḳutaybaŧu bnu saʿiydiȵ ḥaddaṯanā allayṯu ʿan yaziyda bni ʾabiy ḥabiybiȵ ʿan ʾabiy alḫayri ʿan ʿuḳbaŧa bni ʿāmiriȵ ʾanna rasuwla allahi ṣlʿm ḫaraǧa yawmaȵā faṣallaá ʿalaá ʾahli ʾauḥudiȵ ṣalātahu ʿalaá almayyiti ṯumma anṣarafa
+ḥaddaṯanā ḳutaybaŧu bnu saʿīdiȵ ḥaddaṯanā allayṯu ʿan yazīda bni ʾabī ḥabībiȵ ʿan ʾabī alḫayri ʿan ʿuḳbaŧa bni ʿāmiriȵ ʾanna rasūla allahi ṣlʿm ḫaraǧa yawmaȵā faṣallá ʿalá ʾahli ʾauḥudiȵ ṣalātahu ʿalá almayyiti ṯumma anṣarafa
 
 ############################################################
 ## betaCodeManual>Arabic
-حَدَّثَنَا قُتَيْبَةُ بْنُ سَعِيْدٍ حَدَّثَنَا أَلَّيْثُ عَنْ يَزِيْدَ بْنِ أَبِيْ حَبِيْبٍ عَنْ أَبِيْ أَلْخَيْرِ عَنْ عُقْبَةَ بْنِ عَامِرٍ أَنَّ رَسُوْلَ أَلَّهِ صْلْعْمْ خَرَجَ يَوْماًا فَصَلَّٰى عَلَٰى أَهْلِ أَأُحُدٍ صَلَاتَهُ عَلَٰى أَلْمَيِّتِ ثُمَّ أَنْصَرَفَ
+حَدَّثَنَا قُتَيْبَةُ بْنُ سَعِيدٍ حَدَّثَنَا أَلَّيْثُ عَنْ يَزِيدَ بْنِ أَبِي حَبِيبٍ عَنْ أَبِي أَلْخَيْرِ عَنْ عُقْبَةَ بْنِ عَامِرٍ أَنَّ رَسُولَ أَلَّهِ صْلْعْمْ خَرَجَ يَوْماًا فَصَلّٰى عَلٰى أَهْلِ أَأُحُدٍ صَلَاتَهُ عَلٰى أَلْمَيِّتِ ثُمَّ أَنْصَرَفَ
 
 ############################################################
 ## TranslationBetaCode

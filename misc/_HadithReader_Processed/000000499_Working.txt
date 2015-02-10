@@ -9,19 +9,19 @@
 
 ############################################################
 ## betaCodeAuto
-q_ala 'abuw bakri bnu n_afi`i.n warubbam_a q_ala `umaru bnu `aliyyi.n fiy ha_d_a al.hadiy_ti hi^s_amu bnu `urwa:ta `an 'abiyhi `ani alnnabiyyi .sl`m mursalu.n walam ya_dkur fiyhi `an `_a'ii^sa:ta
+q_ala 'ab_u bakri bnu n_afi`i.n warubbam_a q_ala `umaru bnu `al_iyi.n f_i ha_d_a al.had_i_ti hi^s_amu bnu `urwa:ta `an 'ab_ihi `ani alnnab_iyi .sl`m mursalu.n walam ya_dkur f_ihi `an `_a'i^sa:ta
 
 ############################################################
 ## betaCodeManual
-q_ala 'abuw bakri bnu n_afi`i.n warubbam_a q_ala `umaru bnu `aliyyi.n fiy ha_d_a al.hadiy_ti hi^s_amu bnu `urwa:ta `an 'abiyhi `ani alnnabiyyi .sl`m mursalu.n walam ya_dkur fiyhi `an `_a'ii^sa:ta
+q_ala 'ab_u bakri bnu n_afi`i.n warubbam_a q_ala `umaru bnu `al_iyi.n f_i ha_d_a al.had_i_ti hi^s_amu bnu `urwa:ta `an 'ab_ihi `ani alnnab_iyi .sl`m mursalu.n walam ya_dkur f_ihi `an `_a'i^sa:ta
 
 ############################################################
 ## betaCodeManual>Translit
-ḳāla ʾabuw bakri bnu nāfiʿiȵ warubbamā ḳāla ʿumaru bnu ʿaliyyiȵ fiy haḏā alḥadiyṯi hišāmu bnu ʿurwaŧa ʿan ʾabiyhi ʿani alnnabiyyi ṣlʿm mursaluȵ walam yaḏkur fiyhi ʿan ʿāʾiišaŧa
+ḳāla ʾabū bakri bnu nāfiʿiȵ warubbamā ḳāla ʿumaru bnu ʿalīyiȵ fī haḏā alḥadīṯi hišāmu bnu ʿurwaŧa ʿan ʾabīhi ʿani alnnabīyi ṣlʿm mursaluȵ walam yaḏkur fīhi ʿan ʿāʾišaŧa
 
 ############################################################
 ## betaCodeManual>Arabic
-قَالَ أَبُوْ بَكْرِ بْنُ نَافِعٍ وَرُبَّمَا قَالَ عُمَرُ بْنُ عَلِيٍّ فِيْ هَذَا أَلْحَدِيْثِ هِشَامُ بْنُ عُرْوَةَ عَنْ أَبِيْهِ عَنِ أَلْنَّبِيِّ صْلْعْمْ مُرْسَلٌ وَلَمْ يَذْكُرْ فِيْهِ عَنْ عائِِشَةَ
+قَالَ أَبُو بَكْرِ بْنُ نَافِعٍ وَرُبَّمَا قَالَ عُمَرُ بْنُ عَلِييٍ فِي هَذَا أَلْحَدِيثِ هِشَامُ بْنُ عُرْوَةَ عَنْ أَبِيهِ عَنِ أَلْنَّبِييِ صْلْعْمْ مُرْسَلٌ وَلَمْ يَذْكُرْ فِيهِ عَنْ عائِشَةَ
 
 ############################################################
 ## TranslationBetaCode

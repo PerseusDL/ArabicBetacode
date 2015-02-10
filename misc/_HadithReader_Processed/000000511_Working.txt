@@ -9,19 +9,19 @@
 
 ############################################################
 ## betaCodeAuto
-.hadda_tan_a qutayba:tu .hadda_tan_a allay_tu `an n_afi`i.n `ani abni `umara 'annahu k_ana 'ii_d_a .salla/a al^gumu`a:ta an.sarafa fa.salla/a sa^gdatayni fiy baytihi _tumma q_ala k_ana rasuwlu allahi .sl`m ya.sna`u _dalika q_ala 'abuw `iysa/a ha_d_a .hadiy_tu.n .hasanu.n .sa.hiy.hu.n
+.hadda_tan_a qutayba:tu .hadda_tan_a allay_tu `an n_afi`i.n `ani abni `umara 'annahu k_ana 'i_d_a .sall/a al^gumu`a:ta an.sarafa fa.sall/a sa^gdatayni f_i baytihi _tumma q_ala k_ana ras_ulu allahi .sl`m ya.sna`u _dalika q_ala 'ab_u `_is/a ha_d_a .had_i_tu.n .hasanu.n .sa.h_i.hu.n
 
 ############################################################
 ## betaCodeManual
-.hadda_tan_a qutayba:tu .hadda_tan_a allay_tu `an n_afi`i.n `ani abni `umara 'annahu k_ana 'ii_d_a .salla/a al^gumu`a:ta an.sarafa fa.salla/a sa^gdatayni fiy baytihi _tumma q_ala k_ana rasuwlu allahi .sl`m ya.sna`u _dalika q_ala 'abuw `iysa/a ha_d_a .hadiy_tu.n .hasanu.n .sa.hiy.hu.n
+.hadda_tan_a qutayba:tu .hadda_tan_a allay_tu `an n_afi`i.n `ani abni `umara 'annahu k_ana 'i_d_a .sall/a al^gumu`a:ta an.sarafa fa.sall/a sa^gdatayni f_i baytihi _tumma q_ala k_ana ras_ulu allahi .sl`m ya.sna`u _dalika q_ala 'ab_u `_is/a ha_d_a .had_i_tu.n .hasanu.n .sa.h_i.hu.n
 
 ############################################################
 ## betaCodeManual>Translit
-ḥaddaṯanā ḳutaybaŧu ḥaddaṯanā allayṯu ʿan nāfiʿiȵ ʿani abni ʿumara ʾannahu kāna ʾiiḏā ṣallaá alǧumuʿaŧa anṣarafa faṣallaá saǧdatayni fiy baytihi ṯumma ḳāla kāna rasuwlu allahi ṣlʿm yaṣnaʿu ḏalika ḳāla ʾabuw ʿiysaá haḏā ḥadiyṯuȵ ḥasanuȵ ṣaḥiyḥuȵ
+ḥaddaṯanā ḳutaybaŧu ḥaddaṯanā allayṯu ʿan nāfiʿiȵ ʿani abni ʿumara ʾannahu kāna ʾiḏā ṣallá alǧumuʿaŧa anṣarafa faṣallá saǧdatayni fī baytihi ṯumma ḳāla kāna rasūlu allahi ṣlʿm yaṣnaʿu ḏalika ḳāla ʾabū ʿīsá haḏā ḥadīṯuȵ ḥasanuȵ ṣaḥīḥuȵ
 
 ############################################################
 ## betaCodeManual>Arabic
-حَدَّثَنَا قُتَيْبَةُ حَدَّثَنَا أَلَّيْثُ عَنْ نَافِعٍ عَنِ أَبْنِ عُمَرَ أَنَّهُ كَانَ إِِذَا صَلَّٰى أَلْجُمُعَةَ أَنْصَرَفَ فَصَلَّٰى سَجْدَتَيْنِ فِيْ بَيْتِهِ ثُمَّ قَالَ كَانَ رَسُوْلُ أَلَّهِ صْلْعْمْ يَصْنَعُ ذَلِكَ قَالَ أَبُوْ عِيْسَٰى هَذَا حَدِيْثٌ حَسَنٌ صَحِيْحٌ
+حَدَّثَنَا قُتَيْبَةُ حَدَّثَنَا أَلَّيْثُ عَنْ نَافِعٍ عَنِ أَبْنِ عُمَرَ أَنَّهُ كَانَ إِذَا صَلّٰى أَلْجُمُعَةَ أَنْصَرَفَ فَصَلّٰى سَجْدَتَيْنِ فِي بَيْتِهِ ثُمَّ قَالَ كَانَ رَسُولُ أَلَّهِ صْلْعْمْ يَصْنَعُ ذَلِكَ قَالَ أَبُو عِيسٰى هَذَا حَدِيثٌ حَسَنٌ صَحِيحٌ
 
 ############################################################
 ## TranslationBetaCode

@@ -9,19 +9,19 @@
 
 ############################################################
 ## betaCodeAuto
-.hadda_tan_a mu.hammadu bnu ba^ss_ari.n .hadda_tan_a mu.hammadu bnu ^ga`fari.n .hadda_tan_a ^su`ba:tu `an hi^s_ami bni zaydi.n sami`tu 'anasa bna m_aliki.n yaquwlu mi_tla _dalika
+.hadda_tan_a mu.hammadu bnu ba^ss_ari.n .hadda_tan_a mu.hammadu bnu ^ga`fari.n .hadda_tan_a ^su`ba:tu `an hi^s_ami bni zaydi.n sami`tu 'anasa bna m_aliki.n yaq_ulu mi_tla _dalika
 
 ############################################################
 ## betaCodeManual
-.hadda_ta-n_a Mu.hammadu bnu Ba^s^s_ari.n , .hadda_ta-n_a Mu.hammadu bnu ^Ga`fari.n , .hadda_tan_a ^Su`ba:tu , `an Hi^s_ami bni Zaydi.n :: sami`tu 'Anasa bna M_aliki.n yaq_ulu mi_tla _d~alika
+.hadda_ta-n_a Mu.hammad?u bn?u Ba^s^s_ar?i.n , .hadda_ta-n_a Mu.hammad?u bn?u ^Ga`far?i.n , .hadda_tan_a ^Su`ba:t?u , `an Hi^s_am?i bn?i Zayd?i.n sami`tu 'Anas?a bn?a M_alik?i.n yaq_ulu mi_tl?a _d~alika
 
 ############################################################
 ## betaCodeManual>Translit
-ḥaddaṯa-nā Muḥammadu bnu Baššāriȵ , ḥaddaṯa-nā Muḥammadu bnu Ǧaʿfariȵ , ḥaddaṯanā Šuʿbaŧu , ʿan Hišāmi bni Zaydiȵ :: samiʿtu ʾAnasa bna Mālikiȵ yaḳūlu miṯla ḏãlika
+ḥaddaṯa-nā Muḥammadủ bnủ Baššārỉȵ , ḥaddaṯa-nā Muḥammadủ bnủ Ǧaʿfarỉȵ , ḥaddaṯanā Šuʿbaŧủ , ʿan Hišāmỉ bnỉ Zaydỉȵ samiʿtu ʾAnasả bnả Mālikỉȵ yaḳūlu miṯlả ḏãlika
 
 ############################################################
 ## betaCodeManual>Arabic
-حَدَّثَنَا مُحَمَّدُ بْنُ بَشّارٍ ، حَدَّثَنَا مُحَمَّدُ بْنُ جَعْفَرٍ ، حَدَّثَنَا شُعْبَةُ ، عَنْ هِشَامِ بْنِ زَيْدٍ :: سَمِعْتُ أَنَسَ بْنَ مَالِكٍ يَقُولُ مِثْلَ ذٰلِكَ
+حَدَّثَنَا مُحَمَّدُ بْنُ بَشّارٍ ، حَدَّثَنَا مُحَمَّدُ بْنُ جَعْفَرٍ ، حَدَّثَنَا شُعْبَةُ ، عَنْ هِشَامِ بْنِ زَيْدٍ سَمِعْتُ أَنَسَ بْنَ مَالِكٍ يَقُولُ مِثْلَ ذٰلِكَ
 
 ############################################################
 ## TranslationBetaCode

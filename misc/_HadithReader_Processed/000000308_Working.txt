@@ -9,19 +9,19 @@
 
 ############################################################
 ## betaCodeAuto
-.hadda_tan_a _halafu bnu hi^s_ami.n wa'abuw alrrabiy`i q_al_a .hadda_tan_a .hamm_adu bnu zaydi.n `an 'ayyuwba `an 'abiy `u_tm_ana `an 'abiy muwsa/a q_ala kunn_a ma`a alnnabiyyi .sl`m fiy safari.n fa_dakara na.hwa .hadiy_ti `_a.simi.n
+.hadda_tan_a _halafu bnu hi^s_ami.n wa'ab_u alrrab_i`i q_al_a .hadda_tan_a .hamm_adu bnu zaydi.n `an 'ayy_uba `an 'ab_i `u_tm_ana `an 'ab_i m_us/a q_ala kunn_a ma`a alnnab_iyi .sl`m f_i safari.n fa_dakara na.hwa .had_i_ti `_a.simi.n
 
 ############################################################
 ## betaCodeManual
-.hadda_tan_a _halafu bnu hi^s_ami.n wa'abuw alrrabiy`i q_al_a .hadda_tan_a .hamm_adu bnu zaydi.n `an 'ayyuwba `an 'abiy `u_tm_ana `an 'abiy muwsa/a q_ala kunn_a ma`a alnnabiyyi .sl`m fiy safari.n fa_dakara na.hwa .hadiy_ti `_a.simi.n
+.hadda_tan_a _halafu bnu hi^s_ami.n wa'ab_u alrrab_i`i q_al_a .hadda_tan_a .hamm_adu bnu zaydi.n `an 'ayy_uba `an 'ab_i `u_tm_ana `an 'ab_i m_us/a q_ala kunn_a ma`a alnnab_iyi .sl`m f_i safari.n fa_dakara na.hwa .had_i_ti `_a.simi.n
 
 ############################################################
 ## betaCodeManual>Translit
-ḥaddaṯanā ḫalafu bnu hišāmiȵ waʾabuw alrrabiyʿi ḳālā ḥaddaṯanā ḥammādu bnu zaydiȵ ʿan ʾayyuwba ʿan ʾabiy ʿuṯmāna ʿan ʾabiy muwsaá ḳāla kunnā maʿa alnnabiyyi ṣlʿm fiy safariȵ faḏakara naḥwa ḥadiyṯi ʿāṣimiȵ
+ḥaddaṯanā ḫalafu bnu hišāmiȵ waʾabū alrrabīʿi ḳālā ḥaddaṯanā ḥammādu bnu zaydiȵ ʿan ʾayyūba ʿan ʾabī ʿuṯmāna ʿan ʾabī mūsá ḳāla kunnā maʿa alnnabīyi ṣlʿm fī safariȵ faḏakara naḥwa ḥadīṯi ʿāṣimiȵ
 
 ############################################################
 ## betaCodeManual>Arabic
-حَدَّثَنَا خَلَفُ بْنُ هِشَامٍ وَأَبُوْ أَلْرَّبِيْعِ قَالَا حَدَّثَنَا حَمّادُ بْنُ زَيْدٍ عَنْ أَيُّوْبَ عَنْ أَبِيْ عُثْمَانَ عَنْ أَبِيْ مُوْسَٰى قَالَ كُنّا مَعَ أَلْنَّبِيِّ صْلْعْمْ فِيْ سَفَرٍ فَذَكَرَ نَحْوَ حَدِيْثِ عَاصِمٍ
+حَدَّثَنَا خَلَفُ بْنُ هِشَامٍ وَأَبُو أَلْرَّبِيعِ قَالَا حَدَّثَنَا حَمّادُ بْنُ زَيْدٍ عَنْ أَيّوبَ عَنْ أَبِي عُثْمَانَ عَنْ أَبِي مُوسٰى قَالَ كُنّا مَعَ أَلْنَّبِييِ صْلْعْمْ فِي سَفَرٍ فَذَكَرَ نَحْوَ حَدِيثِ عَاصِمٍ
 
 ############################################################
 ## TranslationBetaCode

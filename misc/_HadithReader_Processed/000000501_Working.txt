@@ -9,19 +9,19 @@
 
 ############################################################
 ## betaCodeAuto
-'a_hbaran_a 'a.hmadu bnu sulaym_ana q_ala .hadda_tan_a 'abuw d_awuda `an sufy_ana `an man.suwri.n `an _h_alidi bni sa`di.n `an `_a'ii^sa:ta q_alat k_ana alnnabiyyu .sl`m ya.suwmu ^sa`b_ana
+'a_hbaran_a 'a.hmadu bnu sulaym_ana q_ala .hadda_tan_a 'ab_u d_awuda `an sufy_ana `an man.s_uri.n `an _h_alidi bni sa`di.n `an `_a'i^sa:ta q_alat k_ana alnnab_iyu .sl`m ya.s_umu ^sa`b_ana
 
 ############################################################
 ## betaCodeManual
-'a_hbaran_a 'a.hmadu bnu sulaym_ana q_ala .hadda_tan_a 'abuw d_awuda `an sufy_ana `an man.suwri.n `an _h_alidi bni sa`di.n `an `_a'ii^sa:ta q_alat k_ana alnnabiyyu .sl`m ya.suwmu ^sa`b_ana
+'a_hbaran_a 'a.hmadu bnu sulaym_ana q_ala .hadda_tan_a 'ab_u d_awuda `an sufy_ana `an man.s_uri.n `an _h_alidi bni sa`di.n `an `_a'i^sa:ta q_alat k_ana alnnab_iyu .sl`m ya.s_umu ^sa`b_ana
 
 ############################################################
 ## betaCodeManual>Translit
-ʾaḫbaranā ʾaḥmadu bnu sulaymāna ḳāla ḥaddaṯanā ʾabuw dāwuda ʿan sufyāna ʿan manṣuwriȵ ʿan ḫālidi bni saʿdiȵ ʿan ʿāʾiišaŧa ḳālat kāna alnnabiyyu ṣlʿm yaṣuwmu šaʿbāna
+ʾaḫbaranā ʾaḥmadu bnu sulaymāna ḳāla ḥaddaṯanā ʾabū dāwuda ʿan sufyāna ʿan manṣūriȵ ʿan ḫālidi bni saʿdiȵ ʿan ʿāʾišaŧa ḳālat kāna alnnabīyu ṣlʿm yaṣūmu šaʿbāna
 
 ############################################################
 ## betaCodeManual>Arabic
-أَخْبَرَنَا أَحْمَدُ بْنُ سُلَيْمَانَ قَالَ حَدَّثَنَا أَبُوْ دَاوُدَ عَنْ سُفْيَانَ عَنْ مَنْصُوْرٍ عَنْ خَالِدِ بْنِ سَعْدٍ عَنْ عائِِشَةَ قَالَتْ كَانَ أَلْنَّبِيُّ صْلْعْمْ يَصُوْمُ شَعْبَانَ
+أَخْبَرَنَا أَحْمَدُ بْنُ سُلَيْمَانَ قَالَ حَدَّثَنَا أَبُو دَاوُدَ عَنْ سُفْيَانَ عَنْ مَنْصُورٍ عَنْ خَالِدِ بْنِ سَعْدٍ عَنْ عائِشَةَ قَالَتْ كَانَ أَلْنَّبِييُ صْلْعْمْ يَصُومُ شَعْبَانَ
 
 ############################################################
 ## TranslationBetaCode

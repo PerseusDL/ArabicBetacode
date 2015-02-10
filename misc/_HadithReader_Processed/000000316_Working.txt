@@ -9,19 +9,19 @@
 
 ############################################################
 ## betaCodeAuto
-wa.hadda_tan_ahu mu.hammadu bnu `abdi allahi bni numayri.n .hadda_tan_a 'abiy wamu.hammadu bnu bi^sri.n .h wa.hadda_taniy mu.hammadu bnu r_afi`i.n .hadda_tan_a 'abuw 'aus_ama:ta q_aluw_a .hadda_tan_a 'iism_a`iylu biha_d_a al'iisn_adi bimi_tlihi
+wa.hadda_tan_ahu mu.hammadu bnu `abdi allahi bni numayri.n .hadda_tan_a 'ab_i wamu.hammadu bnu bi^sri.n .h wa.hadda_tan_i mu.hammadu bnu r_afi`i.n .hadda_tan_a 'ab_u 'aus_ama:ta q_al_u_a .hadda_tan_a 'ism_a`_ilu biha_d_a al'isn_adi bimi_tlihi
 
 ############################################################
 ## betaCodeManual
-wa.hadda_tan_ahu mu.hammadu bnu `abdi allahi bni numayri.n .hadda_tan_a 'abiy wamu.hammadu bnu bi^sri.n .h wa.hadda_taniy mu.hammadu bnu r_afi`i.n .hadda_tan_a 'abuw 'aus_ama:ta q_aluw_a .hadda_tan_a 'iism_a`iylu biha_d_a al'iisn_adi bimi_tlihi
+wa.hadda_tan_ahu mu.hammadu bnu `abdi allahi bni numayri.n .hadda_tan_a 'ab_i wamu.hammadu bnu bi^sri.n .h wa.hadda_tan_i mu.hammadu bnu r_afi`i.n .hadda_tan_a 'ab_u 'aus_ama:ta q_al_u_a .hadda_tan_a 'ism_a`_ilu biha_d_a al'isn_adi bimi_tlihi
 
 ############################################################
 ## betaCodeManual>Translit
-waḥaddaṯanāhu muḥammadu bnu ʿabdi allahi bni numayriȵ ḥaddaṯanā ʾabiy wamuḥammadu bnu bišriȵ ḥ waḥaddaṯaniy muḥammadu bnu rāfiʿiȵ ḥaddaṯanā ʾabuw ʾausāmaŧa ḳāluwā ḥaddaṯanā ʾiismāʿiylu bihaḏā alʾiisnādi bimiṯlihi
+waḥaddaṯanāhu muḥammadu bnu ʿabdi allahi bni numayriȵ ḥaddaṯanā ʾabī wamuḥammadu bnu bišriȵ ḥ waḥaddaṯanī muḥammadu bnu rāfiʿiȵ ḥaddaṯanā ʾabū ʾausāmaŧa ḳālūā ḥaddaṯanā ʾismāʿīlu bihaḏā alʾisnādi bimiṯlihi
 
 ############################################################
 ## betaCodeManual>Arabic
-وَحَدَّثَنَاهُ مُحَمَّدُ بْنُ عَبْدِ أَلَّهِ بْنِ نُمَيْرٍ حَدَّثَنَا أَبِيْ وَمُحَمَّدُ بْنُ بِشْرٍ حْ وَحَدَّثَنِيْ مُحَمَّدُ بْنُ رَافِعٍ حَدَّثَنَا أَبُوْ أَأُسَامَةَ قَالُوَا حَدَّثَنَا إِِسْمَاعِيْلُ بِهَذَا أَلْئِِسْنَادِ بِمِثْلِهِ
+وَحَدَّثَنَاهُ مُحَمَّدُ بْنُ عَبْدِ أَلَّهِ بْنِ نُمَيْرٍ حَدَّثَنَا أَبِي وَمُحَمَّدُ بْنُ بِشْرٍ حْ وَحَدَّثَنِي مُحَمَّدُ بْنُ رَافِعٍ حَدَّثَنَا أَبُو أَأُسَامَةَ قَالُوا حَدَّثَنَا إِسْمَاعِيلُ بِهَذَا أَلْئِسْنَادِ بِمِثْلِهِ
 
 ############################################################
 ## TranslationBetaCode

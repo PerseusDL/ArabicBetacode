@@ -9,15 +9,15 @@
 
 ############################################################
 ## betaCodeAuto
-wa.hadda_taniy 'abuw salama:ta bnu `abdi alrra.hmani `an 'abiy qat_ada:ta `ani alnnabiyyi .sl`m bimi_tli ha_d_a al.hadiy_ti
+wa.hadda_tan_i 'ab_u salama:ta bnu `abdi alrra.hmani `an 'ab_i qat_ada:ta `ani alnnab_iyi .sl`m bimi_tli ha_d_a al.had_i_ti
 
 ############################################################
 ## betaCodeManual
-wa-.hadda_ta-n_i Ab_u Salama:ta bnu `Abdi al-Ra.hm~ani , `an 'Ab_i Qat_ada:ta , `ani al-nabiyyi  ( .sl`m ) bi-mi_tli h~a_d_a al-.had_i_ti
+wa-.hadda_ta-n_i Ab_u Salama:t?a bn?u `Abd?i al-Ra.hm~an?i , `an 'Ab_i Qat_ada:t?a , `an?i al-nabiyy?i  ( .sl`m ) bi-mi_tl?i h~a_d_a al-.had_i_t?i
 
 ############################################################
 ## betaCodeManual>Translit
-wa-ḥaddaṯa-nī Abū Salamaŧa bnu ʿAbdi al-Raḥmãni , ʿan ʾAbī Ḳatādaŧa , ʿani al-nabiyyi  ( ṣlʿm ) bi-miṯli hãḏā al-ḥadīṯi
+wa-ḥaddaṯa-nī Abū Salamaŧả bnủ ʿAbdỉ al-Raḥmãnỉ , ʿan ʾAbī Ḳatādaŧả , ʿanỉ al-nabiyyỉ  ( ṣlʿm ) bi-miṯlỉ hãḏā al-ḥadīṯỉ
 
 ############################################################
 ## betaCodeManual>Arabic
@@ -25,9 +25,9 @@ wa-ḥaddaṯa-nī Abū Salamaŧa bnu ʿAbdi al-Raḥmãni , ʿan ʾAbī Ḳatā
 
 ############################################################
 ## TranslationBetaCode
-And Ab_u Salama:t b. `Abd al-Ra.hm~an narrated to me, from Ab_i Qat_ada:t, from the Prophet ( .sl`m ) something similar to this .had_i_t
+And Ab_u Salama:t b. `Abd al-Ra.hm~an narrated to me, from Ab_i Qat_ada:t, from the Prophet ( .sl`m ) something similar to this .had_i_t.
 
 ############################################################
 ## TranslationTranslit
-And Abū Salamaŧ b. ʿAbd al-Raḥmãn narrated to me, from Abī Ḳatādaŧ, from the Prophet ( ṣlʿm ) something similar to this ḥadīṯ
+And Abū Salamaŧ b. ʿAbd al-Raḥmãn narrated to me, from Abī Ḳatādaŧ, from the Prophet ( ṣlʿm ) something similar to this ḥadīṯ.
 

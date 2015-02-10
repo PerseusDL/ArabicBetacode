@@ -9,19 +9,19 @@
 
 ############################################################
 ## betaCodeAuto
-.hadda_tan_a 'abuw bakri bnu 'abiy ^sayba:ta .hadda_tan_a `abdu allahi bnu almub_araki `an yuwnusa `ani alzzuhriyyi `an 'abiy salama:ta `an `_a'ii^sa:ta 'anna alnnabiyya  .sl`m  k_ana 'ii_d_a 'ar_ada 'an ya'akula wahuwa ^gunubu.n .gasala yadayhi
+.hadda_tan_a 'ab_u bakri bnu 'ab_i ^sayba:ta .hadda_tan_a `abdu allahi bnu almub_araki `an y_unusa `ani alzzuhr_iyi `an 'ab_i salama:ta `an `_a'i^sa:ta 'anna alnnab_iya  .sl`m  k_ana 'i_d_a 'ar_ada 'an ya'akula wah_ua ^gunubu.n .gasala yadayhi
 
 ############################################################
 ## betaCodeManual
-.hadda_tan_a 'abuw bakri bnu 'abiy ^sayba:ta .hadda_tan_a `abdu allahi bnu almub_araki `an yuwnusa `ani alzzuhriyyi `an 'abiy salama:ta `an `_a'ii^sa:ta 'anna alnnabiyya  .sl`m  k_ana 'ii_d_a 'ar_ada 'an ya'akula wahuwa ^gunubu.n .gasala yadayhi
+.hadda_tan_a 'ab_u bakri bnu 'ab_i ^sayba:ta .hadda_tan_a `abdu allahi bnu almub_araki `an y_unusa `ani alzzuhr_iyi `an 'ab_i salama:ta `an `_a'i^sa:ta 'anna alnnab_iya  .sl`m  k_ana 'i_d_a 'ar_ada 'an ya'akula wah_ua ^gunubu.n .gasala yadayhi
 
 ############################################################
 ## betaCodeManual>Translit
-ḥaddaṯanā ʾabuw bakri bnu ʾabiy šaybaŧa ḥaddaṯanā ʿabdu allahi bnu almubāraki ʿan yuwnusa ʿani alzzuhriyyi ʿan ʾabiy salamaŧa ʿan ʿāʾiišaŧa ʾanna alnnabiyya  ṣlʿm  kāna ʾiiḏā ʾarāda ʾan yaʾakula wahuwa ǧunubuȵ ġasala yadayhi
+ḥaddaṯanā ʾabū bakri bnu ʾabī šaybaŧa ḥaddaṯanā ʿabdu allahi bnu almubāraki ʿan yūnusa ʿani alzzuhrīyi ʿan ʾabī salamaŧa ʿan ʿāʾišaŧa ʾanna alnnabīya  ṣlʿm  kāna ʾiḏā ʾarāda ʾan yaʾakula wahūa ǧunubuȵ ġasala yadayhi
 
 ############################################################
 ## betaCodeManual>Arabic
-حَدَّثَنَا أَبُوْ بَكْرِ بْنُ أَبِيْ شَيْبَةَ حَدَّثَنَا عَبْدُ أَلَّهِ بْنُ أَلْمُبَارَكِ عَنْ يُوْنُسَ عَنِ أَلْزُّهْرِيِّ عَنْ أَبِيْ سَلَمَةَ عَنْ عائِِشَةَ أَنَّ أَلْنَّبِيَّ  صْلْعْمْ  كَانَ إِِذَا أَرَادَ أَنْ يَأَكُلَ وَهُوَ جُنُبٌ غَسَلَ يَدَيْهِ
+حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ حَدَّثَنَا عَبْدُ أَلَّهِ بْنُ أَلْمُبَارَكِ عَنْ يُونُسَ عَنِ أَلْزُّهْرِييِ عَنْ أَبِي سَلَمَةَ عَنْ عائِشَةَ أَنَّ أَلْنَّبِييَ  صْلْعْمْ  كَانَ إِذَا أَرَادَ أَنْ يَأَكُلَ وَهُوَ جُنُبٌ غَسَلَ يَدَيْهِ
 
 ############################################################
 ## TranslationBetaCode

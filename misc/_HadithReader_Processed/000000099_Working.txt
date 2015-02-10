@@ -9,19 +9,19 @@
 
 ############################################################
 ## betaCodeAuto
-'a_hbaran_a qutayba:tu `an m_aliki.n `an 'abiy al'aswadi mu.hammadi bni `abdi alrra.hmani `an `urwa:ta bni alzzubayri `an `_a'ii^sa:ta q_alat 'ahalla rasuwlu allahi .sl`m bi_al.ha^ggi
+'a_hbaran_a qutayba:tu `an m_aliki.n `an 'ab_i al'aswadi mu.hammadi bni `abdi alrra.hmani `an `urwa:ta bni alzzubayri `an `_a'i^sa:ta q_alat 'ahalla ras_ulu allahi .sl`m bi_al.ha^ggi
 
 ############################################################
 ## betaCodeManual
-'a_hbaran_a qutayba:tu `an m_aliki.n `an 'abiy al'aswadi mu.hammadi bni `abdi alrra.hmani `an `urwa:ta bni alzzubayri `an `_a'ii^sa:ta q_alat 'ahalla rasuwlu allahi .sl`m bi_al.ha^ggi
+'a_hbaran_a qutayba:tu `an m_aliki.n `an 'ab_i al'aswadi mu.hammadi bni `abdi alrra.hmani `an `urwa:ta bni alzzubayri `an `_a'i^sa:ta q_alat 'ahalla ras_ulu allahi .sl`m bi_al.ha^ggi
 
 ############################################################
 ## betaCodeManual>Translit
-ʾaḫbaranā ḳutaybaŧu ʿan mālikiȵ ʿan ʾabiy alʾaswadi muḥammadi bni ʿabdi alrraḥmani ʿan ʿurwaŧa bni alzzubayri ʿan ʿāʾiišaŧa ḳālat ʾahalla rasuwlu allahi ṣlʿm biālḥaǧgi
+ʾaḫbaranā ḳutaybaŧu ʿan mālikiȵ ʿan ʾabī alʾaswadi muḥammadi bni ʿabdi alrraḥmani ʿan ʿurwaŧa bni alzzubayri ʿan ʿāʾišaŧa ḳālat ʾahalla rasūlu allahi ṣlʿm biālḥaǧgi
 
 ############################################################
 ## betaCodeManual>Arabic
-أَخْبَرَنَا قُتَيْبَةُ عَنْ مَالِكٍ عَنْ أَبِيْ أَلْأَسْوَدِ مُحَمَّدِ بْنِ عَبْدِ أَلْرَّحْمَنِ عَنْ عُرْوَةَ بْنِ أَلْزُّبَيْرِ عَنْ عائِِشَةَ قَالَتْ أَهَلَّ رَسُوْلُ أَلَّهِ صْلْعْمْ بِالْحَجْگِ
+أَخْبَرَنَا قُتَيْبَةُ عَنْ مَالِكٍ عَنْ أَبِي أَلْأَسْوَدِ مُحَمَّدِ بْنِ عَبْدِ أَلْرَّحْمَنِ عَنْ عُرْوَةَ بْنِ أَلْزُّبَيْرِ عَنْ عائِشَةَ قَالَتْ أَهَلَّ رَسُولُ أَلَّهِ صْلْعْمْ بِالْحَجْگِ
 
 ############################################################
 ## TranslationBetaCode

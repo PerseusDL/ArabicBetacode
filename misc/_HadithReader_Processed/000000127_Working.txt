@@ -9,19 +9,19 @@
 
 ############################################################
 ## betaCodeAuto
-'a_hbaran_a `aliyyu bnu .hu^gri.n q_ala .hadda_tan_a 'iism_a`iylu bnu ^ga`fari.n `ani al`al_a'i `an 'abiyhi `an 'abiy hurayra:ta `ani alnnabiyyi .sl`m q_ala man .salla/a `ala/aa w_a.hida:ta.n .salla/a allahu `alayhi `a^sra.n_a
+'a_hbaran_a `al_iyu bnu .hu^gri.n q_ala .hadda_tan_a 'ism_a`_ilu bnu ^ga`fari.n `ani al`al_a'i `an 'ab_ihi `an 'ab_i hurayra:ta `ani alnnab_iyi .sl`m q_ala man .sall/a `al/aa w_a.hida:ta.n .sall/a allahu `alayhi `a^sra.n_a
 
 ############################################################
 ## betaCodeManual
-'a_hbaran_a `aliyyu bnu .hu^gri.n q_ala .hadda_tan_a 'iism_a`iylu bnu ^ga`fari.n `ani al`al_a'i `an 'abiyhi `an 'abiy hurayra:ta `ani alnnabiyyi .sl`m q_ala man .salla/a `ala/aa w_a.hida:ta.n .salla/a allahu `alayhi `a^sra.n_a
+'a_hbaran_a `al_iyu bnu .hu^gri.n q_ala .hadda_tan_a 'ism_a`_ilu bnu ^ga`fari.n `ani al`al_a'i `an 'ab_ihi `an 'ab_i hurayra:ta `ani alnnab_iyi .sl`m q_ala man .sall/a `al/aa w_a.hida:ta.n .sall/a allahu `alayhi `a^sra.n_a
 
 ############################################################
 ## betaCodeManual>Translit
-ʾaḫbaranā ʿaliyyu bnu ḥuǧriȵ ḳāla ḥaddaṯanā ʾiismāʿiylu bnu ǧaʿfariȵ ʿani alʿalāʾi ʿan ʾabiyhi ʿan ʾabiy hurayraŧa ʿani alnnabiyyi ṣlʿm ḳāla man ṣallaá ʿalaáa wāḥidaŧaȵ ṣallaá allahu ʿalayhi ʿašraȵā
+ʾaḫbaranā ʿalīyu bnu ḥuǧriȵ ḳāla ḥaddaṯanā ʾismāʿīlu bnu ǧaʿfariȵ ʿani alʿalāʾi ʿan ʾabīhi ʿan ʾabī hurayraŧa ʿani alnnabīyi ṣlʿm ḳāla man ṣallá ʿaláa wāḥidaŧaȵ ṣallá allahu ʿalayhi ʿašraȵā
 
 ############################################################
 ## betaCodeManual>Arabic
-أَخْبَرَنَا عَلِيُّ بْنُ حُجْرٍ قَالَ حَدَّثَنَا إِِسْمَاعِيْلُ بْنُ جَعْفَرٍ عَنِ أَلْعَلاءِ عَنْ أَبِيْهِ عَنْ أَبِيْ هُرَيْرَةَ عَنِ أَلْنَّبِيِّ صْلْعْمْ قَالَ مَنْ صَلَّٰى عَلَٰىَ وَاحِدَةً صَلَّٰى أَلَّهُ عَلَيْهِ عَشْراًا
+أَخْبَرَنَا عَلِييُ بْنُ حُجْرٍ قَالَ حَدَّثَنَا إِسْمَاعِيلُ بْنُ جَعْفَرٍ عَنِ أَلْعَلاءِ عَنْ أَبِيهِ عَنْ أَبِي هُرَيْرَةَ عَنِ أَلْنَّبِييِ صْلْعْمْ قَالَ مَنْ صَلّٰى عَلٰىَ وَاحِدَةً صَلّٰى أَلَّهُ عَلَيْهِ عَشْراًا
 
 ############################################################
 ## TranslationBetaCode

@@ -9,19 +9,19 @@
 
 ############################################################
 ## betaCodeAuto
-.hadda_tan_a muwsa/a bnu 'iism_a`iyla .hadda_tan_a ^gariyru.n .hadda_tan_a .humaydu.n ya`niy abna hil_ali.n `an sa`di bni hi^s_ami bni `_amiri.n biha_d_a al.hadiy_ti
+.hadda_tan_a m_us/a bnu 'ism_a`_ila .hadda_tan_a ^gar_iru.n .hadda_tan_a .humaydu.n ya`n_i abna hil_ali.n `an sa`di bni hi^s_ami bni `_amiri.n biha_d_a al.had_i_ti
 
 ############################################################
 ## betaCodeManual
-.hadda_tan_a muwsa/a bnu 'iism_a`iyla .hadda_tan_a ^gariyru.n .hadda_tan_a .humaydu.n ya`niy abna hil_ali.n `an sa`di bni hi^s_ami bni `_amiri.n biha_d_a al.hadiy_ti
+.hadda_tan_a m_us/a bnu 'ism_a`_ila .hadda_tan_a ^gar_iru.n .hadda_tan_a .humaydu.n ya`n_i abna hil_ali.n `an sa`di bni hi^s_ami bni `_amiri.n biha_d_a al.had_i_ti
 
 ############################################################
 ## betaCodeManual>Translit
-ḥaddaṯanā muwsaá bnu ʾiismāʿiyla ḥaddaṯanā ǧariyruȵ ḥaddaṯanā ḥumayduȵ yaʿniy abna hilāliȵ ʿan saʿdi bni hišāmi bni ʿāmiriȵ bihaḏā alḥadiyṯi
+ḥaddaṯanā mūsá bnu ʾismāʿīla ḥaddaṯanā ǧarīruȵ ḥaddaṯanā ḥumayduȵ yaʿnī abna hilāliȵ ʿan saʿdi bni hišāmi bni ʿāmiriȵ bihaḏā alḥadīṯi
 
 ############################################################
 ## betaCodeManual>Arabic
-حَدَّثَنَا مُوْسَٰى بْنُ إِِسْمَاعِيْلَ حَدَّثَنَا جَرِيْرٌ حَدَّثَنَا حُمَيْدٌ يَعْنِيْ أَبْنَ هِلَالٍ عَنْ سَعْدِ بْنِ هِشَامِ بْنِ عَامِرٍ بِهَذَا أَلْحَدِيْثِ
+حَدَّثَنَا مُوسٰى بْنُ إِسْمَاعِيلَ حَدَّثَنَا جَرِيرٌ حَدَّثَنَا حُمَيْدٌ يَعْنِي أَبْنَ هِلَالٍ عَنْ سَعْدِ بْنِ هِشَامِ بْنِ عَامِرٍ بِهَذَا أَلْحَدِيثِ
 
 ############################################################
 ## TranslationBetaCode

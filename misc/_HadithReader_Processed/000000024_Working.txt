@@ -9,25 +9,25 @@
 
 ############################################################
 ## betaCodeAuto
-.hadda_tan_a mu.hammadu bnu ba^ss_ari.n .hadda_tan_a abnu 'abiy `adiyyi.n `an ^su`ba:ta `an qat_ada:ta `an `ikrima:ta `ani abni `abb_asi.n q_ala sami`tu alnnabiyya .sl`m na.hwahu
+.hadda_tan_a mu.hammadu bnu ba^ss_ari.n .hadda_tan_a abnu 'ab_i `ad_iyi.n `an ^su`ba:ta `an qat_ada:ta `an `ikrima:ta `ani abni `abb_asi.n q_ala sami`tu alnnab_iya .sl`m na.hwahu
 
 ############################################################
 ## betaCodeManual
-.hadda_ta-n_a Mu.hammadu bnu Ba^s^s_ari.n , .hadda_ta-n_a Ibnu 'Ab_i `Adiyyi.n , `an ^Su`ba:ta , `an Qat_ada:ta , `an `Ikrima:ta , `ani Ibni `Abb_asi.n q_ala ( M ) sami`tu al-nabiyya ( .sl`m ) na.hwa-hu
+.hadda_ta-n_a Mu.hammad?u bn?u Ba^s^s_ar?i.n , .hadda_ta-n_a Ibn?u 'Ab_i `Adiyy?i.n , `an ^Su`ba:t?a , `an Qat_ada:t?a , `an `Ikrima:t?a , `an?i Ibn?i `Abb_as?i.n q_ala sami`tu al-nabiyy?a ( .sl`m ) na.hwa-hu
 
 ############################################################
 ## betaCodeManual>Translit
-ḥaddaṯa-nā Muḥammadu bnu Baššāriȵ , ḥaddaṯa-nā Ibnu ʾAbī ʿAdiyyiȵ , ʿan Šuʿbaŧa , ʿan Ḳatādaŧa , ʿan ʿIkrimaŧa , ʿani Ibni ʿAbbāsiȵ ḳāla ( M ) samiʿtu al-nabiyya ( ṣlʿm ) naḥwa-hu
+ḥaddaṯa-nā Muḥammadủ bnủ Baššārỉȵ , ḥaddaṯa-nā Ibnủ ʾAbī ʿAdiyyỉȵ , ʿan Šuʿbaŧả , ʿan Ḳatādaŧả , ʿan ʿIkrimaŧả , ʿanỉ Ibnỉ ʿAbbāsỉȵ ḳāla samiʿtu al-nabiyyả ( ṣlʿm ) naḥwa-hu
 
 ############################################################
 ## betaCodeManual>Arabic
-حَدَّثَنَا مُحَمَّدُ بْنُ بَشّارٍ ، حَدَّثَنَا إِبْنُ أَبِي عَدِيٍّ ، عَنْ شُعْبَةَ ، عَنْ قَتَادَةَ ، عَنْ عِكْرِمَةَ ، عَنِ إِبْنِ عَبّاسٍ قَالَ ( مْ ) سَمِعْتُ ﭐلنَّبِيَّ ( صْلْعْمْ ) نَحْوَهُ
+حَدَّثَنَا مُحَمَّدُ بْنُ بَشّارٍ ، حَدَّثَنَا إِبْنُ أَبِي عَدِيٍّ ، عَنْ شُعْبَةَ ، عَنْ قَتَادَةَ ، عَنْ عِكْرِمَةَ ، عَنِ إِبْنِ عَبّاسٍ قَالَ سَمِعْتُ ﭐلنَّبِيَّ ( صْلْعْمْ ) نَحْوَهُ
 
 ############################################################
 ## TranslationBetaCode
-Mu.ammad b. Ba^s^s_ar narrated to us, Ibn Ab_i `Ad_i narrated to us, from ^Su`ba:t, from Qat_ada:t, from `Ikrima:t [who] said ( m ) I heard the Prophet ( .sl`m ) something similar to that. 
+Mu.hammad b. Ba^s^s_ar narrated to us, Ibn Ab_i `Ad_i narrated to us, from ^Su`ba:t, from Qat_ada:t, from `Ikrima:t [who] said: I heard [from] the Prophet ( .sl`m ) something similar to that. 
 
 ############################################################
 ## TranslationTranslit
-Muåmmad b. Baššār narrated to us, Ibn Abī ʿAdī narrated to us, from Šuʿbaŧ, from Ḳatādaŧ, from ʿIkrimaŧ [who] said ( m ) I heard the Prophet ( ṣlʿm ) something similar to that. 
+Muḥammad b. Baššār narrated to us, Ibn Abī ʿAdī narrated to us, from Šuʿbaŧ, from Ḳatādaŧ, from ʿIkrimaŧ [who] said: I heard [from] the Prophet ( ṣlʿm ) something similar to that. 
 

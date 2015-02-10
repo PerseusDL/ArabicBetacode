@@ -9,15 +9,15 @@
 
 ############################################################
 ## betaCodeAuto
-.hadda_tan_a `amruw bnu r_afi`i.n .hadda_tan_a `abdu allahi bnu almub_araki `an mu.hammadi bni 'iis.h_aqa `an mu.hammadi bni ^ga`fari.n `an `ubaydi allahi bni `abdi allahi bni `umara `an 'abiyhi `ani alnnabiyyi  .sl`m  na.hwahu
+.hadda_tan_a `amr_u bnu r_afi`i.n .hadda_tan_a `abdu allahi bnu almub_araki `an mu.hammadi bni 'is.h_aqa `an mu.hammadi bni ^ga`fari.n `an `ubaydi allahi bni `abdi allahi bni `umara `an 'ab_ihi `ani alnnab_iyi  .sl`m  na.hwahu
 
 ############################################################
 ## betaCodeManual
-.hadda_ta-n_a `Amru.w bnu R_afi`i.n , .hadda_ta-n_a `Abdu All~ahi bnu al-Mub_araki , `an Mu.hammadi bni 'is.h_aqa , `an Mu.hammadi bni ^Ga`fari.n , `an `Ubaydi All~ahi bni `Abdi All~ahi bni `Umara , `an 'Ab_i-hi , `ani al-nabiyyi ( .sl`m ) na.hwa-hu
+.hadda_ta-n_a `Amr?u.w bn?u R_afi`?i.n , .hadda_ta-n_a `Abd?u All~ah?i bn?u al-Mub_arak?i , `an Mu.hammad?i bn?i 'Is.h_aq?a , `an Mu.hammad?i bn?i ^Ga`far?i.n , `an `Ubayd?i All~ah?i bn?i `Abd?i All~ah?i bn?i `Umar?a , `an 'Ab_i-hi , `an?i al-nabiyy?i ( .sl`m ) na.hwa-hu
 
 ############################################################
 ## betaCodeManual>Translit
-ḥaddaṯa-nā ʿAmruů bnu Rāfiʿiȵ , ḥaddaṯa-nā ʿAbdu Allãhi bnu al-Mubāraki , ʿan Muḥammadi bni ʾisḥāḳa , ʿan Muḥammadi bni Ǧaʿfariȵ , ʿan ʿUbaydi Allãhi bni ʿAbdi Allãhi bni ʿUmara , ʿan ʾAbī-hi , ʿani al-nabiyyi ( ṣlʿm ) naḥwa-hu
+ḥaddaṯa-nā ʿAmrủů bnủ Rāfiʿỉȵ , ḥaddaṯa-nā ʿAbdủ Allãhỉ bnủ al-Mubārakỉ , ʿan Muḥammadỉ bnỉ ʾIsḥāḳả , ʿan Muḥammadỉ bnỉ Ǧaʿfarỉȵ , ʿan ʿUbaydỉ Allãhỉ bnỉ ʿAbdỉ Allãhỉ bnỉ ʿUmarả , ʿan ʾAbī-hi , ʿanỉ al-nabiyyỉ ( ṣlʿm ) naḥwa-hu
 
 ############################################################
 ## betaCodeManual>Arabic
@@ -25,9 +25,9 @@
 
 ############################################################
 ## TranslationBetaCode
-`Amr b. R_afi` narrated to us, `Abd All~ah b. al-Mub_arak narrated to us, from Mu.hammad b. Is.h_aq , from Mu.hammad b. Ja`far , from `Ubayd All~ah b. `Abd All~ah b. `Umar, from his father, from the Prophet ( .sl`m ) something similar to that.
+`Amr b. R_afi` narrated to us, `Abd All~ah b. al-Mub_arak narrated to us, from Mu.hammad b. Is.h_aq , from Mu.hammad b. Ja`far, from `Ubayd All~ah b. `Abd All~ah b. `Umar, from his father, from the Prophet ( .sl`m ) something similar to that.
 
 ############################################################
 ## TranslationTranslit
-ʿAmr b. Rāfiʿ narrated to us, ʿAbd Allãh b. al-Mubārak narrated to us, from Muḥammad b. Isḥāḳ , from Muḥammad b. Ǧaʿfar , from ʿUbayd Allãh b. ʿAbd Allãh b. ʿUmar, from his father, from the Prophet ( ṣlʿm ) something similar to that.
+ʿAmr b. Rāfiʿ narrated to us, ʿAbd Allãh b. al-Mubārak narrated to us, from Muḥammad b. Isḥāḳ , from Muḥammad b. Ǧaʿfar, from ʿUbayd Allãh b. ʿAbd Allãh b. ʿUmar, from his father, from the Prophet ( ṣlʿm ) something similar to that.
 

@@ -9,19 +9,19 @@
 
 ############################################################
 ## betaCodeAuto
-wa.hadda_tan_ahu 'abuw bakri bnu 'abiy ^sayba:ta wamu.hammadu bnu almu_tanna/a w_abnu ba^ss_ari.n ^gamiy`a.n_a `an mu.hammadi bni ^ga`fari.n `an ^su`ba:ta .h wa.hadda_tan_a abnu almu_tanna/a .hadda_tan_a ya.hya/a bnu sa`iydi.n .hadda_tan_a sufy_anu kil_ahum_a `an man.suwri.n biha_d_a al'iisn_adi wafiy riw_aya:ti ^su`ba:ta `an 'abiy ya.hya/a al'a`ra^gi
+wa.hadda_tan_ahu 'ab_u bakri bnu 'ab_i ^sayba:ta wamu.hammadu bnu almu_tann/a w_abnu ba^ss_ari.n ^gam_i`a.n_a `an mu.hammadi bni ^ga`fari.n `an ^su`ba:ta .h wa.hadda_tan_a abnu almu_tann/a .hadda_tan_a ya.hy/a bnu sa`_idi.n .hadda_tan_a sufy_anu kil_ahum_a `an man.s_uri.n biha_d_a al'isn_adi waf_i riw_aya:ti ^su`ba:ta `an 'ab_i ya.hy/a al'a`ra^gi
 
 ############################################################
 ## betaCodeManual
-wa.hadda_tan_ahu 'abuw bakri bnu 'abiy ^sayba:ta wamu.hammadu bnu almu_tanna/a w_abnu ba^ss_ari.n ^gamiy`a.n_a `an mu.hammadi bni ^ga`fari.n `an ^su`ba:ta .h wa.hadda_tan_a abnu almu_tanna/a .hadda_tan_a ya.hya/a bnu sa`iydi.n .hadda_tan_a sufy_anu kil_ahum_a `an man.suwri.n biha_d_a al'iisn_adi wafiy riw_aya:ti ^su`ba:ta `an 'abiy ya.hya/a al'a`ra^gi
+wa.hadda_tan_ahu 'ab_u bakri bnu 'ab_i ^sayba:ta wamu.hammadu bnu almu_tann/a w_abnu ba^ss_ari.n ^gam_i`a.n_a `an mu.hammadi bni ^ga`fari.n `an ^su`ba:ta .h wa.hadda_tan_a abnu almu_tann/a .hadda_tan_a ya.hy/a bnu sa`_idi.n .hadda_tan_a sufy_anu kil_ahum_a `an man.s_uri.n biha_d_a al'isn_adi waf_i riw_aya:ti ^su`ba:ta `an 'ab_i ya.hy/a al'a`ra^gi
 
 ############################################################
 ## betaCodeManual>Translit
-waḥaddaṯanāhu ʾabuw bakri bnu ʾabiy šaybaŧa wamuḥammadu bnu almuṯannaá wābnu bašsāriȵ ǧamiyʿaȵā ʿan muḥammadi bni ǧaʿfariȵ ʿan šuʿbaŧa ḥ waḥaddaṯanā abnu almuṯannaá ḥaddaṯanā yaḥyaá bnu saʿiydiȵ ḥaddaṯanā sufyānu kilāhumā ʿan manṣuwriȵ bihaḏā alʾiisnādi wafiy riwāyaŧi šuʿbaŧa ʿan ʾabiy yaḥyaá alʾaʿraǧi
+waḥaddaṯanāhu ʾabū bakri bnu ʾabī šaybaŧa wamuḥammadu bnu almuṯanná wābnu bašsāriȵ ǧamīʿaȵā ʿan muḥammadi bni ǧaʿfariȵ ʿan šuʿbaŧa ḥ waḥaddaṯanā abnu almuṯanná ḥaddaṯanā yaḥyá bnu saʿīdiȵ ḥaddaṯanā sufyānu kilāhumā ʿan manṣūriȵ bihaḏā alʾisnādi wafī riwāyaŧi šuʿbaŧa ʿan ʾabī yaḥyá alʾaʿraǧi
 
 ############################################################
 ## betaCodeManual>Arabic
-وَحَدَّثَنَاهُ أَبُوْ بَكْرِ بْنُ أَبِيْ شَيْبَةَ وَمُحَمَّدُ بْنُ أَلْمُثَنَّٰى وَابْنُ بَشْسَارٍ جَمِيْعاًا عَنْ مُحَمَّدِ بْنِ جَعْفَرٍ عَنْ شُعْبَةَ حْ وَحَدَّثَنَا أَبْنُ أَلْمُثَنَّٰى حَدَّثَنَا يَحْيَٰى بْنُ سَعِيْدٍ حَدَّثَنَا سُفْيَانُ كِلَاهُمَا عَنْ مَنْصُوْرٍ بِهَذَا أَلْئِِسْنَادِ وَفِيْ رِوَايَةِ شُعْبَةَ عَنْ أَبِيْ يَحْيَٰى أَلْأَعْرَجِ
+وَحَدَّثَنَاهُ أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ وَمُحَمَّدُ بْنُ أَلْمُثَنّٰى وَابْنُ بَشْسَارٍ جَمِيعاًا عَنْ مُحَمَّدِ بْنِ جَعْفَرٍ عَنْ شُعْبَةَ حْ وَحَدَّثَنَا أَبْنُ أَلْمُثَنّٰى حَدَّثَنَا يَحْيٰى بْنُ سَعِيدٍ حَدَّثَنَا سُفْيَانُ كِلَاهُمَا عَنْ مَنْصُورٍ بِهَذَا أَلْئِسْنَادِ وَفِي رِوَايَةِ شُعْبَةَ عَنْ أَبِي يَحْيٰى أَلْأَعْرَجِ
 
 ############################################################
 ## TranslationBetaCode

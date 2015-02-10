@@ -9,19 +9,19 @@
 
 ############################################################
 ## betaCodeAuto
-wa.hadda_tan_ahu mu.hammadu bnu almu_tanna/a w_abnu ba^ss_ari.n q_al_a .hadda_tan_a 'abuw d_awuda .hadda_tan_a ^su`ba:tu fiy ha_d_a al'iisn_adi
+wa.hadda_tan_ahu mu.hammadu bnu almu_tann/a w_abnu ba^ss_ari.n q_al_a .hadda_tan_a 'ab_u d_awuda .hadda_tan_a ^su`ba:tu f_i ha_d_a al'isn_adi
 
 ############################################################
 ## betaCodeManual
-wa.hadda_tan_ahu mu.hammadu bnu almu_tanna/a w_abnu ba^ss_ari.n q_al_a .hadda_tan_a 'abuw d_awuda .hadda_tan_a ^su`ba:tu fiy ha_d_a al'iisn_adi
+wa.hadda_tan_ahu mu.hammadu bnu almu_tann/a w_abnu ba^ss_ari.n q_al_a .hadda_tan_a 'ab_u d_awuda .hadda_tan_a ^su`ba:tu f_i ha_d_a al'isn_adi
 
 ############################################################
 ## betaCodeManual>Translit
-waḥaddaṯanāhu muḥammadu bnu almuṯannaá wābnu bašsāriȵ ḳālā ḥaddaṯanā ʾabuw dāwuda ḥaddaṯanā šuʿbaŧu fiy haḏā alʾiisnādi
+waḥaddaṯanāhu muḥammadu bnu almuṯanná wābnu bašsāriȵ ḳālā ḥaddaṯanā ʾabū dāwuda ḥaddaṯanā šuʿbaŧu fī haḏā alʾisnādi
 
 ############################################################
 ## betaCodeManual>Arabic
-وَحَدَّثَنَاهُ مُحَمَّدُ بْنُ أَلْمُثَنَّٰى وَابْنُ بَشْسَارٍ قَالَا حَدَّثَنَا أَبُوْ دَاوُدَ حَدَّثَنَا شُعْبَةُ فِيْ هَذَا أَلْئِِسْنَادِ
+وَحَدَّثَنَاهُ مُحَمَّدُ بْنُ أَلْمُثَنّٰى وَابْنُ بَشْسَارٍ قَالَا حَدَّثَنَا أَبُو دَاوُدَ حَدَّثَنَا شُعْبَةُ فِي هَذَا أَلْئِسْنَادِ
 
 ############################################################
 ## TranslationBetaCode

@@ -9,19 +9,19 @@
 
 ############################################################
 ## betaCodeAuto
-.hadda_tan_a `abdu allahi bnu yaziyda .hadda_tan_a sa`iydu.n  huwa abnu 'abiy 'ayyuwba  q_ala .hadda_taniy 'abuw al'aswadi `an `ikrima:ta `an `abdi allahi bni `amri.nw  r.d/a allh `nhm_a  q_ala sami`tu alnnabiyya .sl`m yaquwlu man qutila duwna m_alihi fahuwa ^sahiydu.n
+.hadda_tan_a `abdu allahi bnu yaz_ida .hadda_tan_a sa`_idu.n  h_ua abnu 'ab_i 'ayy_uba  q_ala .hadda_tan_i 'ab_u al'aswadi `an `ikrima:ta `an `abdi allahi bni `amri.nw  r.d/a allh `nhm_a  q_ala sami`tu alnnab_iya .sl`m yaq_ulu man qutila d_una m_alihi fah_ua ^sah_idu.n
 
 ############################################################
 ## betaCodeManual
-.hadda_tan_a `abdu allahi bnu yaziyda .hadda_tan_a sa`iydu.n  huwa abnu 'abiy 'ayyuwba  q_ala .hadda_taniy 'abuw al'aswadi `an `ikrima:ta `an `abdi allahi bni `amri.nw  r.d/a allh `nhm_a  q_ala sami`tu alnnabiyya .sl`m yaquwlu man qutila duwna m_alihi fahuwa ^sahiydu.n
+.hadda_tan_a `abdu allahi bnu yaz_ida .hadda_tan_a sa`_idu.n  h_ua abnu 'ab_i 'ayy_uba  q_ala .hadda_tan_i 'ab_u al'aswadi `an `ikrima:ta `an `abdi allahi bni `amri.nw  r.d/a allh `nhm_a  q_ala sami`tu alnnab_iya .sl`m yaq_ulu man qutila d_una m_alihi fah_ua ^sah_idu.n
 
 ############################################################
 ## betaCodeManual>Translit
-ḥaddaṯanā ʿabdu allahi bnu yaziyda ḥaddaṯanā saʿiyduȵ  huwa abnu ʾabiy ʾayyuwba  ḳāla ḥaddaṯaniy ʾabuw alʾaswadi ʿan ʿikrimaŧa ʿan ʿabdi allahi bni ʿamriȵw  rḍá allh ʿnhmā  ḳāla samiʿtu alnnabiyya ṣlʿm yaḳuwlu man ḳutila duwna mālihi fahuwa šahiyduȵ
+ḥaddaṯanā ʿabdu allahi bnu yazīda ḥaddaṯanā saʿīduȵ  hūa abnu ʾabī ʾayyūba  ḳāla ḥaddaṯanī ʾabū alʾaswadi ʿan ʿikrimaŧa ʿan ʿabdi allahi bni ʿamriȵw  rḍá allh ʿnhmā  ḳāla samiʿtu alnnabīya ṣlʿm yaḳūlu man ḳutila dūna mālihi fahūa šahīduȵ
 
 ############################################################
 ## betaCodeManual>Arabic
-حَدَّثَنَا عَبْدُ أَلَّهِ بْنُ يَزِيْدَ حَدَّثَنَا سَعِيْدٌ  هُوَ أَبْنُ أَبِيْ أَيُّوْبَ  قَالَ حَدَّثَنِيْ أَبُوْ أَلْأَسْوَدِ عَنْ عِكْرِمَةَ عَنْ عَبْدِ أَلَّهِ بْنِ عَمْرٍوْ  رْضٰى أَلّهْ عْنْهْمَا  قَالَ سَمِعْتُ أَلْنَّبِيَّ صْلْعْمْ يَقُوْلُ مَنْ قُتِلَ دُوْنَ مَالِهِ فَهُوَ شَهِيْدٌ
+حَدَّثَنَا عَبْدُ أَلَّهِ بْنُ يَزِيدَ حَدَّثَنَا سَعِيدٌ  هُوَ أَبْنُ أَبِي أَيّوبَ  قَالَ حَدَّثَنِي أَبُو أَلْأَسْوَدِ عَنْ عِكْرِمَةَ عَنْ عَبْدِ أَلَّهِ بْنِ عَمْرٍوْ  رْضٰى أَلّهْ عْنْهْمَا  قَالَ سَمِعْتُ أَلْنَّبِييَ صْلْعْمْ يَقُولُ مَنْ قُتِلَ دُونَ مَالِهِ فَهُوَ شَهِيدٌ
 
 ############################################################
 ## TranslationBetaCode

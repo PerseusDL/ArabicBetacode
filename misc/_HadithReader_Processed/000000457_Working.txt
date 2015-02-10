@@ -9,19 +9,19 @@
 
 ############################################################
 ## betaCodeAuto
-.hadda_tan_a mu.hammadu bnu ka_tiyri.n 'a_hbaran_a sufy_anu `ani abni almunkadiri q_ala sami`tu ^g_abira.n_a  r.d/a allh `nh  yaquwlu m_a su'iila alnnabiyyu .sl`m `an ^sa/a'i.n qa.ttu faq_ala l_a
+.hadda_tan_a mu.hammadu bnu ka_t_iri.n 'a_hbaran_a sufy_anu `ani abni almunkadiri q_ala sami`tu ^g_abira.n_a  r.d/a allh `nh  yaq_ulu m_a su'ila alnnab_iyu .sl`m `an ^s/a'i.n qa.ttu faq_ala l_a
 
 ############################################################
 ## betaCodeManual
-.hadda_tan_a mu.hammadu bnu ka_tiyri.n 'a_hbaran_a sufy_anu `ani abni almunkadiri q_ala sami`tu ^g_abira.n_a  r.d/a allh `nh  yaquwlu m_a su'iila alnnabiyyu .sl`m `an ^sa/a'i.n qa.ttu faq_ala l_a
+.hadda_tan_a mu.hammadu bnu ka_t_iri.n 'a_hbaran_a sufy_anu `ani abni almunkadiri q_ala sami`tu ^g_abira.n_a  r.d/a allh `nh  yaq_ulu m_a su'ila alnnab_iyu .sl`m `an ^s/a'i.n qa.ttu faq_ala l_a
 
 ############################################################
 ## betaCodeManual>Translit
-ḥaddaṯanā muḥammadu bnu kaṯiyriȵ ʾaḫbaranā sufyānu ʿani abni almunkadiri ḳāla samiʿtu ǧābiraȵā  rḍá allh ʿnh  yaḳuwlu mā suʾiila alnnabiyyu ṣlʿm ʿan šaáʾiȵ ḳaṭtu faḳāla lā
+ḥaddaṯanā muḥammadu bnu kaṯīriȵ ʾaḫbaranā sufyānu ʿani abni almunkadiri ḳāla samiʿtu ǧābiraȵā  rḍá allh ʿnh  yaḳūlu mā suʾila alnnabīyu ṣlʿm ʿan šáʾiȵ ḳaṭtu faḳāla lā
 
 ############################################################
 ## betaCodeManual>Arabic
-حَدَّثَنَا مُحَمَّدُ بْنُ كَثِيْرٍ أَخْبَرَنَا سُفْيَانُ عَنِ أَبْنِ أَلْمُنْكَدِرِ قَالَ سَمِعْتُ جَابِراًا  رْضٰى أَلّهْ عْنْهْ  يَقُوْلُ مَا سُئِِلَ أَلْنَّبِيُّ صْلْعْمْ عَنْ شَٰىءٍ قَطْتُ فَقَالَ لَا
+حَدَّثَنَا مُحَمَّدُ بْنُ كَثِيرٍ أَخْبَرَنَا سُفْيَانُ عَنِ أَبْنِ أَلْمُنْكَدِرِ قَالَ سَمِعْتُ جَابِراًا  رْضٰى أَلّهْ عْنْهْ  يَقُولُ مَا سُئِلَ أَلْنَّبِييُ صْلْعْمْ عَنْ شٰىءٍ قَطْتُ فَقَالَ لَا
 
 ############################################################
 ## TranslationBetaCode

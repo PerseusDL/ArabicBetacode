@@ -9,19 +9,19 @@
 
 ############################################################
 ## betaCodeAuto
-wa.hadda_tan_a 'abuw bakri bnu 'abiy ^sayba:ta 'a_hbaran_a wakiy`u.n .h wa.hadda_taniy mu.hammadu bnu .h_atimi.n .hadda_tan_a ya.hya/a bnu sa`iydi.n ^gamiy`a.n_a `ani abni ^guray^gi.n `an 'abiy alzzubayri `an ^g_abiri bni `abdi allahi q_ala naha/a rasuwlu allahi .sl`m `an bay`i fa.dli alm_a'i
+wa.hadda_tan_a 'ab_u bakri bnu 'ab_i ^sayba:ta 'a_hbaran_a wak_i`u.n .h wa.hadda_tan_i mu.hammadu bnu .h_atimi.n .hadda_tan_a ya.hy/a bnu sa`_idi.n ^gam_i`a.n_a `ani abni ^guray^gi.n `an 'ab_i alzzubayri `an ^g_abiri bni `abdi allahi q_ala nah/a ras_ulu allahi .sl`m `an bay`i fa.dli alm_a'i
 
 ############################################################
 ## betaCodeManual
-wa.hadda_tan_a 'abuw bakri bnu 'abiy ^sayba:ta 'a_hbaran_a wakiy`u.n .h wa.hadda_taniy mu.hammadu bnu .h_atimi.n .hadda_tan_a ya.hya/a bnu sa`iydi.n ^gamiy`a.n_a `ani abni ^guray^gi.n `an 'abiy alzzubayri `an ^g_abiri bni `abdi allahi q_ala naha/a rasuwlu allahi .sl`m `an bay`i fa.dli alm_a'i
+wa.hadda_tan_a 'ab_u bakri bnu 'ab_i ^sayba:ta 'a_hbaran_a wak_i`u.n .h wa.hadda_tan_i mu.hammadu bnu .h_atimi.n .hadda_tan_a ya.hy/a bnu sa`_idi.n ^gam_i`a.n_a `ani abni ^guray^gi.n `an 'ab_i alzzubayri `an ^g_abiri bni `abdi allahi q_ala nah/a ras_ulu allahi .sl`m `an bay`i fa.dli alm_a'i
 
 ############################################################
 ## betaCodeManual>Translit
-waḥaddaṯanā ʾabuw bakri bnu ʾabiy šaybaŧa ʾaḫbaranā wakiyʿuȵ ḥ waḥaddaṯaniy muḥammadu bnu ḥātimiȵ ḥaddaṯanā yaḥyaá bnu saʿiydiȵ ǧamiyʿaȵā ʿani abni ǧurayǧiȵ ʿan ʾabiy alzzubayri ʿan ǧābiri bni ʿabdi allahi ḳāla nahaá rasuwlu allahi ṣlʿm ʿan bayʿi faḍli almāʾi
+waḥaddaṯanā ʾabū bakri bnu ʾabī šaybaŧa ʾaḫbaranā wakīʿuȵ ḥ waḥaddaṯanī muḥammadu bnu ḥātimiȵ ḥaddaṯanā yaḥyá bnu saʿīdiȵ ǧamīʿaȵā ʿani abni ǧurayǧiȵ ʿan ʾabī alzzubayri ʿan ǧābiri bni ʿabdi allahi ḳāla nahá rasūlu allahi ṣlʿm ʿan bayʿi faḍli almāʾi
 
 ############################################################
 ## betaCodeManual>Arabic
-وَحَدَّثَنَا أَبُوْ بَكْرِ بْنُ أَبِيْ شَيْبَةَ أَخْبَرَنَا وَكِيْعٌ حْ وَحَدَّثَنِيْ مُحَمَّدُ بْنُ حَاتِمٍ حَدَّثَنَا يَحْيَٰى بْنُ سَعِيْدٍ جَمِيْعاًا عَنِ أَبْنِ جُرَيْجٍ عَنْ أَبِيْ أَلْزُّبَيْرِ عَنْ جَابِرِ بْنِ عَبْدِ أَلَّهِ قَالَ نَهَٰى رَسُوْلُ أَلَّهِ صْلْعْمْ عَنْ بَيْعِ فَضْلِ أَلْماءِ
+وَحَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ أَخْبَرَنَا وَكِيعٌ حْ وَحَدَّثَنِي مُحَمَّدُ بْنُ حَاتِمٍ حَدَّثَنَا يَحْيٰى بْنُ سَعِيدٍ جَمِيعاًا عَنِ أَبْنِ جُرَيْجٍ عَنْ أَبِي أَلْزُّبَيْرِ عَنْ جَابِرِ بْنِ عَبْدِ أَلَّهِ قَالَ نَهٰى رَسُولُ أَلَّهِ صْلْعْمْ عَنْ بَيْعِ فَضْلِ أَلْماءِ
 
 ############################################################
 ## TranslationBetaCode

@@ -9,19 +9,19 @@
 
 ############################################################
 ## betaCodeAuto
-.hadda_tan_a mu.hammadu bnu rum.hi.n 'anba'an_a allay_tu bnu sa`di.n `ani abni ^sih_abi.n .h wa.hadda_tan_a 'abuw bakri bnu 'abiy ^sayba:ta .hadda_tan_a sufy_anu bnu `uyayna:ta `ani alzzuhriyyi `an `urwa:ta `an `_a'ii^sa:ta q_alat kuntu 'a.gtasilu 'an_a warasuwlu allahi  .sl`m  min 'iin_a'i.n w_a.hidi.n
+.hadda_tan_a mu.hammadu bnu rum.hi.n 'anba'an_a allay_tu bnu sa`di.n `ani abni ^sih_abi.n .h wa.hadda_tan_a 'ab_u bakri bnu 'ab_i ^sayba:ta .hadda_tan_a sufy_anu bnu `uyayna:ta `ani alzzuhr_iyi `an `urwa:ta `an `_a'i^sa:ta q_alat kuntu 'a.gtasilu 'an_a waras_ulu allahi  .sl`m  min 'in_a'i.n w_a.hidi.n
 
 ############################################################
 ## betaCodeManual
-.hadda_tan_a mu.hammadu bnu rum.hi.n 'anba'an_a allay_tu bnu sa`di.n `ani abni ^sih_abi.n .h wa.hadda_tan_a 'abuw bakri bnu 'abiy ^sayba:ta .hadda_tan_a sufy_anu bnu `uyayna:ta `ani alzzuhriyyi `an `urwa:ta `an `_a'ii^sa:ta q_alat kuntu 'a.gtasilu 'an_a warasuwlu allahi  .sl`m  min 'iin_a'i.n w_a.hidi.n
+.hadda_tan_a mu.hammadu bnu rum.hi.n 'anba'an_a allay_tu bnu sa`di.n `ani abni ^sih_abi.n .h wa.hadda_tan_a 'ab_u bakri bnu 'ab_i ^sayba:ta .hadda_tan_a sufy_anu bnu `uyayna:ta `ani alzzuhr_iyi `an `urwa:ta `an `_a'i^sa:ta q_alat kuntu 'a.gtasilu 'an_a waras_ulu allahi  .sl`m  min 'in_a'i.n w_a.hidi.n
 
 ############################################################
 ## betaCodeManual>Translit
-ḥaddaṯanā muḥammadu bnu rumḥiȵ ʾanbaʾanā allayṯu bnu saʿdiȵ ʿani abni šihābiȵ ḥ waḥaddaṯanā ʾabuw bakri bnu ʾabiy šaybaŧa ḥaddaṯanā sufyānu bnu ʿuyaynaŧa ʿani alzzuhriyyi ʿan ʿurwaŧa ʿan ʿāʾiišaŧa ḳālat kuntu ʾaġtasilu ʾanā warasuwlu allahi  ṣlʿm  min ʾiināʾiȵ wāḥidiȵ
+ḥaddaṯanā muḥammadu bnu rumḥiȵ ʾanbaʾanā allayṯu bnu saʿdiȵ ʿani abni šihābiȵ ḥ waḥaddaṯanā ʾabū bakri bnu ʾabī šaybaŧa ḥaddaṯanā sufyānu bnu ʿuyaynaŧa ʿani alzzuhrīyi ʿan ʿurwaŧa ʿan ʿāʾišaŧa ḳālat kuntu ʾaġtasilu ʾanā warasūlu allahi  ṣlʿm  min ʾināʾiȵ wāḥidiȵ
 
 ############################################################
 ## betaCodeManual>Arabic
-حَدَّثَنَا مُحَمَّدُ بْنُ رُمْحٍ أَنْبَأَنَا أَلَّيْثُ بْنُ سَعْدٍ عَنِ أَبْنِ شِهَابٍ حْ وَحَدَّثَنَا أَبُوْ بَكْرِ بْنُ أَبِيْ شَيْبَةَ حَدَّثَنَا سُفْيَانُ بْنُ عُيَيْنَةَ عَنِ أَلْزُّهْرِيِّ عَنْ عُرْوَةَ عَنْ عائِِشَةَ قَالَتْ كُنْتُ أَغْتَسِلُ أَنَا وَرَسُوْلُ أَلَّهِ  صْلْعْمْ  مِنْ إِِناءٍ وَاحِدٍ
+حَدَّثَنَا مُحَمَّدُ بْنُ رُمْحٍ أَنْبَأَنَا أَلَّيْثُ بْنُ سَعْدٍ عَنِ أَبْنِ شِهَابٍ حْ وَحَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ حَدَّثَنَا سُفْيَانُ بْنُ عُيَيْنَةَ عَنِ أَلْزُّهْرِييِ عَنْ عُرْوَةَ عَنْ عائِشَةَ قَالَتْ كُنْتُ أَغْتَسِلُ أَنَا وَرَسُولُ أَلَّهِ  صْلْعْمْ  مِنْ إِناءٍ وَاحِدٍ
 
 ############################################################
 ## TranslationBetaCode

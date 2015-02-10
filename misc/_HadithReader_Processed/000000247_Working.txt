@@ -9,19 +9,19 @@
 
 ############################################################
 ## betaCodeAuto
-.hadda_tan_a abnu 'abiy `umara .hadda_tan_a sufy_anu `an zakariyy_a `ani al^ssa`biyyi `an `adiyyi bni .h_atimi.n `ani alnnabiyyi .sl`m na.hwahu q_ala 'abuw `iysa/a ha_d_a .hadiy_tu.n .sa.hiy.hu.n w_al`amalu `alayhi `inda 'ahli al`ilmi
+.hadda_tan_a abnu 'ab_i `umara .hadda_tan_a sufy_anu `an zakar_iy_a `ani al^ssa`b_iyi `an `ad_iyi bni .h_atimi.n `ani alnnab_iyi .sl`m na.hwahu q_ala 'ab_u `_is/a ha_d_a .had_i_tu.n .sa.h_i.hu.n w_al`amalu `alayhi `inda 'ahli al`ilmi
 
 ############################################################
 ## betaCodeManual
-.hadda_tan_a abnu 'abiy `umara .hadda_tan_a sufy_anu `an zakariyy_a `ani al^ssa`biyyi `an `adiyyi bni .h_atimi.n `ani alnnabiyyi .sl`m na.hwahu q_ala 'abuw `iysa/a ha_d_a .hadiy_tu.n .sa.hiy.hu.n w_al`amalu `alayhi `inda 'ahli al`ilmi
+.hadda_tan_a abnu 'ab_i `umara .hadda_tan_a sufy_anu `an zakar_iy_a `ani al^ssa`b_iyi `an `ad_iyi bni .h_atimi.n `ani alnnab_iyi .sl`m na.hwahu q_ala 'ab_u `_is/a ha_d_a .had_i_tu.n .sa.h_i.hu.n w_al`amalu `alayhi `inda 'ahli al`ilmi
 
 ############################################################
 ## betaCodeManual>Translit
-ḥaddaṯanā abnu ʾabiy ʿumara ḥaddaṯanā sufyānu ʿan zakariyyā ʿani alšsaʿbiyyi ʿan ʿadiyyi bni ḥātimiȵ ʿani alnnabiyyi ṣlʿm naḥwahu ḳāla ʾabuw ʿiysaá haḏā ḥadiyṯuȵ ṣaḥiyḥuȵ wālʿamalu ʿalayhi ʿinda ʾahli alʿilmi
+ḥaddaṯanā abnu ʾabī ʿumara ḥaddaṯanā sufyānu ʿan zakarīyā ʿani alšsaʿbīyi ʿan ʿadīyi bni ḥātimiȵ ʿani alnnabīyi ṣlʿm naḥwahu ḳāla ʾabū ʿīsá haḏā ḥadīṯuȵ ṣaḥīḥuȵ wālʿamalu ʿalayhi ʿinda ʾahli alʿilmi
 
 ############################################################
 ## betaCodeManual>Arabic
-حَدَّثَنَا أَبْنُ أَبِيْ عُمَرَ حَدَّثَنَا سُفْيَانُ عَنْ زَكَرِيّا عَنِ أَلْشْسَعْبِيِّ عَنْ عَدِيِّ بْنِ حَاتِمٍ عَنِ أَلْنَّبِيِّ صْلْعْمْ نَحْوَهُ قَالَ أَبُوْ عِيْسَٰى هَذَا حَدِيْثٌ صَحِيْحٌ وَالْعَمَلُ عَلَيْهِ عِنْدَ أَهْلِ أَلْعِلْمِ
+حَدَّثَنَا أَبْنُ أَبِي عُمَرَ حَدَّثَنَا سُفْيَانُ عَنْ زَكَرِييَا عَنِ أَلْشْسَعْبِييِ عَنْ عَدِييِ بْنِ حَاتِمٍ عَنِ أَلْنَّبِييِ صْلْعْمْ نَحْوَهُ قَالَ أَبُو عِيسٰى هَذَا حَدِيثٌ صَحِيحٌ وَالْعَمَلُ عَلَيْهِ عِنْدَ أَهْلِ أَلْعِلْمِ
 
 ############################################################
 ## TranslationBetaCode

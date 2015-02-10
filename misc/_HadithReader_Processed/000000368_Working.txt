@@ -9,19 +9,19 @@
 
 ############################################################
 ## betaCodeAuto
-.hadda_tan_a .haf.su bnu `umara .hadda_tan_a ^su`ba:tu `an 'abiy 'iis.h_aqa `an `_a.simi bni .damra:ta `an `aliyyi.n `alayhi alssal_amu 'anna alnnabiyya .sl`m k_ana yu.salliy qabla al`a.sri rak`atayni
+.hadda_tan_a .haf.su bnu `umara .hadda_tan_a ^su`ba:tu `an 'ab_i 'is.h_aqa `an `_a.simi bni .damra:ta `an `al_iyi.n `alayhi alssal_amu 'anna alnnab_iya .sl`m k_ana yu.sall_i qabla al`a.sri rak`atayni
 
 ############################################################
 ## betaCodeManual
-.hadda_tan_a .haf.su bnu `umara .hadda_tan_a ^su`ba:tu `an 'abiy 'iis.h_aqa `an `_a.simi bni .damra:ta `an `aliyyi.n `alayhi alssal_amu 'anna alnnabiyya .sl`m k_ana yu.salliy qabla al`a.sri rak`atayni
+.hadda_tan_a .haf.su bnu `umara .hadda_tan_a ^su`ba:tu `an 'ab_i 'is.h_aqa `an `_a.simi bni .damra:ta `an `al_iyi.n `alayhi alssal_amu 'anna alnnab_iya .sl`m k_ana yu.sall_i qabla al`a.sri rak`atayni
 
 ############################################################
 ## betaCodeManual>Translit
-ḥaddaṯanā ḥafṣu bnu ʿumara ḥaddaṯanā šuʿbaŧu ʿan ʾabiy ʾiisḥāḳa ʿan ʿāṣimi bni ḍamraŧa ʿan ʿaliyyiȵ ʿalayhi alssalāmu ʾanna alnnabiyya ṣlʿm kāna yuṣalliy ḳabla alʿaṣri rakʿatayni
+ḥaddaṯanā ḥafṣu bnu ʿumara ḥaddaṯanā šuʿbaŧu ʿan ʾabī ʾisḥāḳa ʿan ʿāṣimi bni ḍamraŧa ʿan ʿalīyiȵ ʿalayhi alssalāmu ʾanna alnnabīya ṣlʿm kāna yuṣallī ḳabla alʿaṣri rakʿatayni
 
 ############################################################
 ## betaCodeManual>Arabic
-حَدَّثَنَا حَفْصُ بْنُ عُمَرَ حَدَّثَنَا شُعْبَةُ عَنْ أَبِيْ إِِسْحَاقَ عَنْ عَاصِمِ بْنِ ضَمْرَةَ عَنْ عَلِيٍّ عَلَيْهِ أَلْسَّلَامُ أَنَّ أَلْنَّبِيَّ صْلْعْمْ كَانَ يُصَلِّيْ قَبْلَ أَلْعَصْرِ رَكْعَتَيْنِ
+حَدَّثَنَا حَفْصُ بْنُ عُمَرَ حَدَّثَنَا شُعْبَةُ عَنْ أَبِي إِسْحَاقَ عَنْ عَاصِمِ بْنِ ضَمْرَةَ عَنْ عَلِييٍ عَلَيْهِ أَلْسَّلَامُ أَنَّ أَلْنَّبِييَ صْلْعْمْ كَانَ يُصَلّي قَبْلَ أَلْعَصْرِ رَكْعَتَيْنِ
 
 ############################################################
 ## TranslationBetaCode

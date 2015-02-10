@@ -9,15 +9,15 @@
 
 ############################################################
 ## betaCodeAuto
-.hadda_tan_a mu.hammadu bnu ba^ss_ari.n .hadda_tan_a mu.hammadu bnu ^ga`fari.n .hadda_tan_a ^su`ba:tu `an sa`di bni 'iibr_ahiyma na.hwahu q_ala 'abuw `iysa/a ha_d_a .hadiy_tu.n .hasanu.n .sa.hiy.hu.n
+.hadda_tan_a mu.hammadu bnu ba^ss_ari.n .hadda_tan_a mu.hammadu bnu ^ga`fari.n .hadda_tan_a ^su`ba:tu `an sa`di bni 'ibr_ah_ima na.hwahu q_ala 'ab_u `_is/a ha_d_a .had_i_tu.n .hasanu.n .sa.h_i.hu.n
 
 ############################################################
 ## betaCodeManual
-.hadda_ta-n_a Mu.hammadu bnu Ba^s^s_ari.n , .hadda_ta-n_a Mu.hammadu bnu ^Ga`fari.n , .hadda_ta-n_a ^Su`ba:tu , `an Sa`di bni 'Ibr_ah_ima na.hwa-hu ( ^S ) Q_ala 'Ab_u `_Is/a : h~a_d_a .had_i_tu.n .hasanu.n .sa.h_i.hu.n
+.hadda_ta-n_a Mu.hammad?u bn?u Ba^s^s_ar?i.n , .hadda_ta-n_a Mu.hammad?u bn?u ^Ga`far?i.n , .hadda_ta-n_a ^Su`ba:t?u , `an Sa`d?i bn?i Ibr_ah_im?a na.hwa-hu ( ^S ) q_ala Ab_u `_Is/a : h~a_d_a .had_i_t?u.n .hasan?u.n .sa.h_i.h?u.n
 
 ############################################################
 ## betaCodeManual>Translit
-ḥaddaṯa-nā Muḥammadu bnu Baššāriȵ , ḥaddaṯa-nā Muḥammadu bnu Ǧaʿfariȵ , ḥaddaṯa-nā Šuʿbaŧu , ʿan Saʿdi bni ʾIbrāhīma naḥwa-hu ( Š ) Ḳāla ʾAbū ʿĪsá : hãḏā ḥadīṯuȵ ḥasanuȵ ṣaḥīḥuȵ
+ḥaddaṯa-nā Muḥammadủ bnủ Baššārỉȵ , ḥaddaṯa-nā Muḥammadủ bnủ Ǧaʿfarỉȵ , ḥaddaṯa-nā Šuʿbaŧủ , ʿan Saʿdỉ bnỉ Ibrāhīmả naḥwa-hu ( Š ) ḳāla Abū ʿĪsá : hãḏā ḥadīṯủȵ ḥasanủȵ ṣaḥīḥủȵ
 
 ############################################################
 ## betaCodeManual>Arabic
@@ -25,9 +25,9 @@
 
 ############################################################
 ## TranslationBetaCode
-Mu.hammad b. Ba^s^s_ar narrated to us, Mu.hammad b. ^Ga`far narrated to us, ^Su`ba narrated to us, from Sa`d b. Ibr_ah_im something similar to that. ( ^S ) Ab_u `_Is/a said : This is a good sound .had_i_t.
+Mu.hammad b. Ba^s^s_ar narrated to us, Mu.hammad b. ^Ga`far narrated to us, ^Su`ba:t narrated to us, from Sa`d b. Ibr_ah_im something similar to that. ( ^S ) Ab_u `_Is/a said : This is a good sound .had_i_t.
 
 ############################################################
 ## TranslationTranslit
-Muḥammad b. Baššār narrated to us, Muḥammad b. Ǧaʿfar narrated to us, Šuʿba narrated to us, from Saʿd b. Ibrāhīm something similar to that. ( Š ) Abū ʿĪsá said : This is a good sound ḥadīṯ.
+Muḥammad b. Baššār narrated to us, Muḥammad b. Ǧaʿfar narrated to us, Šuʿbaŧ narrated to us, from Saʿd b. Ibrāhīm something similar to that. ( Š ) Abū ʿĪsá said : This is a good sound ḥadīṯ.
 

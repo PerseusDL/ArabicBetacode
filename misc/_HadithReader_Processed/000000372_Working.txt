@@ -9,19 +9,19 @@
 
 ############################################################
 ## betaCodeAuto
-q_ala wa.hadda_tan_a mu.hammadu bnu ba^ss_ari.n .hadda_tan_a `abdu alrra.hmani bnu mahdiyyi.n `an ^su`ba:ta na.hwahu waqad ruwiya `an .hu_dayfa:ta ha_d_a al.hadiy_tu min .gayri ha_d_a alwa^ghi 'annahu .salla/a bi_allayli ma`a alnnabiyyi .sl`m fa_dakara al.hadiy_ta
+q_ala wa.hadda_tan_a mu.hammadu bnu ba^ss_ari.n .hadda_tan_a `abdu alrra.hmani bnu mahd_iyi.n `an ^su`ba:ta na.hwahu waqad r_u_ia `an .hu_dayfa:ta ha_d_a al.had_i_tu min .gayri ha_d_a alwa^ghi 'annahu .sall/a bi_allayli ma`a alnnab_iyi .sl`m fa_dakara al.had_i_ta
 
 ############################################################
 ## betaCodeManual
-q_ala wa.hadda_tan_a mu.hammadu bnu ba^ss_ari.n .hadda_tan_a `abdu alrra.hmani bnu mahdiyyi.n `an ^su`ba:ta na.hwahu waqad ruwiya `an .hu_dayfa:ta ha_d_a al.hadiy_tu min .gayri ha_d_a alwa^ghi 'annahu .salla/a bi_allayli ma`a alnnabiyyi .sl`m fa_dakara al.hadiy_ta
+q_ala wa.hadda_tan_a mu.hammadu bnu ba^ss_ari.n .hadda_tan_a `abdu alrra.hmani bnu mahd_iyi.n `an ^su`ba:ta na.hwahu waqad r_u_ia `an .hu_dayfa:ta ha_d_a al.had_i_tu min .gayri ha_d_a alwa^ghi 'annahu .sall/a bi_allayli ma`a alnnab_iyi .sl`m fa_dakara al.had_i_ta
 
 ############################################################
 ## betaCodeManual>Translit
-ḳāla waḥaddaṯanā muḥammadu bnu bašsāriȵ ḥaddaṯanā ʿabdu alrraḥmani bnu mahdiyyiȵ ʿan šuʿbaŧa naḥwahu waḳad ruwiya ʿan ḥuḏayfaŧa haḏā alḥadiyṯu min ġayri haḏā alwaǧhi ʾannahu ṣallaá biāllayli maʿa alnnabiyyi ṣlʿm faḏakara alḥadiyṯa
+ḳāla waḥaddaṯanā muḥammadu bnu bašsāriȵ ḥaddaṯanā ʿabdu alrraḥmani bnu mahdīyiȵ ʿan šuʿbaŧa naḥwahu waḳad rūīa ʿan ḥuḏayfaŧa haḏā alḥadīṯu min ġayri haḏā alwaǧhi ʾannahu ṣallá biāllayli maʿa alnnabīyi ṣlʿm faḏakara alḥadīṯa
 
 ############################################################
 ## betaCodeManual>Arabic
-قَالَ وَحَدَّثَنَا مُحَمَّدُ بْنُ بَشْسَارٍ حَدَّثَنَا عَبْدُ أَلْرَّحْمَنِ بْنُ مَهْدِيٍّ عَنْ شُعْبَةَ نَحْوَهُ وَقَدْ رُوِيَ عَنْ حُذَيْفَةَ هَذَا أَلْحَدِيْثُ مِنْ غَيْرِ هَذَا أَلْوَجْهِ أَنَّهُ صَلَّٰى بِالَّيْلِ مَعَ أَلْنَّبِيِّ صْلْعْمْ فَذَكَرَ أَلْحَدِيْثَ
+قَالَ وَحَدَّثَنَا مُحَمَّدُ بْنُ بَشْسَارٍ حَدَّثَنَا عَبْدُ أَلْرَّحْمَنِ بْنُ مَهْدِييٍ عَنْ شُعْبَةَ نَحْوَهُ وَقَدْ رُويَ عَنْ حُذَيْفَةَ هَذَا أَلْحَدِيثُ مِنْ غَيْرِ هَذَا أَلْوَجْهِ أَنَّهُ صَلّٰى بِالَّيْلِ مَعَ أَلْنَّبِييِ صْلْعْمْ فَذَكَرَ أَلْحَدِيثَ
 
 ############################################################
 ## TranslationBetaCode

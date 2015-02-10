@@ -9,19 +9,19 @@
 
 ############################################################
 ## betaCodeAuto
-'a_hbaran_a 'a.hmadu bnu .haf.si bni `abdi allahi q_ala .hadda_taniy 'abiy q_ala .hadda_taniy 'iibr_ahiymu bnu .tahm_ana `an sa`iydi bni 'abiy `aruwba:ta `an qat_ada:ta `an 'anasi bni m_aliki.n q_ala lam yakun ^sa/a'u.n 'a.habba 'iila/a rasuwli allahi .sl`m ba`da alnnis_a'i mina al_hayli
+'a_hbaran_a 'a.hmadu bnu .haf.si bni `abdi allahi q_ala .hadda_tan_i 'ab_i q_ala .hadda_tan_i 'ibr_ah_imu bnu .tahm_ana `an sa`_idi bni 'ab_i `ar_uba:ta `an qat_ada:ta `an 'anasi bni m_aliki.n q_ala lam yakun ^s/a'u.n 'a.habba 'il/a ras_uli allahi .sl`m ba`da alnnis_a'i mina al_hayli
 
 ############################################################
 ## betaCodeManual
-'a_hbaran_a 'a.hmadu bnu .haf.si bni `abdi allahi q_ala .hadda_taniy 'abiy q_ala .hadda_taniy 'iibr_ahiymu bnu .tahm_ana `an sa`iydi bni 'abiy `aruwba:ta `an qat_ada:ta `an 'anasi bni m_aliki.n q_ala lam yakun ^sa/a'u.n 'a.habba 'iila/a rasuwli allahi .sl`m ba`da alnnis_a'i mina al_hayli
+'a_hbaran_a 'a.hmadu bnu .haf.si bni `abdi allahi q_ala .hadda_tan_i 'ab_i q_ala .hadda_tan_i 'ibr_ah_imu bnu .tahm_ana `an sa`_idi bni 'ab_i `ar_uba:ta `an qat_ada:ta `an 'anasi bni m_aliki.n q_ala lam yakun ^s/a'u.n 'a.habba 'il/a ras_uli allahi .sl`m ba`da alnnis_a'i mina al_hayli
 
 ############################################################
 ## betaCodeManual>Translit
-ʾaḫbaranā ʾaḥmadu bnu ḥafṣi bni ʿabdi allahi ḳāla ḥaddaṯaniy ʾabiy ḳāla ḥaddaṯaniy ʾiibrāhiymu bnu ṭahmāna ʿan saʿiydi bni ʾabiy ʿaruwbaŧa ʿan ḳatādaŧa ʿan ʾanasi bni mālikiȵ ḳāla lam yakun šaáʾuȵ ʾaḥabba ʾiilaá rasuwli allahi ṣlʿm baʿda alnnisāʾi mina alḫayli
+ʾaḫbaranā ʾaḥmadu bnu ḥafṣi bni ʿabdi allahi ḳāla ḥaddaṯanī ʾabī ḳāla ḥaddaṯanī ʾibrāhīmu bnu ṭahmāna ʿan saʿīdi bni ʾabī ʿarūbaŧa ʿan ḳatādaŧa ʿan ʾanasi bni mālikiȵ ḳāla lam yakun šáʾuȵ ʾaḥabba ʾilá rasūli allahi ṣlʿm baʿda alnnisāʾi mina alḫayli
 
 ############################################################
 ## betaCodeManual>Arabic
-أَخْبَرَنَا أَحْمَدُ بْنُ حَفْصِ بْنِ عَبْدِ أَلَّهِ قَالَ حَدَّثَنِيْ أَبِيْ قَالَ حَدَّثَنِيْ إِِبْرَاهِيْمُ بْنُ طَهْمَانَ عَنْ سَعِيْدِ بْنِ أَبِيْ عَرُوْبَةَ عَنْ قَتَادَةَ عَنْ أَنَسِ بْنِ مَالِكٍ قَالَ لَمْ يَكُنْ شَٰىءٌ أَحَبَّ إِِلَٰى رَسُوْلِ أَلَّهِ صْلْعْمْ بَعْدَ أَلْنِّساءِ مِنَ أَلْخَيْلِ
+أَخْبَرَنَا أَحْمَدُ بْنُ حَفْصِ بْنِ عَبْدِ أَلَّهِ قَالَ حَدَّثَنِي أَبِي قَالَ حَدَّثَنِي إِبْرَاهِيمُ بْنُ طَهْمَانَ عَنْ سَعِيدِ بْنِ أَبِي عَرُوبَةَ عَنْ قَتَادَةَ عَنْ أَنَسِ بْنِ مَالِكٍ قَالَ لَمْ يَكُنْ شٰىءٌ أَحَبَّ إِلٰى رَسُولِ أَلَّهِ صْلْعْمْ بَعْدَ أَلْنِّساءِ مِنَ أَلْخَيْلِ
 
 ############################################################
 ## TranslationBetaCode

@@ -9,19 +9,19 @@
 
 ############################################################
 ## betaCodeAuto
-'a_hbaran_a mu.hammadu bnu ba^ss_ari.n q_ala .hadda_tan_a `abdu alrra.hmani q_ala .hadda_tan_a mu`_awiya:tu `ani al`al_a'i bni al.h_ari_ti `an mak.huwli.n `an `uqba:ta 'anna rasuwla allahi .sl`m qara'a bihim_a fiy .sal_a:ti al.ssub.hi
+'a_hbaran_a mu.hammadu bnu ba^ss_ari.n q_ala .hadda_tan_a `abdu alrra.hmani q_ala .hadda_tan_a mu`_aw_ia:tu `ani al`al_a'i bni al.h_ari_ti `an mak.h_uli.n `an `uqba:ta 'anna ras_ula allahi .sl`m qara'a bihim_a f_i .sal_a:ti al.ssub.hi
 
 ############################################################
 ## betaCodeManual
-'a_hbaran_a mu.hammadu bnu ba^ss_ari.n q_ala .hadda_tan_a `abdu alrra.hmani q_ala .hadda_tan_a mu`_awiya:tu `ani al`al_a'i bni al.h_ari_ti `an mak.huwli.n `an `uqba:ta 'anna rasuwla allahi .sl`m qara'a bihim_a fiy .sal_a:ti al.ssub.hi
+'a_hbaran_a mu.hammadu bnu ba^ss_ari.n q_ala .hadda_tan_a `abdu alrra.hmani q_ala .hadda_tan_a mu`_aw_ia:tu `ani al`al_a'i bni al.h_ari_ti `an mak.h_uli.n `an `uqba:ta 'anna ras_ula allahi .sl`m qara'a bihim_a f_i .sal_a:ti al.ssub.hi
 
 ############################################################
 ## betaCodeManual>Translit
-ʾaḫbaranā muḥammadu bnu bašsāriȵ ḳāla ḥaddaṯanā ʿabdu alrraḥmani ḳāla ḥaddaṯanā muʿāwiyaŧu ʿani alʿalāʾi bni alḥāriṯi ʿan makḥuwliȵ ʿan ʿuḳbaŧa ʾanna rasuwla allahi ṣlʿm ḳaraʾa bihimā fiy ṣalāŧi alṣsubḥi
+ʾaḫbaranā muḥammadu bnu bašsāriȵ ḳāla ḥaddaṯanā ʿabdu alrraḥmani ḳāla ḥaddaṯanā muʿāwīaŧu ʿani alʿalāʾi bni alḥāriṯi ʿan makḥūliȵ ʿan ʿuḳbaŧa ʾanna rasūla allahi ṣlʿm ḳaraʾa bihimā fī ṣalāŧi alṣsubḥi
 
 ############################################################
 ## betaCodeManual>Arabic
-أَخْبَرَنَا مُحَمَّدُ بْنُ بَشْسَارٍ قَالَ حَدَّثَنَا عَبْدُ أَلْرَّحْمَنِ قَالَ حَدَّثَنَا مُعَاوِيَةُ عَنِ أَلْعَلاءِ بْنِ أَلْحَارِثِ عَنْ مَكْحُوْلٍ عَنْ عُقْبَةَ أَنَّ رَسُوْلَ أَلَّهِ صْلْعْمْ قَرَأَ بِهِمَا فِيْ صَلَاةِ أَلْصْسُبْحِ
+أَخْبَرَنَا مُحَمَّدُ بْنُ بَشْسَارٍ قَالَ حَدَّثَنَا عَبْدُ أَلْرَّحْمَنِ قَالَ حَدَّثَنَا مُعَاوِيَةُ عَنِ أَلْعَلاءِ بْنِ أَلْحَارِثِ عَنْ مَكْحُولٍ عَنْ عُقْبَةَ أَنَّ رَسُولَ أَلَّهِ صْلْعْمْ قَرَأَ بِهِمَا فِي صَلَاةِ أَلْصْسُبْحِ
 
 ############################################################
 ## TranslationBetaCode

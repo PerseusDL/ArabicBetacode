@@ -9,15 +9,15 @@
 
 ############################################################
 ## betaCodeAuto
-'a_hbaran_a qutayba:tu q_ala .hadda_tan_a sufy_anu `an ya.hya/a bni sa`iydi.n `an 'abiy bakri bni mu.hammadi.n `an `umara bni `abdi al`aziyzi `an 'abiy bakri bni `abdi alrra.hmani bni al.h_ari_ti bni hi^s_ami.n `an 'abiy hurayra:ta mi_tlahu
+'a_hbaran_a qutayba:tu q_ala .hadda_tan_a sufy_anu `an ya.hy/a bni sa`_idi.n `an 'ab_i bakri bni mu.hammadi.n `an `umara bni `abdi al`az_izi `an 'ab_i bakri bni `abdi alrra.hmani bni al.h_ari_ti bni hi^s_ami.n `an 'ab_i hurayra:ta mi_tlahu
 
 ############################################################
 ## betaCodeManual
-'a_hbara-n_a Qutayba:tu q_ala , .hadda_ta-n_a Sufy_anu , `an Ya.hy/a bni Sa`_idi.n , `an 'Ab_i Bakri bni Mu.hammadi.n , `an `Umara bni `Abdi al-`Az_izi , `an 'Ab_i Bakri bni `Abdi al-Ra.hm~ani bni al-.H_ari_ti bni Hi^s_ami.n , `an 'Ab_i Hurayra:ta mi_tla-hu
+'a_hbara-n_a Qutayba:t?u q_ala , .hadda_ta-n_a Sufy_an?u , `an Ya.hy/a bn?i Sa`_id?i.n , `an 'Ab_i Bakr?i bn?i Mu.hammad?i.n , `an `Umar?a bn?i `Abd?i al-`Az_iz?i , `an 'Ab_i Bakr?i bn?i `Abd?i al-Ra.hm~an?i bn?i al-.H_ari_t?i bn?i Hi^s_am?i.n , `an 'Ab_i Hurayra:t?a mi_tla-hu
 
 ############################################################
 ## betaCodeManual>Translit
-ʾaḫbara-nā Ḳutaybaŧu ḳāla , ḥaddaṯa-nā Sufyānu , ʿan Yaḥyá bni Saʿīdiȵ , ʿan ʾAbī Bakri bni Muḥammadiȵ , ʿan ʿUmara bni ʿAbdi al-ʿAzīzi , ʿan ʾAbī Bakri bni ʿAbdi al-Raḥmãni bni al-Ḥāriṯi bni Hišāmiȵ , ʿan ʾAbī Hurayraŧa miṯla-hu
+ʾaḫbara-nā Ḳutaybaŧủ ḳāla , ḥaddaṯa-nā Sufyānủ , ʿan Yaḥyá bnỉ Saʿīdỉȵ , ʿan ʾAbī Bakrỉ bnỉ Muḥammadỉȵ , ʿan ʿUmarả bnỉ ʿAbdỉ al-ʿAzīzỉ , ʿan ʾAbī Bakrỉ bnỉ ʿAbdỉ al-Raḥmãnỉ bnỉ al-Ḥāriṯỉ bnỉ Hišāmỉȵ , ʿan ʾAbī Hurayraŧả miṯla-hu
 
 ############################################################
 ## betaCodeManual>Arabic

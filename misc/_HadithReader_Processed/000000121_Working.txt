@@ -9,19 +9,19 @@
 
 ############################################################
 ## betaCodeAuto
-.hadda_tan_a 'abuw bakri bnu 'abiy ^sayba:ta .hadda_tan_a `abda:tu bnu sulaym_ana `an hi^s_ami bni `urwa:ta `an 'abiyhi `an `_a'ii^sa:ta q_alat k_ana alnnabiyyu  .sl`m  yu.salliy mina allayli _tal_a_ta `a^sra:ta rak`a:ta.n
+.hadda_tan_a 'ab_u bakri bnu 'ab_i ^sayba:ta .hadda_tan_a `abda:tu bnu sulaym_ana `an hi^s_ami bni `urwa:ta `an 'ab_ihi `an `_a'i^sa:ta q_alat k_ana alnnab_iyu  .sl`m  yu.sall_i mina allayli _tal_a_ta `a^sra:ta rak`a:ta.n
 
 ############################################################
 ## betaCodeManual
-.hadda_tan_a 'abuw bakri bnu 'abiy ^sayba:ta .hadda_tan_a `abda:tu bnu sulaym_ana `an hi^s_ami bni `urwa:ta `an 'abiyhi `an `_a'ii^sa:ta q_alat k_ana alnnabiyyu  .sl`m  yu.salliy mina allayli _tal_a_ta `a^sra:ta rak`a:ta.n
+.hadda_tan_a 'ab_u bakri bnu 'ab_i ^sayba:ta .hadda_tan_a `abda:tu bnu sulaym_ana `an hi^s_ami bni `urwa:ta `an 'ab_ihi `an `_a'i^sa:ta q_alat k_ana alnnab_iyu  .sl`m  yu.sall_i mina allayli _tal_a_ta `a^sra:ta rak`a:ta.n
 
 ############################################################
 ## betaCodeManual>Translit
-ḥaddaṯanā ʾabuw bakri bnu ʾabiy šaybaŧa ḥaddaṯanā ʿabdaŧu bnu sulaymāna ʿan hišāmi bni ʿurwaŧa ʿan ʾabiyhi ʿan ʿāʾiišaŧa ḳālat kāna alnnabiyyu  ṣlʿm  yuṣalliy mina allayli ṯalāṯa ʿašraŧa rakʿaŧaȵ
+ḥaddaṯanā ʾabū bakri bnu ʾabī šaybaŧa ḥaddaṯanā ʿabdaŧu bnu sulaymāna ʿan hišāmi bni ʿurwaŧa ʿan ʾabīhi ʿan ʿāʾišaŧa ḳālat kāna alnnabīyu  ṣlʿm  yuṣallī mina allayli ṯalāṯa ʿašraŧa rakʿaŧaȵ
 
 ############################################################
 ## betaCodeManual>Arabic
-حَدَّثَنَا أَبُوْ بَكْرِ بْنُ أَبِيْ شَيْبَةَ حَدَّثَنَا عَبْدَةُ بْنُ سُلَيْمَانَ عَنْ هِشَامِ بْنِ عُرْوَةَ عَنْ أَبِيْهِ عَنْ عائِِشَةَ قَالَتْ كَانَ أَلْنَّبِيُّ  صْلْعْمْ  يُصَلِّيْ مِنَ أَلَّيْلِ ثَلَاثَ عَشْرَةَ رَكْعَةً
+حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ حَدَّثَنَا عَبْدَةُ بْنُ سُلَيْمَانَ عَنْ هِشَامِ بْنِ عُرْوَةَ عَنْ أَبِيهِ عَنْ عائِشَةَ قَالَتْ كَانَ أَلْنَّبِييُ  صْلْعْمْ  يُصَلّي مِنَ أَلَّيْلِ ثَلَاثَ عَشْرَةَ رَكْعَةً
 
 ############################################################
 ## TranslationBetaCode

@@ -9,19 +9,19 @@
 
 ############################################################
 ## betaCodeAuto
-.hadda_tan_a m_aliku bnu 'iism_a`iyla 'a_hbaran_a abnu `uyayna:ta 'a_hbaran_a `amru.nw .hadda_tan_a ^g_abiru bnu zaydi.n q_ala 'anba'an_a abnu `abb_asi.n  r.d/a allh `nhm_a  tazawwa^ga alnnabiyyu .sl`m wahwa mu.hrimu.n
+.hadda_tan_a m_aliku bnu 'ism_a`_ila 'a_hbaran_a abnu `uyayna:ta 'a_hbaran_a `amru.nw .hadda_tan_a ^g_abiru bnu zaydi.n q_ala 'anba'an_a abnu `abb_asi.n  r.d/a allh `nhm_a  tazawwa^ga alnnab_iyu .sl`m wahwa mu.hrimu.n
 
 ############################################################
 ## betaCodeManual
-.hadda_tan_a m_aliku bnu 'iism_a`iyla 'a_hbaran_a abnu `uyayna:ta 'a_hbaran_a `amru.nw .hadda_tan_a ^g_abiru bnu zaydi.n q_ala 'anba'an_a abnu `abb_asi.n  r.d/a allh `nhm_a  tazawwa^ga alnnabiyyu .sl`m wahwa mu.hrimu.n
+.hadda_tan_a m_aliku bnu 'ism_a`_ila 'a_hbaran_a abnu `uyayna:ta 'a_hbaran_a `amru.nw .hadda_tan_a ^g_abiru bnu zaydi.n q_ala 'anba'an_a abnu `abb_asi.n  r.d/a allh `nhm_a  tazawwa^ga alnnab_iyu .sl`m wahwa mu.hrimu.n
 
 ############################################################
 ## betaCodeManual>Translit
-ḥaddaṯanā māliku bnu ʾiismāʿiyla ʾaḫbaranā abnu ʿuyaynaŧa ʾaḫbaranā ʿamruȵw ḥaddaṯanā ǧābiru bnu zaydiȵ ḳāla ʾanbaʾanā abnu ʿabbāsiȵ  rḍá allh ʿnhmā  tazawwaǧa alnnabiyyu ṣlʿm wahwa muḥrimuȵ
+ḥaddaṯanā māliku bnu ʾismāʿīla ʾaḫbaranā abnu ʿuyaynaŧa ʾaḫbaranā ʿamruȵw ḥaddaṯanā ǧābiru bnu zaydiȵ ḳāla ʾanbaʾanā abnu ʿabbāsiȵ  rḍá allh ʿnhmā  tazawwaǧa alnnabīyu ṣlʿm wahwa muḥrimuȵ
 
 ############################################################
 ## betaCodeManual>Arabic
-حَدَّثَنَا مَالِكُ بْنُ إِِسْمَاعِيْلَ أَخْبَرَنَا أَبْنُ عُيَيْنَةَ أَخْبَرَنَا عَمْرٌوْ حَدَّثَنَا جَابِرُ بْنُ زَيْدٍ قَالَ أَنْبَأَنَا أَبْنُ عَبّاسٍ  رْضٰى أَلّهْ عْنْهْمَا  تَزَوَّجَ أَلْنَّبِيُّ صْلْعْمْ وَهْوَ مُحْرِمٌ
+حَدَّثَنَا مَالِكُ بْنُ إِسْمَاعِيلَ أَخْبَرَنَا أَبْنُ عُيَيْنَةَ أَخْبَرَنَا عَمْرٌوْ حَدَّثَنَا جَابِرُ بْنُ زَيْدٍ قَالَ أَنْبَأَنَا أَبْنُ عَبّاسٍ  رْضٰى أَلّهْ عْنْهْمَا  تَزَوَّجَ أَلْنَّبِييُ صْلْعْمْ وَهْوَ مُحْرِمٌ
 
 ############################################################
 ## TranslationBetaCode

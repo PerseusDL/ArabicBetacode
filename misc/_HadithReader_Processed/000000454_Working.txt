@@ -9,19 +9,19 @@
 
 ############################################################
 ## betaCodeAuto
-.hadda_tan_a 'iism_a`iylu bnu `abdi allahi q_ala .hadda_taniy m_aliku.n `an n_afi`i.n `ani abni `umara `ani alnnabiyyi .sl`m q_ala 'iinnam_a alwal_a'u liman 'a`taqa
+.hadda_tan_a 'ism_a`_ilu bnu `abdi allahi q_ala .hadda_tan_i m_aliku.n `an n_afi`i.n `ani abni `umara `ani alnnab_iyi .sl`m q_ala 'innam_a alwal_a'u liman 'a`taqa
 
 ############################################################
 ## betaCodeManual
-.hadda_tan_a 'iism_a`iylu bnu `abdi allahi q_ala .hadda_taniy m_aliku.n `an n_afi`i.n `ani abni `umara `ani alnnabiyyi .sl`m q_ala 'iinnam_a alwal_a'u liman 'a`taqa
+.hadda_tan_a 'ism_a`_ilu bnu `abdi allahi q_ala .hadda_tan_i m_aliku.n `an n_afi`i.n `ani abni `umara `ani alnnab_iyi .sl`m q_ala 'innam_a alwal_a'u liman 'a`taqa
 
 ############################################################
 ## betaCodeManual>Translit
-ḥaddaṯanā ʾiismāʿiylu bnu ʿabdi allahi ḳāla ḥaddaṯaniy mālikuȵ ʿan nāfiʿiȵ ʿani abni ʿumara ʿani alnnabiyyi ṣlʿm ḳāla ʾiinnamā alwalāʾu liman ʾaʿtaḳa
+ḥaddaṯanā ʾismāʿīlu bnu ʿabdi allahi ḳāla ḥaddaṯanī mālikuȵ ʿan nāfiʿiȵ ʿani abni ʿumara ʿani alnnabīyi ṣlʿm ḳāla ʾinnamā alwalāʾu liman ʾaʿtaḳa
 
 ############################################################
 ## betaCodeManual>Arabic
-حَدَّثَنَا إِِسْمَاعِيْلُ بْنُ عَبْدِ أَلَّهِ قَالَ حَدَّثَنِيْ مَالِكٌ عَنْ نَافِعٍ عَنِ أَبْنِ عُمَرَ عَنِ أَلْنَّبِيِّ صْلْعْمْ قَالَ إِِنَّمَا أَلْوَلاءُ لِمَنْ أَعْتَقَ
+حَدَّثَنَا إِسْمَاعِيلُ بْنُ عَبْدِ أَلَّهِ قَالَ حَدَّثَنِي مَالِكٌ عَنْ نَافِعٍ عَنِ أَبْنِ عُمَرَ عَنِ أَلْنَّبِييِ صْلْعْمْ قَالَ إِنَّمَا أَلْوَلاءُ لِمَنْ أَعْتَقَ
 
 ############################################################
 ## TranslationBetaCode

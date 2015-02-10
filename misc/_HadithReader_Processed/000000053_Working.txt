@@ -9,19 +9,19 @@
 
 ############################################################
 ## betaCodeAuto
-.hadda_tan_a h_aruwnu bnu `abdi allahi .hadda_tan_a mu.hammadu bnu alfa.dli .hadda_tan_a .hamm_adu bnu salama:ta `an hi^s_ami bni `urwa:ta `an `urwa:ta `an `_a'ii^sa:ta mi_tlahu
+.hadda_tan_a h_ar_unu bnu `abdi allahi .hadda_tan_a mu.hammadu bnu alfa.dli .hadda_tan_a .hamm_adu bnu salama:ta `an hi^s_ami bni `urwa:ta `an `urwa:ta `an `_a'i^sa:ta mi_tlahu
 
 ############################################################
 ## betaCodeManual
-.hadda_ta-n_a H_ar_unu bnu `Abdi All~ahi , .hadda_ta-n_a Mu.hammadu bnu al-Fa.dli , .hadda_ta-n_a .Hamm_adu bnu Salama:ta , `an Hi^s_ami bni `Urwa:ta , `an `Urwa:ta , `an `_A'i^sa:ta mi_tla-hu
+.hadda_tan_a h_ar_unu bnu `abdi allahi .hadda_tan_a mu.hammadu bnu alfa.dli .hadda_tan_a .hamm_adu bnu salama:ta `an hi^s_ami bni `urwa:ta `an `urwa:ta `an `_a'i^sa:ta mi_tlahu
 
 ############################################################
 ## betaCodeManual>Translit
-ḥaddaṯa-nā Hārūnu bnu ʿAbdi Allãhi , ḥaddaṯa-nā Muḥammadu bnu al-Faḍli , ḥaddaṯa-nā Ḥammādu bnu Salamaŧa , ʿan Hišāmi bni ʿUrwaŧa , ʿan ʿUrwaŧa , ʿan ʿĀʾišaŧa miṯla-hu
+ḥaddaṯanā hārūnu bnu ʿabdi allahi ḥaddaṯanā muḥammadu bnu alfaḍli ḥaddaṯanā ḥammādu bnu salamaŧa ʿan hišāmi bni ʿurwaŧa ʿan ʿurwaŧa ʿan ʿāʾišaŧa miṯlahu
 
 ############################################################
 ## betaCodeManual>Arabic
-حَدَّثَنَا هَارُونُ بْنُ عَبْدِ ﭐلـلّٰـهِ ، حَدَّثَنَا مُحَمَّدُ بْنُ ﭐلْفَضْلِ ، حَدَّثَنَا حَمّادُ بْنُ سَلَمَةَ ، عَنْ هِشَامِ بْنِ عُرْوَةَ ، عَنْ عُرْوَةَ ، عَنْ عائِشَةَ مِثْلَهُ
+حَدَّثَنَا هَارُونُ بْنُ عَبْدِ أَلَّهِ حَدَّثَنَا مُحَمَّدُ بْنُ أَلْفَضْلِ حَدَّثَنَا حَمّادُ بْنُ سَلَمَةَ عَنْ هِشَامِ بْنِ عُرْوَةَ عَنْ عُرْوَةَ عَنْ عائِشَةَ مِثْلَهُ
 
 ############################################################
 ## TranslationBetaCode

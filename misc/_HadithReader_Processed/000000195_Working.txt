@@ -9,19 +9,19 @@
 
 ############################################################
 ## betaCodeAuto
-.hadda_tan_a zuhayru bnu .harbi.n wamu.hammadu bnu almu_tanna/a w_abnu ba^ss_ari.n q_aluw_a .hadda_tan_a `abdu alrra.hmani `an sufy_ana `an 'abiy 'iis.h_aqa `ani al'aswadi `an 'abiy muwsa/a q_ala 'ataytu rasuwla allahi .sl`m wa'an_a 'aura/a 'anna `abda allahi min 'ahli albayti 'aw m_a _dakara min na.hwi ha_d_a
+.hadda_tan_a zuhayru bnu .harbi.n wamu.hammadu bnu almu_tann/a w_abnu ba^ss_ari.n q_al_u_a .hadda_tan_a `abdu alrra.hmani `an sufy_ana `an 'ab_i 'is.h_aqa `ani al'aswadi `an 'ab_i m_us/a q_ala 'ataytu ras_ula allahi .sl`m wa'an_a 'aur/a 'anna `abda allahi min 'ahli albayti 'aw m_a _dakara min na.hwi ha_d_a
 
 ############################################################
 ## betaCodeManual
-.hadda_tan_a zuhayru bnu .harbi.n wamu.hammadu bnu almu_tanna/a w_abnu ba^ss_ari.n q_aluw_a .hadda_tan_a `abdu alrra.hmani `an sufy_ana `an 'abiy 'iis.h_aqa `ani al'aswadi `an 'abiy muwsa/a q_ala 'ataytu rasuwla allahi .sl`m wa'an_a 'aura/a 'anna `abda allahi min 'ahli albayti 'aw m_a _dakara min na.hwi ha_d_a
+.hadda_tan_a zuhayru bnu .harbi.n wamu.hammadu bnu almu_tann/a w_abnu ba^ss_ari.n q_al_u_a .hadda_tan_a `abdu alrra.hmani `an sufy_ana `an 'ab_i 'is.h_aqa `ani al'aswadi `an 'ab_i m_us/a q_ala 'ataytu ras_ula allahi .sl`m wa'an_a 'aur/a 'anna `abda allahi min 'ahli albayti 'aw m_a _dakara min na.hwi ha_d_a
 
 ############################################################
 ## betaCodeManual>Translit
-ḥaddaṯanā zuhayru bnu ḥarbiȵ wamuḥammadu bnu almuṯannaá wābnu bašsāriȵ ḳāluwā ḥaddaṯanā ʿabdu alrraḥmani ʿan sufyāna ʿan ʾabiy ʾiisḥāḳa ʿani alʾaswadi ʿan ʾabiy muwsaá ḳāla ʾataytu rasuwla allahi ṣlʿm waʾanā ʾauraá ʾanna ʿabda allahi min ʾahli albayti ʾaw mā ḏakara min naḥwi haḏā
+ḥaddaṯanā zuhayru bnu ḥarbiȵ wamuḥammadu bnu almuṯanná wābnu bašsāriȵ ḳālūā ḥaddaṯanā ʿabdu alrraḥmani ʿan sufyāna ʿan ʾabī ʾisḥāḳa ʿani alʾaswadi ʿan ʾabī mūsá ḳāla ʾataytu rasūla allahi ṣlʿm waʾanā ʾaurá ʾanna ʿabda allahi min ʾahli albayti ʾaw mā ḏakara min naḥwi haḏā
 
 ############################################################
 ## betaCodeManual>Arabic
-حَدَّثَنَا زُهَيْرُ بْنُ حَرْبٍ وَمُحَمَّدُ بْنُ أَلْمُثَنَّٰى وَابْنُ بَشْسَارٍ قَالُوَا حَدَّثَنَا عَبْدُ أَلْرَّحْمَنِ عَنْ سُفْيَانَ عَنْ أَبِيْ إِِسْحَاقَ عَنِ أَلْأَسْوَدِ عَنْ أَبِيْ مُوْسَٰى قَالَ أَتَيْتُ رَسُوْلَ أَلَّهِ صْلْعْمْ وَأَنَا أَأُرَٰى أَنَّ عَبْدَ أَلَّهِ مِنْ أَهْلِ أَلْبَيْتِ أَوْ مَا ذَكَرَ مِنْ نَحْوِ هَذَا
+حَدَّثَنَا زُهَيْرُ بْنُ حَرْبٍ وَمُحَمَّدُ بْنُ أَلْمُثَنّٰى وَابْنُ بَشْسَارٍ قَالُوا حَدَّثَنَا عَبْدُ أَلْرَّحْمَنِ عَنْ سُفْيَانَ عَنْ أَبِي إِسْحَاقَ عَنِ أَلْأَسْوَدِ عَنْ أَبِي مُوسٰى قَالَ أَتَيْتُ رَسُولَ أَلَّهِ صْلْعْمْ وَأَنَا أَأُرٰى أَنَّ عَبْدَ أَلَّهِ مِنْ أَهْلِ أَلْبَيْتِ أَوْ مَا ذَكَرَ مِنْ نَحْوِ هَذَا
 
 ############################################################
 ## TranslationBetaCode

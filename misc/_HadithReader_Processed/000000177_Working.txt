@@ -9,19 +9,19 @@
 
 ############################################################
 ## betaCodeAuto
-.hadda_tan_a 'abuw bakri bnu 'abiy ^sayba:ta .hadda_tan_a 'abuw 'aus_ama:ta `an z_a'iida:ta .h wa.hadda_taniy bi^sru bnu _h_alidi.n .hadda_tan_a mu.hammadu.n ya`niy abna ^ga`fari.n .hadda_tan_a ^su`ba:tu kil_ahum_a `ani al'a`ma^si biha_d_a al'iisn_adi
+.hadda_tan_a 'ab_u bakri bnu 'ab_i ^sayba:ta .hadda_tan_a 'ab_u 'aus_ama:ta `an z_a'ida:ta .h wa.hadda_tan_i bi^sru bnu _h_alidi.n .hadda_tan_a mu.hammadu.n ya`n_i abna ^ga`fari.n .hadda_tan_a ^su`ba:tu kil_ahum_a `ani al'a`ma^si biha_d_a al'isn_adi
 
 ############################################################
 ## betaCodeManual
-.hadda_tan_a 'abuw bakri bnu 'abiy ^sayba:ta .hadda_tan_a 'abuw 'aus_ama:ta `an z_a'iida:ta .h wa.hadda_taniy bi^sru bnu _h_alidi.n .hadda_tan_a mu.hammadu.n ya`niy abna ^ga`fari.n .hadda_tan_a ^su`ba:tu kil_ahum_a `ani al'a`ma^si biha_d_a al'iisn_adi
+.hadda_tan_a 'ab_u bakri bnu 'ab_i ^sayba:ta .hadda_tan_a 'ab_u 'aus_ama:ta `an z_a'ida:ta .h wa.hadda_tan_i bi^sru bnu _h_alidi.n .hadda_tan_a mu.hammadu.n ya`n_i abna ^ga`fari.n .hadda_tan_a ^su`ba:tu kil_ahum_a `ani al'a`ma^si biha_d_a al'isn_adi
 
 ############################################################
 ## betaCodeManual>Translit
-ḥaddaṯanā ʾabuw bakri bnu ʾabiy šaybaŧa ḥaddaṯanā ʾabuw ʾausāmaŧa ʿan zāʾiidaŧa ḥ waḥaddaṯaniy bišru bnu ḫālidiȵ ḥaddaṯanā muḥammaduȵ yaʿniy abna ǧaʿfariȵ ḥaddaṯanā šuʿbaŧu kilāhumā ʿani alʾaʿmaši bihaḏā alʾiisnādi
+ḥaddaṯanā ʾabū bakri bnu ʾabī šaybaŧa ḥaddaṯanā ʾabū ʾausāmaŧa ʿan zāʾidaŧa ḥ waḥaddaṯanī bišru bnu ḫālidiȵ ḥaddaṯanā muḥammaduȵ yaʿnī abna ǧaʿfariȵ ḥaddaṯanā šuʿbaŧu kilāhumā ʿani alʾaʿmaši bihaḏā alʾisnādi
 
 ############################################################
 ## betaCodeManual>Arabic
-حَدَّثَنَا أَبُوْ بَكْرِ بْنُ أَبِيْ شَيْبَةَ حَدَّثَنَا أَبُوْ أَأُسَامَةَ عَنْ زائِِدَةَ حْ وَحَدَّثَنِيْ بِشْرُ بْنُ خَالِدٍ حَدَّثَنَا مُحَمَّدٌ يَعْنِيْ أَبْنَ جَعْفَرٍ حَدَّثَنَا شُعْبَةُ كِلَاهُمَا عَنِ أَلْأَعْمَشِ بِهَذَا أَلْئِِسْنَادِ
+حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ حَدَّثَنَا أَبُو أَأُسَامَةَ عَنْ زائِدَةَ حْ وَحَدَّثَنِي بِشْرُ بْنُ خَالِدٍ حَدَّثَنَا مُحَمَّدٌ يَعْنِي أَبْنَ جَعْفَرٍ حَدَّثَنَا شُعْبَةُ كِلَاهُمَا عَنِ أَلْأَعْمَشِ بِهَذَا أَلْئِسْنَادِ
 
 ############################################################
 ## TranslationBetaCode

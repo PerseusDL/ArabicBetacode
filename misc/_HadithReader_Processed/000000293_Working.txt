@@ -9,19 +9,19 @@
 
 ############################################################
 ## betaCodeAuto
-.hadda_tan_a al.hasanu bnu `aliyyi.n .hadda_tan_a `abdu alrrazz_aqi `an ma`mari.n `ani alzzuhriyyi `an s_alimi.n `ani abni `umara q_ala k_ana rasuwlu allahi .sl`m yu.salliy ba`da al^gumu`a:ti rak`atayni fiy baytihi q_ala 'abuw d_awuda waka_dalika raw_ahu `abdu allahi bnu diyn_ari.n `ani abni `umara
+.hadda_tan_a al.hasanu bnu `al_iyi.n .hadda_tan_a `abdu alrrazz_aqi `an ma`mari.n `ani alzzuhr_iyi `an s_alimi.n `ani abni `umara q_ala k_ana ras_ulu allahi .sl`m yu.sall_i ba`da al^gumu`a:ti rak`atayni f_i baytihi q_ala 'ab_u d_awuda waka_dalika raw_ahu `abdu allahi bnu d_in_ari.n `ani abni `umara
 
 ############################################################
 ## betaCodeManual
-.hadda_tan_a al.hasanu bnu `aliyyi.n .hadda_tan_a `abdu alrrazz_aqi `an ma`mari.n `ani alzzuhriyyi `an s_alimi.n `ani abni `umara q_ala k_ana rasuwlu allahi .sl`m yu.salliy ba`da al^gumu`a:ti rak`atayni fiy baytihi q_ala 'abuw d_awuda waka_dalika raw_ahu `abdu allahi bnu diyn_ari.n `ani abni `umara
+.hadda_tan_a al.hasanu bnu `al_iyi.n .hadda_tan_a `abdu alrrazz_aqi `an ma`mari.n `ani alzzuhr_iyi `an s_alimi.n `ani abni `umara q_ala k_ana ras_ulu allahi .sl`m yu.sall_i ba`da al^gumu`a:ti rak`atayni f_i baytihi q_ala 'ab_u d_awuda waka_dalika raw_ahu `abdu allahi bnu d_in_ari.n `ani abni `umara
 
 ############################################################
 ## betaCodeManual>Translit
-ḥaddaṯanā alḥasanu bnu ʿaliyyiȵ ḥaddaṯanā ʿabdu alrrazzāḳi ʿan maʿmariȵ ʿani alzzuhriyyi ʿan sālimiȵ ʿani abni ʿumara ḳāla kāna rasuwlu allahi ṣlʿm yuṣalliy baʿda alǧumuʿaŧi rakʿatayni fiy baytihi ḳāla ʾabuw dāwuda wakaḏalika rawāhu ʿabdu allahi bnu diynāriȵ ʿani abni ʿumara
+ḥaddaṯanā alḥasanu bnu ʿalīyiȵ ḥaddaṯanā ʿabdu alrrazzāḳi ʿan maʿmariȵ ʿani alzzuhrīyi ʿan sālimiȵ ʿani abni ʿumara ḳāla kāna rasūlu allahi ṣlʿm yuṣallī baʿda alǧumuʿaŧi rakʿatayni fī baytihi ḳāla ʾabū dāwuda wakaḏalika rawāhu ʿabdu allahi bnu dīnāriȵ ʿani abni ʿumara
 
 ############################################################
 ## betaCodeManual>Arabic
-حَدَّثَنَا أَلْحَسَنُ بْنُ عَلِيٍّ حَدَّثَنَا عَبْدُ أَلْرَّزّاقِ عَنْ مَعْمَرٍ عَنِ أَلْزُّهْرِيِّ عَنْ سَالِمٍ عَنِ أَبْنِ عُمَرَ قَالَ كَانَ رَسُوْلُ أَلَّهِ صْلْعْمْ يُصَلِّيْ بَعْدَ أَلْجُمُعَةِ رَكْعَتَيْنِ فِيْ بَيْتِهِ قَالَ أَبُوْ دَاوُدَ وَكَذَلِكَ رَوَاهُ عَبْدُ أَلَّهِ بْنُ دِيْنَارٍ عَنِ أَبْنِ عُمَرَ
+حَدَّثَنَا أَلْحَسَنُ بْنُ عَلِييٍ حَدَّثَنَا عَبْدُ أَلْرَّزّاقِ عَنْ مَعْمَرٍ عَنِ أَلْزُّهْرِييِ عَنْ سَالِمٍ عَنِ أَبْنِ عُمَرَ قَالَ كَانَ رَسُولُ أَلَّهِ صْلْعْمْ يُصَلّي بَعْدَ أَلْجُمُعَةِ رَكْعَتَيْنِ فِي بَيْتِهِ قَالَ أَبُو دَاوُدَ وَكَذَلِكَ رَوَاهُ عَبْدُ أَلَّهِ بْنُ دِينَارٍ عَنِ أَبْنِ عُمَرَ
 
 ############################################################
 ## TranslationBetaCode

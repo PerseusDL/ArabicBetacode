@@ -9,19 +9,19 @@
 
 ############################################################
 ## betaCodeAuto
-'a_hbaran_a `amruw bnu `aliyyi.n q_ala .hadda_tan_a ya.hya/a q_ala .hadda_tan_a sufy_anu q_ala .hadda_taniy man.suwru.n `an 'iibr_ahiyma `ani al'aswadi `an `_a'ii^sa:ta r.d/a allh `nh_a q_alat kuntu 'a.gtasilu 'an_a warasuwlu allahi .sl`m min 'iin_a'i.n w_a.hidi.n
+'a_hbaran_a `amr_u bnu `al_iyi.n q_ala .hadda_tan_a ya.hy/a q_ala .hadda_tan_a sufy_anu q_ala .hadda_tan_i man.s_uru.n `an 'ibr_ah_ima `ani al'aswadi `an `_a'i^sa:ta r.d/a allh `nh_a q_alat kuntu 'a.gtasilu 'an_a waras_ulu allahi .sl`m min 'in_a'i.n w_a.hidi.n
 
 ############################################################
 ## betaCodeManual
-'a_hbaran_a `amruw bnu `aliyyi.n q_ala .hadda_tan_a ya.hya/a q_ala .hadda_tan_a sufy_anu q_ala .hadda_taniy man.suwru.n `an 'iibr_ahiyma `ani al'aswadi `an `_a'ii^sa:ta r.d/a allh `nh_a q_alat kuntu 'a.gtasilu 'an_a warasuwlu allahi .sl`m min 'iin_a'i.n w_a.hidi.n
+'a_hbaran_a `amr_u bnu `al_iyi.n q_ala .hadda_tan_a ya.hy/a q_ala .hadda_tan_a sufy_anu q_ala .hadda_tan_i man.s_uru.n `an 'ibr_ah_ima `ani al'aswadi `an `_a'i^sa:ta r.d/a allh `nh_a q_alat kuntu 'a.gtasilu 'an_a waras_ulu allahi .sl`m min 'in_a'i.n w_a.hidi.n
 
 ############################################################
 ## betaCodeManual>Translit
-ʾaḫbaranā ʿamruw bnu ʿaliyyiȵ ḳāla ḥaddaṯanā yaḥyaá ḳāla ḥaddaṯanā sufyānu ḳāla ḥaddaṯaniy manṣuwruȵ ʿan ʾiibrāhiyma ʿani alʾaswadi ʿan ʿāʾiišaŧa rḍá allh ʿnhā ḳālat kuntu ʾaġtasilu ʾanā warasuwlu allahi ṣlʿm min ʾiināʾiȵ wāḥidiȵ
+ʾaḫbaranā ʿamrū bnu ʿalīyiȵ ḳāla ḥaddaṯanā yaḥyá ḳāla ḥaddaṯanā sufyānu ḳāla ḥaddaṯanī manṣūruȵ ʿan ʾibrāhīma ʿani alʾaswadi ʿan ʿāʾišaŧa rḍá allh ʿnhā ḳālat kuntu ʾaġtasilu ʾanā warasūlu allahi ṣlʿm min ʾināʾiȵ wāḥidiȵ
 
 ############################################################
 ## betaCodeManual>Arabic
-أَخْبَرَنَا عَمْرُوْ بْنُ عَلِيٍّ قَالَ حَدَّثَنَا يَحْيَٰى قَالَ حَدَّثَنَا سُفْيَانُ قَالَ حَدَّثَنِيْ مَنْصُوْرٌ عَنْ إِِبْرَاهِيْمَ عَنِ أَلْأَسْوَدِ عَنْ عائِِشَةَ رْضٰى أَلّهْ عْنْهَا قَالَتْ كُنْتُ أَغْتَسِلُ أَنَا وَرَسُوْلُ أَلَّهِ صْلْعْمْ مِنْ إِِناءٍ وَاحِدٍ
+أَخْبَرَنَا عَمْرُو بْنُ عَلِييٍ قَالَ حَدَّثَنَا يَحْيٰى قَالَ حَدَّثَنَا سُفْيَانُ قَالَ حَدَّثَنِي مَنْصُورٌ عَنْ إِبْرَاهِيمَ عَنِ أَلْأَسْوَدِ عَنْ عائِشَةَ رْضٰى أَلّهْ عْنْهَا قَالَتْ كُنْتُ أَغْتَسِلُ أَنَا وَرَسُولُ أَلَّهِ صْلْعْمْ مِنْ إِناءٍ وَاحِدٍ
 
 ############################################################
 ## TranslationBetaCode

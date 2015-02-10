@@ -9,19 +9,19 @@
 
 ############################################################
 ## betaCodeAuto
-.hadda_tan_a `abdu bnu .humaydi.n 'a_hbaran_a mu.hammadu bnu bakri.n 'a_hbaran_a abnu ^guray^gi.n 'a_hbaraniy `ubaydu allahi bnu `umara `ani alq_asimi bni mu.hammadi.n q_ala ^g_a'at `_a'ii^sa:tu .h_a^gga:ta.n
+.hadda_tan_a `abdu bnu .humaydi.n 'a_hbaran_a mu.hammadu bnu bakri.n 'a_hbaran_a abnu ^guray^gi.n 'a_hbaran_i `ubaydu allahi bnu `umara `ani alq_asimi bni mu.hammadi.n q_ala ^g_a'at `_a'i^sa:tu .h_a^gga:ta.n
 
 ############################################################
 ## betaCodeManual
-.hadda_tan_a `abdu bnu .humaydi.n 'a_hbaran_a mu.hammadu bnu bakri.n 'a_hbaran_a abnu ^guray^gi.n 'a_hbaraniy `ubaydu allahi bnu `umara `ani alq_asimi bni mu.hammadi.n q_ala ^g_a'at `_a'ii^sa:tu .h_a^gga:ta.n
+.hadda_tan_a `abdu bnu .humaydi.n 'a_hbaran_a mu.hammadu bnu bakri.n 'a_hbaran_a abnu ^guray^gi.n 'a_hbaran_i `ubaydu allahi bnu `umara `ani alq_asimi bni mu.hammadi.n q_ala ^g_a'at `_a'i^sa:tu .h_a^gga:ta.n
 
 ############################################################
 ## betaCodeManual>Translit
-ḥaddaṯanā ʿabdu bnu ḥumaydiȵ ʾaḫbaranā muḥammadu bnu bakriȵ ʾaḫbaranā abnu ǧurayǧiȵ ʾaḫbaraniy ʿubaydu allahi bnu ʿumara ʿani alḳāsimi bni muḥammadiȵ ḳāla ǧāʾat ʿāʾiišaŧu ḥāǧgaŧaȵ
+ḥaddaṯanā ʿabdu bnu ḥumaydiȵ ʾaḫbaranā muḥammadu bnu bakriȵ ʾaḫbaranā abnu ǧurayǧiȵ ʾaḫbaranī ʿubaydu allahi bnu ʿumara ʿani alḳāsimi bni muḥammadiȵ ḳāla ǧāʾat ʿāʾišaŧu ḥāǧgaŧaȵ
 
 ############################################################
 ## betaCodeManual>Arabic
-حَدَّثَنَا عَبْدُ بْنُ حُمَيْدٍ أَخْبَرَنَا مُحَمَّدُ بْنُ بَكْرٍ أَخْبَرَنَا أَبْنُ جُرَيْجٍ أَخْبَرَنِيْ عُبَيْدُ أَلَّهِ بْنُ عُمَرَ عَنِ أَلْقَاسِمِ بْنِ مُحَمَّدٍ قَالَ جَاءَتْ عائِِشَةُ حَاجْگَةً
+حَدَّثَنَا عَبْدُ بْنُ حُمَيْدٍ أَخْبَرَنَا مُحَمَّدُ بْنُ بَكْرٍ أَخْبَرَنَا أَبْنُ جُرَيْجٍ أَخْبَرَنِي عُبَيْدُ أَلَّهِ بْنُ عُمَرَ عَنِ أَلْقَاسِمِ بْنِ مُحَمَّدٍ قَالَ جَاءَتْ عائِشَةُ حَاجْگَةً
 
 ############################################################
 ## TranslationBetaCode

@@ -70,7 +70,12 @@ def arabicToBetaCode(text):
     # fixing artifacts
     text = re.sub(r"\b_a", r"a", text)
     text = re.sub(r"aa", r"a", text)
+    text = re.sub(r"ii", r"i", text)
+    text = re.sub(r"uu", r"u", text)
     text = re.sub(r"a_a", r"_a", text)
+    text = re.sub(r"a/a", r"/a", text)
+    text = re.sub(r"iy", r"_i", text)
+    text = re.sub(r"uw", r"_u", text)
     text = re.sub(r"lll", r"ll", text)
     
     return(text)
@@ -98,6 +103,7 @@ def betacodeToArabic(text):
     #text   = re.sub(r"n-", "", text) # converts articles
 
     text = re.sub("allãh", " ﭐلـلّٰـه ".strip(), text) # Convert God's Name
+    # need to add "bi-Ll~ah?i"
     text = re.sub(r"li-llãhi", " لِـلّٰـهِ ".strip(), text) # Convert God's Name
     text = re.sub(r"\bb\.", "بن", text) # Convert b. into ar bn
 

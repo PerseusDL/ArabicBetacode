@@ -9,19 +9,19 @@
 
 ############################################################
 ## betaCodeAuto
-.hadda_tan_a `abdu allahi bnu `abdi alrra.hmani 'a_hbaran_a 'abuw `_a.simi.n wa'abuw almu.giyra:ti `ani al'awz_a`iyyi biha_d_a al'iisn_adi na.hwahu q_ala 'abuw `iysa/a ha_d_a .hadiy_tu.n .hasanu.n .gariybu.n
+.hadda_tan_a `abdu allahi bnu `abdi alrra.hmani 'a_hbaran_a 'ab_u `_a.simi.n wa'ab_u almu.g_ira:ti `ani al'awz_a`_iyi biha_d_a al'isn_adi na.hwahu q_ala 'ab_u `_is/a ha_d_a .had_i_tu.n .hasanu.n .gar_ibu.n
 
 ############################################################
 ## betaCodeManual
-.hadda_tan_a `abdu allahi bnu `abdi alrra.hmani 'a_hbaran_a 'abuw `_a.simi.n wa'abuw almu.giyra:ti `ani al'awz_a`iyyi biha_d_a al'iisn_adi na.hwahu q_ala 'abuw `iysa/a ha_d_a .hadiy_tu.n .hasanu.n .gariybu.n
+.hadda_tan_a `abdu allahi bnu `abdi alrra.hmani 'a_hbaran_a 'ab_u `_a.simi.n wa'ab_u almu.g_ira:ti `ani al'awz_a`_iyi biha_d_a al'isn_adi na.hwahu q_ala 'ab_u `_is/a ha_d_a .had_i_tu.n .hasanu.n .gar_ibu.n
 
 ############################################################
 ## betaCodeManual>Translit
-ḥaddaṯanā ʿabdu allahi bnu ʿabdi alrraḥmani ʾaḫbaranā ʾabuw ʿāṣimiȵ waʾabuw almuġiyraŧi ʿani alʾawzāʿiyyi bihaḏā alʾiisnādi naḥwahu ḳāla ʾabuw ʿiysaá haḏā ḥadiyṯuȵ ḥasanuȵ ġariybuȵ
+ḥaddaṯanā ʿabdu allahi bnu ʿabdi alrraḥmani ʾaḫbaranā ʾabū ʿāṣimiȵ waʾabū almuġīraŧi ʿani alʾawzāʿīyi bihaḏā alʾisnādi naḥwahu ḳāla ʾabū ʿīsá haḏā ḥadīṯuȵ ḥasanuȵ ġarībuȵ
 
 ############################################################
 ## betaCodeManual>Arabic
-حَدَّثَنَا عَبْدُ أَلَّهِ بْنُ عَبْدِ أَلْرَّحْمَنِ أَخْبَرَنَا أَبُوْ عَاصِمٍ وَأَبُوْ أَلْمُغِيْرَةِ عَنِ أَلْأَوْزَاعِيِّ بِهَذَا أَلْئِِسْنَادِ نَحْوَهُ قَالَ أَبُوْ عِيْسَٰى هَذَا حَدِيْثٌ حَسَنٌ غَرِيْبٌ
+حَدَّثَنَا عَبْدُ أَلَّهِ بْنُ عَبْدِ أَلْرَّحْمَنِ أَخْبَرَنَا أَبُو عَاصِمٍ وَأَبُو أَلْمُغِيرَةِ عَنِ أَلْأَوْزَاعِييِ بِهَذَا أَلْئِسْنَادِ نَحْوَهُ قَالَ أَبُو عِيسٰى هَذَا حَدِيثٌ حَسَنٌ غَرِيبٌ
 
 ############################################################
 ## TranslationBetaCode

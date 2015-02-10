@@ -9,19 +9,19 @@
 
 ############################################################
 ## betaCodeAuto
-'a_hbaraniy mu.hammadu bnu wahbi.n q_ala .hadda_tan_a mu.hammadu bnu salama:ta q_ala .hadda_taniy abnu 'iis.h_aqa `an 'ayyuwba bni muwsa/a `an `a.t_a'i.n mursalu.n
+'a_hbaran_i mu.hammadu bnu wahbi.n q_ala .hadda_tan_a mu.hammadu bnu salama:ta q_ala .hadda_tan_i abnu 'is.h_aqa `an 'ayy_uba bni m_us/a `an `a.t_a'i.n mursalu.n
 
 ############################################################
 ## betaCodeManual
-'a_hbaraniy mu.hammadu bnu wahbi.n q_ala .hadda_tan_a mu.hammadu bnu salama:ta q_ala .hadda_taniy abnu 'iis.h_aqa `an 'ayyuwba bni muwsa/a `an `a.t_a'i.n mursalu.n
+'a_hbaran_i mu.hammadu bnu wahbi.n q_ala .hadda_tan_a mu.hammadu bnu salama:ta q_ala .hadda_tan_i abnu 'is.h_aqa `an 'ayy_uba bni m_us/a `an `a.t_a'i.n mursalu.n
 
 ############################################################
 ## betaCodeManual>Translit
-ʾaḫbaraniy muḥammadu bnu wahbiȵ ḳāla ḥaddaṯanā muḥammadu bnu salamaŧa ḳāla ḥaddaṯaniy abnu ʾiisḥāḳa ʿan ʾayyuwba bni muwsaá ʿan ʿaṭāʾiȵ mursaluȵ
+ʾaḫbaranī muḥammadu bnu wahbiȵ ḳāla ḥaddaṯanā muḥammadu bnu salamaŧa ḳāla ḥaddaṯanī abnu ʾisḥāḳa ʿan ʾayyūba bni mūsá ʿan ʿaṭāʾiȵ mursaluȵ
 
 ############################################################
 ## betaCodeManual>Arabic
-أَخْبَرَنِيْ مُحَمَّدُ بْنُ وَهْبٍ قَالَ حَدَّثَنَا مُحَمَّدُ بْنُ سَلَمَةَ قَالَ حَدَّثَنِيْ أَبْنُ إِِسْحَاقَ عَنْ أَيُّوْبَ بْنِ مُوْسَٰى عَنْ عَطاءٍ مُرْسَلٌ
+أَخْبَرَنِي مُحَمَّدُ بْنُ وَهْبٍ قَالَ حَدَّثَنَا مُحَمَّدُ بْنُ سَلَمَةَ قَالَ حَدَّثَنِي أَبْنُ إِسْحَاقَ عَنْ أَيّوبَ بْنِ مُوسٰى عَنْ عَطاءٍ مُرْسَلٌ
 
 ############################################################
 ## TranslationBetaCode

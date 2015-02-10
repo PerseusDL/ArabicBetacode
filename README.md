@@ -1,56 +1,28 @@
 # Arabic betaCode
 
+<center>[a better formatted version](http://maximromanov.github.io/2015/02-07.html)</center>
+
  Although both Windows and Mac OS now support Arabic, it is still quite difficult to type and edit Arabic texts. It is particularly frustrating to edit and manipulate fully vocalized texts, since most fonts either render “short vowels” (*ḥarakāt*) invisible, or do not render them properly. Because of the “stacking,” i.e. “short vowels” being placed on top of letters and on top of each other, it becomes impossible to *edit* texts and one is often forced to go into delete-and-retype mode (and there is still no guarantee, because of visual issues, that all the letters and “short vowels” will actually be in the right order). **betaCode** can make it easy to type fully-vocalized Arabic texts on any machine through the use of simple character combinations and automatic rendering into various transliteration schemes and the Arabic script (scroll below for examples). 
 
 **betaCode** is first converted into a one-to-one transliteration scheme, which combines conventions from various academic transliteration schemes. Such scheme is necessary, since none of the existing academic schemes (American/Library of Congress, British, French, German, etc.) allow representing Arabic text unambiguously for computational purposes. Arabic **betaCode** transliteration can be then converted into any transliteration convention. At the moment the following schemes are implemented:
 
 * Library of Congress Romanization of Arabic
 * Simplified transliteration (LOC without diacritics)
-* Arabic script (the rules of *hamzaŧ* orthography are implemented, but may require some additional testing)
+* Arabic script (the rules of *ḥamzaŧ* orthography are implemented, but may require some additional testing)
 
 **NB:** The idea of **betaCode** is borrowed from the Classicists who developed ["a method of representing, using only ASCII characters, characters and formatting found in ancient Greek texts"](http://en.wikipedia.org/wiki/Beta_Code). The current **betaCode** is inspired by, and is therefore quite similar to, the [arabTex scheme](http://www2.informatik.uni-stuttgart.de/ivi/bs/research/arab_e.htm). Linguists working with Arabic are commonly using [Buckwalter transliteration](http://en.wikipedia.org/wiki/Buckwalter_transliteration), which is very similar to the current betaCode, but less readable. 
-
-## Basic principles:
-Every Arabic letter is betaCoded with its one-letter equivalent,
-preceded (if necessary) with a technical character that is similar to a diacritical mark in the transliterated version. Thus, most common symbols are as follows:
-
-#### *General*
-* **\_** (underscore), if letter can be transliterated with *macron*/*breve* below or above (ā, ṯ, ḫ, ḏ, ū, ī)
-* **.** (period), or  <b>\*</b> (asterisk), if letter can be transliterated transliterated with *dot* below or above (ḥ, ṣ, ḍ, ṭ, ẓ, ġ, ḳ)
-* **^** (caret), if letter can be transliterated with *caron* (ǧ, š)
-
-#### *Specifics*
-* attached prepositions/conjunctions and pronominal suffixes must be separated with "-" (mostly relevant for text alignment, treebanking,  and general readability):
-	* ``` bi-Llah?i  ```
-	* ``` fa-_dahaba ```
-* add "?" before “optional” final vowels that are usually dropped in transliteration and pronounciation (mostly relevant  for transliteration):
-	* ``` bi-Llah?i  ```, but not:
-	* ``` fa-_dahaba ```	
-* *tāʾ marbūṭaŧ*: add "+" after *tāʾ marbūṭaŧ*, if the first word of *iḏāfaŧ* (mostly relevant for transliteration):
-	* ``` `_amma:t+u Ba.gd_ada ```, but:
-	* ``` al-`_amma:tu f_i Ba.gd_ada ```
-* a few more to be added...
-
-## Running the converter
-* (Python 3.xx must be installed on the machine)
-* clone [git repository](https://github.com/PerseusDL/ArabicBetacode)
-* save texts that must be transliterated (i.e., the text is in English, but has some Arabic terms that must be transliterated) into “./to\_translit” (follow the format given in the example file).
-* save texts that must be fully transliterated or/and converted into Arabic script (i.e., the entire texts is in Arabic) into “./to_arabic/” (follow the format given in the example file).
-* run the script “\_generateBetaCode.py” (in Mac terminal: ```python3 \_generateBetaCode.py```; on Windows: double-click on the script should work).
-* converted texts (in all available modes of conversion) will be appended to the file.
-* if you need to make any changes, edit your initial betaCode text and run the script again, converted results will be replaced with relevant updated versions.
 
 ## betaCode and One-To-One Transliteration
 
 | betacode | translit | Arabic letter |
 |----------|-----------------|---------------|
 | **\_a** | ā | *alif* |
-| **b** | b | *bā’* |
-| **t** | t | *tā’* |
-| **\_t** | ṯ | *thā’* |
+| **b** | b | *bāʾ* |
+| **t** | t | *tāʾ* |
+| **\_t** | ṯ | *thāʾ* |
 | **^g, j** | ǧ | *jīm* |
-| **\*h, .h** | ḥ | *ḥā’* |
-| **\_h** | ḫ | *khā’* |
+| **\*h, .h** | ḥ | *ḥāʾ* |
+| **\_h** | ḫ | *khāʾ* |
 | **d** | d | *dāl* |
 | **\_d** | ḏ | *dhāl* |
 | **r** | r | *rā’* |
@@ -59,11 +31,11 @@ preceded (if necessary) with a technical character that is similar to a diacriti
 | **^s** | š | *shīn* |
 | **\*s, .s** | ṣ | *ṣād* |
 | **\*d, .d** | ḍ | *ḍād* |
-| **\*t, .t** | ṭ | *ṭā’* |
-| **\*z, .z** | ẓ | *ẓā’* |
+| **\*t, .t** | ṭ | *ṭāʾ* |
+| **\*z, .z** | ẓ | *ẓāʾ* |
 | **`** | ʿ | *‘ayn* |
 | **\*g, .g** | ġ | *ghayn* |
-| **f** | f | *fā’* |
+| **f** | f | *fāʾ* |
 | **\*k, .k, q** | ḳ | *qāf* |
 | **k** | k | *kāf* |
 | **l** | l | *lām* |
@@ -72,15 +44,15 @@ preceded (if necessary) with a technical character that is similar to a diacriti
 | **h** | h | *hā’* |
 | **w** | w | *wāw* |
 | **\_u** | ū | *wāw* |
-| **y** | y | *yā’* |
-| **\_i** | ī | *yā’* |
+| **y** | y | *yāʾ* |
+| **\_i** | ī | *yāʾ* |
 
 ## Non-alphabetic letters
 | **betacode** | translit | Arabic |
 |----------|-----------------|---------------|
-| **'** | ʾ | *hamzaŧ* |
+| **'** | ʾ | *ḥamzaŧ* |
 | **/a** | á | *alif maqṣūraŧ* |
-| **:t** | ŧ | *tā’ marbūṭaŧ* |
+| **:t** | ŧ | *tāʾ marbūṭaŧ* |
 
 ## Vowels
 
@@ -90,20 +62,57 @@ preceded (if necessary) with a technical character that is similar to a diacriti
 | **u** | u | *ḍammaŧ* |
 | **i** | i | *kasraŧ* |
 | **a** | a | *fatḥaŧ* |
-| **.n** | ȵ | *n of tanwīn* |
+| **.n** | ȵ | *n* of *tanwīn* |
 | **.a** | å | *silent alif* |
 | **.w** | ů | *silent wāw* |
 | **?u** | ủ | final *ḍammaŧ* \* |
 | **?i** | ỉ | final *kasraŧ* \* |
 | **?a** | ả | final *fatḥaŧ* \* |
 
-\* “finals” are those final vowels that are usually dropped in transliteration and pronounciation (i.e., *al-kitāb*, instead of *al-kitābủ*, *al-kitābỉ*, *al-kitābả*), vs those that are not (huwa, hiyya, ḏãlika, tilka).
+\* “finals” are those final vowels that are usually dropped in transliteration and pronounciation (i.e., *al-kitāb*, instead of *al-kitābủ*, *al-kitābỉ*, *al-kitābả*), vs those that are not (*huwa*, *hiyya*, *ḏãlika*, *tilka*).
+
+## Basic principles:
+Every Arabic letter is betaCoded with its one-letter equivalent,
+preceded (if necessary) with a technical character that is similar to a diacritical mark in the transliterated version. Thus, most common symbols are as follows:
+
+#### *General*
+* **\_** (underscore), if a letter can be transliterated with *macron*/*breve* below or above (*ā*, *ṯ*, *ḫ*, *ḏ*, *ū*, *ī*)
+* **.** (period), or  <b>\*</b> (asterisk), if a letter can be transliterated transliterated with *dot* below or above (*ḥ*, *ṣ*, *ḍ*, *ṭ*, *ẓ*, *ġ*, *ḳ*)
+* **^** (caret), if a letter can be transliterated with *caron* (*ǧ*, *š*)
+
+#### *Specifics*
+* attached prepositions/conjunctions and pronominal suffixes must be separated with “-” (mostly relevant for text alignment, treebanking,  and general readability):
+	* ``` bi-Llah?i  ```
+	* ``` fa-_dahaba ```
+* add “?” before “optional” final vowels that are usually dropped in transliteration and pronounciation (mostly relevant  for transliteration):
+	* ``` bi-Llah?i  ```, but not:
+	* ``` fa-_dahaba ```	
+* *tāʾ marbūṭaŧ*: add “+” after *tāʾ marbūṭaŧ*, if the first word of *iḏāfaŧ* (mostly relevant for transliteration):
+	* ``` `_amma:t+u Ba.gd_ada ```, but:
+	* ``` al-`_amma:tu f_i Ba.gd_ada ```
+* transliterating *tanwīn*:
+	* ```.n```
+		* ```?u.n```
+		* ```?i.n```
+		* ```?a.n```
+* silent *wāw* and *alif*:
+	* `.w` (`Amr?u.n.w`, for <span="arabic">عَمْرٌو</span>)
+	* `.a` (```wa-fa`al_u.a```, for <span="arabic">وَفَعَلُوا</span>)
+
+## Running the converter
+* (Python 3.xx must be installed on the machine)
+* clone [git repository](https://github.com/PerseusDL/ArabicBetacode)
+* save texts that must be transliterated (i.e., the text is in English, but has some Arabic terms that must be transliterated) into ```./to_translit/``` (follow the format given in the example file).
+* save texts that must be fully transliterated or/and converted into Arabic script (i.e., the entire texts is in Arabic) into ```./to_arabic/``` (follow the format given in the example file).
+* run the script `_generateBetaCode.py` (in Mac terminal: ```python3 _generateBetaCode.py```; on Windows: double-click on the script should work).
+* converted texts (in all available modes of conversion) will be appended to the file.
+* if you need to make any changes, edit your initial betaCode text and run the script again, converted results will be replaced with relevant updated versions.
 
 # Examples 
 
 ### betaCode Example
 
-NB: These are examples of converting betaCode to full transliteration and Arabic script. The very last paragraph showcases conversion of hamza in different positions.
+**NB**: These are examples of converting betaCode to full transliteration and Arabic script. The very last paragraph showcases conversion of *ḥamzaŧ* in different positions.
 
 q\_ala 'ab\_u Mas\`\_ud?i.n :: 'an\_a qad sami\`tu h~a\_d\_a min ras\_ul?i All~ah?i ( .sl\`m )
 
@@ -111,7 +120,7 @@ q\_ala 'ab\_u Mas\`\_ud?i.n :: 'an\_a qad sami\`tu h~a\_d\_a min ras\_ul?i All~a
 
 'a\_hbara-n\_a Qutayba:t?u q\_ala , .hadda\_ta-n\_a Sufy\_an?u , \`an Ya.hy/a bn?i Sa\`\_id?i.n , \`an 'Ab\_i Bakr?i bn?i Mu.hammad?i.n , \`an \`Umar?a bn?i \`Abd?i al-\`Az\_iz?i , \`an 'Ab\_i Bakr?i bn?i \`Abd?i al-Ra.hm~an?i bn?i al-.H\_ari\_t?i bn?i Hi^s\_am?i.n , \`an 'Ab\_i Hurayra:t?a mi\_tla-hu
 
-Ta.hw\_il?u al-.hamza:t?i ( kalim\_at?u.n mufrada:t?u.n )
+**Ta.hw\_il?u al-.hamza:t?i ( kalim\_at?u.n mufrada:t?u.n )**
 
 'amr?u.n 'uns?u.n 'ins?u.n '\_im\_an?u.n
 '\_aya:t?u.n '\_amana mas'ala:t?u.n sa'ala ra's?u.n qur'\_an?u.n ta'\_amara
@@ -137,7 +146,7 @@ abn\_a'u abn\_a'i abn\_a'a jar\_i'?u.n maqr\_u'?u.n .daw'?u.n ^say'?u.n juz'?u.n
 
 ʾaḫbara-nā Ḳutaybaŧủ ḳāla , ḥaddaṯa-nā Sufyānủ , ʿan Yaḥyá bnỉ Saʿīdỉȵ , ʿan ʾAbī Bakrỉ bnỉ Muḥammadỉȵ , ʿan ʿUmarả bnỉ ʿAbdỉ al-ʿAzīzỉ , ʿan ʾAbī Bakrỉ bnỉ ʿAbdỉ al-Raḥmãnỉ bnỉ al-Ḥāriṯỉ bnỉ Hišāmỉȵ , ʿan ʾAbī Hurayraŧả miṯla-hu
 
-Taḥwīlủ al-ḥamzaŧỉ ( kalimātủȵ mufradaŧủȵ )
+**Taḥwīlủ al-ḥamzaŧỉ ( kalimātủȵ mufradaŧủȵ )**
 
 ʾamrủȵ ʾunsủȵ ʾinsủȵ ʾīmānủȵ
 ʾāyaŧủȵ ʾāmana masʾalaŧủȵ saʾala raʾsủȵ ḳurʾānủȵ taʾāmara
@@ -159,18 +168,18 @@ abnāʾu abnāʾi abnāʾa ǧarīʾủȵ maḳrūʾủȵ ḍawʾủȵ šayʾủ�
 
 <p class="arabic">
 	
-قَالَ أَبُو مَسْعُودٍ :: أَنَا قَدْ سَمِعْتُ هٰذَا مِنْ رَسُولِ ﭐلـلّٰـهِ ( صْلْعْمْ )
+قَالَ أَبُو مَسْعُودٍ :: أَنَا قَدْ سَمِعْتُ هٰذَا مِنْ رَسُولِ الـلّٰـهِ ( صْلْعْمْ )
 
 </p>
 <p class="arabic">
-حَدَّثَنَا عَمْرُو بْنُ رَافِعٍ ، حَدَّثَنَا عَبْدُ ﭐلـلّٰـهِ بْنُ ﭐلْمُبَارَكِ ، عَنْ مُحَمَّدِ بْنِ إِسْحَاقَ ، عَنْ مُحَمَّدِ بْنِ جَعْفَرٍ ، عَنْ عُبَيْدِ ﭐلـلّٰـهِ بْنِ عَبْدِ ﭐلـلّٰـهِ بْنِ عُمَرَ ، عَنْ أَبِيهِ ، عَنِ ﭐلنَّبِيِّ ( صْلْعْمْ ) نَحْوَهُ
+حَدَّثَنَا عَمْرُو بْنُ رَافِعٍ ، حَدَّثَنَا عَبْدُ الـلّٰـهِ بْنُ الْمُبَارَكِ ، عَنْ مُحَمَّدِ بْنِ إِسْحَاقَ ، عَنْ مُحَمَّدِ بْنِ جَعْفَرٍ ، عَنْ عُبَيْدِ الـلّٰـهِ بْنِ عَبْدِ الـلّٰـهِ بْنِ عُمَرَ ، عَنْ أَبِيهِ ، عَنِ النَّبِيِّ ( صْلْعْمْ ) نَحْوَهُ
 </p>
 <p class="arabic">
-أَخْبَرَنَا قُتَيْبَةُ قَالَ ، حَدَّثَنَا سُفْيَانُ ، عَنْ يَحْيٰى بْنِ سَعِيدٍ ، عَنْ أَبِي بَكْرِ بْنِ مُحَمَّدٍ ، عَنْ عُمَرَ بْنِ عَبْدِ ﭐلْعَزِيزِ ، عَنْ أَبِي بَكْرِ بْنِ عَبْدِ ﭐلرَّحْمٰنِ بْنِ ﭐلْحَارِثِ بْنِ هِشَامٍ ، عَنْ أَبِي هُرَيْرَةَ مِثْلَهُ
+أَخْبَرَنَا قُتَيْبَةُ قَالَ ، حَدَّثَنَا سُفْيَانُ ، عَنْ يَحْيٰى بْنِ سَعِيدٍ ، عَنْ أَبِي بَكْرِ بْنِ مُحَمَّدٍ ، عَنْ عُمَرَ بْنِ عَبْدِ الْعَزِيزِ ، عَنْ أَبِي بَكْرِ بْنِ عَبْدِ الرَّحْمٰنِ بْنِ الْحَارِثِ بْنِ هِشَامٍ ، عَنْ أَبِي هُرَيْرَةَ مِثْلَهُ
 </p>
 <p class="arabic">
 <b>
-تَحْوِيلُ ﭐلْحَمْزَةِ ( كَلِمَاتٌ مُفْرَدَةٌ )
+تَحْوِيلُ الْحَمْزَةِ ( كَلِمَاتٌ مُفْرَدَةٌ )
 </b>
 </p>
 <p class="arabic">
@@ -188,7 +197,7 @@ abnāʾu abnāʾi abnāʾa ǧarīʾủȵ maḳrūʾủȵ ḍawʾủȵ šayʾủ�
 جُزْءٌ  جُزْءٍ  جُزْءًا مَبْدَأٌ مَبْدَأٍ مَبْدَأً
 نَبَأَ قَارِئٌ تَكَافُؤٌ تَكَافُؤٍ تَكَافُؤًا
 أَبْناءُ أَبْناءِ أَبْناءَ جَريءٌ مَقْروءٌ ضَوْءٌ شَيْءٌ جُزْءٌ
-عُلَماءُ ﭐلْعُلَماءِ ﭐلْعُلَماءَ عَمْرٌو وَفَعَلُوا
+عُلَماءُ الْعُلَماءِ الْعُلَماءَ عَمْرٌو وَفَعَلُوا
 </p>
 
 ## betaCode into Translit

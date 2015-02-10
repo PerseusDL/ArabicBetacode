@@ -9,19 +9,19 @@
 
 ############################################################
 ## betaCodeAuto
-wa.hadda_tan_a 'abuw bakri bnu 'abiy ^sayba:ta .hadda_tan_a `abda:tu bnu sulaym_ana .h wa.hadda_tan_a abnu 'abiy `umara .hadda_tan_a sufy_anu .h wa.hadda_tan_a `ubaydu allahi bnu mu`_a_di.n .hadda_tan_a 'abiy .hadda_tan_a ^su`ba:tu kulluhum `an .s_ali.hi bni .s_ali.hi.n biha_d_a al'iisn_adi na.hwahu
+wa.hadda_tan_a 'ab_u bakri bnu 'ab_i ^sayba:ta .hadda_tan_a `abda:tu bnu sulaym_ana .h wa.hadda_tan_a abnu 'ab_i `umara .hadda_tan_a sufy_anu .h wa.hadda_tan_a `ubaydu allahi bnu mu`_a_di.n .hadda_tan_a 'ab_i .hadda_tan_a ^su`ba:tu kulluhum `an .s_ali.hi bni .s_ali.hi.n biha_d_a al'isn_adi na.hwahu
 
 ############################################################
 ## betaCodeManual
-wa.hadda_tan_a 'abuw bakri bnu 'abiy ^sayba:ta .hadda_tan_a `abda:tu bnu sulaym_ana .h wa.hadda_tan_a abnu 'abiy `umara .hadda_tan_a sufy_anu .h wa.hadda_tan_a `ubaydu allahi bnu mu`_a_di.n .hadda_tan_a 'abiy .hadda_tan_a ^su`ba:tu kulluhum `an .s_ali.hi bni .s_ali.hi.n biha_d_a al'iisn_adi na.hwahu
+wa.hadda_tan_a 'ab_u bakri bnu 'ab_i ^sayba:ta .hadda_tan_a `abda:tu bnu sulaym_ana .h wa.hadda_tan_a abnu 'ab_i `umara .hadda_tan_a sufy_anu .h wa.hadda_tan_a `ubaydu allahi bnu mu`_a_di.n .hadda_tan_a 'ab_i .hadda_tan_a ^su`ba:tu kulluhum `an .s_ali.hi bni .s_ali.hi.n biha_d_a al'isn_adi na.hwahu
 
 ############################################################
 ## betaCodeManual>Translit
-waḥaddaṯanā ʾabuw bakri bnu ʾabiy šaybaŧa ḥaddaṯanā ʿabdaŧu bnu sulaymāna ḥ waḥaddaṯanā abnu ʾabiy ʿumara ḥaddaṯanā sufyānu ḥ waḥaddaṯanā ʿubaydu allahi bnu muʿāḏiȵ ḥaddaṯanā ʾabiy ḥaddaṯanā šuʿbaŧu kulluhum ʿan ṣāliḥi bni ṣāliḥiȵ bihaḏā alʾiisnādi naḥwahu
+waḥaddaṯanā ʾabū bakri bnu ʾabī šaybaŧa ḥaddaṯanā ʿabdaŧu bnu sulaymāna ḥ waḥaddaṯanā abnu ʾabī ʿumara ḥaddaṯanā sufyānu ḥ waḥaddaṯanā ʿubaydu allahi bnu muʿāḏiȵ ḥaddaṯanā ʾabī ḥaddaṯanā šuʿbaŧu kulluhum ʿan ṣāliḥi bni ṣāliḥiȵ bihaḏā alʾisnādi naḥwahu
 
 ############################################################
 ## betaCodeManual>Arabic
-وَحَدَّثَنَا أَبُوْ بَكْرِ بْنُ أَبِيْ شَيْبَةَ حَدَّثَنَا عَبْدَةُ بْنُ سُلَيْمَانَ حْ وَحَدَّثَنَا أَبْنُ أَبِيْ عُمَرَ حَدَّثَنَا سُفْيَانُ حْ وَحَدَّثَنَا عُبَيْدُ أَلَّهِ بْنُ مُعَاذٍ حَدَّثَنَا أَبِيْ حَدَّثَنَا شُعْبَةُ كُلُّهُمْ عَنْ صَالِحِ بْنِ صَالِحٍ بِهَذَا أَلْئِِسْنَادِ نَحْوَهُ
+وَحَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ حَدَّثَنَا عَبْدَةُ بْنُ سُلَيْمَانَ حْ وَحَدَّثَنَا أَبْنُ أَبِي عُمَرَ حَدَّثَنَا سُفْيَانُ حْ وَحَدَّثَنَا عُبَيْدُ أَلَّهِ بْنُ مُعَاذٍ حَدَّثَنَا أَبِي حَدَّثَنَا شُعْبَةُ كُلُّهُمْ عَنْ صَالِحِ بْنِ صَالِحٍ بِهَذَا أَلْئِسْنَادِ نَحْوَهُ
 
 ############################################################
 ## TranslationBetaCode

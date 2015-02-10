@@ -9,19 +9,19 @@
 
 ############################################################
 ## betaCodeAuto
-'a_hbaran_a 'a.hmadu bnu na.sri.n q_ala .hadda_tan_a `ubaydu allahi wahuwa abnu muwsa/a `ani abni ^guray^gi.n `an `a.t_a'i.n `ani abni `abb_asi.n 'anna rasuwla allahi .sl`m tazawwa^ga maymuwna:ta wahuwa mu.hrimu.n
+'a_hbaran_a 'a.hmadu bnu na.sri.n q_ala .hadda_tan_a `ubaydu allahi wah_ua abnu m_us/a `ani abni ^guray^gi.n `an `a.t_a'i.n `ani abni `abb_asi.n 'anna ras_ula allahi .sl`m tazawwa^ga maym_una:ta wah_ua mu.hrimu.n
 
 ############################################################
 ## betaCodeManual
-'a_hbaran_a 'a.hmadu bnu na.sri.n q_ala .hadda_tan_a `ubaydu allahi wahuwa abnu muwsa/a `ani abni ^guray^gi.n `an `a.t_a'i.n `ani abni `abb_asi.n 'anna rasuwla allahi .sl`m tazawwa^ga maymuwna:ta wahuwa mu.hrimu.n
+'a_hbaran_a 'a.hmadu bnu na.sri.n q_ala .hadda_tan_a `ubaydu allahi wah_ua abnu m_us/a `ani abni ^guray^gi.n `an `a.t_a'i.n `ani abni `abb_asi.n 'anna ras_ula allahi .sl`m tazawwa^ga maym_una:ta wah_ua mu.hrimu.n
 
 ############################################################
 ## betaCodeManual>Translit
-ʾaḫbaranā ʾaḥmadu bnu naṣriȵ ḳāla ḥaddaṯanā ʿubaydu allahi wahuwa abnu muwsaá ʿani abni ǧurayǧiȵ ʿan ʿaṭāʾiȵ ʿani abni ʿabbāsiȵ ʾanna rasuwla allahi ṣlʿm tazawwaǧa maymuwnaŧa wahuwa muḥrimuȵ
+ʾaḫbaranā ʾaḥmadu bnu naṣriȵ ḳāla ḥaddaṯanā ʿubaydu allahi wahūa abnu mūsá ʿani abni ǧurayǧiȵ ʿan ʿaṭāʾiȵ ʿani abni ʿabbāsiȵ ʾanna rasūla allahi ṣlʿm tazawwaǧa maymūnaŧa wahūa muḥrimuȵ
 
 ############################################################
 ## betaCodeManual>Arabic
-أَخْبَرَنَا أَحْمَدُ بْنُ نَصْرٍ قَالَ حَدَّثَنَا عُبَيْدُ أَلَّهِ وَهُوَ أَبْنُ مُوْسَٰى عَنِ أَبْنِ جُرَيْجٍ عَنْ عَطاءٍ عَنِ أَبْنِ عَبّاسٍ أَنَّ رَسُوْلَ أَلَّهِ صْلْعْمْ تَزَوَّجَ مَيْمُوْنَةَ وَهُوَ مُحْرِمٌ
+أَخْبَرَنَا أَحْمَدُ بْنُ نَصْرٍ قَالَ حَدَّثَنَا عُبَيْدُ أَلَّهِ وَهُوَ أَبْنُ مُوسٰى عَنِ أَبْنِ جُرَيْجٍ عَنْ عَطاءٍ عَنِ أَبْنِ عَبّاسٍ أَنَّ رَسُولَ أَلَّهِ صْلْعْمْ تَزَوَّجَ مَيْمُونَةَ وَهُوَ مُحْرِمٌ
 
 ############################################################
 ## TranslationBetaCode

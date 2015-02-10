@@ -9,19 +9,19 @@
 
 ############################################################
 ## betaCodeAuto
-'a_hbaran_a alrrabiy`u bnu sulaym_ana q_ala .hadda_tan_a abnu wahbi.n q_ala 'a_hbaraniy yuwnusu `ani abni ^sih_abi.n q_ala 'a_hbaraniy .hamza:tu bnu `abdi allahi bni `umara `an 'abiyhi q_ala q_alat .haf.sa:tu zaw^gu alnnabiyyi .sl`m l_a .siy_ama liman lam yu^gmi` qabla alfa^gri
+'a_hbaran_a alrrab_i`u bnu sulaym_ana q_ala .hadda_tan_a abnu wahbi.n q_ala 'a_hbaran_i y_unusu `ani abni ^sih_abi.n q_ala 'a_hbaran_i .hamza:tu bnu `abdi allahi bni `umara `an 'ab_ihi q_ala q_alat .haf.sa:tu zaw^gu alnnab_iyi .sl`m l_a .s_i_ama liman lam yu^gmi` qabla alfa^gri
 
 ############################################################
 ## betaCodeManual
-'a_hbaran_a alrrabiy`u bnu sulaym_ana q_ala .hadda_tan_a abnu wahbi.n q_ala 'a_hbaraniy yuwnusu `ani abni ^sih_abi.n q_ala 'a_hbaraniy .hamza:tu bnu `abdi allahi bni `umara `an 'abiyhi q_ala q_alat .haf.sa:tu zaw^gu alnnabiyyi .sl`m l_a .siy_ama liman lam yu^gmi` qabla alfa^gri
+'a_hbaran_a alrrab_i`u bnu sulaym_ana q_ala .hadda_tan_a abnu wahbi.n q_ala 'a_hbaran_i y_unusu `ani abni ^sih_abi.n q_ala 'a_hbaran_i .hamza:tu bnu `abdi allahi bni `umara `an 'ab_ihi q_ala q_alat .haf.sa:tu zaw^gu alnnab_iyi .sl`m l_a .s_i_ama liman lam yu^gmi` qabla alfa^gri
 
 ############################################################
 ## betaCodeManual>Translit
-ʾaḫbaranā alrrabiyʿu bnu sulaymāna ḳāla ḥaddaṯanā abnu wahbiȵ ḳāla ʾaḫbaraniy yuwnusu ʿani abni šihābiȵ ḳāla ʾaḫbaraniy ḥamzaŧu bnu ʿabdi allahi bni ʿumara ʿan ʾabiyhi ḳāla ḳālat ḥafṣaŧu zawǧu alnnabiyyi ṣlʿm lā ṣiyāma liman lam yuǧmiʿ ḳabla alfaǧri
+ʾaḫbaranā alrrabīʿu bnu sulaymāna ḳāla ḥaddaṯanā abnu wahbiȵ ḳāla ʾaḫbaranī yūnusu ʿani abni šihābiȵ ḳāla ʾaḫbaranī ḥamzaŧu bnu ʿabdi allahi bni ʿumara ʿan ʾabīhi ḳāla ḳālat ḥafṣaŧu zawǧu alnnabīyi ṣlʿm lā ṣīāma liman lam yuǧmiʿ ḳabla alfaǧri
 
 ############################################################
 ## betaCodeManual>Arabic
-أَخْبَرَنَا أَلْرَّبِيْعُ بْنُ سُلَيْمَانَ قَالَ حَدَّثَنَا أَبْنُ وَهْبٍ قَالَ أَخْبَرَنِيْ يُوْنُسُ عَنِ أَبْنِ شِهَابٍ قَالَ أَخْبَرَنِيْ حَمْزَةُ بْنُ عَبْدِ أَلَّهِ بْنِ عُمَرَ عَنْ أَبِيْهِ قَالَ قَالَتْ حَفْصَةُ زَوْجُ أَلْنَّبِيِّ صْلْعْمْ لَا صِيَامَ لِمَنْ لَمْ يُجْمِعْ قَبْلَ أَلْفَجْرِ
+أَخْبَرَنَا أَلْرَّبِيعُ بْنُ سُلَيْمَانَ قَالَ حَدَّثَنَا أَبْنُ وَهْبٍ قَالَ أَخْبَرَنِي يُونُسُ عَنِ أَبْنِ شِهَابٍ قَالَ أَخْبَرَنِي حَمْزَةُ بْنُ عَبْدِ أَلَّهِ بْنِ عُمَرَ عَنْ أَبِيهِ قَالَ قَالَتْ حَفْصَةُ زَوْجُ أَلْنَّبِييِ صْلْعْمْ لَا صِيامَ لِمَنْ لَمْ يُجْمِعْ قَبْلَ أَلْفَجْرِ
 
 ############################################################
 ## TranslationBetaCode

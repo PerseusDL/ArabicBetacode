@@ -9,19 +9,19 @@
 
 ############################################################
 ## betaCodeAuto
-.hadda_tan_a mu.hammadu bnu ba^ss_ari.n .hadda_tan_a `abdu alwahh_abi .hadda_tan_a .humaydu.n `an 'anasi.n 'anna rasuwla allahi  .sl`m  k_ana yarfa`u yadayhi 'ii_d_a da_hala fiy al.ssal_a:ti wa'ii_d_a raka`a
+.hadda_tan_a mu.hammadu bnu ba^ss_ari.n .hadda_tan_a `abdu alwahh_abi .hadda_tan_a .humaydu.n `an 'anasi.n 'anna ras_ula allahi  .sl`m  k_ana yarfa`u yadayhi 'i_d_a da_hala f_i al.ssal_a:ti wa'i_d_a raka`a
 
 ############################################################
 ## betaCodeManual
-.hadda_tan_a mu.hammadu bnu ba^ss_ari.n .hadda_tan_a `abdu alwahh_abi .hadda_tan_a .humaydu.n `an 'anasi.n 'anna rasuwla allahi  .sl`m  k_ana yarfa`u yadayhi 'ii_d_a da_hala fiy al.ssal_a:ti wa'ii_d_a raka`a
+.hadda_tan_a mu.hammadu bnu ba^ss_ari.n .hadda_tan_a `abdu alwahh_abi .hadda_tan_a .humaydu.n `an 'anasi.n 'anna ras_ula allahi  .sl`m  k_ana yarfa`u yadayhi 'i_d_a da_hala f_i al.ssal_a:ti wa'i_d_a raka`a
 
 ############################################################
 ## betaCodeManual>Translit
-ḥaddaṯanā muḥammadu bnu bašsāriȵ ḥaddaṯanā ʿabdu alwahhābi ḥaddaṯanā ḥumayduȵ ʿan ʾanasiȵ ʾanna rasuwla allahi  ṣlʿm  kāna yarfaʿu yadayhi ʾiiḏā daḫala fiy alṣsalāŧi waʾiiḏā rakaʿa
+ḥaddaṯanā muḥammadu bnu bašsāriȵ ḥaddaṯanā ʿabdu alwahhābi ḥaddaṯanā ḥumayduȵ ʿan ʾanasiȵ ʾanna rasūla allahi  ṣlʿm  kāna yarfaʿu yadayhi ʾiḏā daḫala fī alṣsalāŧi waʾiḏā rakaʿa
 
 ############################################################
 ## betaCodeManual>Arabic
-حَدَّثَنَا مُحَمَّدُ بْنُ بَشْسَارٍ حَدَّثَنَا عَبْدُ أَلْوَهّابِ حَدَّثَنَا حُمَيْدٌ عَنْ أَنَسٍ أَنَّ رَسُوْلَ أَلَّهِ  صْلْعْمْ  كَانَ يَرْفَعُ يَدَيْهِ إِِذَا دَخَلَ فِيْ أَلْصْسَلَاةِ وَئِِذَا رَكَعَ
+حَدَّثَنَا مُحَمَّدُ بْنُ بَشْسَارٍ حَدَّثَنَا عَبْدُ أَلْوَهّابِ حَدَّثَنَا حُمَيْدٌ عَنْ أَنَسٍ أَنَّ رَسُولَ أَلَّهِ  صْلْعْمْ  كَانَ يَرْفَعُ يَدَيْهِ إِذَا دَخَلَ فِي أَلْصْسَلَاةِ وَئِذَا رَكَعَ
 
 ############################################################
 ## TranslationBetaCode

@@ -9,19 +9,19 @@
 
 ############################################################
 ## betaCodeAuto
-wa.hadda_tan_a abnu 'abiy `umara .hadda_tan_a sufy_anu `an 'abiy alzzin_adi `ani al'a`ra^gi `an 'abiy hurayra:ta `ani alnnabiyyi .sl`m mi_tlahu 'aw na.hwahu
+wa.hadda_tan_a abnu 'ab_i `umara .hadda_tan_a sufy_anu `an 'ab_i alzzin_adi `ani al'a`ra^gi `an 'ab_i hurayra:ta `ani alnnab_iyi .sl`m mi_tlahu 'aw na.hwahu
 
 ############################################################
 ## betaCodeManual
-wa.hadda_tan_a abnu 'abiy `umara .hadda_tan_a sufy_anu `an 'abiy alzzin_adi `ani al'a`ra^gi `an 'abiy hurayra:ta `ani alnnabiyyi .sl`m mi_tlahu 'aw na.hwahu
+wa.hadda_tan_a abnu 'ab_i `umara .hadda_tan_a sufy_anu `an 'ab_i alzzin_adi `ani al'a`ra^gi `an 'ab_i hurayra:ta `ani alnnab_iyi .sl`m mi_tlahu 'aw na.hwahu
 
 ############################################################
 ## betaCodeManual>Translit
-waḥaddaṯanā abnu ʾabiy ʿumara ḥaddaṯanā sufyānu ʿan ʾabiy alzzinādi ʿani alʾaʿraǧi ʿan ʾabiy hurayraŧa ʿani alnnabiyyi ṣlʿm miṯlahu ʾaw naḥwahu
+waḥaddaṯanā abnu ʾabī ʿumara ḥaddaṯanā sufyānu ʿan ʾabī alzzinādi ʿani alʾaʿraǧi ʿan ʾabī hurayraŧa ʿani alnnabīyi ṣlʿm miṯlahu ʾaw naḥwahu
 
 ############################################################
 ## betaCodeManual>Arabic
-وَحَدَّثَنَا أَبْنُ أَبِيْ عُمَرَ حَدَّثَنَا سُفْيَانُ عَنْ أَبِيْ أَلْزِّنَادِ عَنِ أَلْأَعْرَجِ عَنْ أَبِيْ هُرَيْرَةَ عَنِ أَلْنَّبِيِّ صْلْعْمْ مِثْلَهُ أَوْ نَحْوَهُ
+وَحَدَّثَنَا أَبْنُ أَبِي عُمَرَ حَدَّثَنَا سُفْيَانُ عَنْ أَبِي أَلْزِّنَادِ عَنِ أَلْأَعْرَجِ عَنْ أَبِي هُرَيْرَةَ عَنِ أَلْنَّبِييِ صْلْعْمْ مِثْلَهُ أَوْ نَحْوَهُ
 
 ############################################################
 ## TranslationBetaCode

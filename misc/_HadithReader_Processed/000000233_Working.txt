@@ -9,19 +9,19 @@
 
 ############################################################
 ## betaCodeAuto
-'a_hbaran_a 'a.hmadu bnu `u_tm_ana bni .hakiymi.n q_ala .hadda_tan_a 'abiy 'anba'an_a al.hasanu wahuwa abnu .s_ali.hi.n `an 'abiy 'iis.h_aqa .h wa.hadda_tan_a `amruw bnu `aliyyi.n q_ala .hadda_tan_a `abdu alrra.hmani q_ala .hadda_tan_a ^sariyku.n `an 'abiy 'iis.h_aqa `ani al'aswadi `an `_a'ii^sa:ta r.d/a allh `nh_a q_alat k_ana rasuwlu allahi .sl`m l_a yatawa.dda'au ba`da al.gusli
+'a_hbaran_a 'a.hmadu bnu `u_tm_ana bni .hak_imi.n q_ala .hadda_tan_a 'ab_i 'anba'an_a al.hasanu wah_ua abnu .s_ali.hi.n `an 'ab_i 'is.h_aqa .h wa.hadda_tan_a `amr_u bnu `al_iyi.n q_ala .hadda_tan_a `abdu alrra.hmani q_ala .hadda_tan_a ^sar_iku.n `an 'ab_i 'is.h_aqa `ani al'aswadi `an `_a'i^sa:ta r.d/a allh `nh_a q_alat k_ana ras_ulu allahi .sl`m l_a yatawa.dda'au ba`da al.gusli
 
 ############################################################
 ## betaCodeManual
-'a_hbaran_a 'a.hmadu bnu `u_tm_ana bni .hakiymi.n q_ala .hadda_tan_a 'abiy 'anba'an_a al.hasanu wahuwa abnu .s_ali.hi.n `an 'abiy 'iis.h_aqa .h wa.hadda_tan_a `amruw bnu `aliyyi.n q_ala .hadda_tan_a `abdu alrra.hmani q_ala .hadda_tan_a ^sariyku.n `an 'abiy 'iis.h_aqa `ani al'aswadi `an `_a'ii^sa:ta r.d/a allh `nh_a q_alat k_ana rasuwlu allahi .sl`m l_a yatawa.dda'au ba`da al.gusli
+'a_hbaran_a 'a.hmadu bnu `u_tm_ana bni .hak_imi.n q_ala .hadda_tan_a 'ab_i 'anba'an_a al.hasanu wah_ua abnu .s_ali.hi.n `an 'ab_i 'is.h_aqa .h wa.hadda_tan_a `amr_u bnu `al_iyi.n q_ala .hadda_tan_a `abdu alrra.hmani q_ala .hadda_tan_a ^sar_iku.n `an 'ab_i 'is.h_aqa `ani al'aswadi `an `_a'i^sa:ta r.d/a allh `nh_a q_alat k_ana ras_ulu allahi .sl`m l_a yatawa.dda'au ba`da al.gusli
 
 ############################################################
 ## betaCodeManual>Translit
-ʾaḫbaranā ʾaḥmadu bnu ʿuṯmāna bni ḥakiymiȵ ḳāla ḥaddaṯanā ʾabiy ʾanbaʾanā alḥasanu wahuwa abnu ṣāliḥiȵ ʿan ʾabiy ʾiisḥāḳa ḥ waḥaddaṯanā ʿamruw bnu ʿaliyyiȵ ḳāla ḥaddaṯanā ʿabdu alrraḥmani ḳāla ḥaddaṯanā šariykuȵ ʿan ʾabiy ʾiisḥāḳa ʿani alʾaswadi ʿan ʿāʾiišaŧa rḍá allh ʿnhā ḳālat kāna rasuwlu allahi ṣlʿm lā yatawaḍdaʾau baʿda alġusli
+ʾaḫbaranā ʾaḥmadu bnu ʿuṯmāna bni ḥakīmiȵ ḳāla ḥaddaṯanā ʾabī ʾanbaʾanā alḥasanu wahūa abnu ṣāliḥiȵ ʿan ʾabī ʾisḥāḳa ḥ waḥaddaṯanā ʿamrū bnu ʿalīyiȵ ḳāla ḥaddaṯanā ʿabdu alrraḥmani ḳāla ḥaddaṯanā šarīkuȵ ʿan ʾabī ʾisḥāḳa ʿani alʾaswadi ʿan ʿāʾišaŧa rḍá allh ʿnhā ḳālat kāna rasūlu allahi ṣlʿm lā yatawaḍdaʾau baʿda alġusli
 
 ############################################################
 ## betaCodeManual>Arabic
-أَخْبَرَنَا أَحْمَدُ بْنُ عُثْمَانَ بْنِ حَكِيْمٍ قَالَ حَدَّثَنَا أَبِيْ أَنْبَأَنَا أَلْحَسَنُ وَهُوَ أَبْنُ صَالِحٍ عَنْ أَبِيْ إِِسْحَاقَ حْ وَحَدَّثَنَا عَمْرُوْ بْنُ عَلِيٍّ قَالَ حَدَّثَنَا عَبْدُ أَلْرَّحْمَنِ قَالَ حَدَّثَنَا شَرِيْكٌ عَنْ أَبِيْ إِِسْحَاقَ عَنِ أَلْأَسْوَدِ عَنْ عائِِشَةَ رْضٰى أَلّهْ عْنْهَا قَالَتْ كَانَ رَسُوْلُ أَلَّهِ صْلْعْمْ لَا يَتَوَضْدَأَُ بَعْدَ أَلْغُسْلِ
+أَخْبَرَنَا أَحْمَدُ بْنُ عُثْمَانَ بْنِ حَكِيمٍ قَالَ حَدَّثَنَا أَبِي أَنْبَأَنَا أَلْحَسَنُ وَهُوَ أَبْنُ صَالِحٍ عَنْ أَبِي إِسْحَاقَ حْ وَحَدَّثَنَا عَمْرُو بْنُ عَلِييٍ قَالَ حَدَّثَنَا عَبْدُ أَلْرَّحْمَنِ قَالَ حَدَّثَنَا شَرِيكٌ عَنْ أَبِي إِسْحَاقَ عَنِ أَلْأَسْوَدِ عَنْ عائِشَةَ رْضٰى أَلّهْ عْنْهَا قَالَتْ كَانَ رَسُولُ أَلَّهِ صْلْعْمْ لَا يَتَوَضْدَأَُ بَعْدَ أَلْغُسْلِ
 
 ############################################################
 ## TranslationBetaCode

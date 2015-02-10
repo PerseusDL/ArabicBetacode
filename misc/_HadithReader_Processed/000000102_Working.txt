@@ -9,19 +9,19 @@
 
 ############################################################
 ## betaCodeAuto
-.hadda_tan_a 'abuw bakri bnu 'abiy ^sayba:ta .hadda_tan_a 'abuw al'a.hwa.si `an 'abiy 'iis.h_aqa `ani al'aswadi `an `_a'ii^sa:ta q_alat k_ana alnnabiyyu  .sl`m  'ii_d_a tawa.dda'a .salla/a rak`atayni _tumma _hara^ga 'iila/a al.ssal_a:ti
+.hadda_tan_a 'ab_u bakri bnu 'ab_i ^sayba:ta .hadda_tan_a 'ab_u al'a.hwa.si `an 'ab_i 'is.h_aqa `ani al'aswadi `an `_a'i^sa:ta q_alat k_ana alnnab_iyu  .sl`m  'i_d_a tawa.dda'a .sall/a rak`atayni _tumma _hara^ga 'il/a al.ssal_a:ti
 
 ############################################################
 ## betaCodeManual
-.hadda_tan_a 'abuw bakri bnu 'abiy ^sayba:ta .hadda_tan_a 'abuw al'a.hwa.si `an 'abiy 'iis.h_aqa `ani al'aswadi `an `_a'ii^sa:ta q_alat k_ana alnnabiyyu  .sl`m  'ii_d_a tawa.dda'a .salla/a rak`atayni _tumma _hara^ga 'iila/a al.ssal_a:ti
+.hadda_tan_a 'ab_u bakri bnu 'ab_i ^sayba:ta .hadda_tan_a 'ab_u al'a.hwa.si `an 'ab_i 'is.h_aqa `ani al'aswadi `an `_a'i^sa:ta q_alat k_ana alnnab_iyu  .sl`m  'i_d_a tawa.dda'a .sall/a rak`atayni _tumma _hara^ga 'il/a al.ssal_a:ti
 
 ############################################################
 ## betaCodeManual>Translit
-ḥaddaṯanā ʾabuw bakri bnu ʾabiy šaybaŧa ḥaddaṯanā ʾabuw alʾaḥwaṣi ʿan ʾabiy ʾiisḥāḳa ʿani alʾaswadi ʿan ʿāʾiišaŧa ḳālat kāna alnnabiyyu  ṣlʿm  ʾiiḏā tawaḍdaʾa ṣallaá rakʿatayni ṯumma ḫaraǧa ʾiilaá alṣsalāŧi
+ḥaddaṯanā ʾabū bakri bnu ʾabī šaybaŧa ḥaddaṯanā ʾabū alʾaḥwaṣi ʿan ʾabī ʾisḥāḳa ʿani alʾaswadi ʿan ʿāʾišaŧa ḳālat kāna alnnabīyu  ṣlʿm  ʾiḏā tawaḍdaʾa ṣallá rakʿatayni ṯumma ḫaraǧa ʾilá alṣsalāŧi
 
 ############################################################
 ## betaCodeManual>Arabic
-حَدَّثَنَا أَبُوْ بَكْرِ بْنُ أَبِيْ شَيْبَةَ حَدَّثَنَا أَبُوْ أَلْأَحْوَصِ عَنْ أَبِيْ إِِسْحَاقَ عَنِ أَلْأَسْوَدِ عَنْ عائِِشَةَ قَالَتْ كَانَ أَلْنَّبِيُّ  صْلْعْمْ  إِِذَا تَوَضْدَأَ صَلَّٰى رَكْعَتَيْنِ ثُمَّ خَرَجَ إِِلَٰى أَلْصْسَلَاةِ
+حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ حَدَّثَنَا أَبُو أَلْأَحْوَصِ عَنْ أَبِي إِسْحَاقَ عَنِ أَلْأَسْوَدِ عَنْ عائِشَةَ قَالَتْ كَانَ أَلْنَّبِييُ  صْلْعْمْ  إِذَا تَوَضْدَأَ صَلّٰى رَكْعَتَيْنِ ثُمَّ خَرَجَ إِلٰى أَلْصْسَلَاةِ
 
 ############################################################
 ## TranslationBetaCode

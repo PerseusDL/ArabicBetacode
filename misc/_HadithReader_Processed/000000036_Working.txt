@@ -1,7 +1,7 @@
 ############################################################
 ## hadithID::     muslim01_305430
-## Completed by:: ADDYOURNAME
-## Finished::     NO/YES
+## Completed by:: romanov
+## Finished::     YES
 
 ############################################################
 ## ArabicInitial
@@ -9,25 +9,25 @@
 
 ############################################################
 ## betaCodeAuto
-wa.hadda_tan_a mu.hammadu bnu ba^ss_ari.n .hadda_tan_a mu.hammadu bnu ^ga`fari.n .hadda_tan_a ^su`ba:tu q_ala sami`tu mu.hammada bna ziy_adi.n q_ala sami`tu 'ab_a hurayra:ta yaquwlu sami`tu rasuwla allahi .sl`m yaquwlu bimi_tli .hadiy_ti alrrabiy`i
+wa.hadda_tan_a mu.hammadu bnu ba^ss_ari.n .hadda_tan_a mu.hammadu bnu ^ga`fari.n .hadda_tan_a ^su`ba:tu q_ala sami`tu mu.hammada bna z_i_adi.n q_ala sami`tu 'ab_a hurayra:ta yaq_ulu sami`tu ras_ula allahi .sl`m yaq_ulu bimi_tli .had_i_ti alrrab_i`i
 
 ############################################################
 ## betaCodeManual
-wa.hadda_tan_a mu.hammadu bnu ba^ss_ari.n .hadda_tan_a mu.hammadu bnu ^ga`fari.n .hadda_tan_a ^su`ba:tu q_ala sami`tu mu.hammada bna ziy_adi.n q_ala sami`tu 'ab_a hurayra:ta yaquwlu sami`tu rasuwla allahi .sl`m yaquwlu bimi_tli .hadiy_ti alrrabiy`i
+wa-.hadda_ta-n_a Mu.hammad?u bn?u Ba^s^s_ar?i.n , .hadda_ta-n_a Mu.hammad?u bn?u ^Ga`far?i.n , .hadda_ta-n_a ^Su`ba:t?u q_ala , sami`tu Mu.hammad?a bn?a Ziy_ad?i.n q_ala , sami`tu Ab_a Hurayra:t?a yaq_ulu , sami`tu ras_ul?a All~ah?i ( .sl`m ) yaq_ulu bi-mi_tl?i .had_i_t?i al-Rab_i`?i
 
 ############################################################
 ## betaCodeManual>Translit
-waḥaddaṯanā muḥammadu bnu bašsāriȵ ḥaddaṯanā muḥammadu bnu ǧaʿfariȵ ḥaddaṯanā šuʿbaŧu ḳāla samiʿtu muḥammada bna ziyādiȵ ḳāla samiʿtu ʾabā hurayraŧa yaḳuwlu samiʿtu rasuwla allahi ṣlʿm yaḳuwlu bimiṯli ḥadiyṯi alrrabiyʿi
+wa-ḥaddaṯa-nā Muḥammadủ bnủ Baššārỉȵ , ḥaddaṯa-nā Muḥammadủ bnủ Ǧaʿfarỉȵ , ḥaddaṯa-nā Šuʿbaŧủ ḳāla , samiʿtu Muḥammadả bnả Ziyādỉȵ ḳāla , samiʿtu Abā Hurayraŧả yaḳūlu , samiʿtu rasūlả Allãhỉ ( ṣlʿm ) yaḳūlu bi-miṯlỉ ḥadīṯỉ al-Rabīʿỉ
 
 ############################################################
 ## betaCodeManual>Arabic
-وَحَدَّثَنَا مُحَمَّدُ بْنُ بَشْسَارٍ حَدَّثَنَا مُحَمَّدُ بْنُ جَعْفَرٍ حَدَّثَنَا شُعْبَةُ قَالَ سَمِعْتُ مُحَمَّدَ بْنَ زِيَادٍ قَالَ سَمِعْتُ أَبَا هُرَيْرَةَ يَقُوْلُ سَمِعْتُ رَسُوْلَ أَلَّهِ صْلْعْمْ يَقُوْلُ بِمِثْلِ حَدِيْثِ أَلْرَّبِيْعِ
+وَحَدَّثَنَا مُحَمَّدُ بْنُ بَشّارٍ ، حَدَّثَنَا مُحَمَّدُ بْنُ جَعْفَرٍ ، حَدَّثَنَا شُعْبَةُ قَالَ ، سَمِعْتُ مُحَمَّدَ بْنَ زِيَادٍ قَالَ ، سَمِعْتُ أَبَا هُرَيْرَةَ يَقُولُ ، سَمِعْتُ رَسُولَ ﭐلـلّٰـهِ ( صْلْعْمْ ) يَقُولُ بِمِثْلِ حَدِيثِ ﭐلرَّبِيعِ
 
 ############################################################
 ## TranslationBetaCode
-Type your translation on this line
+And Mu.hammad b. Ba^s^s_ar narrated to us, Mu.hammad b. ^Ga`far narrated to us, ^Su`ba:t narrated to us who said, I heard Mu.hammad b. Ziy_ad who said, I heard Ab_u Hurayra:t saying, I heard the Messenger of God ( .sl`m ) saying something similar to the .had_i_t of al-Rab_i`.
 
 ############################################################
 ## TranslationTranslit
-Type your translation on this line
+And Muḥammad b. Baššār narrated to us, Muḥammad b. Ǧaʿfar narrated to us, Šuʿbaŧ narrated to us who said, I heard Muḥammad b. Ziyād who said, I heard Abū Hurayraŧ saying, I heard the Messenger of God ( ṣlʿm ) saying something similar to the ḥadīṯ of al-Rabīʿ.
 

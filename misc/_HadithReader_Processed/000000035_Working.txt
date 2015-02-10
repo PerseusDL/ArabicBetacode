@@ -1,7 +1,7 @@
 ############################################################
 ## hadithID::     muslim32_347100
-## Completed by:: ADDYOURNAME
-## Finished::     NO/YES
+## Completed by:: romanov
+## Finished::     YES
 
 ############################################################
 ## ArabicInitial
@@ -9,25 +9,25 @@
 
 ############################################################
 ## betaCodeAuto
-.hadda_tan_a ya.hya/a bnu ya.hya/a q_ala 'a_hbaran_a sufy_anu bnu `uyayna:ta `an ma`mari.n `ani alzzuhriyyi biha_d_a al'iisn_adi
+.hadda_tan_a ya.hy/a bnu ya.hy/a q_ala 'a_hbaran_a sufy_anu bnu `uyayna:ta `an ma`mari.n `ani alzzuhr_iyi biha_d_a al'isn_adi
 
 ############################################################
 ## betaCodeManual
-.hadda_tan_a ya.hya/a bnu ya.hya/a q_ala 'a_hbaran_a sufy_anu bnu `uyayna:ta `an ma`mari.n `ani alzzuhriyyi biha_d_a al'iisn_adi
+.hadda_ta-n_a Ya.hy/a bn?u Ya.hy/a q_ala , a_hbara-n_a Sufy_an?u bn?u `Uyayna:t?a `an Ma`mar?i.n , `an?i al-Zuhriyy?i bi-h~a_d_a al-isn_ad?i
 
 ############################################################
 ## betaCodeManual>Translit
-ḥaddaṯanā yaḥyaá bnu yaḥyaá ḳāla ʾaḫbaranā sufyānu bnu ʿuyaynaŧa ʿan maʿmariȵ ʿani alzzuhriyyi bihaḏā alʾiisnādi
+ḥaddaṯa-nā Yaḥyá bnủ Yaḥyá ḳāla , aḫbara-nā Sufyānủ bnủ ʿUyaynaŧả ʿan Maʿmarỉȵ , ʿani al-Zuhriyyỉ bi-hãḏā al-isnādỉ
 
 ############################################################
 ## betaCodeManual>Arabic
-حَدَّثَنَا يَحْيَٰى بْنُ يَحْيَٰى قَالَ أَخْبَرَنَا سُفْيَانُ بْنُ عُيَيْنَةَ عَنْ مَعْمَرٍ عَنِ أَلْزُّهْرِيِّ بِهَذَا أَلْئِِسْنَادِ
+حَدَّثَنَا يَحْيٰى بْنُ يَحْيٰى قَالَ ، أَخْبَرَنَا سُفْيَانُ بْنُ عُيَيْنَةَ عَنْ مَعْمَرٍ ، عَنِ ﭐلزُّهْرِيِّ بِهٰذَا ﭐلْإِسْنَادِ
 
 ############################################################
 ## TranslationBetaCode
-Type your translation on this line
+Ya.hy/a b. Ya.hy/a narrated to us [and] he said, Sufy_an b. `Uyayna:t reported to us, from Ma`mar, from al-Zuhr_i with this chain [of transmitters].
 
 ############################################################
 ## TranslationTranslit
-Type your translation on this line
+Yaḥyá b. Yaḥyá narrated to us [and] he said, Sufyān b. ʿUyaynaŧ reported to us, from Maʿmar, from al-Zuhrī with this chain [of transmitters].
 

@@ -9,19 +9,19 @@
 
 ############################################################
 ## betaCodeAuto
-'a_hbaran_a 'iis.h_aqu bnu 'iibr_ahiyma q_ala .hadda_tan_a 'abuw mu`_awiya:ta `ani al'a`ma^si biha_d_a al'iisn_adi mi_tlahu
+'a_hbaran_a 'is.h_aqu bnu 'ibr_ah_ima q_ala .hadda_tan_a 'ab_u mu`_aw_ia:ta `ani al'a`ma^si biha_d_a al'isn_adi mi_tlahu
 
 ############################################################
 ## betaCodeManual
-'a_hbaran_a 'iis.h_aqu bnu 'iibr_ahiyma q_ala .hadda_tan_a 'abuw mu`_awiya:ta `ani al'a`ma^si biha_d_a al'iisn_adi mi_tlahu
+'a_hbaran_a 'is.h_aqu bnu 'ibr_ah_ima q_ala .hadda_tan_a 'ab_u mu`_aw_ia:ta `ani al'a`ma^si biha_d_a al'isn_adi mi_tlahu
 
 ############################################################
 ## betaCodeManual>Translit
-ʾaḫbaranā ʾiisḥāḳu bnu ʾiibrāhiyma ḳāla ḥaddaṯanā ʾabuw muʿāwiyaŧa ʿani alʾaʿmaši bihaḏā alʾiisnādi miṯlahu
+ʾaḫbaranā ʾisḥāḳu bnu ʾibrāhīma ḳāla ḥaddaṯanā ʾabū muʿāwīaŧa ʿani alʾaʿmaši bihaḏā alʾisnādi miṯlahu
 
 ############################################################
 ## betaCodeManual>Arabic
-أَخْبَرَنَا إِِسْحَاقُ بْنُ إِِبْرَاهِيْمَ قَالَ حَدَّثَنَا أَبُوْ مُعَاوِيَةَ عَنِ أَلْأَعْمَشِ بِهَذَا أَلْئِِسْنَادِ مِثْلَهُ
+أَخْبَرَنَا إِسْحَاقُ بْنُ إِبْرَاهِيمَ قَالَ حَدَّثَنَا أَبُو مُعَاوِيَةَ عَنِ أَلْأَعْمَشِ بِهَذَا أَلْئِسْنَادِ مِثْلَهُ
 
 ############################################################
 ## TranslationBetaCode

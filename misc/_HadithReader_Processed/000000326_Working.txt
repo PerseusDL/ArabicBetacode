@@ -9,19 +9,19 @@
 
 ############################################################
 ## betaCodeAuto
-.hadda_tan_a alq_asimu bnu diyn_ari.n alkuwfiyyu .hadda_tan_a `ubaydu allahi `an 'iisr_a'iiyla `an `abdi al'a`la/a `an sa`iydi bni ^gubayri.n `ani abni `abb_asi.n q_ala q_ala rasuwlu allahi .sl`m al`abb_asu minniy wa'an_a minhu q_ala ha_d_a .hadiy_tu.n .hasanu.n .sa.hiy.hu.n .gariybu.n l_a na`rifuhu 'iil_aa min .hadiy_ti 'iisr_a'iiyla
+.hadda_tan_a alq_asimu bnu d_in_ari.n alk_uf_iyu .hadda_tan_a `ubaydu allahi `an 'isr_a'_ila `an `abdi al'a`l/a `an sa`_idi bni ^gubayri.n `ani abni `abb_asi.n q_ala q_ala ras_ulu allahi .sl`m al`abb_asu minn_i wa'an_a minhu q_ala ha_d_a .had_i_tu.n .hasanu.n .sa.h_i.hu.n .gar_ibu.n l_a na`rifuhu 'il_aa min .had_i_ti 'isr_a'_ila
 
 ############################################################
 ## betaCodeManual
-.hadda_tan_a alq_asimu bnu diyn_ari.n alkuwfiyyu .hadda_tan_a `ubaydu allahi `an 'iisr_a'iiyla `an `abdi al'a`la/a `an sa`iydi bni ^gubayri.n `ani abni `abb_asi.n q_ala q_ala rasuwlu allahi .sl`m al`abb_asu minniy wa'an_a minhu q_ala ha_d_a .hadiy_tu.n .hasanu.n .sa.hiy.hu.n .gariybu.n l_a na`rifuhu 'iil_aa min .hadiy_ti 'iisr_a'iiyla
+.hadda_tan_a alq_asimu bnu d_in_ari.n alk_uf_iyu .hadda_tan_a `ubaydu allahi `an 'isr_a'_ila `an `abdi al'a`l/a `an sa`_idi bni ^gubayri.n `ani abni `abb_asi.n q_ala q_ala ras_ulu allahi .sl`m al`abb_asu minn_i wa'an_a minhu q_ala ha_d_a .had_i_tu.n .hasanu.n .sa.h_i.hu.n .gar_ibu.n l_a na`rifuhu 'il_aa min .had_i_ti 'isr_a'_ila
 
 ############################################################
 ## betaCodeManual>Translit
-ḥaddaṯanā alḳāsimu bnu diynāriȵ alkuwfiyyu ḥaddaṯanā ʿubaydu allahi ʿan ʾiisrāʾiiyla ʿan ʿabdi alʾaʿlaá ʿan saʿiydi bni ǧubayriȵ ʿani abni ʿabbāsiȵ ḳāla ḳāla rasuwlu allahi ṣlʿm alʿabbāsu minniy waʾanā minhu ḳāla haḏā ḥadiyṯuȵ ḥasanuȵ ṣaḥiyḥuȵ ġariybuȵ lā naʿrifuhu ʾiilāa min ḥadiyṯi ʾiisrāʾiiyla
+ḥaddaṯanā alḳāsimu bnu dīnāriȵ alkūfīyu ḥaddaṯanā ʿubaydu allahi ʿan ʾisrāʾīla ʿan ʿabdi alʾaʿlá ʿan saʿīdi bni ǧubayriȵ ʿani abni ʿabbāsiȵ ḳāla ḳāla rasūlu allahi ṣlʿm alʿabbāsu minnī waʾanā minhu ḳāla haḏā ḥadīṯuȵ ḥasanuȵ ṣaḥīḥuȵ ġarībuȵ lā naʿrifuhu ʾilāa min ḥadīṯi ʾisrāʾīla
 
 ############################################################
 ## betaCodeManual>Arabic
-حَدَّثَنَا أَلْقَاسِمُ بْنُ دِيْنَارٍ أَلْكُوْفِيُّ حَدَّثَنَا عُبَيْدُ أَلَّهِ عَنْ إِِسْرائِِيْلَ عَنْ عَبْدِ أَلْأَعْلَٰى عَنْ سَعِيْدِ بْنِ جُبَيْرٍ عَنِ أَبْنِ عَبّاسٍ قَالَ قَالَ رَسُوْلُ أَلَّهِ صْلْعْمْ أَلْعَبّاسُ مِنِّيْ وَأَنَا مِنْهُ قَالَ هَذَا حَدِيْثٌ حَسَنٌ صَحِيْحٌ غَرِيْبٌ لَا نَعْرِفُهُ إِِلَاَ مِنْ حَدِيْثِ إِِسْرائِِيْلَ
+حَدَّثَنَا أَلْقَاسِمُ بْنُ دِينَارٍ أَلْكُوفِييُ حَدَّثَنَا عُبَيْدُ أَلَّهِ عَنْ إِسْرائِيلَ عَنْ عَبْدِ أَلْأَعْلٰى عَنْ سَعِيدِ بْنِ جُبَيْرٍ عَنِ أَبْنِ عَبّاسٍ قَالَ قَالَ رَسُولُ أَلَّهِ صْلْعْمْ أَلْعَبّاسُ مِنّي وَأَنَا مِنْهُ قَالَ هَذَا حَدِيثٌ حَسَنٌ صَحِيحٌ غَرِيبٌ لَا نَعْرِفُهُ إِلَاَ مِنْ حَدِيثِ إِسْرائِيلَ
 
 ############################################################
 ## TranslationBetaCode

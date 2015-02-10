@@ -9,19 +9,19 @@
 
 ############################################################
 ## betaCodeAuto
-.hadda_tan_a 'abuw alwaliydi q_ala .hadda_tan_a ^su`ba:tu `an sa`di bni 'iibr_ahiyma `an 'abiy salama:ta `an 'abiy hurayra:ta q_ala .salla/a alnnabiyyu .sl`m al.zzuhra rak`atayni faqiyla .sallayta rak`atayni fa.salla/a rak`atayni _tumma sallama _tumma sa^gada sa^gdatayni
+.hadda_tan_a 'ab_u alwal_idi q_ala .hadda_tan_a ^su`ba:tu `an sa`di bni 'ibr_ah_ima `an 'ab_i salama:ta `an 'ab_i hurayra:ta q_ala .sall/a alnnab_iyu .sl`m al.zzuhra rak`atayni faq_ila .sallayta rak`atayni fa.sall/a rak`atayni _tumma sallama _tumma sa^gada sa^gdatayni
 
 ############################################################
 ## betaCodeManual
-.hadda_tan_a 'abuw alwaliydi q_ala .hadda_tan_a ^su`ba:tu `an sa`di bni 'iibr_ahiyma `an 'abiy salama:ta `an 'abiy hurayra:ta q_ala .salla/a alnnabiyyu .sl`m al.zzuhra rak`atayni faqiyla .sallayta rak`atayni fa.salla/a rak`atayni _tumma sallama _tumma sa^gada sa^gdatayni
+.hadda_tan_a 'ab_u alwal_idi q_ala .hadda_tan_a ^su`ba:tu `an sa`di bni 'ibr_ah_ima `an 'ab_i salama:ta `an 'ab_i hurayra:ta q_ala .sall/a alnnab_iyu .sl`m al.zzuhra rak`atayni faq_ila .sallayta rak`atayni fa.sall/a rak`atayni _tumma sallama _tumma sa^gada sa^gdatayni
 
 ############################################################
 ## betaCodeManual>Translit
-ḥaddaṯanā ʾabuw alwaliydi ḳāla ḥaddaṯanā šuʿbaŧu ʿan saʿdi bni ʾiibrāhiyma ʿan ʾabiy salamaŧa ʿan ʾabiy hurayraŧa ḳāla ṣallaá alnnabiyyu ṣlʿm alẓzuhra rakʿatayni faḳiyla ṣallayta rakʿatayni faṣallaá rakʿatayni ṯumma sallama ṯumma saǧada saǧdatayni
+ḥaddaṯanā ʾabū alwalīdi ḳāla ḥaddaṯanā šuʿbaŧu ʿan saʿdi bni ʾibrāhīma ʿan ʾabī salamaŧa ʿan ʾabī hurayraŧa ḳāla ṣallá alnnabīyu ṣlʿm alẓzuhra rakʿatayni faḳīla ṣallayta rakʿatayni faṣallá rakʿatayni ṯumma sallama ṯumma saǧada saǧdatayni
 
 ############################################################
 ## betaCodeManual>Arabic
-حَدَّثَنَا أَبُوْ أَلْوَلِيْدِ قَالَ حَدَّثَنَا شُعْبَةُ عَنْ سَعْدِ بْنِ إِِبْرَاهِيْمَ عَنْ أَبِيْ سَلَمَةَ عَنْ أَبِيْ هُرَيْرَةَ قَالَ صَلَّٰى أَلْنَّبِيُّ صْلْعْمْ أَلْظْزُهْرَ رَكْعَتَيْنِ فَقِيْلَ صَلَّيْتَ رَكْعَتَيْنِ فَصَلَّٰى رَكْعَتَيْنِ ثُمَّ سَلَّمَ ثُمَّ سَجَدَ سَجْدَتَيْنِ
+حَدَّثَنَا أَبُو أَلْوَلِيدِ قَالَ حَدَّثَنَا شُعْبَةُ عَنْ سَعْدِ بْنِ إِبْرَاهِيمَ عَنْ أَبِي سَلَمَةَ عَنْ أَبِي هُرَيْرَةَ قَالَ صَلّٰى أَلْنَّبِييُ صْلْعْمْ أَلْظْزُهْرَ رَكْعَتَيْنِ فَقِيلَ صَلَّيْتَ رَكْعَتَيْنِ فَصَلّٰى رَكْعَتَيْنِ ثُمَّ سَلَّمَ ثُمَّ سَجَدَ سَجْدَتَيْنِ
 
 ############################################################
 ## TranslationBetaCode

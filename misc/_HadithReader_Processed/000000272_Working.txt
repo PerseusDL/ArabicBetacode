@@ -9,19 +9,19 @@
 
 ############################################################
 ## betaCodeAuto
-.hadda_tan_a ya.hya/a bnu 'ayyuwba waqutayba:tu w_abnu .hu^gri.n q_aluw_a .hadda_tan_a 'iism_a`iylu wahuwa abnu ^ga`fari.n `ani al`al_a'i `an 'abiyhi `an 'abiy hurayra:ta 'anna rasuwla allahi .sl`m q_ala man .salla/a `ala/aa w_a.hida:ta.n .salla/a allahu `alayhi `a^sra.n_a
+.hadda_tan_a ya.hy/a bnu 'ayy_uba waqutayba:tu w_abnu .hu^gri.n q_al_u_a .hadda_tan_a 'ism_a`_ilu wah_ua abnu ^ga`fari.n `ani al`al_a'i `an 'ab_ihi `an 'ab_i hurayra:ta 'anna ras_ula allahi .sl`m q_ala man .sall/a `al/aa w_a.hida:ta.n .sall/a allahu `alayhi `a^sra.n_a
 
 ############################################################
 ## betaCodeManual
-.hadda_tan_a ya.hya/a bnu 'ayyuwba waqutayba:tu w_abnu .hu^gri.n q_aluw_a .hadda_tan_a 'iism_a`iylu wahuwa abnu ^ga`fari.n `ani al`al_a'i `an 'abiyhi `an 'abiy hurayra:ta 'anna rasuwla allahi .sl`m q_ala man .salla/a `ala/aa w_a.hida:ta.n .salla/a allahu `alayhi `a^sra.n_a
+.hadda_tan_a ya.hy/a bnu 'ayy_uba waqutayba:tu w_abnu .hu^gri.n q_al_u_a .hadda_tan_a 'ism_a`_ilu wah_ua abnu ^ga`fari.n `ani al`al_a'i `an 'ab_ihi `an 'ab_i hurayra:ta 'anna ras_ula allahi .sl`m q_ala man .sall/a `al/aa w_a.hida:ta.n .sall/a allahu `alayhi `a^sra.n_a
 
 ############################################################
 ## betaCodeManual>Translit
-ḥaddaṯanā yaḥyaá bnu ʾayyuwba waḳutaybaŧu wābnu ḥuǧriȵ ḳāluwā ḥaddaṯanā ʾiismāʿiylu wahuwa abnu ǧaʿfariȵ ʿani alʿalāʾi ʿan ʾabiyhi ʿan ʾabiy hurayraŧa ʾanna rasuwla allahi ṣlʿm ḳāla man ṣallaá ʿalaáa wāḥidaŧaȵ ṣallaá allahu ʿalayhi ʿašraȵā
+ḥaddaṯanā yaḥyá bnu ʾayyūba waḳutaybaŧu wābnu ḥuǧriȵ ḳālūā ḥaddaṯanā ʾismāʿīlu wahūa abnu ǧaʿfariȵ ʿani alʿalāʾi ʿan ʾabīhi ʿan ʾabī hurayraŧa ʾanna rasūla allahi ṣlʿm ḳāla man ṣallá ʿaláa wāḥidaŧaȵ ṣallá allahu ʿalayhi ʿašraȵā
 
 ############################################################
 ## betaCodeManual>Arabic
-حَدَّثَنَا يَحْيَٰى بْنُ أَيُّوْبَ وَقُتَيْبَةُ وَابْنُ حُجْرٍ قَالُوَا حَدَّثَنَا إِِسْمَاعِيْلُ وَهُوَ أَبْنُ جَعْفَرٍ عَنِ أَلْعَلاءِ عَنْ أَبِيْهِ عَنْ أَبِيْ هُرَيْرَةَ أَنَّ رَسُوْلَ أَلَّهِ صْلْعْمْ قَالَ مَنْ صَلَّٰى عَلَٰىَ وَاحِدَةً صَلَّٰى أَلَّهُ عَلَيْهِ عَشْراًا
+حَدَّثَنَا يَحْيٰى بْنُ أَيّوبَ وَقُتَيْبَةُ وَابْنُ حُجْرٍ قَالُوا حَدَّثَنَا إِسْمَاعِيلُ وَهُوَ أَبْنُ جَعْفَرٍ عَنِ أَلْعَلاءِ عَنْ أَبِيهِ عَنْ أَبِي هُرَيْرَةَ أَنَّ رَسُولَ أَلَّهِ صْلْعْمْ قَالَ مَنْ صَلّٰى عَلٰىَ وَاحِدَةً صَلّٰى أَلَّهُ عَلَيْهِ عَشْراًا
 
 ############################################################
 ## TranslationBetaCode

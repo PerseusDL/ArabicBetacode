@@ -9,19 +9,19 @@
 
 ############################################################
 ## betaCodeAuto
-.hadda_tan_a ya.hya/a bnu muwsa/a .hadda_tan_a `abdu alrrazz_aqi 'a_hbaran_a ma`maru.n `an hamm_ami bni munabbihi.n .hadda_tan_a 'abuw hurayra:ta `an rasuwli allahi .sl`m 'anna d_awuda  `alayhi alssal_amu  k_ana l_a ya'akulu 'iil_aa min `amali yadihi
+.hadda_tan_a ya.hy/a bnu m_us/a .hadda_tan_a `abdu alrrazz_aqi 'a_hbaran_a ma`maru.n `an hamm_ami bni munabbihi.n .hadda_tan_a 'ab_u hurayra:ta `an ras_uli allahi .sl`m 'anna d_awuda  `alayhi alssal_amu  k_ana l_a ya'akulu 'il_aa min `amali yadihi
 
 ############################################################
 ## betaCodeManual
-.hadda_tan_a ya.hya/a bnu muwsa/a .hadda_tan_a `abdu alrrazz_aqi 'a_hbaran_a ma`maru.n `an hamm_ami bni munabbihi.n .hadda_tan_a 'abuw hurayra:ta `an rasuwli allahi .sl`m 'anna d_awuda  `alayhi alssal_amu  k_ana l_a ya'akulu 'iil_aa min `amali yadihi
+.hadda_tan_a ya.hy/a bnu m_us/a .hadda_tan_a `abdu alrrazz_aqi 'a_hbaran_a ma`maru.n `an hamm_ami bni munabbihi.n .hadda_tan_a 'ab_u hurayra:ta `an ras_uli allahi .sl`m 'anna d_awuda  `alayhi alssal_amu  k_ana l_a ya'akulu 'il_aa min `amali yadihi
 
 ############################################################
 ## betaCodeManual>Translit
-ḥaddaṯanā yaḥyaá bnu muwsaá ḥaddaṯanā ʿabdu alrrazzāḳi ʾaḫbaranā maʿmaruȵ ʿan hammāmi bni munabbihiȵ ḥaddaṯanā ʾabuw hurayraŧa ʿan rasuwli allahi ṣlʿm ʾanna dāwuda  ʿalayhi alssalāmu  kāna lā yaʾakulu ʾiilāa min ʿamali yadihi
+ḥaddaṯanā yaḥyá bnu mūsá ḥaddaṯanā ʿabdu alrrazzāḳi ʾaḫbaranā maʿmaruȵ ʿan hammāmi bni munabbihiȵ ḥaddaṯanā ʾabū hurayraŧa ʿan rasūli allahi ṣlʿm ʾanna dāwuda  ʿalayhi alssalāmu  kāna lā yaʾakulu ʾilāa min ʿamali yadihi
 
 ############################################################
 ## betaCodeManual>Arabic
-حَدَّثَنَا يَحْيَٰى بْنُ مُوْسَٰى حَدَّثَنَا عَبْدُ أَلْرَّزّاقِ أَخْبَرَنَا مَعْمَرٌ عَنْ هَمّامِ بْنِ مُنَبِّهٍ حَدَّثَنَا أَبُوْ هُرَيْرَةَ عَنْ رَسُوْلِ أَلَّهِ صْلْعْمْ أَنَّ دَاوُدَ  عَلَيْهِ أَلْسَّلَامُ  كَانَ لَا يَأَكُلُ إِِلَاَ مِنْ عَمَلِ يَدِهِ
+حَدَّثَنَا يَحْيٰى بْنُ مُوسٰى حَدَّثَنَا عَبْدُ أَلْرَّزّاقِ أَخْبَرَنَا مَعْمَرٌ عَنْ هَمّامِ بْنِ مُنَبِّهٍ حَدَّثَنَا أَبُو هُرَيْرَةَ عَنْ رَسُولِ أَلَّهِ صْلْعْمْ أَنَّ دَاوُدَ  عَلَيْهِ أَلْسَّلَامُ  كَانَ لَا يَأَكُلُ إِلَاَ مِنْ عَمَلِ يَدِهِ
 
 ############################################################
 ## TranslationBetaCode

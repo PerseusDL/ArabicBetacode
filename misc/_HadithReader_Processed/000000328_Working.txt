@@ -9,19 +9,19 @@
 
 ############################################################
 ## betaCodeAuto
-.hadda_taniy `abdu allahi bnu 'abiy ^sayba:ta .hadda_tan_a ya.hya/a bnu sa`iydi.n `an sufy_ana `an muwsa/a bni 'abiy `_a'ii^sa:ta `an `ubaydi allahi bni `abdi allahi bni `utba:ta `an `_a'ii^sa:ta w_abni `abb_asi.n 'anna 'ab_a bakri.n  r.d/a allh `nh  qabbala alnnabiyya .sl`m ba`da mawtihi
+.hadda_tan_i `abdu allahi bnu 'ab_i ^sayba:ta .hadda_tan_a ya.hy/a bnu sa`_idi.n `an sufy_ana `an m_us/a bni 'ab_i `_a'i^sa:ta `an `ubaydi allahi bni `abdi allahi bni `utba:ta `an `_a'i^sa:ta w_abni `abb_asi.n 'anna 'ab_a bakri.n  r.d/a allh `nh  qabbala alnnab_iya .sl`m ba`da mawtihi
 
 ############################################################
 ## betaCodeManual
-.hadda_taniy `abdu allahi bnu 'abiy ^sayba:ta .hadda_tan_a ya.hya/a bnu sa`iydi.n `an sufy_ana `an muwsa/a bni 'abiy `_a'ii^sa:ta `an `ubaydi allahi bni `abdi allahi bni `utba:ta `an `_a'ii^sa:ta w_abni `abb_asi.n 'anna 'ab_a bakri.n  r.d/a allh `nh  qabbala alnnabiyya .sl`m ba`da mawtihi
+.hadda_tan_i `abdu allahi bnu 'ab_i ^sayba:ta .hadda_tan_a ya.hy/a bnu sa`_idi.n `an sufy_ana `an m_us/a bni 'ab_i `_a'i^sa:ta `an `ubaydi allahi bni `abdi allahi bni `utba:ta `an `_a'i^sa:ta w_abni `abb_asi.n 'anna 'ab_a bakri.n  r.d/a allh `nh  qabbala alnnab_iya .sl`m ba`da mawtihi
 
 ############################################################
 ## betaCodeManual>Translit
-ḥaddaṯaniy ʿabdu allahi bnu ʾabiy šaybaŧa ḥaddaṯanā yaḥyaá bnu saʿiydiȵ ʿan sufyāna ʿan muwsaá bni ʾabiy ʿāʾiišaŧa ʿan ʿubaydi allahi bni ʿabdi allahi bni ʿutbaŧa ʿan ʿāʾiišaŧa wābni ʿabbāsiȵ ʾanna ʾabā bakriȵ  rḍá allh ʿnh  ḳabbala alnnabiyya ṣlʿm baʿda mawtihi
+ḥaddaṯanī ʿabdu allahi bnu ʾabī šaybaŧa ḥaddaṯanā yaḥyá bnu saʿīdiȵ ʿan sufyāna ʿan mūsá bni ʾabī ʿāʾišaŧa ʿan ʿubaydi allahi bni ʿabdi allahi bni ʿutbaŧa ʿan ʿāʾišaŧa wābni ʿabbāsiȵ ʾanna ʾabā bakriȵ  rḍá allh ʿnh  ḳabbala alnnabīya ṣlʿm baʿda mawtihi
 
 ############################################################
 ## betaCodeManual>Arabic
-حَدَّثَنِيْ عَبْدُ أَلَّهِ بْنُ أَبِيْ شَيْبَةَ حَدَّثَنَا يَحْيَٰى بْنُ سَعِيْدٍ عَنْ سُفْيَانَ عَنْ مُوْسَٰى بْنِ أَبِيْ عائِِشَةَ عَنْ عُبَيْدِ أَلَّهِ بْنِ عَبْدِ أَلَّهِ بْنِ عُتْبَةَ عَنْ عائِِشَةَ وَابْنِ عَبّاسٍ أَنَّ أَبَا بَكْرٍ  رْضٰى أَلّهْ عْنْهْ  قَبَّلَ أَلْنَّبِيَّ صْلْعْمْ بَعْدَ مَوْتِهِ
+حَدَّثَنِي عَبْدُ أَلَّهِ بْنُ أَبِي شَيْبَةَ حَدَّثَنَا يَحْيٰى بْنُ سَعِيدٍ عَنْ سُفْيَانَ عَنْ مُوسٰى بْنِ أَبِي عائِشَةَ عَنْ عُبَيْدِ أَلَّهِ بْنِ عَبْدِ أَلَّهِ بْنِ عُتْبَةَ عَنْ عائِشَةَ وَابْنِ عَبّاسٍ أَنَّ أَبَا بَكْرٍ  رْضٰى أَلّهْ عْنْهْ  قَبَّلَ أَلْنَّبِييَ صْلْعْمْ بَعْدَ مَوْتِهِ
 
 ############################################################
 ## TranslationBetaCode

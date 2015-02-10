@@ -9,19 +9,19 @@
 
 ############################################################
 ## betaCodeAuto
-.hadda_tan_a 'a.hmadu bnu yuwnusa .hadda_tan_a zuhayru.n .hadda_tan_a 'abuw alzzubayri `an ^g_abiri.n yarfa`uhu 'iila/a alnnabiyyi .sl`m
+.hadda_tan_a 'a.hmadu bnu y_unusa .hadda_tan_a zuhayru.n .hadda_tan_a 'ab_u alzzubayri `an ^g_abiri.n yarfa`uhu 'il/a alnnab_iyi .sl`m
 
 ############################################################
 ## betaCodeManual
-.hadda_tan_a 'a.hmadu bnu yuwnusa .hadda_tan_a zuhayru.n .hadda_tan_a 'abuw alzzubayri `an ^g_abiri.n yarfa`uhu 'iila/a alnnabiyyi .sl`m
+.hadda_tan_a 'a.hmadu bnu y_unusa .hadda_tan_a zuhayru.n .hadda_tan_a 'ab_u alzzubayri `an ^g_abiri.n yarfa`uhu 'il/a alnnab_iyi .sl`m
 
 ############################################################
 ## betaCodeManual>Translit
-ḥaddaṯanā ʾaḥmadu bnu yuwnusa ḥaddaṯanā zuhayruȵ ḥaddaṯanā ʾabuw alzzubayri ʿan ǧābiriȵ yarfaʿuhu ʾiilaá alnnabiyyi ṣlʿm
+ḥaddaṯanā ʾaḥmadu bnu yūnusa ḥaddaṯanā zuhayruȵ ḥaddaṯanā ʾabū alzzubayri ʿan ǧābiriȵ yarfaʿuhu ʾilá alnnabīyi ṣlʿm
 
 ############################################################
 ## betaCodeManual>Arabic
-حَدَّثَنَا أَحْمَدُ بْنُ يُوْنُسَ حَدَّثَنَا زُهَيْرٌ حَدَّثَنَا أَبُوْ أَلْزُّبَيْرِ عَنْ جَابِرٍ يَرْفَعُهُ إِِلَٰى أَلْنَّبِيِّ صْلْعْمْ
+حَدَّثَنَا أَحْمَدُ بْنُ يُونُسَ حَدَّثَنَا زُهَيْرٌ حَدَّثَنَا أَبُو أَلْزُّبَيْرِ عَنْ جَابِرٍ يَرْفَعُهُ إِلٰى أَلْنَّبِييِ صْلْعْمْ
 
 ############################################################
 ## TranslationBetaCode
