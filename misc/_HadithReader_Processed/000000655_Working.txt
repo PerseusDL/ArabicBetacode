@@ -1,0 +1,33 @@
+############################################################
+## hadithID::     muslim39_358161
+## Completed by:: ADDYOURNAME
+## Finished::     NO/YES
+
+############################################################
+## ArabicInitial
+حَدَّثَنَا يَحْيَى بْنُ يَحْيَى أَخْبَرَنَا هُشَيْمٌ عَنْ عُبَيْدِ اللَّهِ بْنِ أَبِي بَكْرٍ قَالَ سَمِعْتُ أَنَسًا يَقُولُ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ح وَحَدَّثَنِي إِسْمَاعِيلُ بْنُ سَالِمٍ حَدَّثَنَا هُشَيْمٌ أَخْبَرَنَا عُبَيْدُ اللَّهِ بْنُ أَبِي بَكْرٍ عَنْ جَدِّهِ أَنَسِ بْنِ مَالِكٍ أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ إِذَا سَلَّمَ عَلَيْكُمْ أَهْلُ الْكِتَابِ فَقُولُوا وَعَلَيْكُمْ
+
+############################################################
+## betaCodeAuto
+.hadda_tan_a ya.hy/a bnu ya.hy/a 'a_hbaran_a hu^saymu.n `an `ubaydi allahi bni 'ab_i bakri.n q_ala sami`tu 'anasa.n_a yaq_ulu q_ala ras_ulu allahi .sl`m .h wa.hadda_tan_i 'ism_a`_ilu bnu s_alimi.n .hadda_tan_a hu^saymu.n 'a_hbaran_a `ubaydu allahi bnu 'ab_i bakri.n `an ^gaddihi 'anasi bni m_aliki.n 'anna ras_ula allahi .sl`m q_ala 'i_d_a sallama `alaykum 'ahlu alkit_abi faq_ul_u_a wa`alaykum
+
+############################################################
+## betaCodeManual
+.hadda_tan_a ya.hy/a bnu ya.hy/a 'a_hbaran_a hu^saymu.n `an `ubaydi allahi bni 'ab_i bakri.n q_ala sami`tu 'anasa.n_a yaq_ulu q_ala ras_ulu allahi .sl`m .h wa.hadda_tan_i 'ism_a`_ilu bnu s_alimi.n .hadda_tan_a hu^saymu.n 'a_hbaran_a `ubaydu allahi bnu 'ab_i bakri.n `an ^gaddihi 'anasi bni m_aliki.n 'anna ras_ula allahi .sl`m q_ala 'i_d_a sallama `alaykum 'ahlu alkit_abi faq_ul_u_a wa`alaykum
+
+############################################################
+## betaCodeManual>Translit
+ḥaddaṯanā yaḥyá bnu yaḥyá ʾaḫbaranā hušaymuȵ ʿan ʿubaydi allahi bni ʾabī bakriȵ ḳāla samiʿtu ʾanasaȵā yaḳūlu ḳāla rasūlu allahi ṣlʿm ḥ waḥaddaṯanī ʾismāʿīlu bnu sālimiȵ ḥaddaṯanā hušaymuȵ ʾaḫbaranā ʿubaydu allahi bnu ʾabī bakriȵ ʿan ǧaddihi ʾanasi bni mālikiȵ ʾanna rasūla allahi ṣlʿm ḳāla ʾiḏā sallama ʿalaykum ʾahlu alkitābi faḳūlūā waʿalaykum
+
+############################################################
+## betaCodeManual>Arabic
+حَدَّثَنَا يَحْيٰى بْنُ يَحْيٰى أَخْبَرَنَا هُشَيْمٌ عَنْ عُبَيْدِ أَلَّهِ بْنِ أَبِي بَكْرٍ قَالَ سَمِعْتُ أَنَساًا يَقُولُ قَالَ رَسُولُ أَلَّهِ صْلْعْمْ حْ وَحَدَّثَنِي إِسْمَاعِيلُ بْنُ سَالِمٍ حَدَّثَنَا هُشَيْمٌ أَخْبَرَنَا عُبَيْدُ أَلَّهِ بْنُ أَبِي بَكْرٍ عَنْ جَدِّهِ أَنَسِ بْنِ مَالِكٍ أَنَّ رَسُولَ أَلَّهِ صْلْعْمْ قَالَ إِذَا سَلَّمَ عَلَيْكُمْ أَهْلُ أَلْكِتَابِ فَقُولُوا وَعَلَيْكُمْ
+
+############################################################
+## TranslationBetaCode
+Type your translation on this line
+
+############################################################
+## TranslationTranslit
+Translation with transliterated names will appear here
+

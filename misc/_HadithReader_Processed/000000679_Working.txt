@@ -1,0 +1,33 @@
+############################################################
+## hadithID::     tirmidhi09_708520
+## Completed by:: ADDYOURNAME
+## Finished::     NO/YES
+
+############################################################
+## ArabicInitial
+حَدَّثَنَا قُتَيْبَةُ حَدَّثَنَا حَمَّادُ بْنُ زَيْدٍ عَنْ أَيُّوبَ عَنْ عِكْرِمَةَ عَنِ ابْنِ عَبَّاسٍ أَنَّ النَّبِيَّ صلى الله عليه وسلم تَزَوَّجَ مَيْمُونَةَ وَهُوَ مُحْرِمٌ
+
+############################################################
+## betaCodeAuto
+.hadda_tan_a qutayba:tu .hadda_tan_a .hamm_adu bnu zaydi.n `an 'ayy_uba `an `ikrima:ta `ani abni `abb_asi.n 'anna alnnab_iya .sl`m tazawwa^ga maym_una:ta wah_ua mu.hrimu.n
+
+############################################################
+## betaCodeManual
+.hadda_tan_a qutayba:tu .hadda_tan_a .hamm_adu bnu zaydi.n `an 'ayy_uba `an `ikrima:ta `ani abni `abb_asi.n 'anna alnnab_iya .sl`m tazawwa^ga maym_una:ta wah_ua mu.hrimu.n
+
+############################################################
+## betaCodeManual>Translit
+ḥaddaṯanā ḳutaybaŧu ḥaddaṯanā ḥammādu bnu zaydiȵ ʿan ʾayyūba ʿan ʿikrimaŧa ʿani abni ʿabbāsiȵ ʾanna alnnabīya ṣlʿm tazawwaǧa maymūnaŧa wahūa muḥrimuȵ
+
+############################################################
+## betaCodeManual>Arabic
+حَدَّثَنَا قُتَيْبَةُ حَدَّثَنَا حَمّادُ بْنُ زَيْدٍ عَنْ أَيّوبَ عَنْ عِكْرِمَةَ عَنِ أَبْنِ عَبّاسٍ أَنَّ أَلْنَّبِييَ صْلْعْمْ تَزَوَّجَ مَيْمُونَةَ وَهُوَ مُحْرِمٌ
+
+############################################################
+## TranslationBetaCode
+Type your translation on this line
+
+############################################################
+## TranslationTranslit
+Translation with transliterated names will appear here
+

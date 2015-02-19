@@ -1,0 +1,33 @@
+############################################################
+## hadithID::     bukhari19_110240
+## Completed by:: ADDYOURNAME
+## Finished::     NO/YES
+
+############################################################
+## ArabicInitial
+حَدَّثَنَا مُسَدَّدٌ قَالَ حَدَّثَنَا يَحْيَى عَنْ شُعْبَةَ قَالَ حَدَّثَنِي أَبُو جَمْرَةَ عَنِ ابْنِ عَبَّاسٍ ـ رضى الله عنهما ـ قَالَ كَانَ صَلاَةُ النَّبِيِّ صلى الله عليه وسلم ثَلاَثَ عَشْرَةَ رَكْعَةً يَعْنِي بِاللَّيْلِ
+
+############################################################
+## betaCodeAuto
+.hadda_tan_a musaddadu.n q_ala .hadda_tan_a ya.hy/a `an ^su`ba:ta q_ala .hadda_tan_i 'ab_u ^gamra:ta `ani abni `abb_asi.n  r.d/a allh `nhm_a  q_ala k_ana .sal_a:tu alnnab_iyi .sl`m _tal_a_ta `a^sra:ta rak`a:ta.n ya`n_i bi_allayli
+
+############################################################
+## betaCodeManual
+.hadda_tan_a musaddadu.n q_ala .hadda_tan_a ya.hy/a `an ^su`ba:ta q_ala .hadda_tan_i 'ab_u ^gamra:ta `ani abni `abb_asi.n  r.d/a allh `nhm_a  q_ala k_ana .sal_a:tu alnnab_iyi .sl`m _tal_a_ta `a^sra:ta rak`a:ta.n ya`n_i bi_allayli
+
+############################################################
+## betaCodeManual>Translit
+ḥaddaṯanā musaddaduȵ ḳāla ḥaddaṯanā yaḥyá ʿan šuʿbaŧa ḳāla ḥaddaṯanī ʾabū ǧamraŧa ʿani abni ʿabbāsiȵ  rḍá allh ʿnhmā  ḳāla kāna ṣalāŧu alnnabīyi ṣlʿm ṯalāṯa ʿašraŧa rakʿaŧaȵ yaʿnī biāllayli
+
+############################################################
+## betaCodeManual>Arabic
+حَدَّثَنَا مُسَدَّدٌ قَالَ حَدَّثَنَا يَحْيٰى عَنْ شُعْبَةَ قَالَ حَدَّثَنِي أَبُو جَمْرَةَ عَنِ أَبْنِ عَبّاسٍ  رْضٰى أَلّهْ عْنْهْمَا  قَالَ كَانَ صَلَاةُ أَلْنَّبِييِ صْلْعْمْ ثَلَاثَ عَشْرَةَ رَكْعَةً يَعْنِي بِالَّيْلِ
+
+############################################################
+## TranslationBetaCode
+Type your translation on this line
+
+############################################################
+## TranslationTranslit
+Translation with transliterated names will appear here
+

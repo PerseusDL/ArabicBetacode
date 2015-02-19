@@ -1,0 +1,33 @@
+############################################################
+## hadithID::     bukhari28_117670
+## Completed by:: ADDYOURNAME
+## Finished::     NO/YES
+
+############################################################
+## ArabicInitial
+حَدَّثَنَا عَبْدُ الرَّحْمَنِ بْنُ يُونُسَ حَدَّثَنَا حَاتِمُ بْنُ إِسْمَاعِيلَ عَنْ مُحَمَّدِ بْنِ يُوسُفَ عَنِ السَّائِبِ بْنِ يَزِيدَ قَالَ حُجَّ بِي مَعَ رَسُولِ اللَّهِ صلى الله عليه وسلم وَأَنَا ابْنُ سَبْعِ سِنِينَ
+
+############################################################
+## betaCodeAuto
+.hadda_tan_a `abdu alrra.hmani bnu y_unusa .hadda_tan_a .h_atimu bnu 'ism_a`_ila `an mu.hammadi bni y_usufa `ani alss_a'ibi bni yaz_ida q_ala .hu^gga b_i ma`a ras_uli allahi .sl`m wa'an_a abnu sab`i sin_ina
+
+############################################################
+## betaCodeManual
+.hadda_tan_a `abdu alrra.hmani bnu y_unusa .hadda_tan_a .h_atimu bnu 'ism_a`_ila `an mu.hammadi bni y_usufa `ani alss_a'ibi bni yaz_ida q_ala .hu^gga b_i ma`a ras_uli allahi .sl`m wa'an_a abnu sab`i sin_ina
+
+############################################################
+## betaCodeManual>Translit
+ḥaddaṯanā ʿabdu alrraḥmani bnu yūnusa ḥaddaṯanā ḥātimu bnu ʾismāʿīla ʿan muḥammadi bni yūsufa ʿani alssāʾibi bni yazīda ḳāla ḥuǧga bī maʿa rasūli allahi ṣlʿm waʾanā abnu sabʿi sinīna
+
+############################################################
+## betaCodeManual>Arabic
+حَدَّثَنَا عَبْدُ أَلْرَّحْمَنِ بْنُ يُونُسَ حَدَّثَنَا حَاتِمُ بْنُ إِسْمَاعِيلَ عَنْ مُحَمَّدِ بْنِ يُوسُفَ عَنِ أَلْسّائِبِ بْنِ يَزِيدَ قَالَ حُجْگَ بِي مَعَ رَسُولِ أَلَّهِ صْلْعْمْ وَأَنَا أَبْنُ سَبْعِ سِنِينَ
+
+############################################################
+## TranslationBetaCode
+Type your translation on this line
+
+############################################################
+## TranslationTranslit
+Translation with transliterated names will appear here
+

@@ -1,0 +1,33 @@
+############################################################
+## hadithID::     ibnmajah05_1309250
+## Completed by:: ADDYOURNAME
+## Finished::     NO/YES
+
+############################################################
+## ArabicInitial
+حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ حَدَّثَنَا يَحْيَى بْنُ أَبِي بُكَيْرٍ حَدَّثَنَا زُهَيْرُ بْنُ مُحَمَّدٍ عَنْ عَبْدِ اللَّهِ بْنِ مُحَمَّدِ بْنِ عَقِيلٍ عَنْ سَعِيدِ بْنِ الْمُسَيَّبِ عَنْ أَبِي سَعِيدٍ الْخُدْرِيِّ أَنَّهُ سَمِعَ رَسُولَ اللَّهِ ـ صلى الله عليه وسلم ـ يَقُولُ إِذَا قَالَ الإِمَامُ سَمِعَ اللَّهُ لِمَنْ حَمِدَهُ فَقُولُوا اللَّهُمَّ رَبَّنَا وَلَكَ الْحَمْدُ
+
+############################################################
+## betaCodeAuto
+.hadda_tan_a 'ab_u bakri bnu 'ab_i ^sayba:ta .hadda_tan_a ya.hy/a bnu 'ab_i bukayri.n .hadda_tan_a zuhayru bnu mu.hammadi.n `an `abdi allahi bni mu.hammadi bni `aq_ili.n `an sa`_idi bni almusayyabi `an 'ab_i sa`_idi.n al_hudr_iyi 'annahu sami`a ras_ula allahi  .sl`m  yaq_ulu 'i_d_a q_ala al'im_amu sami`a allahu liman .hamidahu faq_ul_u_a allahumma rabban_a walaka al.hamdu
+
+############################################################
+## betaCodeManual
+.hadda_tan_a 'ab_u bakri bnu 'ab_i ^sayba:ta .hadda_tan_a ya.hy/a bnu 'ab_i bukayri.n .hadda_tan_a zuhayru bnu mu.hammadi.n `an `abdi allahi bni mu.hammadi bni `aq_ili.n `an sa`_idi bni almusayyabi `an 'ab_i sa`_idi.n al_hudr_iyi 'annahu sami`a ras_ula allahi  .sl`m  yaq_ulu 'i_d_a q_ala al'im_amu sami`a allahu liman .hamidahu faq_ul_u_a allahumma rabban_a walaka al.hamdu
+
+############################################################
+## betaCodeManual>Translit
+ḥaddaṯanā ʾabū bakri bnu ʾabī šaybaŧa ḥaddaṯanā yaḥyá bnu ʾabī bukayriȵ ḥaddaṯanā zuhayru bnu muḥammadiȵ ʿan ʿabdi allahi bni muḥammadi bni ʿaḳīliȵ ʿan saʿīdi bni almusayyabi ʿan ʾabī saʿīdiȵ alḫudrīyi ʾannahu samiʿa rasūla allahi  ṣlʿm  yaḳūlu ʾiḏā ḳāla alʾimāmu samiʿa allahu liman ḥamidahu faḳūlūā allahumma rabbanā walaka alḥamdu
+
+############################################################
+## betaCodeManual>Arabic
+حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ حَدَّثَنَا يَحْيٰى بْنُ أَبِي بُكَيْرٍ حَدَّثَنَا زُهَيْرُ بْنُ مُحَمَّدٍ عَنْ عَبْدِ أَلَّهِ بْنِ مُحَمَّدِ بْنِ عَقِيلٍ عَنْ سَعِيدِ بْنِ أَلْمُسَيَّبِ عَنْ أَبِي سَعِيدٍ أَلْخُدْرِييِ أَنَّهُ سَمِعَ رَسُولَ أَلَّهِ  صْلْعْمْ  يَقُولُ إِذَا قَالَ أَلْئِمَامُ سَمِعَ أَلَّهُ لِمَنْ حَمِدَهُ فَقُولُوا أَلَّهُمَّ رَبَّنَا وَلَكَ أَلْحَمْدُ
+
+############################################################
+## TranslationBetaCode
+Type your translation on this line
+
+############################################################
+## TranslationTranslit
+Translation with transliterated names will appear here
+

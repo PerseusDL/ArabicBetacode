@@ -1,0 +1,33 @@
+############################################################
+## hadithID::     nasai01_1102580
+## Completed by:: ADDYOURNAME
+## Finished::     NO/YES
+
+############################################################
+## ArabicInitial
+أَخْبَرَنَا مُحَمَّدُ بْنُ عُبَيْدِ بْنِ مُحَمَّدٍ قَالَ حَدَّثَنَا عَبْدُ اللَّهِ بْنُ الْمُبَارَكِ عَنْ يُونُسَ عَنِ الزُّهْرِيِّ عَنْ أَبِي سَلَمَةَ عَنْ عَائِشَةَ رضى الله عنها أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم كَانَ إِذَا أَرَادَ أَنْ يَنَامَ وَهُوَ جُنُبٌ تَوَضَّأَ وَإِذَا أَرَادَ أَنْ يَأْكُلَ غَسَلَ يَدَيْهِ
+
+############################################################
+## betaCodeAuto
+'a_hbaran_a mu.hammadu bnu `ubaydi bni mu.hammadi.n q_ala .hadda_tan_a `abdu allahi bnu almub_araki `an y_unusa `ani alzzuhr_iyi `an 'ab_i salama:ta `an `_a'i^sa:ta r.d/a allh `nh_a 'anna ras_ula allahi .sl`m k_ana 'i_d_a 'ar_ada 'an yan_ama wah_ua ^gunubu.n tawa.dda'a wa'i_d_a 'ar_ada 'an ya'akula .gasala yadayhi
+
+############################################################
+## betaCodeManual
+'a_hbaran_a mu.hammadu bnu `ubaydi bni mu.hammadi.n q_ala .hadda_tan_a `abdu allahi bnu almub_araki `an y_unusa `ani alzzuhr_iyi `an 'ab_i salama:ta `an `_a'i^sa:ta r.d/a allh `nh_a 'anna ras_ula allahi .sl`m k_ana 'i_d_a 'ar_ada 'an yan_ama wah_ua ^gunubu.n tawa.dda'a wa'i_d_a 'ar_ada 'an ya'akula .gasala yadayhi
+
+############################################################
+## betaCodeManual>Translit
+ʾaḫbaranā muḥammadu bnu ʿubaydi bni muḥammadiȵ ḳāla ḥaddaṯanā ʿabdu allahi bnu almubāraki ʿan yūnusa ʿani alzzuhrīyi ʿan ʾabī salamaŧa ʿan ʿāʾišaŧa rḍá allh ʿnhā ʾanna rasūla allahi ṣlʿm kāna ʾiḏā ʾarāda ʾan yanāma wahūa ǧunubuȵ tawaḍdaʾa waʾiḏā ʾarāda ʾan yaʾakula ġasala yadayhi
+
+############################################################
+## betaCodeManual>Arabic
+أَخْبَرَنَا مُحَمَّدُ بْنُ عُبَيْدِ بْنِ مُحَمَّدٍ قَالَ حَدَّثَنَا عَبْدُ أَلَّهِ بْنُ أَلْمُبَارَكِ عَنْ يُونُسَ عَنِ أَلْزُّهْرِييِ عَنْ أَبِي سَلَمَةَ عَنْ عائِشَةَ رْضٰى أَلّهْ عْنْهَا أَنَّ رَسُولَ أَلَّهِ صْلْعْمْ كَانَ إِذَا أَرَادَ أَنْ يَنَامَ وَهُوَ جُنُبٌ تَوَضْدَأَ وَئِذَا أَرَادَ أَنْ يَأَكُلَ غَسَلَ يَدَيْهِ
+
+############################################################
+## TranslationBetaCode
+Type your translation on this line
+
+############################################################
+## TranslationTranslit
+Translation with transliterated names will appear here
+

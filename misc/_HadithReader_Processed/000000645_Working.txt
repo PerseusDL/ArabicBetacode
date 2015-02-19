@@ -1,0 +1,33 @@
+############################################################
+## hadithID::     bukhari04_101580
+## Completed by:: ADDYOURNAME
+## Finished::     NO/YES
+
+############################################################
+## ArabicInitial
+حَدَّثَنَا حُسَيْنُ بْنُ عِيسَى قَالَ حَدَّثَنَا يُونُسُ بْنُ مُحَمَّدٍ قَالَ حَدَّثَنَا فُلَيْحُ بْنُ سُلَيْمَانَ عَنْ عَبْدِ اللَّهِ بْنِ أَبِي بَكْرِ بْنِ عَمْرِو بْنِ حَزْمٍ عَنْ عَبَّادِ بْنِ تَمِيمٍ عَنْ عَبْدِ اللَّهِ بْنِ زَيْدٍ أَنَّ النَّبِيَّ صلى الله عليه وسلم تَوَضَّأَ مَرَّتَيْنِ مَرَّتَيْنِ
+
+############################################################
+## betaCodeAuto
+.hadda_tan_a .husaynu bnu `_is/a q_ala .hadda_tan_a y_unusu bnu mu.hammadi.n q_ala .hadda_tan_a fulay.hu bnu sulaym_ana `an `abdi allahi bni 'ab_i bakri bni `amriw bni .hazmi.n `an `abb_adi bni tam_imi.n `an `abdi allahi bni zaydi.n 'anna alnnab_iya .sl`m tawa.dda'a marratayni marratayni
+
+############################################################
+## betaCodeManual
+.hadda_tan_a .husaynu bnu `_is/a q_ala .hadda_tan_a y_unusu bnu mu.hammadi.n q_ala .hadda_tan_a fulay.hu bnu sulaym_ana `an `abdi allahi bni 'ab_i bakri bni `amriw bni .hazmi.n `an `abb_adi bni tam_imi.n `an `abdi allahi bni zaydi.n 'anna alnnab_iya .sl`m tawa.dda'a marratayni marratayni
+
+############################################################
+## betaCodeManual>Translit
+ḥaddaṯanā ḥusaynu bnu ʿīsá ḳāla ḥaddaṯanā yūnusu bnu muḥammadiȵ ḳāla ḥaddaṯanā fulayḥu bnu sulaymāna ʿan ʿabdi allahi bni ʾabī bakri bni ʿamriw bni ḥazmiȵ ʿan ʿabbādi bni tamīmiȵ ʿan ʿabdi allahi bni zaydiȵ ʾanna alnnabīya ṣlʿm tawaḍdaʾa marratayni marratayni
+
+############################################################
+## betaCodeManual>Arabic
+حَدَّثَنَا حُسَيْنُ بْنُ عِيسٰى قَالَ حَدَّثَنَا يُونُسُ بْنُ مُحَمَّدٍ قَالَ حَدَّثَنَا فُلَيْحُ بْنُ سُلَيْمَانَ عَنْ عَبْدِ أَلَّهِ بْنِ أَبِي بَكْرِ بْنِ عَمْرِوْ بْنِ حَزْمٍ عَنْ عَبّادِ بْنِ تَمِيمٍ عَنْ عَبْدِ أَلَّهِ بْنِ زَيْدٍ أَنَّ أَلْنَّبِييَ صْلْعْمْ تَوَضْدَأَ مَرَّتَيْنِ مَرَّتَيْنِ
+
+############################################################
+## TranslationBetaCode
+Type your translation on this line
+
+############################################################
+## TranslationTranslit
+Translation with transliterated names will appear here
+

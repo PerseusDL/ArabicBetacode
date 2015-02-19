@@ -1,0 +1,33 @@
+############################################################
+## hadithID::     muslim01_301450
+## Completed by:: ADDYOURNAME
+## Finished::     NO/YES
+
+############################################################
+## ArabicInitial
+حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ وَزُهَيْرُ بْنُ حَرْبٍ كِلاَهُمَا عَنْ إِسْمَاعِيلَ بْنِ إِبْرَاهِيمَ قَالَ أَبُو بَكْرٍ حَدَّثَنَا ابْنُ عُلَيَّةَ عَنْ خَالِدٍ قَالَ حَدَّثَنِي الْوَلِيدُ بْنُ مُسْلِمٍ عَنْ حُمْرَانَ عَنْ عُثْمَانَ قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم مَنْ مَاتَ وَهُوَ يَعْلَمُ أَنَّهُ لاَ إِلَهَ إِلاَّ اللَّهُ دَخَلَ الْجَنَّةَ
+
+############################################################
+## betaCodeAuto
+.hadda_tan_a 'ab_u bakri bnu 'ab_i ^sayba:ta wazuhayru bnu .harbi.n kil_ahum_a `an 'ism_a`_ila bni 'ibr_ah_ima q_ala 'ab_u bakri.n .hadda_tan_a abnu `ulayya:ta `an _h_alidi.n q_ala .hadda_tan_i alwal_idu bnu muslimi.n `an .humr_ana `an `u_tm_ana q_ala q_ala ras_ulu allahi .sl`m man m_ata wah_ua ya`lamu 'annahu l_a 'ilaha 'il_aa allahu da_hala al^ganna:ta
+
+############################################################
+## betaCodeManual
+.hadda_tan_a 'ab_u bakri bnu 'ab_i ^sayba:ta wazuhayru bnu .harbi.n kil_ahum_a `an 'ism_a`_ila bni 'ibr_ah_ima q_ala 'ab_u bakri.n .hadda_tan_a abnu `ulayya:ta `an _h_alidi.n q_ala .hadda_tan_i alwal_idu bnu muslimi.n `an .humr_ana `an `u_tm_ana q_ala q_ala ras_ulu allahi .sl`m man m_ata wah_ua ya`lamu 'annahu l_a 'ilaha 'il_aa allahu da_hala al^ganna:ta
+
+############################################################
+## betaCodeManual>Translit
+ḥaddaṯanā ʾabū bakri bnu ʾabī šaybaŧa wazuhayru bnu ḥarbiȵ kilāhumā ʿan ʾismāʿīla bni ʾibrāhīma ḳāla ʾabū bakriȵ ḥaddaṯanā abnu ʿulayyaŧa ʿan ḫālidiȵ ḳāla ḥaddaṯanī alwalīdu bnu muslimiȵ ʿan ḥumrāna ʿan ʿuṯmāna ḳāla ḳāla rasūlu allahi ṣlʿm man māta wahūa yaʿlamu ʾannahu lā ʾilaha ʾilāa allahu daḫala alǧannaŧa
+
+############################################################
+## betaCodeManual>Arabic
+حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ وَزُهَيْرُ بْنُ حَرْبٍ كِلَاهُمَا عَنْ إِسْمَاعِيلَ بْنِ إِبْرَاهِيمَ قَالَ أَبُو بَكْرٍ حَدَّثَنَا أَبْنُ عُلَيَّةَ عَنْ خَالِدٍ قَالَ حَدَّثَنِي أَلْوَلِيدُ بْنُ مُسْلِمٍ عَنْ حُمْرَانَ عَنْ عُثْمَانَ قَالَ قَالَ رَسُولُ أَلَّهِ صْلْعْمْ مَنْ مَاتَ وَهُوَ يَعْلَمُ أَنَّهُ لَا إِلَهَ إِلَاَ أَلَّهُ دَخَلَ أَلْجَنَّةَ
+
+############################################################
+## TranslationBetaCode
+Type your translation on this line
+
+############################################################
+## TranslationTranslit
+Translation with transliterated names will appear here
+

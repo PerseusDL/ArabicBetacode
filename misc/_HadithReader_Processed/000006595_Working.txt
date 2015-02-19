@@ -1,0 +1,33 @@
+############################################################
+## hadithID::     muslim04_310190
+## Completed by:: ADDYOURNAME
+## Finished::     NO/YES
+
+############################################################
+## ArabicInitial
+حَدَّثَنَا مُحَمَّدُ بْنُ عَبْدِ اللَّهِ بْنِ نُمَيْرٍ حَدَّثَنَا أَبِي وَابْنُ إِدْرِيسَ قَالاَ حَدَّثَنَا عُبَيْدُ اللَّهِ عَنْ نَافِعٍ عَنِ ابْنِ عُمَرَ أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ لاَ تَمْنَعُوا إِمَاءَ اللَّهِ مَسَاجِدَ اللَّهِ
+
+############################################################
+## betaCodeAuto
+.hadda_tan_a mu.hammadu bnu `abdi allahi bni numayri.n .hadda_tan_a 'ab_i w_abnu 'idr_isa q_al_a .hadda_tan_a `ubaydu allahi `an n_afi`i.n `ani abni `umara 'anna ras_ula allahi .sl`m q_ala l_a tamna`_u_a 'im_a'a allahi mas_a^gida allahi
+
+############################################################
+## betaCodeManual
+.hadda_tan_a mu.hammadu bnu `abdi allahi bni numayri.n .hadda_tan_a 'ab_i w_abnu 'idr_isa q_al_a .hadda_tan_a `ubaydu allahi `an n_afi`i.n `ani abni `umara 'anna ras_ula allahi .sl`m q_ala l_a tamna`_u_a 'im_a'a allahi mas_a^gida allahi
+
+############################################################
+## betaCodeManual>Translit
+ḥaddaṯanā muḥammadu bnu ʿabdi allahi bni numayriȵ ḥaddaṯanā ʾabī wābnu ʾidrīsa ḳālā ḥaddaṯanā ʿubaydu allahi ʿan nāfiʿiȵ ʿani abni ʿumara ʾanna rasūla allahi ṣlʿm ḳāla lā tamnaʿūā ʾimāʾa allahi masāǧida allahi
+
+############################################################
+## betaCodeManual>Arabic
+حَدَّثَنَا مُحَمَّدُ بْنُ عَبْدِ أَلَّهِ بْنِ نُمَيْرٍ حَدَّثَنَا أَبِي وَابْنُ إِدْرِيسَ قَالَا حَدَّثَنَا عُبَيْدُ أَلَّهِ عَنْ نَافِعٍ عَنِ أَبْنِ عُمَرَ أَنَّ رَسُولَ أَلَّهِ صْلْعْمْ قَالَ لَا تَمْنَعُوا إِماءَ أَلَّهِ مَسَاجِدَ أَلَّهِ
+
+############################################################
+## TranslationBetaCode
+Type your translation on this line
+
+############################################################
+## TranslationTranslit
+Translation with transliterated names will appear here
+

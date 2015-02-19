@@ -1,0 +1,33 @@
+############################################################
+## hadithID::     ibnmajah05_1311830
+## Completed by:: ADDYOURNAME
+## Finished::     NO/YES
+
+############################################################
+## ArabicInitial
+حَدَّثَنَا مُحَمَّدُ بْنَ رُمْحٍ أَنْبَأَنَا اللَّيْثُ بْنُ سَعْدٍ عَنْ نَافِعٍ عَنْ عَبْدِ اللَّهِ بْنِ عُمَرَ أَنَّهُ كَانَ إِذَا صَلَّى الْجُمُعَةَ انْصَرَفَ فَصَلَّى سَجْدَتَيْنِ فِي بَيْتِهِ ثُمَّ قَالَ كَانَ رَسُولُ اللَّهِ ـ صلى الله عليه وسلم ـ يَصْنَعُ ذَلِكَ
+
+############################################################
+## betaCodeAuto
+.hadda_tan_a mu.hammadu bna rum.hi.n 'anba'an_a allay_tu bnu sa`di.n `an n_afi`i.n `an `abdi allahi bni `umara 'annahu k_ana 'i_d_a .sall/a al^gumu`a:ta an.sarafa fa.sall/a sa^gdatayni f_i baytihi _tumma q_ala k_ana ras_ulu allahi  .sl`m  ya.sna`u _dalika
+
+############################################################
+## betaCodeManual
+.hadda_tan_a mu.hammadu bna rum.hi.n 'anba'an_a allay_tu bnu sa`di.n `an n_afi`i.n `an `abdi allahi bni `umara 'annahu k_ana 'i_d_a .sall/a al^gumu`a:ta an.sarafa fa.sall/a sa^gdatayni f_i baytihi _tumma q_ala k_ana ras_ulu allahi  .sl`m  ya.sna`u _dalika
+
+############################################################
+## betaCodeManual>Translit
+ḥaddaṯanā muḥammadu bna rumḥiȵ ʾanbaʾanā allayṯu bnu saʿdiȵ ʿan nāfiʿiȵ ʿan ʿabdi allahi bni ʿumara ʾannahu kāna ʾiḏā ṣallá alǧumuʿaŧa anṣarafa faṣallá saǧdatayni fī baytihi ṯumma ḳāla kāna rasūlu allahi  ṣlʿm  yaṣnaʿu ḏalika
+
+############################################################
+## betaCodeManual>Arabic
+حَدَّثَنَا مُحَمَّدُ بْنَ رُمْحٍ أَنْبَأَنَا أَلَّيْثُ بْنُ سَعْدٍ عَنْ نَافِعٍ عَنْ عَبْدِ أَلَّهِ بْنِ عُمَرَ أَنَّهُ كَانَ إِذَا صَلّٰى أَلْجُمُعَةَ أَنْصَرَفَ فَصَلّٰى سَجْدَتَيْنِ فِي بَيْتِهِ ثُمَّ قَالَ كَانَ رَسُولُ أَلَّهِ  صْلْعْمْ  يَصْنَعُ ذَلِكَ
+
+############################################################
+## TranslationBetaCode
+Type your translation on this line
+
+############################################################
+## TranslationTranslit
+Translation with transliterated names will appear here
+

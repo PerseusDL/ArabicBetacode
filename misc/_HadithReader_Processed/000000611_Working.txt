@@ -1,0 +1,33 @@
+############################################################
+## hadithID::     ibnmajah07_1317340
+## Completed by:: ADDYOURNAME
+## Finished::     NO/YES
+
+############################################################
+## ArabicInitial
+حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ وَمُحَمَّدُ بْنُ الصَّبَّاحِ قَالاَ حَدَّثَنَا سُفْيَانُ بْنُ عُيَيْنَةَ عَنِ الزُّهْرِيِّ عَنْ صَفْوَانَ بْنِ عَبْدِ اللَّهِ عَنْ أُمِّ الدَّرْدَاءِ عَنْ كَعْبِ بْنِ عَاصِمٍ قَالَ قَالَ رَسُولُ اللَّهِ ـ صلى الله عليه وسلم ـ لَيْسَ مِنَ الْبِرِّ الصِّيَامُ فِي السَّفَرِ
+
+############################################################
+## betaCodeAuto
+.hadda_tan_a 'ab_u bakri bnu 'ab_i ^sayba:ta wamu.hammadu bnu al.ssabb_a.hi q_al_a .hadda_tan_a sufy_anu bnu `uyayna:ta `ani alzzuhr_iyi `an .safw_ana bni `abdi allahi `an 'aummi alddard_a'i `an ka`bi bni `_a.simi.n q_ala q_ala ras_ulu allahi  .sl`m  laysa mina albirri al.ss_i_amu f_i alssafari
+
+############################################################
+## betaCodeManual
+.hadda_tan_a 'ab_u bakri bnu 'ab_i ^sayba:ta wamu.hammadu bnu al.ssabb_a.hi q_al_a .hadda_tan_a sufy_anu bnu `uyayna:ta `ani alzzuhr_iyi `an .safw_ana bni `abdi allahi `an 'aummi alddard_a'i `an ka`bi bni `_a.simi.n q_ala q_ala ras_ulu allahi  .sl`m  laysa mina albirri al.ss_i_amu f_i alssafari
+
+############################################################
+## betaCodeManual>Translit
+ḥaddaṯanā ʾabū bakri bnu ʾabī šaybaŧa wamuḥammadu bnu alṣsabbāḥi ḳālā ḥaddaṯanā sufyānu bnu ʿuyaynaŧa ʿani alzzuhrīyi ʿan ṣafwāna bni ʿabdi allahi ʿan ʾaummi alddardāʾi ʿan kaʿbi bni ʿāṣimiȵ ḳāla ḳāla rasūlu allahi  ṣlʿm  laysa mina albirri alṣsīāmu fī alssafari
+
+############################################################
+## betaCodeManual>Arabic
+حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ وَمُحَمَّدُ بْنُ أَلْصْسَبّاحِ قَالَا حَدَّثَنَا سُفْيَانُ بْنُ عُيَيْنَةَ عَنِ أَلْزُّهْرِييِ عَنْ صَفْوَانَ بْنِ عَبْدِ أَلَّهِ عَنْ أَأُمِّ أَلْدَّرْداءِ عَنْ كَعْبِ بْنِ عَاصِمٍ قَالَ قَالَ رَسُولُ أَلَّهِ  صْلْعْمْ  لَيْسَ مِنَ أَلْبِرِّ أَلْصْسِيامُ فِي أَلْسَّفَرِ
+
+############################################################
+## TranslationBetaCode
+Type your translation on this line
+
+############################################################
+## TranslationTranslit
+Translation with transliterated names will appear here
+

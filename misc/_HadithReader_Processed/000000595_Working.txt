@@ -1,0 +1,33 @@
+############################################################
+## hadithID::     nasai14_1113860
+## Completed by:: ADDYOURNAME
+## Finished::     NO/YES
+
+############################################################
+## ArabicInitial
+أَخْبَرَنَا حُمَيْدُ بْنُ مَسْعَدَةَ قَالَ حَدَّثَنَا بِشْرٌ قَالَ حَدَّثَنَا دَاوُدُ بْنُ أَبِي هِنْدٍ عَنْ أَبِي الزُّبَيْرِ عَنْ جَابِرٍ قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم عَلَى كُلِّ رَجُلٍ مُسْلِمٍ فِي كُلِّ سَبْعَةِ أَيَّامٍ غُسْلُ يَوْمٍ وَهُوَ يَوْمُ الْجُمُعَةِ
+
+############################################################
+## betaCodeAuto
+'a_hbaran_a .humaydu bnu mas`ada:ta q_ala .hadda_tan_a bi^sru.n q_ala .hadda_tan_a d_awudu bnu 'ab_i hindi.n `an 'ab_i alzzubayri `an ^g_abiri.n q_ala q_ala ras_ulu allahi .sl`m `al/a kulli ra^guli.n muslimi.n f_i kulli sab`a:ti 'ayy_ami.n .guslu yawmi.n wah_ua yawmu al^gumu`a:ti
+
+############################################################
+## betaCodeManual
+'a_hbaran_a .humaydu bnu mas`ada:ta q_ala .hadda_tan_a bi^sru.n q_ala .hadda_tan_a d_awudu bnu 'ab_i hindi.n `an 'ab_i alzzubayri `an ^g_abiri.n q_ala q_ala ras_ulu allahi .sl`m `al/a kulli ra^guli.n muslimi.n f_i kulli sab`a:ti 'ayy_ami.n .guslu yawmi.n wah_ua yawmu al^gumu`a:ti
+
+############################################################
+## betaCodeManual>Translit
+ʾaḫbaranā ḥumaydu bnu masʿadaŧa ḳāla ḥaddaṯanā bišruȵ ḳāla ḥaddaṯanā dāwudu bnu ʾabī hindiȵ ʿan ʾabī alzzubayri ʿan ǧābiriȵ ḳāla ḳāla rasūlu allahi ṣlʿm ʿalá kulli raǧuliȵ muslimiȵ fī kulli sabʿaŧi ʾayyāmiȵ ġuslu yawmiȵ wahūa yawmu alǧumuʿaŧi
+
+############################################################
+## betaCodeManual>Arabic
+أَخْبَرَنَا حُمَيْدُ بْنُ مَسْعَدَةَ قَالَ حَدَّثَنَا بِشْرٌ قَالَ حَدَّثَنَا دَاوُدُ بْنُ أَبِي هِنْدٍ عَنْ أَبِي أَلْزُّبَيْرِ عَنْ جَابِرٍ قَالَ قَالَ رَسُولُ أَلَّهِ صْلْعْمْ عَلٰى كُلِّ رَجُلٍ مُسْلِمٍ فِي كُلِّ سَبْعَةِ أَيّامٍ غُسْلُ يَوْمٍ وَهُوَ يَوْمُ أَلْجُمُعَةِ
+
+############################################################
+## TranslationBetaCode
+Type your translation on this line
+
+############################################################
+## TranslationTranslit
+Translation with transliterated names will appear here
+

@@ -1,0 +1,33 @@
+############################################################
+## hadithID::     abudawud24_934900
+## Completed by:: ADDYOURNAME
+## Finished::     NO/YES
+
+############################################################
+## ArabicInitial
+حَدَّثَنَا مُحَمَّدُ بْنُ بَشَّارٍ حَدَّثَنَا أَبُو عَاصِمٍ عَنْ عَبْدِ الْحَمِيدِ بْنِ جَعْفَرٍ عَنْ يَزِيدَ بْنِ أَبِي حَبِيبٍ قَالَ كَتَبَ إِلَىَّ عَطَاءٌ عَنْ جَابِرٍ نَحْوَهُ لَمْ يَقُلْ هُوَ حَرَامٌ
+
+############################################################
+## betaCodeAuto
+.hadda_tan_a mu.hammadu bnu ba^ss_ari.n .hadda_tan_a 'ab_u `_a.simi.n `an `abdi al.ham_idi bni ^ga`fari.n `an yaz_ida bni 'ab_i .hab_ibi.n q_ala kataba 'il/aa `a.t_a'u.n `an ^g_abiri.n na.hwahu lam yaqul h_ua .har_amu.n
+
+############################################################
+## betaCodeManual
+.hadda_tan_a mu.hammadu bnu ba^ss_ari.n .hadda_tan_a 'ab_u `_a.simi.n `an `abdi al.ham_idi bni ^ga`fari.n `an yaz_ida bni 'ab_i .hab_ibi.n q_ala kataba 'il/aa `a.t_a'u.n `an ^g_abiri.n na.hwahu lam yaqul h_ua .har_amu.n
+
+############################################################
+## betaCodeManual>Translit
+ḥaddaṯanā muḥammadu bnu bašsāriȵ ḥaddaṯanā ʾabū ʿāṣimiȵ ʿan ʿabdi alḥamīdi bni ǧaʿfariȵ ʿan yazīda bni ʾabī ḥabībiȵ ḳāla kataba ʾiláa ʿaṭāʾuȵ ʿan ǧābiriȵ naḥwahu lam yaḳul hūa ḥarāmuȵ
+
+############################################################
+## betaCodeManual>Arabic
+حَدَّثَنَا مُحَمَّدُ بْنُ بَشْسَارٍ حَدَّثَنَا أَبُو عَاصِمٍ عَنْ عَبْدِ أَلْحَمِيدِ بْنِ جَعْفَرٍ عَنْ يَزِيدَ بْنِ أَبِي حَبِيبٍ قَالَ كَتَبَ إِلٰىَ عَطاءٌ عَنْ جَابِرٍ نَحْوَهُ لَمْ يَقُلْ هُوَ حَرَامٌ
+
+############################################################
+## TranslationBetaCode
+Type your translation on this line
+
+############################################################
+## TranslationTranslit
+Translation with transliterated names will appear here
+

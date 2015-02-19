@@ -1,0 +1,33 @@
+############################################################
+## hadithID::     tirmidhi49_735950
+## Completed by:: ADDYOURNAME
+## Finished::     NO/YES
+
+############################################################
+## ArabicInitial
+حَدَّثَنَا سُفْيَانُ بْنُ وَكِيعٍ حَدَّثَنَا أَبِي عَنْ إِسْرَائِيلَ وَحَدَّثَنَا مُحَمَّدُ بْنُ إِسْمَاعِيلَ حَدَّثَنَا عُبَيْدُ اللَّهِ بْنُ مُوسَى عَنْ إِسْرَائِيلَ عَنْ أَبِي إِسْحَاقَ عَنِ الْبَرَاءِ بْنِ عَازِبٍ أَنَّ النَّبِيَّ صلى الله عليه وسلم قَالَ لِعَلِيِّ بْنِ أَبِي طَالِبٍ أَنْتَ مِنِّي وَأَنَا مِنْكَ وَفِي الْحَدِيثِ قِصَّةٌ قَالَ أَبُو عِيسَى هَذَا حَدِيثٌ حَسَنٌ صَحِيحٌ
+
+############################################################
+## betaCodeAuto
+.hadda_tan_a sufy_anu bnu wak_i`i.n .hadda_tan_a 'ab_i `an 'isr_a'_ila wa.hadda_tan_a mu.hammadu bnu 'ism_a`_ila .hadda_tan_a `ubaydu allahi bnu m_us/a `an 'isr_a'_ila `an 'ab_i 'is.h_aqa `ani albar_a'i bni `_azibi.n 'anna alnnab_iya .sl`m q_ala li`al_iyi bni 'ab_i .t_alibi.n 'anta minn_i wa'an_a minka waf_i al.had_i_ti qi.ssa:tu.n q_ala 'ab_u `_is/a ha_d_a .had_i_tu.n .hasanu.n .sa.h_i.hu.n
+
+############################################################
+## betaCodeManual
+.hadda_tan_a sufy_anu bnu wak_i`i.n .hadda_tan_a 'ab_i `an 'isr_a'_ila wa.hadda_tan_a mu.hammadu bnu 'ism_a`_ila .hadda_tan_a `ubaydu allahi bnu m_us/a `an 'isr_a'_ila `an 'ab_i 'is.h_aqa `ani albar_a'i bni `_azibi.n 'anna alnnab_iya .sl`m q_ala li`al_iyi bni 'ab_i .t_alibi.n 'anta minn_i wa'an_a minka waf_i al.had_i_ti qi.ssa:tu.n q_ala 'ab_u `_is/a ha_d_a .had_i_tu.n .hasanu.n .sa.h_i.hu.n
+
+############################################################
+## betaCodeManual>Translit
+ḥaddaṯanā sufyānu bnu wakīʿiȵ ḥaddaṯanā ʾabī ʿan ʾisrāʾīla waḥaddaṯanā muḥammadu bnu ʾismāʿīla ḥaddaṯanā ʿubaydu allahi bnu mūsá ʿan ʾisrāʾīla ʿan ʾabī ʾisḥāḳa ʿani albarāʾi bni ʿāzibiȵ ʾanna alnnabīya ṣlʿm ḳāla liʿalīyi bni ʾabī ṭālibiȵ ʾanta minnī waʾanā minka wafī alḥadīṯi ḳiṣsaŧuȵ ḳāla ʾabū ʿīsá haḏā ḥadīṯuȵ ḥasanuȵ ṣaḥīḥuȵ
+
+############################################################
+## betaCodeManual>Arabic
+حَدَّثَنَا سُفْيَانُ بْنُ وَكِيعٍ حَدَّثَنَا أَبِي عَنْ إِسْرائِيلَ وَحَدَّثَنَا مُحَمَّدُ بْنُ إِسْمَاعِيلَ حَدَّثَنَا عُبَيْدُ أَلَّهِ بْنُ مُوسٰى عَنْ إِسْرائِيلَ عَنْ أَبِي إِسْحَاقَ عَنِ أَلْبَراءِ بْنِ عَازِبٍ أَنَّ أَلْنَّبِييَ صْلْعْمْ قَالَ لِعَلِييِ بْنِ أَبِي طَالِبٍ أَنْتَ مِنّي وَأَنَا مِنْكَ وَفِي أَلْحَدِيثِ قِصْسَةٌ قَالَ أَبُو عِيسٰى هَذَا حَدِيثٌ حَسَنٌ صَحِيحٌ
+
+############################################################
+## TranslationBetaCode
+Type your translation on this line
+
+############################################################
+## TranslationTranslit
+Translation with transliterated names will appear here
+

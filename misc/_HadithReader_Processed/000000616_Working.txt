@@ -1,0 +1,33 @@
+############################################################
+## hadithID::     ibnmajah05_1311300
+## Completed by:: ADDYOURNAME
+## Finished::     NO/YES
+
+############################################################
+## ArabicInitial
+حَدَّثَنَا عَلِيُّ بْنُ مُحَمَّدٍ حَدَّثَنَا وَكِيعٌ حَدَّثَنَا سُفْيَانُ عَنْ أَبِي الزُّبَيْرِ عَنْ جَابِرِ بْنِ عَبْدِ اللَّهِ قَالَ قَالَ رَسُولُ اللَّهِ ـ صلى الله عليه وسلم ـ بَيْنَ الْعَبْدِ وَبَيْنَ الْكُفْرِ تَرْكُ الصَّلاَةِ
+
+############################################################
+## betaCodeAuto
+.hadda_tan_a `al_iyu bnu mu.hammadi.n .hadda_tan_a wak_i`u.n .hadda_tan_a sufy_anu `an 'ab_i alzzubayri `an ^g_abiri bni `abdi allahi q_ala q_ala ras_ulu allahi  .sl`m  bayna al`abdi wabayna alkufri tarku al.ssal_a:ti
+
+############################################################
+## betaCodeManual
+.hadda_tan_a `al_iyu bnu mu.hammadi.n .hadda_tan_a wak_i`u.n .hadda_tan_a sufy_anu `an 'ab_i alzzubayri `an ^g_abiri bni `abdi allahi q_ala q_ala ras_ulu allahi  .sl`m  bayna al`abdi wabayna alkufri tarku al.ssal_a:ti
+
+############################################################
+## betaCodeManual>Translit
+ḥaddaṯanā ʿalīyu bnu muḥammadiȵ ḥaddaṯanā wakīʿuȵ ḥaddaṯanā sufyānu ʿan ʾabī alzzubayri ʿan ǧābiri bni ʿabdi allahi ḳāla ḳāla rasūlu allahi  ṣlʿm  bayna alʿabdi wabayna alkufri tarku alṣsalāŧi
+
+############################################################
+## betaCodeManual>Arabic
+حَدَّثَنَا عَلِييُ بْنُ مُحَمَّدٍ حَدَّثَنَا وَكِيعٌ حَدَّثَنَا سُفْيَانُ عَنْ أَبِي أَلْزُّبَيْرِ عَنْ جَابِرِ بْنِ عَبْدِ أَلَّهِ قَالَ قَالَ رَسُولُ أَلَّهِ  صْلْعْمْ  بَيْنَ أَلْعَبْدِ وَبَيْنَ أَلْكُفْرِ تَرْكُ أَلْصْسَلَاةِ
+
+############################################################
+## TranslationBetaCode
+Type your translation on this line
+
+############################################################
+## TranslationTranslit
+Translation with transliterated names will appear here
+

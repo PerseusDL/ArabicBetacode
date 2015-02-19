@@ -1,0 +1,33 @@
+############################################################
+## hadithID::     abudawud29_938820
+## Completed by:: ADDYOURNAME
+## Finished::     NO/YES
+
+############################################################
+## ArabicInitial
+حَدَّثَنَا أَحْمَدُ بْنُ حَنْبَلٍ حَدَّثَنَا عَبْدُ الرَّزَّاقِ حَدَّثَنَا مَعْمَرٌ عَنْ هَمَّامِ بْنِ مُنَبِّهٍ قَالَ هَذَا مَا حَدَّثَنَا أَبُو هُرَيْرَةَ عَنْ رَسُولِ اللَّهِ صلى الله عليه وسلم قَالَ الْعَيْنُ حَقٌّ
+
+############################################################
+## betaCodeAuto
+.hadda_tan_a 'a.hmadu bnu .hanbali.n .hadda_tan_a `abdu alrrazz_aqi .hadda_tan_a ma`maru.n `an hamm_ami bni munabbihi.n q_ala ha_d_a m_a .hadda_tan_a 'ab_u hurayra:ta `an ras_uli allahi .sl`m q_ala al`aynu .haqqu.n
+
+############################################################
+## betaCodeManual
+.hadda_tan_a 'a.hmadu bnu .hanbali.n .hadda_tan_a `abdu alrrazz_aqi .hadda_tan_a ma`maru.n `an hamm_ami bni munabbihi.n q_ala ha_d_a m_a .hadda_tan_a 'ab_u hurayra:ta `an ras_uli allahi .sl`m q_ala al`aynu .haqqu.n
+
+############################################################
+## betaCodeManual>Translit
+ḥaddaṯanā ʾaḥmadu bnu ḥanbaliȵ ḥaddaṯanā ʿabdu alrrazzāḳi ḥaddaṯanā maʿmaruȵ ʿan hammāmi bni munabbihiȵ ḳāla haḏā mā ḥaddaṯanā ʾabū hurayraŧa ʿan rasūli allahi ṣlʿm ḳāla alʿaynu ḥaḳḳuȵ
+
+############################################################
+## betaCodeManual>Arabic
+حَدَّثَنَا أَحْمَدُ بْنُ حَنْبَلٍ حَدَّثَنَا عَبْدُ أَلْرَّزّاقِ حَدَّثَنَا مَعْمَرٌ عَنْ هَمّامِ بْنِ مُنَبِّهٍ قَالَ هَذَا مَا حَدَّثَنَا أَبُو هُرَيْرَةَ عَنْ رَسُولِ أَلَّهِ صْلْعْمْ قَالَ أَلْعَيْنُ حَقٌّ
+
+############################################################
+## TranslationBetaCode
+Type your translation on this line
+
+############################################################
+## TranslationTranslit
+Translation with transliterated names will appear here
+

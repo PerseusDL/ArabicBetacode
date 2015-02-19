@@ -1,0 +1,33 @@
+############################################################
+## hadithID::     abudawud27_937200
+## Completed by:: ADDYOURNAME
+## Finished::     NO/YES
+
+############################################################
+## ArabicInitial
+حَدَّثَنَا مُسْلِمُ بْنُ إِبْرَاهِيمَ حَدَّثَنَا هِشَامٌ عَنْ قَتَادَةَ عَنْ أَنَسٍ أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم نَهَى أَنْ يَشْرَبَ الرَّجُلُ قَائِمًا
+
+############################################################
+## betaCodeAuto
+.hadda_tan_a muslimu bnu 'ibr_ah_ima .hadda_tan_a hi^s_amu.n `an qat_ada:ta `an 'anasi.n 'anna ras_ula allahi .sl`m nah/a 'an ya^sraba alrra^gulu q_a'ima.n_a
+
+############################################################
+## betaCodeManual
+.hadda_tan_a muslimu bnu 'ibr_ah_ima .hadda_tan_a hi^s_amu.n `an qat_ada:ta `an 'anasi.n 'anna ras_ula allahi .sl`m nah/a 'an ya^sraba alrra^gulu q_a'ima.n_a
+
+############################################################
+## betaCodeManual>Translit
+ḥaddaṯanā muslimu bnu ʾibrāhīma ḥaddaṯanā hišāmuȵ ʿan ḳatādaŧa ʿan ʾanasiȵ ʾanna rasūla allahi ṣlʿm nahá ʾan yašraba alrraǧulu ḳāʾimaȵā
+
+############################################################
+## betaCodeManual>Arabic
+حَدَّثَنَا مُسْلِمُ بْنُ إِبْرَاهِيمَ حَدَّثَنَا هِشَامٌ عَنْ قَتَادَةَ عَنْ أَنَسٍ أَنَّ رَسُولَ أَلَّهِ صْلْعْمْ نَهٰى أَنْ يَشْرَبَ أَلْرَّجُلُ قائِماًا
+
+############################################################
+## TranslationBetaCode
+Type your translation on this line
+
+############################################################
+## TranslationTranslit
+Translation with transliterated names will appear here
+

@@ -1,0 +1,33 @@
+############################################################
+## hadithID::     nasai37_1141060
+## Completed by:: ADDYOURNAME
+## Finished::     NO/YES
+
+############################################################
+## ArabicInitial
+أَخْبَرَنَا إِسْحَاقُ بْنُ إِبْرَاهِيمَ قَالَ أَنْبَأَنَا عَبْدَةُ قَالَ حَدَّثَنَا مُحَمَّدُ بْنُ إِسْحَاقَ عَنِ الزُّهْرِيِّ عَنْ طَلْحَةَ بْنِ عَبْدِ اللَّهِ بْنِ عَوْفٍ عَنْ سَعِيدِ بْنِ زَيْدٍ عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ مَنْ قَاتَلَ دُونَ مَالِهِ فَهُوَ شَهِيدٌ
+
+############################################################
+## betaCodeAuto
+'a_hbaran_a 'is.h_aqu bnu 'ibr_ah_ima q_ala 'anba'an_a `abda:tu q_ala .hadda_tan_a mu.hammadu bnu 'is.h_aqa `ani alzzuhr_iyi `an .tal.ha:ta bni `abdi allahi bni `awfi.n `an sa`_idi bni zaydi.n `ani alnnab_iyi .sl`m q_ala man q_atala d_una m_alihi fah_ua ^sah_idu.n
+
+############################################################
+## betaCodeManual
+'a_hbaran_a 'is.h_aqu bnu 'ibr_ah_ima q_ala 'anba'an_a `abda:tu q_ala .hadda_tan_a mu.hammadu bnu 'is.h_aqa `ani alzzuhr_iyi `an .tal.ha:ta bni `abdi allahi bni `awfi.n `an sa`_idi bni zaydi.n `ani alnnab_iyi .sl`m q_ala man q_atala d_una m_alihi fah_ua ^sah_idu.n
+
+############################################################
+## betaCodeManual>Translit
+ʾaḫbaranā ʾisḥāḳu bnu ʾibrāhīma ḳāla ʾanbaʾanā ʿabdaŧu ḳāla ḥaddaṯanā muḥammadu bnu ʾisḥāḳa ʿani alzzuhrīyi ʿan ṭalḥaŧa bni ʿabdi allahi bni ʿawfiȵ ʿan saʿīdi bni zaydiȵ ʿani alnnabīyi ṣlʿm ḳāla man ḳātala dūna mālihi fahūa šahīduȵ
+
+############################################################
+## betaCodeManual>Arabic
+أَخْبَرَنَا إِسْحَاقُ بْنُ إِبْرَاهِيمَ قَالَ أَنْبَأَنَا عَبْدَةُ قَالَ حَدَّثَنَا مُحَمَّدُ بْنُ إِسْحَاقَ عَنِ أَلْزُّهْرِييِ عَنْ طَلْحَةَ بْنِ عَبْدِ أَلَّهِ بْنِ عَوْفٍ عَنْ سَعِيدِ بْنِ زَيْدٍ عَنِ أَلْنَّبِييِ صْلْعْمْ قَالَ مَنْ قَاتَلَ دُونَ مَالِهِ فَهُوَ شَهِيدٌ
+
+############################################################
+## TranslationBetaCode
+Type your translation on this line
+
+############################################################
+## TranslationTranslit
+Translation with transliterated names will appear here
+

@@ -1,0 +1,33 @@
+############################################################
+## hadithID::     nasai22_1123460
+## Completed by:: ADDYOURNAME
+## Finished::     NO/YES
+
+############################################################
+## ArabicInitial
+أَخْبَرَنِي زَكَرِيَّا بْنُ يَحْيَى قَالَ حَدَّثَنَا الْحَسَنُ بْنُ عِيسَى قَالَ أَنْبَأَنَا ابْنُ الْمُبَارَكِ قَالَ أَنْبَأَنَا مَعْمَرٌ عَنِ الزُّهْرِيِّ عَنْ حَمْزَةَ بْنِ عَبْدِ اللَّهِ عَنْ عَبْدِ اللَّهِ بْنِ عُمَرَ عَنْ حَفْصَةَ قَالَتْ لاَ صِيَامَ لِمَنْ لَمْ يُجْمِعْ قَبْلَ الْفَجْرِ
+
+############################################################
+## betaCodeAuto
+'a_hbaran_i zakar_iy_a bnu ya.hy/a q_ala .hadda_tan_a al.hasanu bnu `_is/a q_ala 'anba'an_a abnu almub_araki q_ala 'anba'an_a ma`maru.n `ani alzzuhr_iyi `an .hamza:ta bni `abdi allahi `an `abdi allahi bni `umara `an .haf.sa:ta q_alat l_a .s_i_ama liman lam yu^gmi` qabla alfa^gri
+
+############################################################
+## betaCodeManual
+'a_hbaran_i zakar_iy_a bnu ya.hy/a q_ala .hadda_tan_a al.hasanu bnu `_is/a q_ala 'anba'an_a abnu almub_araki q_ala 'anba'an_a ma`maru.n `ani alzzuhr_iyi `an .hamza:ta bni `abdi allahi `an `abdi allahi bni `umara `an .haf.sa:ta q_alat l_a .s_i_ama liman lam yu^gmi` qabla alfa^gri
+
+############################################################
+## betaCodeManual>Translit
+ʾaḫbaranī zakarīyā bnu yaḥyá ḳāla ḥaddaṯanā alḥasanu bnu ʿīsá ḳāla ʾanbaʾanā abnu almubāraki ḳāla ʾanbaʾanā maʿmaruȵ ʿani alzzuhrīyi ʿan ḥamzaŧa bni ʿabdi allahi ʿan ʿabdi allahi bni ʿumara ʿan ḥafṣaŧa ḳālat lā ṣīāma liman lam yuǧmiʿ ḳabla alfaǧri
+
+############################################################
+## betaCodeManual>Arabic
+أَخْبَرَنِي زَكَرِييَا بْنُ يَحْيٰى قَالَ حَدَّثَنَا أَلْحَسَنُ بْنُ عِيسٰى قَالَ أَنْبَأَنَا أَبْنُ أَلْمُبَارَكِ قَالَ أَنْبَأَنَا مَعْمَرٌ عَنِ أَلْزُّهْرِييِ عَنْ حَمْزَةَ بْنِ عَبْدِ أَلَّهِ عَنْ عَبْدِ أَلَّهِ بْنِ عُمَرَ عَنْ حَفْصَةَ قَالَتْ لَا صِيامَ لِمَنْ لَمْ يُجْمِعْ قَبْلَ أَلْفَجْرِ
+
+############################################################
+## TranslationBetaCode
+Type your translation on this line
+
+############################################################
+## TranslationTranslit
+Translation with transliterated names will appear here
+
