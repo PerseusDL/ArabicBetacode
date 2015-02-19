@@ -17,7 +17,7 @@
 
 ############################################################
 ## betaCodeManual>Translit
-ḥaddaṯa-nā Yaḥyá bnủ Yaḥyá ḳāla , aḫbara-nā Sufyānủ bnủ ʿUyaynaŧả ʿan Maʿmarỉȵ , ʿani al-Zuhriyyỉ bi-hãḏā al-isnādỉ
+ḥaddaṯa-nā Yaḥyá bnủ Yaḥyá ḳāla , aḫbara-nā Sufyānủ bnủ ʿUyaynaŧả ʿan Maʿmarỉȵ , ʿanỉ al-Zuhriyyỉ bi-hãḏā al-isnādỉ
 
 ############################################################
 ## betaCodeManual>Arabic

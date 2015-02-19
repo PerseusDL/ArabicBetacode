@@ -1,7 +1,7 @@
 ############################################################
 ## hadithID::     tirmidhi49_735550
-## Completed by:: ADDYOURNAME
-## Finished::     NO/YES
+## Completed by:: Picard
+## Finished::     YES
 
 ############################################################
 ## ArabicInitial
@@ -13,21 +13,21 @@
 
 ############################################################
 ## betaCodeManual
-.hadda_tan_a mu.hammadu bnu ba^ss_ari.n .hadda_tan_a mu.hammadu bnu ^ga`fari.n .hadda_tan_a ^su`ba:tu biha_d_a al'isn_adi na.hwahu q_ala 'ab_u `_is/a ha_d_a .had_i_tu.n .hasanu.n .sa.h_i.hu.n
+.hadda_ta-n_a Mu.hammad?u bn?u Ba^s^s_ar?i.n .hadda_ta-n_a Mu.hammad?u bn?u ^Ga`far?i.n .hadda_ta-n_a ^Su`ba:t?u bi-h~a_d_a al-'isn_ad?i na.hwa-hu ( ^s ) q_ala 'Ab_u `_Is/a h~a_d_a .had_i_t?u.n .hasan?u.n .sa.h_i.h?u.n
 
 ############################################################
 ## betaCodeManual>Translit
-ḥaddaṯanā muḥammadu bnu bašsāriȵ ḥaddaṯanā muḥammadu bnu ǧaʿfariȵ ḥaddaṯanā šuʿbaŧu bihaḏā alʾisnādi naḥwahu ḳāla ʾabū ʿīsá haḏā ḥadīṯuȵ ḥasanuȵ ṣaḥīḥuȵ
+ḥaddaṯa-nā Muḥammadủ bnủ Baššārỉȵ ḥaddaṯa-nā Muḥammadủ bnủ Ǧaʿfarỉȵ ḥaddaṯa-nā Šuʿbaŧủ bi-hãḏā al-ʾisnādỉ naḥwa-hu ( š ) ḳāla ʾAbū ʿĪsá hãḏā ḥadīṯủȵ ḥasanủȵ ṣaḥīḥủȵ
 
 ############################################################
 ## betaCodeManual>Arabic
-حَدَّثَنَا مُحَمَّدُ بْنُ بَشْسَارٍ حَدَّثَنَا مُحَمَّدُ بْنُ جَعْفَرٍ حَدَّثَنَا شُعْبَةُ بِهَذَا أَلْئِسْنَادِ نَحْوَهُ قَالَ أَبُو عِيسٰى هَذَا حَدِيثٌ حَسَنٌ صَحِيحٌ
+حَدَّثَنَا مُحَمَّدُ بْنُ بَشّارٍ حَدَّثَنَا مُحَمَّدُ بْنُ جَعْفَرٍ حَدَّثَنَا شُعْبَةُ بِهٰذَا ﭐلْإِسْنَادِ نَحْوَهُ ( شْ ) قَالَ أَبُو عِيسٰى هٰذَا حَدِيثٌ حَسَنٌ صَحِيحٌ
 
 ############################################################
 ## TranslationBetaCode
-Type your translation on this line
+Mu.hammad b. Ba^s^s_ar narrated to us : Mu.hammad b. ^Ga`far narrated to us : Shu`ba:t narrated to us with this chain something like it ( ^s ) 'Ab_u `_Is/a said this is a sound, good report
 
 ############################################################
 ## TranslationTranslit
-Type your translation on this line
+Muḥammad b. Baššār narrated to us : Muḥammad b. Ǧaʿfar narrated to us : Shuʿbaŧ narrated to us with this chain something like it ( š ) ʾAbū ʿĪsá said this is a sound, good report
 
