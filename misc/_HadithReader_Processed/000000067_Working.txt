@@ -13,21 +13,21 @@ q_ala 'ab_u 'is.h_aqa .hadda_tan_a mu.hammadu bnu ya.hy/a .hadda_tan_a `abdu alr
 
 ############################################################
 ## betaCodeManual
-q_ala 'ab_u 'is.h_aqa .hadda_tan_a mu.hammadu bnu ya.hy/a .hadda_tan_a `abdu alrrazz_aqi 'a_hbaran_a ma`maru.n bimi_tli ha_d_a al.had_i_ti
+q_ala Ab_u Is.h_aq?u : .hadda_ta-n_a Mu.hammad?u bn?u Ya.hy/a : .hadda_ta-n_a `Abdu al-Razz_aqi : 'a_hbara-n_a Ma`maru.n bi-mi_tli h~a_d_a al-.had_i_ti
 
 ############################################################
 ## betaCodeManual>Translit
-ḳāla ʾabū ʾisḥāḳa ḥaddaṯanā muḥammadu bnu yaḥyá ḥaddaṯanā ʿabdu alrrazzāḳi ʾaḫbaranā maʿmaruȵ bimiṯli haḏā alḥadīṯi
+ḳāla Abū Isḥāḳủ : ḥaddaṯa-nā Muḥammadủ bnủ Yaḥyá : ḥaddaṯa-nā ʿAbdu al-Razzāḳi : ʾaḫbara-nā Maʿmaruȵ bi-miṯli hãḏā al-ḥadīṯi
 
 ############################################################
 ## betaCodeManual>Arabic
-قَالَ أَبُو إِسْحَاقَ حَدَّثَنَا مُحَمَّدُ بْنُ يَحْيٰى حَدَّثَنَا عَبْدُ أَلْرَّزّاقِ أَخْبَرَنَا مَعْمَرٌ بِمِثْلِ هَذَا أَلْحَدِيثِ
+قَالَ أَبُو إِسْحَاقُ : حَدَّثَنَا مُحَمَّدُ بْنُ يَحْيٰى : حَدَّثَنَا عَبْدُ ﭐلرَّزّاقِ : أَخْبَرَنَا مَعْمَرٌ بِمِثْلِ هٰذَا ﭐلْحَدِيثِ
 
 ############################################################
 ## TranslationBetaCode
-Type your translation on this line
+Ab_u Is.h_aq said: Mu.hammad b. Ya.hy/a narrated to us: `Abd al-Razz_aq narrated to us: Ma`mar informed us with something similar to this report.
 
 ############################################################
 ## TranslationTranslit
-Type your translation on this line
+Abū Isḥāḳ said: Muḥammad b. Yaḥyá narrated to us: ʿAbd al-Razzāḳ narrated to us: Maʿmar informed us with something similar to this report.
 

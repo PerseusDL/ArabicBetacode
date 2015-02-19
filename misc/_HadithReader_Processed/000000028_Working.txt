@@ -17,7 +17,7 @@
 
 ############################################################
 ## betaCodeManual>Translit
-ḥaddaṯa-nā ʿAbdủ Allãhỉ bnủ Yūsufả ḳāla , ʾaḫbaranā Mālikủȵ , ʿan Isḥāḳả bnỉ ʿAbdỉ Allãhỉ bnỉ Abī Ṭalḥaŧả , ʿan Anasỉ bnỉ Mālikỉȵ ( rḍh )  ḳāla ( M ) ṣallá la-nā rasūlủ Allãhỉ ( ṣlʿm ) rakʿataynỉ ṯummả inṣarafa
+ḥaddaṯa-nā ʿAbdủ Allãhỉ bnủ Yūsufả ḳāla , ʾaḫbara-nā Mālikủȵ , ʿan Isḥāḳả bnỉ ʿAbdỉ Allãhỉ bnỉ Abī Ṭalḥaŧả , ʿan Anasỉ bnỉ Mālikỉȵ ( rḍh )  ḳāla ( M ) ṣallá la-nā rasūlủ Allãhỉ ( ṣlʿm ) rakʿataynỉ ṯummả inṣarafa
 
 ############################################################
 ## betaCodeManual>Arabic
