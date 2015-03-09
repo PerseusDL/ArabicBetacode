@@ -19,7 +19,7 @@ betacodeTranslit = {
     'j'  : 'ǧ', # jīm
     '^c' : 'č', # chīm / Persian
     '*h' : 'ḥ', # ḥā’
-    '.h' : 'ḥ', # ḥā’
+    #'.h' : 'ḥ', # ḥā’
     '_h' : 'ḫ', # khā’
     'd'  : 'd', # dāl
     '_d' : 'ḏ', # dhāl
@@ -28,19 +28,19 @@ betacodeTranslit = {
     's'  : 's', # sīn
     '^s' : 'š', # shīn
     '*s' : 'ṣ', # ṣād
-    '.s' : 'ṣ', # ṣād
+    #'.s' : 'ṣ', # ṣād
     '*d' : 'ḍ', # ḍād
-    '.d' : 'ḍ', # ḍād
+    #'.d' : 'ḍ', # ḍād
     '*t' : 'ṭ', # ṭā’
-    '.t' : 'ṭ', # ṭā’
+    #'.t' : 'ṭ', # ṭā’
     '*z' : 'ẓ', # ẓā’
-    '.z' : 'ẓ', # ẓā’
+    #'.z' : 'ẓ', # ẓā’
     '`'  : 'ʿ', # ‘ayn
     '*g' : 'ġ', # ghayn
-    '.g' : 'ġ', # ghayn
+    #'.g' : 'ġ', # ghayn
     'f'  : 'f', # fā’
     '*k' : 'ḳ', # qāf
-    '.k' : 'ḳ', # qāf
+    #'.k' : 'ḳ', # qāf
     'q'  : 'ḳ', # qāf
     'k'  : 'k', # kāf
     'g'  : 'g', # gāf / Persian
@@ -55,7 +55,8 @@ betacodeTranslit = {
 # Non-alphabetic letters
     '\'' : 'ʾ', # hamzaŧ
     '/a' : 'á', # alif maqṣūraŧ
-    ':t' : 'ŧ', # tā’ marbūṭaŧ, add +, it in idafa (`_amma:t+ ba.gd_ad)
+    #':t' : 'ŧ', # tā’ marbūṭaŧ, add +, it in idafa (`_amma:t+ ba*gd_ad)
+    '=t' : 'ŧ', # tā’ marbūṭaŧ, this is preferable for Alpheios
 # Vowels
     '~a' : 'ã', # dagger alif
     'u'  : 'u', # ḍammaŧ    
@@ -64,10 +65,10 @@ betacodeTranslit = {
     '?u'  : 'ủ', # ḍammaŧ    
     '?i'  : 'ỉ', # kasraŧ
     '?a'  : 'ả', # fatḥaŧ    
-    '.n' : 'ȵ',  # n of tanwīn
+    #'.n' : 'ȵ',  # n of tanwīn
     #'^n' : 'ȵ',  # n of tanwīn
     #'_n' : 'ȵ',  # n of tanwīn
-    #'*n' : 'ȵ'   # n of tanwīn
+    '*n' : 'ȵ'   # n of tanwīn
     '.w' : 'ů',  # silent w, like in `Amru.n.w
     '.a' : 'å'  # silent alif, like in fa`al_u.a    
     }
@@ -243,7 +244,7 @@ arabicBetaCode = {
     " ت " :  "t",   # tāʾ
     " ث " :  "_t",  # thāʾ
     " ج " :  "^g",  # jīm
-    " ح " :  ".h",  # ḥāʾ
+    " ح " :  "*h",  # ḥāʾ
     " خ " :  "_h",  # khāʾ
     " د " :  "d",   # dāl
     " ذ " :  "_d",  # dhāl
@@ -251,12 +252,12 @@ arabicBetaCode = {
     " ز " :  "z",   # zayn
     " س " :  "s",   # sīn
     " ش " :  "^s",  # shīn
-    " ص " :  ".s",  # ṣād
-    " ض " :  ".d",  # ḍād
-    " ط " :  ".t",  # ṭāʾ
-    " ظ " :  ".z",  # ẓāʾ
+    " ص " :  "*s",  # ṣād
+    " ض " :  "*d",  # ḍād
+    " ط " :  "*t",  # ṭāʾ
+    " ظ " :  "*z",  # ẓāʾ
     " ع " :  "`",   # ʿayn
-    " غ " :  ".g",  # ghayn
+    " غ " :  "*g",  # ghayn
     " ف " :  "f",   # fā’
     " ق " :  "q",   # qāf
     " ك " :  "k",   # kāf
@@ -271,14 +272,14 @@ arabicBetaCode = {
     " ئ " :  "'i",   # hamza
     " ؤ " :  "'u",  # hamza
     " ى " :  "/a",  # alif maqṣūraŧ
-    " ة " :  ":t",  # tāʾ marbūṭaŧ
+    " ة " :  "=t",  # tāʾ marbūṭaŧ
     " ـ " :  "",    # kashīdaŧ
 # Vowels
     " ٰ " :  "~a",  # dagger alif
     " َ " :  "a",   # fatḥaŧ
     " ُ " :  "u",   # ḍammaŧ
     " ِ " :  "i",   # kasraŧ
-    " ً " :  "a.n", # tanwīn fatḥ
-    " ٌ " :  "u.n", # tanwīn ḍamm
-    " ٍ " :  "i.n", # tanwīn kasr
+    " ً " :  "a*n", # tanwīn fatḥ
+    " ٌ " :  "u*n", # tanwīn ḍamm
+    " ٍ " :  "i*n", # tanwīn kasr
     }
