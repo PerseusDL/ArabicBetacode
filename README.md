@@ -84,7 +84,7 @@ preceded (if necessary) with a technical character that is similar to a diacriti
 
 #### *General*
 * **\_** (underscore), if a letter can be transliterated with *macron*/*breve* below or above (*ā*, *ṯ*, *ḫ*, *ḏ*, *ū*, *ī*)
-* **\*** (asterisk), if a letter can be transliterated transliterated with *dot* below or above (*ḥ*, *ṣ*, *ḍ*, *ṭ*, *ẓ*, *ġ*, *ḳ*)
+* ** * ** (asterisk), if a letter can be transliterated transliterated with *dot* below or above (*ḥ*, *ṣ*, *ḍ*, *ṭ*, *ẓ*, *ġ*, *ḳ*)
 * **^** (caret), if a letter can be transliterated with *caron* (*ǧ*, *š*)
 
 #### *Specifics*
@@ -97,13 +97,13 @@ preceded (if necessary) with a technical character that is similar to a diacriti
 	* ``` `_amma:t+u Ba.gd_ada ```, but:
 	* ``` al-`_amma:tu f_i Ba.gd_ada ```
 * transliterating *tanwīn*:
-	* ```.n```
-		* ```?u.n```
-		* ```?i.n```
-		* ```?a.n```
+	* ```*n```
+		* ```?u*n```
+		* ```?i*n```
+		* ```?a*n```
 * silent *wāw* and *alif*:
-	* `\*w` (`Amr?u*n*w`, for <span="arabic">عَمْرٌو</span>)
-	* `\*a` (```wa-fa`al_u*a```, for <span="arabic">وَفَعَلُوا</span>)
+	* `*w` (`Amr?u*n*w`, for <span="arabic">عَمْرٌو</span>)
+	* `*a` (```wa-fa`al_u*a```, for <span="arabic">وَفَعَلُوا</span>)
 
 ## Running the converter
 * (Python 3.xx must be installed on the machine)
@@ -116,7 +116,7 @@ preceded (if necessary) with a technical character that is similar to a diacriti
 
 # Examples 
 
-### betaCode Example ()
+### betaCode Example
 
 **NB**: These are examples of converting betaCode to full transliteration and Arabic script. The very last paragraph showcases conversion of *ḥamzaŧ* in different positions.
 
@@ -212,9 +212,9 @@ abnāʾu abnāʾi abnāʾa ǧarīʾủȵ maḳrūʾủȵ ḍawʾủȵ šayʾủ�
 
 NB: This is an example of the English text with terms, names and toponyms given in betaCode and automatically converted into different transliteration flavors (exerpts are from Brill’s *Encyclopaedia of Islam*).
 
-Dima^s.k, Dima^s.k al-^S\_am or simply al-^S\_am , (Lat. Damascus, Fr. Damas) is the largest city of Syria. It is situated ... very much at the same latitude as Ba.gd\_ad and F\_as, at an altitude of nearly 700 metres, on the edge of the desert at the foot of ^Gabal .K\_asiy\_un.
+Dima^s\*k, Dima^s\*k al-^S\_am or simply al-^S\_am , (Lat. Damascus, Fr. Damas) is the largest city of Syria. It is situated ... very much at the same latitude as Ba\*gd\_ad and F\_as, at an altitude of nearly 700 metres, on the edge of the desert at the foot of ^Gabal \*K\_asiy\_un.
 
-al-\_Dahab\_i, ^Sams al-D\_in Ab\_u \`Abd All~ah Mu.hammad b. \`U\_tm\_an b. .K\_aym\_a.z b. \`Abd All~ah al-Turkum\_an\_i al-F\_ari.k\_i al-Dima^s.k\_i al-^S\_afi\`\_i, an Arab historian and theologian, was born at Damascus or at Mayy\_afari.k\_in on 1 or 3 Rab\_i\` II (according to al-Kutub\_i, in Rab\_i\` I) 673/5 or 7 October 1274, and died at Damascus, according to al-Subk\_i and al-Suy\_u.t\_i, in the night of Sunday-Monday on 3 \_D\_u al-.Ka\`da:t 748/4 February 1348, or, according to A.hmad b. \`Iy\_as, in 753/1352-3. He was buried at the B\_ab al-.Sa.g\_ir.
+al-\_Dahab\_i, ^Sams al-D\_in Ab\_u \`Abd All~ah Mu\*hammad b. \`U\_tm\_an b. \*K\_aym\_a\*z b. \`Abd All~ah al-Turkum\_an\_i al-F\_ari\*k\_i al-Dima^s\*k\_i al-^S\_afi\`\_i, an Arab historian and theologian, was born at Damascus or at Mayy\_afari\*k\_in on 1 or 3 Rab\_i\` II (according to al-Kutub\_i, in Rab\_i\` I) 673/5 or 7 October 1274, and died at Damascus, according to al-Subk\_i and al-Suy\_u\*t\_i, in the night of Sunday-Monday on 3 \_D\_u al-\*Ka\`da:t 748/4 February 1348, or, according to A\*hmad b. \`Iy\_as, in 753/1352-3. He was buried at the B\_ab al-\*Sa.g\_ir.
 
 ### betaCode converted into one-to-one translit
 
