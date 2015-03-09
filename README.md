@@ -1,5 +1,12 @@
 # Arabic betaCode
 
+## Some updates to the scheme (2015-03-09:10-21)
+
+Done to avoid issues with Alpheios translation alignment, which automatically splits supplied texts into words. Essentially, combinations with "." and ":" are replaced with "\*" and "=" respectively.
+
+* **=t** is *tāʾ marbūṭaŧ*
+* **\*s** is *ṣād* (and the same for other letters transliterated with dots)
+
 <center>[a better formatted version](http://maximromanov.github.io/2015/02-07.html)</center>
 
  Although both Windows and Mac OS now support Arabic, it is still quite difficult to type and edit Arabic texts. It is particularly frustrating to edit and manipulate fully vocalized texts, since most fonts either render “short vowels” (*ḥarakāt*) invisible, or do not render them properly. Because of the “stacking,” i.e. “short vowels” being placed on top of letters and on top of each other, it becomes impossible to *edit* texts and one is often forced to go into delete-and-retype mode (and there is still no guarantee, because of visual issues, that all the letters and “short vowels” will actually be in the right order). **betaCode** can make it easy to type fully-vocalized Arabic texts on any machine through the use of simple character combinations and automatic rendering into various transliteration schemes and the Arabic script (scroll below for examples). 
@@ -29,14 +36,14 @@
 | **z** | z | *zayn* |
 | **s** | s | *sīn* |
 | **^s** | š | *shīn* |
-| **\*s, .s** | ṣ | *ṣād* |
-| **\*d, .d** | ḍ | *ḍād* |
-| **\*t, .t** | ṭ | *ṭāʾ* |
-| **\*z, .z** | ẓ | *ẓāʾ* |
+| **\*s** | ṣ | *ṣād* |
+| **\*d** | ḍ | *ḍād* |
+| **\*t** | ṭ | *ṭāʾ* |
+| **\*z** | ẓ | *ẓāʾ* |
 | **`** | ʿ | *‘ayn* |
-| **\*g, .g** | ġ | *ghayn* |
+| **\*g** | ġ | *ghayn* |
 | **f** | f | *fāʾ* |
-| **\*k, .k, q** | ḳ | *qāf* |
+| **\*k, q** | ḳ | *qāf* |
 | **k** | k | *kāf* |
 | **l** | l | *lām* |
 | **m** | m | *mīm* |
@@ -52,7 +59,7 @@
 |----------|-----------------|---------------|
 | **'** | ʾ | *ḥamzaŧ* |
 | **/a** | á | *alif maqṣūraŧ* |
-| **:t** | ŧ | *tāʾ marbūṭaŧ* |
+| **=t** | ŧ | *tāʾ marbūṭaŧ* |
 
 ## Vowels
 
@@ -62,9 +69,9 @@
 | **u** | u | *ḍammaŧ* |
 | **i** | i | *kasraŧ* |
 | **a** | a | *fatḥaŧ* |
-| **.n** | ȵ | *n* of *tanwīn* |
-| **.a** | å | *silent alif* |
-| **.w** | ů | *silent wāw* |
+| **\*n** | ȵ | *n* of *tanwīn* |
+| **\*a** | å | *silent alif* |
+| **\*w** | ů | *silent wāw* |
 | **?u** | ủ | final *ḍammaŧ* \* |
 | **?i** | ỉ | final *kasraŧ* \* |
 | **?a** | ả | final *fatḥaŧ* \* |
