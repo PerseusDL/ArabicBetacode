@@ -9,7 +9,7 @@
 
 ############################################################
 ## betaCodeAuto
-.hadda_tan_a alq_asimu bnu d_in_ari.n alk_uf_iyu .hadda_tan_a `ubaydu allahi `an 'isr_a'_ila `an `abdi al'a`l/a `an sa`_idi bni ^gubayri.n `ani abni `abb_asi.n q_ala q_ala ras_ulu allahi .sl`m al`abb_asu minn_i wa'an_a minhu q_ala ha_d_a .had_i_tu.n .hasanu.n .sa.h_i.hu.n .gar_ibu.n l_a na`rifuhu 'il_aa min .had_i_ti 'isr_a'_ila
+*hadda_tan_a alq_asimu bnu d_in_ari*n alk_uf_iyu *hadda_tan_a `ubaydu allahi `an 'isr_a'_ila `an `abdi al'a`l/a `an sa`_idi bni ^gubayri*n `ani abni `abb_asi*n q_ala q_ala ras_ulu allahi *sl`m al`abb_asu minn_i wa'an_a minhu q_ala ha_d_a *had_i_tu*n *hasanu*n *sa*h_i*hu*n *gar_ibu*n l_a na`rifuhu 'il_aa min *had_i_ti 'isr_a'_ila
 
 ############################################################
 ## betaCodeManual
@@ -17,11 +17,11 @@
 
 ############################################################
 ## betaCodeManual>Translit
-ḥaddaṯanā alḳāsimu bnu dīnāriȵ alkūfīyu ḥaddaṯanā ʿubaydu allahi ʿan ʾisrāʾīla ʿan ʿabdi alʾaʿlá ʿan saʿīdi bni ǧubayriȵ ʿani abni ʿabbāsiȵ ḳāla ḳāla rasūlu allahi ṣlʿm alʿabbāsu minnī waʾanā minhu ḳāla haḏā ḥadīṯuȵ ḥasanuȵ ṣaḥīḥuȵ ġarībuȵ lā naʿrifuhu ʾilāa min ḥadīṯi ʾisrāʾīla
+.haddaṯanā alḳāsimu bnu dīnāri.n alkūfīyu .haddaṯanā ʿubaydu allahi ʿan ʾisrāʾīla ʿan ʿabdi alʾaʿlá ʿan saʿīdi bni ǧubayri.n ʿani abni ʿabbāsi.n ḳāla ḳāla rasūlu allahi .slʿm alʿabbāsu minnī waʾanā minhu ḳāla haḏā .hadīṯu.n .hasanu.n .sa.hī.hu.n .garību.n lā naʿrifuhu ʾilāa min .hadīṯi ʾisrāʾīla
 
 ############################################################
 ## betaCodeManual>Arabic
-حَدَّثَنَا أَلْقَاسِمُ بْنُ دِينَارٍ أَلْكُوفِييُ حَدَّثَنَا عُبَيْدُ أَلَّهِ عَنْ إِسْرائِيلَ عَنْ عَبْدِ أَلْأَعْلٰى عَنْ سَعِيدِ بْنِ جُبَيْرٍ عَنِ أَبْنِ عَبّاسٍ قَالَ قَالَ رَسُولُ أَلَّهِ صْلْعْمْ أَلْعَبّاسُ مِنّي وَأَنَا مِنْهُ قَالَ هَذَا حَدِيثٌ حَسَنٌ صَحِيحٌ غَرِيبٌ لَا نَعْرِفُهُ إِلَاَ مِنْ حَدِيثِ إِسْرائِيلَ
+.هَدَّثَنَا أَلْقَاسِمُ بْنُ دِينَارِ.نْ أَلْكُوفِييُ .هَدَّثَنَا عُبَيْدُ أَلَّهِ عَنْ إِسْرائِيلَ عَنْ عَبْدِ أَلْأَعْلٰى عَنْ سَعِيدِ بْنِ جُبَيْرِ.نْ عَنِ أَبْنِ عَبّاسِ.نْ قَالَ قَالَ رَسُولُ أَلَّهِ .سْلْعْمْ أَلْعَبّاسُ مِنّي وَأَنَا مِنْهُ قَالَ هَذَا .هَدِيثُ.نْ .هَسَنُ.نْ .سَ.هِي.هُ.نْ .گَرِيبُ.نْ لَا نَعْرِفُهُ إِلَاَ مِنْ .هَدِيثِ إِسْرائِيلَ
 
 ############################################################
 ## TranslationBetaCode

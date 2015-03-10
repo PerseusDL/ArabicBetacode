@@ -9,7 +9,7 @@
 
 ############################################################
 ## betaCodeAuto
-.hadda_tan_i zuhayru bnu .harbi.n wamu.hammadu bnu almu_tann/a q_al_a .hadda_tan_a ya.hy/a wah_ua alqa.tt_anu .h wa.hadda_tan_a 'ab_u bakri bnu 'ab_i ^sayba:ta .hadda_tan_a 'ab_u 'aus_ama:ta w_abnu numayri.n kulluhum `an `ubaydi allahi `an n_afi`i.n `ani abni `umara `ani alnnab_iyi .sl`m .h wa.hadda_tan_a ya.hy/a bnu ya.hy/a w_allaf.zu lahu q_ala qara'atu `al/a m_aliki.n `an n_afi`i.n `ani abni `umara 'anna alnnab_iya .sl`m q_ala man .hamala `alayn_a alssil_a.ha falaysa minn_a
+*hadda_tan_i zuhayru bnu *harbi*n wamu*hammadu bnu almu_tann/a q_al_a *hadda_tan_a ya*hy/a wah_ua alqa*tt_anu *h wa*hadda_tan_a 'ab_u bakri bnu 'ab_i ^sayba=ta *hadda_tan_a 'ab_u 'aus_ama=ta w_abnu numayri*n kulluhum `an `ubaydi allahi `an n_afi`i*n `ani abni `umara `ani alnnab_iyi *sl`m *h wa*hadda_tan_a ya*hy/a bnu ya*hy/a w_allaf*zu lahu q_ala qara'atu `al/a m_aliki*n `an n_afi`i*n `ani abni `umara 'anna alnnab_iya *sl`m q_ala man *hamala `alayn_a alssil_a*ha falaysa minn_a
 
 ############################################################
 ## betaCodeManual
@@ -17,11 +17,11 @@
 
 ############################################################
 ## betaCodeManual>Translit
-ḥaddaṯanī zuhayru bnu ḥarbiȵ wamuḥammadu bnu almuṯanná ḳālā ḥaddaṯanā yaḥyá wahūa alḳaṭtānu ḥ waḥaddaṯanā ʾabū bakri bnu ʾabī šaybaŧa ḥaddaṯanā ʾabū ʾausāmaŧa wābnu numayriȵ kulluhum ʿan ʿubaydi allahi ʿan nāfiʿiȵ ʿani abni ʿumara ʿani alnnabīyi ṣlʿm ḥ waḥaddaṯanā yaḥyá bnu yaḥyá wāllafẓu lahu ḳāla ḳaraʾatu ʿalá mālikiȵ ʿan nāfiʿiȵ ʿani abni ʿumara ʾanna alnnabīya ṣlʿm ḳāla man ḥamala ʿalaynā alssilāḥa falaysa minnā
+.haddaṯanī zuhayru bnu .harbi.n wamu.hammadu bnu almuṯanná ḳālā .haddaṯanā ya.hyá wahūa alḳa.ttānu .h wa.haddaṯanā ʾabū bakri bnu ʾabī šayba:ta .haddaṯanā ʾabū ʾausāma:ta wābnu numayri.n kulluhum ʿan ʿubaydi allahi ʿan nāfiʿi.n ʿani abni ʿumara ʿani alnnabīyi .slʿm .h wa.haddaṯanā ya.hyá bnu ya.hyá wāllaf.zu lahu ḳāla ḳaraʾatu ʿalá māliki.n ʿan nāfiʿi.n ʿani abni ʿumara ʾanna alnnabīya .slʿm ḳāla man .hamala ʿalaynā alssilā.ha falaysa minnā
 
 ############################################################
 ## betaCodeManual>Arabic
-حَدَّثَنِي زُهَيْرُ بْنُ حَرْبٍ وَمُحَمَّدُ بْنُ أَلْمُثَنّٰى قَالَا حَدَّثَنَا يَحْيٰى وَهُوَ أَلْقَطْتَانُ حْ وَحَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ حَدَّثَنَا أَبُو أَأُسَامَةَ وَابْنُ نُمَيْرٍ كُلُّهُمْ عَنْ عُبَيْدِ أَلَّهِ عَنْ نَافِعٍ عَنِ أَبْنِ عُمَرَ عَنِ أَلْنَّبِييِ صْلْعْمْ حْ وَحَدَّثَنَا يَحْيٰى بْنُ يَحْيٰى وَالَّفْظُ لَهُ قَالَ قَرَأَتُ عَلٰى مَالِكٍ عَنْ نَافِعٍ عَنِ أَبْنِ عُمَرَ أَنَّ أَلْنَّبِييَ صْلْعْمْ قَالَ مَنْ حَمَلَ عَلَيْنَا أَلْسِّلَاحَ فَلَيْسَ مِنّا
+.هَدَّثَنِي زُهَيْرُ بْنُ .هَرْبِ.نْ وَمُ.هَمَّدُ بْنُ أَلْمُثَنّٰى قَالَا .هَدَّثَنَا يَ.هْيٰى وَهُوَ أَلْقَ.تّانُ .هْ وَ.هَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَ:تَ .هَدَّثَنَا أَبُو أَأُسَامَ:تَ وَابْنُ نُمَيْرِ.نْ كُلُّهُمْ عَنْ عُبَيْدِ أَلَّهِ عَنْ نَافِعِ.نْ عَنِ أَبْنِ عُمَرَ عَنِ أَلْنَّبِييِ .سْلْعْمْ .هْ وَ.هَدَّثَنَا يَ.هْيٰى بْنُ يَ.هْيٰى وَالَّف.زُ لَهُ قَالَ قَرَأَتُ عَلٰى مَالِكِ.نْ عَنْ نَافِعِ.نْ عَنِ أَبْنِ عُمَرَ أَنَّ أَلْنَّبِييَ .سْلْعْمْ قَالَ مَنْ .هَمَلَ عَلَيْنَا أَلْسِّلَا.هَ فَلَيْسَ مِنّا
 
 ############################################################
 ## TranslationBetaCode
@@ -29,5 +29,5 @@ Type your translation on this line
 
 ############################################################
 ## TranslationTranslit
-Translation with transliterated names will appear here
+Type your translation on this line
 

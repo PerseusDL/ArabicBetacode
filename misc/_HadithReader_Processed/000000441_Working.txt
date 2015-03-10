@@ -9,7 +9,7 @@
 
 ############################################################
 ## betaCodeAuto
-'a_hbaran_i mu.hammadu bnu wahbi.n q_ala .hadda_tan_a mu.hammadu bnu salama:ta q_ala .hadda_tan_i abnu 'is.h_aqa `an 'ayy_uba bni m_us/a `an `a.t_a'i.n mursalu.n
+'a_hbaran_i mu*hammadu bnu wahbi*n q_ala *hadda_tan_a mu*hammadu bnu salama=ta q_ala *hadda_tan_i abnu 'is*h_aqa `an 'ayy_uba bni m_us/a `an `a*t_a'i*n mursalu*n
 
 ############################################################
 ## betaCodeManual
@@ -17,11 +17,11 @@
 
 ############################################################
 ## betaCodeManual>Translit
-ʾaḫbaranī muḥammadu bnu wahbiȵ ḳāla ḥaddaṯanā muḥammadu bnu salamaŧa ḳāla ḥaddaṯanī abnu ʾisḥāḳa ʿan ʾayyūba bni mūsá ʿan ʿaṭāʾiȵ mursaluȵ
+ʾaḫbaranī mu.hammadu bnu wahbi.n ḳāla .haddaṯanā mu.hammadu bnu salama:ta ḳāla .haddaṯanī abnu ʾis.hāḳa ʿan ʾayyūba bni mūsá ʿan ʿa.tāʾi.n mursalu.n
 
 ############################################################
 ## betaCodeManual>Arabic
-أَخْبَرَنِي مُحَمَّدُ بْنُ وَهْبٍ قَالَ حَدَّثَنَا مُحَمَّدُ بْنُ سَلَمَةَ قَالَ حَدَّثَنِي أَبْنُ إِسْحَاقَ عَنْ أَيّوبَ بْنِ مُوسٰى عَنْ عَطاءٍ مُرْسَلٌ
+أَخْبَرَنِي مُ.هَمَّدُ بْنُ وَهْبِ.نْ قَالَ .هَدَّثَنَا مُ.هَمَّدُ بْنُ سَلَمَ:تَ قَالَ .هَدَّثَنِي أَبْنُ إِس.هَاقَ عَنْ أَيّوبَ بْنِ مُوسٰى عَنْ عَ.تاءِ.نْ مُرْسَلُ.نْ
 
 ############################################################
 ## TranslationBetaCode

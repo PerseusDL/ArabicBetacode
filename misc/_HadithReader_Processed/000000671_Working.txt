@@ -9,7 +9,7 @@
 
 ############################################################
 ## betaCodeAuto
-.hadda_tan_a mu.hammadu bnu ya.hy/a .hadda_tan_a nu`aymu bnu .hamm_adi.n .hadda_tan_a abnu almub_araki .hadda_tan_a 'aus_ama:tu bnu zaydi.n `an `amriw bni ^su`aybi.n `an 'ab_ihi `an ^gaddihi `abdi allahi bni `amri.nw `ani alnnab_iyi  .sl`m  'annahu 'a_ha_da mina al`asali al`u^sra
+*hadda_tan_a mu*hammadu bnu ya*hy/a *hadda_tan_a nu`aymu bnu *hamm_adi*n *hadda_tan_a abnu almub_araki *hadda_tan_a 'aus_ama=tu bnu zaydi*n `an `amriw bni ^su`aybi*n `an 'ab_ihi `an ^gaddihi `abdi allahi bni `amri*nw `ani alnnab_iyi  *sl`m  'annahu 'a_ha_da mina al`asali al`u^sra
 
 ############################################################
 ## betaCodeManual
@@ -17,11 +17,11 @@
 
 ############################################################
 ## betaCodeManual>Translit
-ḥaddaṯanā muḥammadu bnu yaḥyá ḥaddaṯanā nuʿaymu bnu ḥammādiȵ ḥaddaṯanā abnu almubāraki ḥaddaṯanā ʾausāmaŧu bnu zaydiȵ ʿan ʿamriw bni šuʿaybiȵ ʿan ʾabīhi ʿan ǧaddihi ʿabdi allahi bni ʿamriȵw ʿani alnnabīyi  ṣlʿm  ʾannahu ʾaḫaḏa mina alʿasali alʿušra
+.haddaṯanā mu.hammadu bnu ya.hyá .haddaṯanā nuʿaymu bnu .hammādi.n .haddaṯanā abnu almubāraki .haddaṯanā ʾausāma:tu bnu zaydi.n ʿan ʿamriw bni šuʿaybi.n ʿan ʾabīhi ʿan ǧaddihi ʿabdi allahi bni ʿamri.nw ʿani alnnabīyi  .slʿm  ʾannahu ʾaḫaḏa mina alʿasali alʿušra
 
 ############################################################
 ## betaCodeManual>Arabic
-حَدَّثَنَا مُحَمَّدُ بْنُ يَحْيٰى حَدَّثَنَا نُعَيْمُ بْنُ حَمّادٍ حَدَّثَنَا أَبْنُ أَلْمُبَارَكِ حَدَّثَنَا أَأُسَامَةُ بْنُ زَيْدٍ عَنْ عَمْرِوْ بْنِ شُعَيْبٍ عَنْ أَبِيهِ عَنْ جَدِّهِ عَبْدِ أَلَّهِ بْنِ عَمْرٍوْ عَنِ أَلْنَّبِييِ  صْلْعْمْ  أَنَّهُ أَخَذَ مِنَ أَلْعَسَلِ أَلْعُشْرَ
+.هَدَّثَنَا مُ.هَمَّدُ بْنُ يَ.هْيٰى .هَدَّثَنَا نُعَيْمُ بْنُ .هَمّادِ.نْ .هَدَّثَنَا أَبْنُ أَلْمُبَارَكِ .هَدَّثَنَا أَأُسَامَ:تُ بْنُ زَيْدِ.نْ عَنْ عَمْرِوْ بْنِ شُعَيْبِ.نْ عَنْ أَبِيهِ عَنْ جَدِّهِ عَبْدِ أَلَّهِ بْنِ عَمْرِ.نْوْ عَنِ أَلْنَّبِييِ  .سْلْعْمْ  أَنَّهُ أَخَذَ مِنَ أَلْعَسَلِ أَلْعُشْرَ
 
 ############################################################
 ## TranslationBetaCode
@@ -29,5 +29,5 @@ Type your translation on this line
 
 ############################################################
 ## TranslationTranslit
-Translation with transliterated names will appear here
+Type your translation on this line
 

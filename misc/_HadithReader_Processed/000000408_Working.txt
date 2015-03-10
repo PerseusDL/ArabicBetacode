@@ -9,7 +9,7 @@
 
 ############################################################
 ## betaCodeAuto
-'a_hbaran_a mu.hammadu bnu `abdi al'a`l/a q_ala .hadda_tan_a _h_alidu.n `an hi^s_ami.n q_ala .hadda_tan_a qat_ada:tu `an sa`_idi bni almusayyabi 'anna mu`_aw_ia:ta q_ala 'inna ras_ula allahi .sl`m nah/a `ani alzz_uri
+'a_hbaran_a mu*hammadu bnu `abdi al'a`l/a q_ala *hadda_tan_a _h_alidu*n `an hi^s_ami*n q_ala *hadda_tan_a qat_ada=tu `an sa`_idi bni almusayyabi 'anna mu`_aw_ia=ta q_ala 'inna ras_ula allahi *sl`m nah/a `ani alzz_uri
 
 ############################################################
 ## betaCodeManual
@@ -17,11 +17,11 @@
 
 ############################################################
 ## betaCodeManual>Translit
-ʾaḫbaranā muḥammadu bnu ʿabdi alʾaʿlá ḳāla ḥaddaṯanā ḫāliduȵ ʿan hišāmiȵ ḳāla ḥaddaṯanā ḳatādaŧu ʿan saʿīdi bni almusayyabi ʾanna muʿāwīaŧa ḳāla ʾinna rasūla allahi ṣlʿm nahá ʿani alzzūri
+ʾaḫbaranā mu.hammadu bnu ʿabdi alʾaʿlá ḳāla .haddaṯanā ḫālidu.n ʿan hišāmi.n ḳāla .haddaṯanā ḳatāda:tu ʿan saʿīdi bni almusayyabi ʾanna muʿāwīa:ta ḳāla ʾinna rasūla allahi .slʿm nahá ʿani alzzūri
 
 ############################################################
 ## betaCodeManual>Arabic
-أَخْبَرَنَا مُحَمَّدُ بْنُ عَبْدِ أَلْأَعْلٰى قَالَ حَدَّثَنَا خَالِدٌ عَنْ هِشَامٍ قَالَ حَدَّثَنَا قَتَادَةُ عَنْ سَعِيدِ بْنِ أَلْمُسَيَّبِ أَنَّ مُعَاوِيَةَ قَالَ إِنَّ رَسُولَ أَلَّهِ صْلْعْمْ نَهٰى عَنِ أَلْزّورِ
+أَخْبَرَنَا مُ.هَمَّدُ بْنُ عَبْدِ أَلْأَعْلٰى قَالَ .هَدَّثَنَا خَالِدُ.نْ عَنْ هِشَامِ.نْ قَالَ .هَدَّثَنَا قَتَادَ:تُ عَنْ سَعِيدِ بْنِ أَلْمُسَيَّبِ أَنَّ مُعَاوِيَ:تَ قَالَ إِنَّ رَسُولَ أَلَّهِ .سْلْعْمْ نَهٰى عَنِ أَلْزّورِ
 
 ############################################################
 ## TranslationBetaCode

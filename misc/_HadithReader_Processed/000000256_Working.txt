@@ -9,7 +9,7 @@
 
 ############################################################
 ## betaCodeAuto
-.hadda_tan_a `abdu bnu .humaydi.n 'a_hbaran_a mu.hammadu bnu bakri.n 'a_hbaran_a abnu ^guray^gi.n 'a_hbaran_i `ubaydu allahi bnu `umara `ani alq_asimi bni mu.hammadi.n q_ala ^g_a'at `_a'i^sa:tu .h_a^gga:ta.n
+*hadda_tan_a `abdu bnu *humaydi*n 'a_hbaran_a mu*hammadu bnu bakri*n 'a_hbaran_a abnu ^guray^gi*n 'a_hbaran_i `ubaydu allahi bnu `umara `ani alq_asimi bni mu*hammadi*n q_ala ^g_a'at `_a'i^sa=tu *h_a^gga=ta*n
 
 ############################################################
 ## betaCodeManual
@@ -17,11 +17,11 @@
 
 ############################################################
 ## betaCodeManual>Translit
-ḥaddaṯanā ʿabdu bnu ḥumaydiȵ ʾaḫbaranā muḥammadu bnu bakriȵ ʾaḫbaranā abnu ǧurayǧiȵ ʾaḫbaranī ʿubaydu allahi bnu ʿumara ʿani alḳāsimi bni muḥammadiȵ ḳāla ǧāʾat ʿāʾišaŧu ḥāǧgaŧaȵ
+.haddaṯanā ʿabdu bnu .humaydi.n ʾaḫbaranā mu.hammadu bnu bakri.n ʾaḫbaranā abnu ǧurayǧi.n ʾaḫbaranī ʿubaydu allahi bnu ʿumara ʿani alḳāsimi bni mu.hammadi.n ḳāla ǧāʾat ʿāʾiša:tu .hāǧga:ta.n
 
 ############################################################
 ## betaCodeManual>Arabic
-حَدَّثَنَا عَبْدُ بْنُ حُمَيْدٍ أَخْبَرَنَا مُحَمَّدُ بْنُ بَكْرٍ أَخْبَرَنَا أَبْنُ جُرَيْجٍ أَخْبَرَنِي عُبَيْدُ أَلَّهِ بْنُ عُمَرَ عَنِ أَلْقَاسِمِ بْنِ مُحَمَّدٍ قَالَ جَاءَتْ عائِشَةُ حَاجْگَةً
+.هَدَّثَنَا عَبْدُ بْنُ .هُمَيْدِ.نْ أَخْبَرَنَا مُ.هَمَّدُ بْنُ بَكْرِ.نْ أَخْبَرَنَا أَبْنُ جُرَيْجِ.نْ أَخْبَرَنِي عُبَيْدُ أَلَّهِ بْنُ عُمَرَ عَنِ أَلْقَاسِمِ بْنِ مُ.هَمَّدِ.نْ قَالَ جَاءَتْ عائِشَ:تُ .هَاجْگَ:تَ.نْ
 
 ############################################################
 ## TranslationBetaCode

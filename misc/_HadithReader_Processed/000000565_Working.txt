@@ -9,7 +9,7 @@
 
 ############################################################
 ## betaCodeAuto
-.hadda_tan_a `abdu allahi bnu sa`_idi.n .hadda_tan_a .haf.su bnu .g_i_a_ti.n `ani abni ^guray^gi.n `an sulaym_ana bni m_us/a `an ^g_abiri.n q_ala nah/a ras_ulu allahi  .sl`m  'an yuktaba `al/a alqabri ^s/a'u.n
+*hadda_tan_a `abdu allahi bnu sa`_idi*n *hadda_tan_a *haf*su bnu *g_i_a_ti*n `ani abni ^guray^gi*n `an sulaym_ana bni m_us/a `an ^g_abiri*n q_ala nah/a ras_ulu allahi  *sl`m  'an yuktaba `al/a alqabri ^s/a'u*n
 
 ############################################################
 ## betaCodeManual
@@ -17,11 +17,11 @@
 
 ############################################################
 ## betaCodeManual>Translit
-ḥaddaṯanā ʿabdu allahi bnu saʿīdiȵ ḥaddaṯanā ḥafṣu bnu ġīāṯiȵ ʿani abni ǧurayǧiȵ ʿan sulaymāna bni mūsá ʿan ǧābiriȵ ḳāla nahá rasūlu allahi  ṣlʿm  ʾan yuktaba ʿalá alḳabri šáʾuȵ
+.haddaṯanā ʿabdu allahi bnu saʿīdi.n .haddaṯanā .haf.su bnu .gīāṯi.n ʿani abni ǧurayǧi.n ʿan sulaymāna bni mūsá ʿan ǧābiri.n ḳāla nahá rasūlu allahi  .slʿm  ʾan yuktaba ʿalá alḳabri šáʾu.n
 
 ############################################################
 ## betaCodeManual>Arabic
-حَدَّثَنَا عَبْدُ أَلَّهِ بْنُ سَعِيدٍ حَدَّثَنَا حَفْصُ بْنُ غِياثٍ عَنِ أَبْنِ جُرَيْجٍ عَنْ سُلَيْمَانَ بْنِ مُوسٰى عَنْ جَابِرٍ قَالَ نَهٰى رَسُولُ أَلَّهِ  صْلْعْمْ  أَنْ يُكْتَبَ عَلٰى أَلْقَبْرِ شٰىءٌ
+.هَدَّثَنَا عَبْدُ أَلَّهِ بْنُ سَعِيدِ.نْ .هَدَّثَنَا .هَف.سُ بْنُ .گِياثِ.نْ عَنِ أَبْنِ جُرَيْجِ.نْ عَنْ سُلَيْمَانَ بْنِ مُوسٰى عَنْ جَابِرِ.نْ قَالَ نَهٰى رَسُولُ أَلَّهِ  .سْلْعْمْ  أَنْ يُكْتَبَ عَلٰى أَلْقَبْرِ شٰىءُ.نْ
 
 ############################################################
 ## TranslationBetaCode

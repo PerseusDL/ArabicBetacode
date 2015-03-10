@@ -9,7 +9,7 @@
 
 ############################################################
 ## betaCodeAuto
-.hadda_tan_a ya.hy/a bnu ya.hy/a q_ala 'a_hbaran_a sufy_anu bnu `uyayna:ta `an ma`mari.n `ani alzzuhr_iyi biha_d_a al'isn_adi
+*hadda_tan_a ya*hy/a bnu ya*hy/a q_ala 'a_hbaran_a sufy_anu bnu `uyayna=ta `an ma`mari*n `ani alzzuhr_iyi biha_d_a al'isn_adi
 
 ############################################################
 ## betaCodeManual
@@ -17,11 +17,11 @@
 
 ############################################################
 ## betaCodeManual>Translit
-ḥaddaṯa-nā Yaḥyá bnủ Yaḥyá ḳāla , aḫbara-nā Sufyānủ bnủ ʿUyaynaŧả ʿan Maʿmarỉȵ , ʿanỉ al-Zuhriyyỉ bi-hãḏā al-isnādỉ
+.haddaṯa-nā Ya.hyá bnủ Ya.hyá ḳāla , aḫbara-nā Sufyānủ bnủ ʿUyayna:tả ʿan Maʿmarỉ.n , ʿanỉ al-Zuhriyyỉ bi-hãḏā al-isnādỉ
 
 ############################################################
 ## betaCodeManual>Arabic
-حَدَّثَنَا يَحْيٰى بْنُ يَحْيٰى قَالَ ، أَخْبَرَنَا سُفْيَانُ بْنُ عُيَيْنَةَ عَنْ مَعْمَرٍ ، عَنِ ﭐلزُّهْرِيِّ بِهٰذَا ﭐلْإِسْنَادِ
+.هَدَّثَنَا يَ.هْيٰى بْنُ يَ.هْيٰى قَالَ ، أَخْبَرَنَا سُفْيَانُ بْنُ عُيَيْنَ:تَ عَنْ مَعْمَرِ.نْ ، عَنِ ﭐلزُّهْرِيِّ بِهٰذَا ﭐلْإِسْنَادِ
 
 ############################################################
 ## TranslationBetaCode
@@ -29,5 +29,5 @@ Ya.hy/a b. Ya.hy/a narrated to us [and] he said, Sufy_an b. `Uyayna:t reported t
 
 ############################################################
 ## TranslationTranslit
-Yaḥyá b. Yaḥyá narrated to us [and] he said, Sufyān b. ʿUyaynaŧ reported to us, from Maʿmar, from al-Zuhrī with this chain [of transmitters].
+Ya.hyá b. Ya.hyá narrated to us [and] he said, Sufyān b. ʿUyayna:t reported to us, from Maʿmar, from al-Zuhrī with this chain [of transmitters].
 

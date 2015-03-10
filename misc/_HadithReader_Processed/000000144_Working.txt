@@ -9,7 +9,7 @@
 
 ############################################################
 ## betaCodeAuto
-.hadda_tan_a 'ab_u bakri bnu 'ab_i ^sayba:ta w_abnu almu_tann/a `an mu.hammadi bni ^ga`fari.n `an ^su`ba:ta `an man.s_uri.n .h wa.hadda_tan_a abnu numayri.n .hadda_tan_a `aff_anu .hadda_tan_a ^su`ba:tu `ani al'a`ma^si kil_ahum_a `an 'ab_i w_a'ili.n `an `abdi allahi `ani alnnab_iyi .sl`m bimi_tlihi
+*hadda_tan_a 'ab_u bakri bnu 'ab_i ^sayba=ta w_abnu almu_tann/a `an mu*hammadi bni ^ga`fari*n `an ^su`ba=ta `an man*s_uri*n *h wa*hadda_tan_a abnu numayri*n *hadda_tan_a `aff_anu *hadda_tan_a ^su`ba=tu `ani al'a`ma^si kil_ahum_a `an 'ab_i w_a'ili*n `an `abdi allahi `ani alnnab_iyi *sl`m bimi_tlihi
 
 ############################################################
 ## betaCodeManual
@@ -17,11 +17,11 @@
 
 ############################################################
 ## betaCodeManual>Translit
-ḥaddaṯanā ʾabū bakri bnu ʾabī šaybaŧa wābnu almuṯanná ʿan muḥammadi bni ǧaʿfariȵ ʿan šuʿbaŧa ʿan manṣūriȵ ḥ waḥaddaṯanā abnu numayriȵ ḥaddaṯanā ʿaffānu ḥaddaṯanā šuʿbaŧu ʿani alʾaʿmaši kilāhumā ʿan ʾabī wāʾiliȵ ʿan ʿabdi allahi ʿani alnnabīyi ṣlʿm bimiṯlihi
+.haddaṯanā ʾabū bakri bnu ʾabī šayba:ta wābnu almuṯanná ʿan mu.hammadi bni ǧaʿfari.n ʿan šuʿba:ta ʿan man.sūri.n .h wa.haddaṯanā abnu numayri.n .haddaṯanā ʿaffānu .haddaṯanā šuʿba:tu ʿani alʾaʿmaši kilāhumā ʿan ʾabī wāʾili.n ʿan ʿabdi allahi ʿani alnnabīyi .slʿm bimiṯlihi
 
 ############################################################
 ## betaCodeManual>Arabic
-حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ وَابْنُ أَلْمُثَنّٰى عَنْ مُحَمَّدِ بْنِ جَعْفَرٍ عَنْ شُعْبَةَ عَنْ مَنْصُورٍ حْ وَحَدَّثَنَا أَبْنُ نُمَيْرٍ حَدَّثَنَا عَفّانُ حَدَّثَنَا شُعْبَةُ عَنِ أَلْأَعْمَشِ كِلَاهُمَا عَنْ أَبِي وائِلٍ عَنْ عَبْدِ أَلَّهِ عَنِ أَلْنَّبِييِ صْلْعْمْ بِمِثْلِهِ
+.هَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَ:تَ وَابْنُ أَلْمُثَنّٰى عَنْ مُ.هَمَّدِ بْنِ جَعْفَرِ.نْ عَنْ شُعْبَ:تَ عَنْ مَن.سُورِ.نْ .هْ وَ.هَدَّثَنَا أَبْنُ نُمَيْرِ.نْ .هَدَّثَنَا عَفّانُ .هَدَّثَنَا شُعْبَ:تُ عَنِ أَلْأَعْمَشِ كِلَاهُمَا عَنْ أَبِي وائِلِ.نْ عَنْ عَبْدِ أَلَّهِ عَنِ أَلْنَّبِييِ .سْلْعْمْ بِمِثْلِهِ
 
 ############################################################
 ## TranslationBetaCode

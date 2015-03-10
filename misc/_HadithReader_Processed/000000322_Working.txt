@@ -9,7 +9,7 @@
 
 ############################################################
 ## betaCodeAuto
-'a_hbaran_a mu.hammadu bnu almu_tann/a `an `u_tm_ana bni `umara q_ala 'anba'an_a `al_iyu bnu almub_araki `an ya.hy/a `an mu.hammadi bni `abdi alrra.hmani `an ra^guli.n `an ^g_abiri.n 'anna ras_ula allahi .sl`m q_ala laysa mina albirri al.ss_i_amu f_i alssafari
+'a_hbaran_a mu*hammadu bnu almu_tann/a `an `u_tm_ana bni `umara q_ala 'anba'an_a `al_iyu bnu almub_araki `an ya*hy/a `an mu*hammadi bni `abdi alrra*hmani `an ra^guli*n `an ^g_abiri*n 'anna ras_ula allahi *sl`m q_ala laysa mina albirri al*ss_i_amu f_i alssafari
 
 ############################################################
 ## betaCodeManual
@@ -17,11 +17,11 @@
 
 ############################################################
 ## betaCodeManual>Translit
-ʾaḫbaranā muḥammadu bnu almuṯanná ʿan ʿuṯmāna bni ʿumara ḳāla ʾanbaʾanā ʿalīyu bnu almubāraki ʿan yaḥyá ʿan muḥammadi bni ʿabdi alrraḥmani ʿan raǧuliȵ ʿan ǧābiriȵ ʾanna rasūla allahi ṣlʿm ḳāla laysa mina albirri alṣsīāmu fī alssafari
+ʾaḫbaranā mu.hammadu bnu almuṯanná ʿan ʿuṯmāna bni ʿumara ḳāla ʾanbaʾanā ʿalīyu bnu almubāraki ʿan ya.hyá ʿan mu.hammadi bni ʿabdi alrra.hmani ʿan raǧuli.n ʿan ǧābiri.n ʾanna rasūla allahi .slʿm ḳāla laysa mina albirri al.ssīāmu fī alssafari
 
 ############################################################
 ## betaCodeManual>Arabic
-أَخْبَرَنَا مُحَمَّدُ بْنُ أَلْمُثَنّٰى عَنْ عُثْمَانَ بْنِ عُمَرَ قَالَ أَنْبَأَنَا عَلِييُ بْنُ أَلْمُبَارَكِ عَنْ يَحْيٰى عَنْ مُحَمَّدِ بْنِ عَبْدِ أَلْرَّحْمَنِ عَنْ رَجُلٍ عَنْ جَابِرٍ أَنَّ رَسُولَ أَلَّهِ صْلْعْمْ قَالَ لَيْسَ مِنَ أَلْبِرِّ أَلْصْسِيامُ فِي أَلْسَّفَرِ
+أَخْبَرَنَا مُ.هَمَّدُ بْنُ أَلْمُثَنّٰى عَنْ عُثْمَانَ بْنِ عُمَرَ قَالَ أَنْبَأَنَا عَلِييُ بْنُ أَلْمُبَارَكِ عَنْ يَ.هْيٰى عَنْ مُ.هَمَّدِ بْنِ عَبْدِ أَلْرَّ.هْمَنِ عَنْ رَجُلِ.نْ عَنْ جَابِرِ.نْ أَنَّ رَسُولَ أَلَّهِ .سْلْعْمْ قَالَ لَيْسَ مِنَ أَلْبِرِّ أَل.سّيامُ فِي أَلْسَّفَرِ
 
 ############################################################
 ## TranslationBetaCode

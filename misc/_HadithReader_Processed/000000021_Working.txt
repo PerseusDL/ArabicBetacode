@@ -9,7 +9,7 @@
 
 ############################################################
 ## betaCodeAuto
-wa.hadda_tan_i 'ab_u salama:ta bnu `abdi alrra.hmani `an 'ab_i qat_ada:ta `ani alnnab_iyi .sl`m bimi_tli ha_d_a al.had_i_ti
+wa*hadda_tan_i 'ab_u salama=ta bnu `abdi alrra*hmani `an 'ab_i qat_ada=ta `ani alnnab_iyi *sl`m bimi_tli ha_d_a al*had_i_ti
 
 ############################################################
 ## betaCodeManual
@@ -17,11 +17,11 @@ wa-.hadda_ta-n_i Ab_u Salama:t?a bn?u `Abd?i al-Ra.hm~an?i , `an 'Ab_i Qat_ada:t
 
 ############################################################
 ## betaCodeManual>Translit
-wa-ḥaddaṯa-nī Abū Salamaŧả bnủ ʿAbdỉ al-Raḥmãnỉ , ʿan ʾAbī Ḳatādaŧả , ʿanỉ al-nabiyyỉ  ( ṣlʿm ) bi-miṯlỉ hãḏā al-ḥadīṯỉ
+wa-.haddaṯa-nī Abū Salama:tả bnủ ʿAbdỉ al-Ra.hmãnỉ , ʿan ʾAbī Ḳatāda:tả , ʿanỉ al-nabiyyỉ  ( .slʿm ) bi-miṯlỉ hãḏā al-.hadīṯỉ
 
 ############################################################
 ## betaCodeManual>Arabic
-وَحَدَّثَنِي أَبُو سَلَمَةَ بْنُ عَبْدِ ﭐلرَّحْمٰنِ ، عَنْ أَبِي قَتَادَةَ ، عَنِ ﭐلنَّبِيِّ  ( صْلْعْمْ ) بِمِثْلِ هٰذَا ﭐلْحَدِيثِ
+وَ.هَدَّثَنِي أَبُو سَلَمَ:تَ بْنُ عَبْدِ ﭐلرَّ.هْمٰنِ ، عَنْ أَبِي قَتَادَ:تَ ، عَنِ ﭐلنَّبِيِّ  ( .سْلْعْمْ ) بِمِثْلِ هٰذَا ﭐلْ.هَدِيثِ
 
 ############################################################
 ## TranslationBetaCode
@@ -29,5 +29,5 @@ And Ab_u Salama:t b. `Abd al-Ra.hm~an narrated to me, from Ab_i Qat_ada:t, from 
 
 ############################################################
 ## TranslationTranslit
-And Abū Salamaŧ b. ʿAbd al-Raḥmãn narrated to me, from Abī Ḳatādaŧ, from the Prophet ( ṣlʿm ) something similar to this ḥadīṯ.
+And Abū Salama:t b. ʿAbd al-Ra.hmãn narrated to me, from Abī Ḳatāda:t, from the Prophet ( .slʿm ) something similar to this .hadīṯ.
 

@@ -9,7 +9,7 @@
 
 ############################################################
 ## betaCodeAuto
-wa.hadda_tan_a mu.hammadu bnu almu_tann/a .hadda_tan_a mu.hammadu bnu ^ga`fari.n .hadda_tan_a ^su`ba:tu q_ala sami`tu al`al_a'a biha_d_a al'isn_adi
+wa*hadda_tan_a mu*hammadu bnu almu_tann/a *hadda_tan_a mu*hammadu bnu ^ga`fari*n *hadda_tan_a ^su`ba=tu q_ala sami`tu al`al_a'a biha_d_a al'isn_adi
 
 ############################################################
 ## betaCodeManual
@@ -17,11 +17,11 @@ wa.hadda_tan_a mu.hammadu bnu almu_tann/a .hadda_tan_a mu.hammadu bnu ^ga`fari.n
 
 ############################################################
 ## betaCodeManual>Translit
-waḥaddaṯanā muḥammadu bnu almuṯanná ḥaddaṯanā muḥammadu bnu ǧaʿfariȵ ḥaddaṯanā šuʿbaŧu ḳāla samiʿtu alʿalāʾa bihaḏā alʾisnādi
+wa.haddaṯanā mu.hammadu bnu almuṯanná .haddaṯanā mu.hammadu bnu ǧaʿfari.n .haddaṯanā šuʿba:tu ḳāla samiʿtu alʿalāʾa bihaḏā alʾisnādi
 
 ############################################################
 ## betaCodeManual>Arabic
-وَحَدَّثَنَا مُحَمَّدُ بْنُ أَلْمُثَنّٰى حَدَّثَنَا مُحَمَّدُ بْنُ جَعْفَرٍ حَدَّثَنَا شُعْبَةُ قَالَ سَمِعْتُ أَلْعَلاءَ بِهَذَا أَلْئِسْنَادِ
+وَ.هَدَّثَنَا مُ.هَمَّدُ بْنُ أَلْمُثَنّٰى .هَدَّثَنَا مُ.هَمَّدُ بْنُ جَعْفَرِ.نْ .هَدَّثَنَا شُعْبَ:تُ قَالَ سَمِعْتُ أَلْعَلاءَ بِهَذَا أَلْئِسْنَادِ
 
 ############################################################
 ## TranslationBetaCode

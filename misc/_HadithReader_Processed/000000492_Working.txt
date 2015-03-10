@@ -9,7 +9,7 @@
 
 ############################################################
 ## betaCodeAuto
-'a_hbaran_a ma.hm_udu bnu .gayl_ana q_ala .hadda_tan_a 'ab_u d_awuda q_ala .hadda_tan_a ^su`ba:tu `an 'ibr_ah_ima bni maysara:ta `an .t_awusi.n `ani abni `umara 'anna ras_ula allahi .sl`m nah/a `ani alddubb_a'i
+'a_hbaran_a ma*hm_udu bnu *gayl_ana q_ala *hadda_tan_a 'ab_u d_awuda q_ala *hadda_tan_a ^su`ba=tu `an 'ibr_ah_ima bni maysara=ta `an *t_awusi*n `ani abni `umara 'anna ras_ula allahi *sl`m nah/a `ani alddubb_a'i
 
 ############################################################
 ## betaCodeManual
@@ -17,11 +17,11 @@
 
 ############################################################
 ## betaCodeManual>Translit
-ʾaḫbaranā maḥmūdu bnu ġaylāna ḳāla ḥaddaṯanā ʾabū dāwuda ḳāla ḥaddaṯanā šuʿbaŧu ʿan ʾibrāhīma bni maysaraŧa ʿan ṭāwusiȵ ʿani abni ʿumara ʾanna rasūla allahi ṣlʿm nahá ʿani alddubbāʾi
+ʾaḫbaranā ma.hmūdu bnu .gaylāna ḳāla .haddaṯanā ʾabū dāwuda ḳāla .haddaṯanā šuʿba:tu ʿan ʾibrāhīma bni maysara:ta ʿan .tāwusi.n ʿani abni ʿumara ʾanna rasūla allahi .slʿm nahá ʿani alddubbāʾi
 
 ############################################################
 ## betaCodeManual>Arabic
-أَخْبَرَنَا مَحْمُودُ بْنُ غَيْلَانَ قَالَ حَدَّثَنَا أَبُو دَاوُدَ قَالَ حَدَّثَنَا شُعْبَةُ عَنْ إِبْرَاهِيمَ بْنِ مَيْسَرَةَ عَنْ طَاوُسٍ عَنِ أَبْنِ عُمَرَ أَنَّ رَسُولَ أَلَّهِ صْلْعْمْ نَهٰى عَنِ أَلْدُّبّاءِ
+أَخْبَرَنَا مَ.هْمُودُ بْنُ .گَيْلَانَ قَالَ .هَدَّثَنَا أَبُو دَاوُدَ قَالَ .هَدَّثَنَا شُعْبَ:تُ عَنْ إِبْرَاهِيمَ بْنِ مَيْسَرَ:تَ عَنْ .تَاوُسِ.نْ عَنِ أَبْنِ عُمَرَ أَنَّ رَسُولَ أَلَّهِ .سْلْعْمْ نَهٰى عَنِ أَلْدُّبّاءِ
 
 ############################################################
 ## TranslationBetaCode

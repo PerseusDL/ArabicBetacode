@@ -9,7 +9,7 @@
 
 ############################################################
 ## betaCodeAuto
-'a_hbaran_a qutayba:tu wamu.hammadu bnu man.s_uri.n w_allaf.zu lahu `an sufy_ana `an 'ab_i salama:ta `an 'ab_i hurayra:ta `ani alnnab_iyi .sl`m q_ala man 'adraka min .sal_a:ti al^gumu`a:ti rak`a:ta.n faqad 'adraka
+'a_hbaran_a qutayba=tu wamu*hammadu bnu man*s_uri*n w_allaf*zu lahu `an sufy_ana `an 'ab_i salama=ta `an 'ab_i hurayra=ta `ani alnnab_iyi *sl`m q_ala man 'adraka min *sal_a=ti al^gumu`a=ti rak`a=ta*n faqad 'adraka
 
 ############################################################
 ## betaCodeManual
@@ -17,11 +17,11 @@
 
 ############################################################
 ## betaCodeManual>Translit
-ʾaḫbaranā ḳutaybaŧu wamuḥammadu bnu manṣūriȵ wāllafẓu lahu ʿan sufyāna ʿan ʾabī salamaŧa ʿan ʾabī hurayraŧa ʿani alnnabīyi ṣlʿm ḳāla man ʾadraka min ṣalāŧi alǧumuʿaŧi rakʿaŧaȵ faḳad ʾadraka
+ʾaḫbaranā ḳutayba:tu wamu.hammadu bnu man.sūri.n wāllaf.zu lahu ʿan sufyāna ʿan ʾabī salama:ta ʿan ʾabī hurayra:ta ʿani alnnabīyi .slʿm ḳāla man ʾadraka min .salā:ti alǧumuʿa:ti rakʿa:ta.n faḳad ʾadraka
 
 ############################################################
 ## betaCodeManual>Arabic
-أَخْبَرَنَا قُتَيْبَةُ وَمُحَمَّدُ بْنُ مَنْصُورٍ وَالَّفْظُ لَهُ عَنْ سُفْيَانَ عَنْ أَبِي سَلَمَةَ عَنْ أَبِي هُرَيْرَةَ عَنِ أَلْنَّبِييِ صْلْعْمْ قَالَ مَنْ أَدْرَكَ مِنْ صَلَاةِ أَلْجُمُعَةِ رَكْعَةً فَقَدْ أَدْرَكَ
+أَخْبَرَنَا قُتَيْبَ:تُ وَمُ.هَمَّدُ بْنُ مَن.سُورِ.نْ وَالَّف.زُ لَهُ عَنْ سُفْيَانَ عَنْ أَبِي سَلَمَ:تَ عَنْ أَبِي هُرَيْرَ:تَ عَنِ أَلْنَّبِييِ .سْلْعْمْ قَالَ مَنْ أَدْرَكَ مِنْ .سَلَا:تِ أَلْجُمُعَ:تِ رَكْعَ:تَ.نْ فَقَدْ أَدْرَكَ
 
 ############################################################
 ## TranslationBetaCode

@@ -9,7 +9,7 @@
 
 ############################################################
 ## betaCodeAuto
-.hadda_tan_a 'ism_a`_ilu bnu `abdi allahi q_ala .hadda_tan_i m_aliku.n `an n_afi`i.n `ani abni `umara `ani alnnab_iyi .sl`m q_ala 'innam_a alwal_a'u liman 'a`taqa
+*hadda_tan_a 'ism_a`_ilu bnu `abdi allahi q_ala *hadda_tan_i m_aliku*n `an n_afi`i*n `ani abni `umara `ani alnnab_iyi *sl`m q_ala 'innam_a alwal_a'u liman 'a`taqa
 
 ############################################################
 ## betaCodeManual
@@ -17,11 +17,11 @@
 
 ############################################################
 ## betaCodeManual>Translit
-ḥaddaṯanā ʾismāʿīlu bnu ʿabdi allahi ḳāla ḥaddaṯanī mālikuȵ ʿan nāfiʿiȵ ʿani abni ʿumara ʿani alnnabīyi ṣlʿm ḳāla ʾinnamā alwalāʾu liman ʾaʿtaḳa
+.haddaṯanā ʾismāʿīlu bnu ʿabdi allahi ḳāla .haddaṯanī māliku.n ʿan nāfiʿi.n ʿani abni ʿumara ʿani alnnabīyi .slʿm ḳāla ʾinnamā alwalāʾu liman ʾaʿtaḳa
 
 ############################################################
 ## betaCodeManual>Arabic
-حَدَّثَنَا إِسْمَاعِيلُ بْنُ عَبْدِ أَلَّهِ قَالَ حَدَّثَنِي مَالِكٌ عَنْ نَافِعٍ عَنِ أَبْنِ عُمَرَ عَنِ أَلْنَّبِييِ صْلْعْمْ قَالَ إِنَّمَا أَلْوَلاءُ لِمَنْ أَعْتَقَ
+.هَدَّثَنَا إِسْمَاعِيلُ بْنُ عَبْدِ أَلَّهِ قَالَ .هَدَّثَنِي مَالِكُ.نْ عَنْ نَافِعِ.نْ عَنِ أَبْنِ عُمَرَ عَنِ أَلْنَّبِييِ .سْلْعْمْ قَالَ إِنَّمَا أَلْوَلاءُ لِمَنْ أَعْتَقَ
 
 ############################################################
 ## TranslationBetaCode

@@ -9,7 +9,7 @@
 
 ############################################################
 ## betaCodeAuto
-wa.hadda_tan_a ya.hy/a bnu ya.hy/a q_ala qara'atu `al/a m_aliki.n `ani abni ^sih_abi.n `an 'ab_i salama:ta bni `abdi alrra.hmani `an 'ab_i hurayra:ta 'anna alnnab_iya .sl`m q_ala man 'adraka rak`a:ta.n mina al.ssal_a:ti faqad 'adraka al.ssal_a:ta
+wa*hadda_tan_a ya*hy/a bnu ya*hy/a q_ala qara'atu `al/a m_aliki*n `ani abni ^sih_abi*n `an 'ab_i salama=ta bni `abdi alrra*hmani `an 'ab_i hurayra=ta 'anna alnnab_iya *sl`m q_ala man 'adraka rak`a=ta*n mina al*ssal_a=ti faqad 'adraka al*ssal_a=ta
 
 ############################################################
 ## betaCodeManual
@@ -17,11 +17,11 @@ wa.hadda_tan_a ya.hy/a bnu ya.hy/a q_ala qara'atu `al/a m_aliki.n `ani abni ^sih
 
 ############################################################
 ## betaCodeManual>Translit
-waḥaddaṯanā yaḥyá bnu yaḥyá ḳāla ḳaraʾatu ʿalá mālikiȵ ʿani abni šihābiȵ ʿan ʾabī salamaŧa bni ʿabdi alrraḥmani ʿan ʾabī hurayraŧa ʾanna alnnabīya ṣlʿm ḳāla man ʾadraka rakʿaŧaȵ mina alṣsalāŧi faḳad ʾadraka alṣsalāŧa
+wa.haddaṯanā ya.hyá bnu ya.hyá ḳāla ḳaraʾatu ʿalá māliki.n ʿani abni šihābi.n ʿan ʾabī salama:ta bni ʿabdi alrra.hmani ʿan ʾabī hurayra:ta ʾanna alnnabīya .slʿm ḳāla man ʾadraka rakʿa:ta.n mina al.ssalā:ti faḳad ʾadraka al.ssalā:ta
 
 ############################################################
 ## betaCodeManual>Arabic
-وَحَدَّثَنَا يَحْيٰى بْنُ يَحْيٰى قَالَ قَرَأَتُ عَلٰى مَالِكٍ عَنِ أَبْنِ شِهَابٍ عَنْ أَبِي سَلَمَةَ بْنِ عَبْدِ أَلْرَّحْمَنِ عَنْ أَبِي هُرَيْرَةَ أَنَّ أَلْنَّبِييَ صْلْعْمْ قَالَ مَنْ أَدْرَكَ رَكْعَةً مِنَ أَلْصْسَلَاةِ فَقَدْ أَدْرَكَ أَلْصْسَلَاةَ
+وَ.هَدَّثَنَا يَ.هْيٰى بْنُ يَ.هْيٰى قَالَ قَرَأَتُ عَلٰى مَالِكِ.نْ عَنِ أَبْنِ شِهَابِ.نْ عَنْ أَبِي سَلَمَ:تَ بْنِ عَبْدِ أَلْرَّ.هْمَنِ عَنْ أَبِي هُرَيْرَ:تَ أَنَّ أَلْنَّبِييَ .سْلْعْمْ قَالَ مَنْ أَدْرَكَ رَكْعَ:تَ.نْ مِنَ أَل.سَّلَا:تِ فَقَدْ أَدْرَكَ أَل.سَّلَا:تَ
 
 ############################################################
 ## TranslationBetaCode

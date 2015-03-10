@@ -9,7 +9,7 @@
 
 ############################################################
 ## betaCodeAuto
-.hadda_tan_a 'a.hmadu bnu .hanbali.n .hadda_tan_a `abdu alrrazz_aqi .hadda_tan_a ma`maru.n `an hamm_ami bni munabbihi.n q_ala ha_d_a m_a .hadda_tan_a 'ab_u hurayra:ta `an ras_uli allahi .sl`m q_ala al`aynu .haqqu.n
+*hadda_tan_a 'a*hmadu bnu *hanbali*n *hadda_tan_a `abdu alrrazz_aqi *hadda_tan_a ma`maru*n `an hamm_ami bni munabbihi*n q_ala ha_d_a m_a *hadda_tan_a 'ab_u hurayra=ta `an ras_uli allahi *sl`m q_ala al`aynu *haqqu*n
 
 ############################################################
 ## betaCodeManual
@@ -17,11 +17,11 @@
 
 ############################################################
 ## betaCodeManual>Translit
-ḥaddaṯanā ʾaḥmadu bnu ḥanbaliȵ ḥaddaṯanā ʿabdu alrrazzāḳi ḥaddaṯanā maʿmaruȵ ʿan hammāmi bni munabbihiȵ ḳāla haḏā mā ḥaddaṯanā ʾabū hurayraŧa ʿan rasūli allahi ṣlʿm ḳāla alʿaynu ḥaḳḳuȵ
+.haddaṯanā ʾa.hmadu bnu .hanbali.n .haddaṯanā ʿabdu alrrazzāḳi .haddaṯanā maʿmaru.n ʿan hammāmi bni munabbihi.n ḳāla haḏā mā .haddaṯanā ʾabū hurayra:ta ʿan rasūli allahi .slʿm ḳāla alʿaynu .haḳḳu.n
 
 ############################################################
 ## betaCodeManual>Arabic
-حَدَّثَنَا أَحْمَدُ بْنُ حَنْبَلٍ حَدَّثَنَا عَبْدُ أَلْرَّزّاقِ حَدَّثَنَا مَعْمَرٌ عَنْ هَمّامِ بْنِ مُنَبِّهٍ قَالَ هَذَا مَا حَدَّثَنَا أَبُو هُرَيْرَةَ عَنْ رَسُولِ أَلَّهِ صْلْعْمْ قَالَ أَلْعَيْنُ حَقٌّ
+.هَدَّثَنَا أَ.هْمَدُ بْنُ .هَنْبَلِ.نْ .هَدَّثَنَا عَبْدُ أَلْرَّزّاقِ .هَدَّثَنَا مَعْمَرُ.نْ عَنْ هَمّامِ بْنِ مُنَبِّهِ.نْ قَالَ هَذَا مَا .هَدَّثَنَا أَبُو هُرَيْرَ:تَ عَنْ رَسُولِ أَلَّهِ .سْلْعْمْ قَالَ أَلْعَيْنُ .هَقُّ.نْ
 
 ############################################################
 ## TranslationBetaCode
@@ -29,5 +29,5 @@ Type your translation on this line
 
 ############################################################
 ## TranslationTranslit
-Translation with transliterated names will appear here
+Type your translation on this line
 

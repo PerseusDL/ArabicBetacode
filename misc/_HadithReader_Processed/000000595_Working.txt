@@ -9,7 +9,7 @@
 
 ############################################################
 ## betaCodeAuto
-'a_hbaran_a .humaydu bnu mas`ada:ta q_ala .hadda_tan_a bi^sru.n q_ala .hadda_tan_a d_awudu bnu 'ab_i hindi.n `an 'ab_i alzzubayri `an ^g_abiri.n q_ala q_ala ras_ulu allahi .sl`m `al/a kulli ra^guli.n muslimi.n f_i kulli sab`a:ti 'ayy_ami.n .guslu yawmi.n wah_ua yawmu al^gumu`a:ti
+'a_hbaran_a *humaydu bnu mas`ada=ta q_ala *hadda_tan_a bi^sru*n q_ala *hadda_tan_a d_awudu bnu 'ab_i hindi*n `an 'ab_i alzzubayri `an ^g_abiri*n q_ala q_ala ras_ulu allahi *sl`m `al/a kulli ra^guli*n muslimi*n f_i kulli sab`a=ti 'ayy_ami*n *guslu yawmi*n wah_ua yawmu al^gumu`a=ti
 
 ############################################################
 ## betaCodeManual
@@ -17,11 +17,11 @@
 
 ############################################################
 ## betaCodeManual>Translit
-ʾaḫbaranā ḥumaydu bnu masʿadaŧa ḳāla ḥaddaṯanā bišruȵ ḳāla ḥaddaṯanā dāwudu bnu ʾabī hindiȵ ʿan ʾabī alzzubayri ʿan ǧābiriȵ ḳāla ḳāla rasūlu allahi ṣlʿm ʿalá kulli raǧuliȵ muslimiȵ fī kulli sabʿaŧi ʾayyāmiȵ ġuslu yawmiȵ wahūa yawmu alǧumuʿaŧi
+ʾaḫbaranā .humaydu bnu masʿada:ta ḳāla .haddaṯanā bišru.n ḳāla .haddaṯanā dāwudu bnu ʾabī hindi.n ʿan ʾabī alzzubayri ʿan ǧābiri.n ḳāla ḳāla rasūlu allahi .slʿm ʿalá kulli raǧuli.n muslimi.n fī kulli sabʿa:ti ʾayyāmi.n .guslu yawmi.n wahūa yawmu alǧumuʿa:ti
 
 ############################################################
 ## betaCodeManual>Arabic
-أَخْبَرَنَا حُمَيْدُ بْنُ مَسْعَدَةَ قَالَ حَدَّثَنَا بِشْرٌ قَالَ حَدَّثَنَا دَاوُدُ بْنُ أَبِي هِنْدٍ عَنْ أَبِي أَلْزُّبَيْرِ عَنْ جَابِرٍ قَالَ قَالَ رَسُولُ أَلَّهِ صْلْعْمْ عَلٰى كُلِّ رَجُلٍ مُسْلِمٍ فِي كُلِّ سَبْعَةِ أَيّامٍ غُسْلُ يَوْمٍ وَهُوَ يَوْمُ أَلْجُمُعَةِ
+أَخْبَرَنَا .هُمَيْدُ بْنُ مَسْعَدَ:تَ قَالَ .هَدَّثَنَا بِشْرُ.نْ قَالَ .هَدَّثَنَا دَاوُدُ بْنُ أَبِي هِنْدِ.نْ عَنْ أَبِي أَلْزُّبَيْرِ عَنْ جَابِرِ.نْ قَالَ قَالَ رَسُولُ أَلَّهِ .سْلْعْمْ عَلٰى كُلِّ رَجُلِ.نْ مُسْلِمِ.نْ فِي كُلِّ سَبْعَ:تِ أَيّامِ.نْ .گُسْلُ يَوْمِ.نْ وَهُوَ يَوْمُ أَلْجُمُعَ:تِ
 
 ############################################################
 ## TranslationBetaCode
@@ -29,5 +29,5 @@ Type your translation on this line
 
 ############################################################
 ## TranslationTranslit
-Translation with transliterated names will appear here
+Type your translation on this line
 

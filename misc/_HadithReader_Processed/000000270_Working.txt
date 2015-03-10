@@ -9,7 +9,7 @@
 
 ############################################################
 ## betaCodeAuto
-'a_hbaran_a 'a.hmadu bnu sulaym_ana q_ala .hadda_tan_a mu`_aw_ia:tu bnu hi^s_ami.n q_ala .hadda_tan_a sufy_anu `an `abdi allahi bni al.hasani `an 'ibr_ah_ima bni mu.hammadi bni .tal.ha:ta `an `abdi allahi bni `amri.nw q_ala q_ala ras_ulu allahi .sl`m man qutila d_una m_alihi fah_ua ^sah_idu.n
+'a_hbaran_a 'a*hmadu bnu sulaym_ana q_ala *hadda_tan_a mu`_aw_ia=tu bnu hi^s_ami*n q_ala *hadda_tan_a sufy_anu `an `abdi allahi bni al*hasani `an 'ibr_ah_ima bni mu*hammadi bni *tal*ha=ta `an `abdi allahi bni `amri*nw q_ala q_ala ras_ulu allahi *sl`m man qutila d_una m_alihi fah_ua ^sah_idu*n
 
 ############################################################
 ## betaCodeManual
@@ -17,11 +17,11 @@
 
 ############################################################
 ## betaCodeManual>Translit
-ʾaḫbaranā ʾaḥmadu bnu sulaymāna ḳāla ḥaddaṯanā muʿāwīaŧu bnu hišāmiȵ ḳāla ḥaddaṯanā sufyānu ʿan ʿabdi allahi bni alḥasani ʿan ʾibrāhīma bni muḥammadi bni ṭalḥaŧa ʿan ʿabdi allahi bni ʿamriȵw ḳāla ḳāla rasūlu allahi ṣlʿm man ḳutila dūna mālihi fahūa šahīduȵ
+ʾaḫbaranā ʾa.hmadu bnu sulaymāna ḳāla .haddaṯanā muʿāwīa:tu bnu hišāmi.n ḳāla .haddaṯanā sufyānu ʿan ʿabdi allahi bni al.hasani ʿan ʾibrāhīma bni mu.hammadi bni .tal.ha:ta ʿan ʿabdi allahi bni ʿamri.nw ḳāla ḳāla rasūlu allahi .slʿm man ḳutila dūna mālihi fahūa šahīdu.n
 
 ############################################################
 ## betaCodeManual>Arabic
-أَخْبَرَنَا أَحْمَدُ بْنُ سُلَيْمَانَ قَالَ حَدَّثَنَا مُعَاوِيَةُ بْنُ هِشَامٍ قَالَ حَدَّثَنَا سُفْيَانُ عَنْ عَبْدِ أَلَّهِ بْنِ أَلْحَسَنِ عَنْ إِبْرَاهِيمَ بْنِ مُحَمَّدِ بْنِ طَلْحَةَ عَنْ عَبْدِ أَلَّهِ بْنِ عَمْرٍوْ قَالَ قَالَ رَسُولُ أَلَّهِ صْلْعْمْ مَنْ قُتِلَ دُونَ مَالِهِ فَهُوَ شَهِيدٌ
+أَخْبَرَنَا أَ.هْمَدُ بْنُ سُلَيْمَانَ قَالَ .هَدَّثَنَا مُعَاوِيَ:تُ بْنُ هِشَامِ.نْ قَالَ .هَدَّثَنَا سُفْيَانُ عَنْ عَبْدِ أَلَّهِ بْنِ أَل.هَسَنِ عَنْ إِبْرَاهِيمَ بْنِ مُ.هَمَّدِ بْنِ .تَل.هَ:تَ عَنْ عَبْدِ أَلَّهِ بْنِ عَمْرِ.نْوْ قَالَ قَالَ رَسُولُ أَلَّهِ .سْلْعْمْ مَنْ قُتِلَ دُونَ مَالِهِ فَهُوَ شَهِيدُ.نْ
 
 ############################################################
 ## TranslationBetaCode

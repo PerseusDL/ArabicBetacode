@@ -84,7 +84,7 @@ preceded (if necessary) with a technical character that is similar to a diacriti
 
 #### *General*
 * **\_** (underscore), if a letter can be transliterated with *macron*/*breve* below or above (*ā*, *ṯ*, *ḫ*, *ḏ*, *ū*, *ī*)
-* ** * ** (asterisk), if a letter can be transliterated transliterated with *dot* below or above (*ḥ*, *ṣ*, *ḍ*, *ṭ*, *ẓ*, *ġ*, *ḳ*)
+* **\*** (asterisk), if a letter can be transliterated transliterated with *dot* below or above (*ḥ*, *ṣ*, *ḍ*, *ṭ*, *ẓ*, *ġ*, *ḳ*)
 * **^** (caret), if a letter can be transliterated with *caron* (*ǧ*, *š*)
 
 #### *Specifics*

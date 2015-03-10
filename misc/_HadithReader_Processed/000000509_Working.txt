@@ -9,7 +9,7 @@
 
 ############################################################
 ## betaCodeAuto
-'a_hbaran_a 'ism_a`_ilu bnu mas`_udi.n q_ala .hadda_tan_a _h_alidu.n q_ala .hadda_tan_a ^su`ba:tu `an sulaym_ana `an 'ibr_ah_ima `ani al'aswadi `an `_a'i^sa:ta 'anna ras_ula allahi .sl`m k_ana yuhd_i al.ganama
+'a_hbaran_a 'ism_a`_ilu bnu mas`_udi*n q_ala *hadda_tan_a _h_alidu*n q_ala *hadda_tan_a ^su`ba=tu `an sulaym_ana `an 'ibr_ah_ima `ani al'aswadi `an `_a'i^sa=ta 'anna ras_ula allahi *sl`m k_ana yuhd_i al*ganama
 
 ############################################################
 ## betaCodeManual
@@ -17,11 +17,11 @@
 
 ############################################################
 ## betaCodeManual>Translit
-ʾaḫbaranā ʾismāʿīlu bnu masʿūdiȵ ḳāla ḥaddaṯanā ḫāliduȵ ḳāla ḥaddaṯanā šuʿbaŧu ʿan sulaymāna ʿan ʾibrāhīma ʿani alʾaswadi ʿan ʿāʾišaŧa ʾanna rasūla allahi ṣlʿm kāna yuhdī alġanama
+ʾaḫbaranā ʾismāʿīlu bnu masʿūdi.n ḳāla .haddaṯanā ḫālidu.n ḳāla .haddaṯanā šuʿba:tu ʿan sulaymāna ʿan ʾibrāhīma ʿani alʾaswadi ʿan ʿāʾiša:ta ʾanna rasūla allahi .slʿm kāna yuhdī al.ganama
 
 ############################################################
 ## betaCodeManual>Arabic
-أَخْبَرَنَا إِسْمَاعِيلُ بْنُ مَسْعُودٍ قَالَ حَدَّثَنَا خَالِدٌ قَالَ حَدَّثَنَا شُعْبَةُ عَنْ سُلَيْمَانَ عَنْ إِبْرَاهِيمَ عَنِ أَلْأَسْوَدِ عَنْ عائِشَةَ أَنَّ رَسُولَ أَلَّهِ صْلْعْمْ كَانَ يُهْدِي أَلْغَنَمَ
+أَخْبَرَنَا إِسْمَاعِيلُ بْنُ مَسْعُودِ.نْ قَالَ .هَدَّثَنَا خَالِدُ.نْ قَالَ .هَدَّثَنَا شُعْبَ:تُ عَنْ سُلَيْمَانَ عَنْ إِبْرَاهِيمَ عَنِ أَلْأَسْوَدِ عَنْ عائِشَ:تَ أَنَّ رَسُولَ أَلَّهِ .سْلْعْمْ كَانَ يُهْدِي أَل.گَنَمَ
 
 ############################################################
 ## TranslationBetaCode

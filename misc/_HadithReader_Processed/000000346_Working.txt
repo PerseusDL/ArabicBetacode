@@ -9,7 +9,7 @@
 
 ############################################################
 ## betaCodeAuto
-'a_hbaran_a qutayba:tu `an m_aliki.n `ani abni ^sih_abi.n `an 'ab_i salama:ta `an 'ab_i hurayra:ta 'anna ras_ula allahi .sl`m q_ala man 'adraka mina al.ssal_a:ti rak`a:ta.n faqad 'adraka al.ssal_a:ta
+'a_hbaran_a qutayba=tu `an m_aliki*n `ani abni ^sih_abi*n `an 'ab_i salama=ta `an 'ab_i hurayra=ta 'anna ras_ula allahi *sl`m q_ala man 'adraka mina al*ssal_a=ti rak`a=ta*n faqad 'adraka al*ssal_a=ta
 
 ############################################################
 ## betaCodeManual
@@ -17,11 +17,11 @@
 
 ############################################################
 ## betaCodeManual>Translit
-ʾaḫbaranā ḳutaybaŧu ʿan mālikiȵ ʿani abni šihābiȵ ʿan ʾabī salamaŧa ʿan ʾabī hurayraŧa ʾanna rasūla allahi ṣlʿm ḳāla man ʾadraka mina alṣsalāŧi rakʿaŧaȵ faḳad ʾadraka alṣsalāŧa
+ʾaḫbaranā ḳutayba:tu ʿan māliki.n ʿani abni šihābi.n ʿan ʾabī salama:ta ʿan ʾabī hurayra:ta ʾanna rasūla allahi .slʿm ḳāla man ʾadraka mina al.ssalā:ti rakʿa:ta.n faḳad ʾadraka al.ssalā:ta
 
 ############################################################
 ## betaCodeManual>Arabic
-أَخْبَرَنَا قُتَيْبَةُ عَنْ مَالِكٍ عَنِ أَبْنِ شِهَابٍ عَنْ أَبِي سَلَمَةَ عَنْ أَبِي هُرَيْرَةَ أَنَّ رَسُولَ أَلَّهِ صْلْعْمْ قَالَ مَنْ أَدْرَكَ مِنَ أَلْصْسَلَاةِ رَكْعَةً فَقَدْ أَدْرَكَ أَلْصْسَلَاةَ
+أَخْبَرَنَا قُتَيْبَ:تُ عَنْ مَالِكِ.نْ عَنِ أَبْنِ شِهَابِ.نْ عَنْ أَبِي سَلَمَ:تَ عَنْ أَبِي هُرَيْرَ:تَ أَنَّ رَسُولَ أَلَّهِ .سْلْعْمْ قَالَ مَنْ أَدْرَكَ مِنَ أَل.سَّلَا:تِ رَكْعَ:تَ.نْ فَقَدْ أَدْرَكَ أَل.سَّلَا:تَ
 
 ############################################################
 ## TranslationBetaCode

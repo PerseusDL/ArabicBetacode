@@ -9,7 +9,7 @@
 
 ############################################################
 ## betaCodeAuto
-wa.hadda_tan_a mu.hammadu bnu ba^ss_ari.n .hadda_tan_a `abdu alrra.hmani .hadda_tan_a sufy_anu `an 'ab_i alzzin_adi `an `al_iyi bni al.husayni `an `_a'i^sa:ta r.d/a allh `nh_a 'anna alnnab_iya .sl`m k_ana yuqabbilu wah_ua .s_a'imu.n
+wa*hadda_tan_a mu*hammadu bnu ba^ss_ari*n *hadda_tan_a `abdu alrra*hmani *hadda_tan_a sufy_anu `an 'ab_i alzzin_adi `an `al_iyi bni al*husayni `an `_a'i^sa=ta r*d/a allh `nh_a 'anna alnnab_iya *sl`m k_ana yuqabbilu wah_ua *s_a'imu*n
 
 ############################################################
 ## betaCodeManual
@@ -17,11 +17,11 @@ wa.hadda_tan_a mu.hammadu bnu ba^ss_ari.n .hadda_tan_a `abdu alrra.hmani .hadda_
 
 ############################################################
 ## betaCodeManual>Translit
-waḥaddaṯanā muḥammadu bnu bašsāriȵ ḥaddaṯanā ʿabdu alrraḥmani ḥaddaṯanā sufyānu ʿan ʾabī alzzinādi ʿan ʿalīyi bni alḥusayni ʿan ʿāʾišaŧa rḍá allh ʿnhā ʾanna alnnabīya ṣlʿm kāna yuḳabbilu wahūa ṣāʾimuȵ
+wa.haddaṯanā mu.hammadu bnu bašsāri.n .haddaṯanā ʿabdu alrra.hmani .haddaṯanā sufyānu ʿan ʾabī alzzinādi ʿan ʿalīyi bni al.husayni ʿan ʿāʾiša:ta r.dá allh ʿnhā ʾanna alnnabīya .slʿm kāna yuḳabbilu wahūa .sāʾimu.n
 
 ############################################################
 ## betaCodeManual>Arabic
-وَحَدَّثَنَا مُحَمَّدُ بْنُ بَشْسَارٍ حَدَّثَنَا عَبْدُ أَلْرَّحْمَنِ حَدَّثَنَا سُفْيَانُ عَنْ أَبِي أَلْزِّنَادِ عَنْ عَلِييِ بْنِ أَلْحُسَيْنِ عَنْ عائِشَةَ رْضٰى أَلّهْ عْنْهَا أَنَّ أَلْنَّبِييَ صْلْعْمْ كَانَ يُقَبِّلُ وَهُوَ صائِمٌ
+وَ.هَدَّثَنَا مُ.هَمَّدُ بْنُ بَشْسَارِ.نْ .هَدَّثَنَا عَبْدُ أَلْرَّ.هْمَنِ .هَدَّثَنَا سُفْيَانُ عَنْ أَبِي أَلْزِّنَادِ عَنْ عَلِييِ بْنِ أَل.هُسَيْنِ عَنْ عائِشَ:تَ ر.دٰى أَلّهْ عْنْهَا أَنَّ أَلْنَّبِييَ .سْلْعْمْ كَانَ يُقَبِّلُ وَهُوَ .سائِمُ.نْ
 
 ############################################################
 ## TranslationBetaCode

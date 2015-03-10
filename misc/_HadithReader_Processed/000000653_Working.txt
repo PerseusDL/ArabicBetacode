@@ -9,7 +9,7 @@
 
 ############################################################
 ## betaCodeAuto
-.hadda_tan_a muslimu bnu 'ibr_ah_ima .hadda_tan_a .hamm_adu bnu salama:ta .h wa.hadda_tan_a 'a.hmadu bnu .hanbali.n .hadda_tan_a mu.hammadu bnu ^ga`fari.n .hadda_tan_a ^su`ba:tu `an warq_a'a .h wa.hadda_tan_a al.hasanu bnu `al_iyi.n .hadda_tan_a 'ab_u `_a.simi.n `ani abni ^guray^gi.n .h wa.hadda_tan_a al.hasanu bnu `al_iyi.n .hadda_tan_a yaz_idu bnu h_ar_una `an .hamm_adi bni zaydi.n `an 'ayy_uba .h wa.hadda_tan_a mu.hammadu bnu almutawakkili .hadda_tan_a `abdu alrrazz_aqi 'a_hbaran_a zakar_iy_a bnu 'is.h_aqa kulluhum `an `amriw bni d_in_ari.n `an `a.t_a'i bni yas_ari.n `an 'ab_i hurayra:ta q_ala q_ala ras_ulu allahi .sl`m 'i_d_a 'auq_imati al.ssal_a:tu fal_a .sal_a:ta 'il_aa almakt_uba:tu
+*hadda_tan_a muslimu bnu 'ibr_ah_ima *hadda_tan_a *hamm_adu bnu salama=ta *h wa*hadda_tan_a 'a*hmadu bnu *hanbali*n *hadda_tan_a mu*hammadu bnu ^ga`fari*n *hadda_tan_a ^su`ba=tu `an warq_a'a *h wa*hadda_tan_a al*hasanu bnu `al_iyi*n *hadda_tan_a 'ab_u `_a*simi*n `ani abni ^guray^gi*n *h wa*hadda_tan_a al*hasanu bnu `al_iyi*n *hadda_tan_a yaz_idu bnu h_ar_una `an *hamm_adi bni zaydi*n `an 'ayy_uba *h wa*hadda_tan_a mu*hammadu bnu almutawakkili *hadda_tan_a `abdu alrrazz_aqi 'a_hbaran_a zakar_iy_a bnu 'is*h_aqa kulluhum `an `amriw bni d_in_ari*n `an `a*t_a'i bni yas_ari*n `an 'ab_i hurayra=ta q_ala q_ala ras_ulu allahi *sl`m 'i_d_a 'auq_imati al*ssal_a=tu fal_a *sal_a=ta 'il_aa almakt_uba=tu
 
 ############################################################
 ## betaCodeManual
@@ -17,11 +17,11 @@
 
 ############################################################
 ## betaCodeManual>Translit
-ḥaddaṯanā muslimu bnu ʾibrāhīma ḥaddaṯanā ḥammādu bnu salamaŧa ḥ waḥaddaṯanā ʾaḥmadu bnu ḥanbaliȵ ḥaddaṯanā muḥammadu bnu ǧaʿfariȵ ḥaddaṯanā šuʿbaŧu ʿan warḳāʾa ḥ waḥaddaṯanā alḥasanu bnu ʿalīyiȵ ḥaddaṯanā ʾabū ʿāṣimiȵ ʿani abni ǧurayǧiȵ ḥ waḥaddaṯanā alḥasanu bnu ʿalīyiȵ ḥaddaṯanā yazīdu bnu hārūna ʿan ḥammādi bni zaydiȵ ʿan ʾayyūba ḥ waḥaddaṯanā muḥammadu bnu almutawakkili ḥaddaṯanā ʿabdu alrrazzāḳi ʾaḫbaranā zakarīyā bnu ʾisḥāḳa kulluhum ʿan ʿamriw bni dīnāriȵ ʿan ʿaṭāʾi bni yasāriȵ ʿan ʾabī hurayraŧa ḳāla ḳāla rasūlu allahi ṣlʿm ʾiḏā ʾauḳīmati alṣsalāŧu falā ṣalāŧa ʾilāa almaktūbaŧu
+.haddaṯanā muslimu bnu ʾibrāhīma .haddaṯanā .hammādu bnu salama:ta .h wa.haddaṯanā ʾa.hmadu bnu .hanbali.n .haddaṯanā mu.hammadu bnu ǧaʿfari.n .haddaṯanā šuʿba:tu ʿan warḳāʾa .h wa.haddaṯanā al.hasanu bnu ʿalīyi.n .haddaṯanā ʾabū ʿā.simi.n ʿani abni ǧurayǧi.n .h wa.haddaṯanā al.hasanu bnu ʿalīyi.n .haddaṯanā yazīdu bnu hārūna ʿan .hammādi bni zaydi.n ʿan ʾayyūba .h wa.haddaṯanā mu.hammadu bnu almutawakkili .haddaṯanā ʿabdu alrrazzāḳi ʾaḫbaranā zakarīyā bnu ʾis.hāḳa kulluhum ʿan ʿamriw bni dīnāri.n ʿan ʿa.tāʾi bni yasāri.n ʿan ʾabī hurayra:ta ḳāla ḳāla rasūlu allahi .slʿm ʾiḏā ʾauḳīmati al.ssalā:tu falā .salā:ta ʾilāa almaktūba:tu
 
 ############################################################
 ## betaCodeManual>Arabic
-حَدَّثَنَا مُسْلِمُ بْنُ إِبْرَاهِيمَ حَدَّثَنَا حَمّادُ بْنُ سَلَمَةَ حْ وَحَدَّثَنَا أَحْمَدُ بْنُ حَنْبَلٍ حَدَّثَنَا مُحَمَّدُ بْنُ جَعْفَرٍ حَدَّثَنَا شُعْبَةُ عَنْ وَرْقاءَ حْ وَحَدَّثَنَا أَلْحَسَنُ بْنُ عَلِييٍ حَدَّثَنَا أَبُو عَاصِمٍ عَنِ أَبْنِ جُرَيْجٍ حْ وَحَدَّثَنَا أَلْحَسَنُ بْنُ عَلِييٍ حَدَّثَنَا يَزِيدُ بْنُ هَارُونَ عَنْ حَمّادِ بْنِ زَيْدٍ عَنْ أَيّوبَ حْ وَحَدَّثَنَا مُحَمَّدُ بْنُ أَلْمُتَوَكِّلِ حَدَّثَنَا عَبْدُ أَلْرَّزّاقِ أَخْبَرَنَا زَكَرِييَا بْنُ إِسْحَاقَ كُلُّهُمْ عَنْ عَمْرِوْ بْنِ دِينَارٍ عَنْ عَطاءِ بْنِ يَسَارٍ عَنْ أَبِي هُرَيْرَةَ قَالَ قَالَ رَسُولُ أَلَّهِ صْلْعْمْ إِذَا أَأُقِيمَتِ أَلْصْسَلَاةُ فَلَا صَلَاةَ إِلَاَ أَلْمَكْتُوبَةُ
+.هَدَّثَنَا مُسْلِمُ بْنُ إِبْرَاهِيمَ .هَدَّثَنَا .هَمّادُ بْنُ سَلَمَ:تَ .هْ وَ.هَدَّثَنَا أَ.هْمَدُ بْنُ .هَنْبَلِ.نْ .هَدَّثَنَا مُ.هَمَّدُ بْنُ جَعْفَرِ.نْ .هَدَّثَنَا شُعْبَ:تُ عَنْ وَرْقاءَ .هْ وَ.هَدَّثَنَا أَل.هَسَنُ بْنُ عَلِييِ.نْ .هَدَّثَنَا أَبُو عَا.سِمِ.نْ عَنِ أَبْنِ جُرَيْجِ.نْ .هْ وَ.هَدَّثَنَا أَل.هَسَنُ بْنُ عَلِييِ.نْ .هَدَّثَنَا يَزِيدُ بْنُ هَارُونَ عَنْ .هَمّادِ بْنِ زَيْدِ.نْ عَنْ أَيّوبَ .هْ وَ.هَدَّثَنَا مُ.هَمَّدُ بْنُ أَلْمُتَوَكِّلِ .هَدَّثَنَا عَبْدُ أَلْرَّزّاقِ أَخْبَرَنَا زَكَرِييَا بْنُ إِس.هَاقَ كُلُّهُمْ عَنْ عَمْرِوْ بْنِ دِينَارِ.نْ عَنْ عَ.تاءِ بْنِ يَسَارِ.نْ عَنْ أَبِي هُرَيْرَ:تَ قَالَ قَالَ رَسُولُ أَلَّهِ .سْلْعْمْ إِذَا أَأُقِيمَتِ أَل.سَّلَا:تُ فَلَا .سَلَا:تَ إِلَاَ أَلْمَكْتُوبَ:تُ
 
 ############################################################
 ## TranslationBetaCode
@@ -29,5 +29,5 @@ Type your translation on this line
 
 ############################################################
 ## TranslationTranslit
-Translation with transliterated names will appear here
+Type your translation on this line
 

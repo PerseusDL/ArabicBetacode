@@ -9,7 +9,7 @@
 
 ############################################################
 ## betaCodeAuto
-wa.hadda_tan_a ya.hy/a bnu 'ayy_uba waqutayba:tu w_abnu .hu^gri.n q_al_u_a .hadda_tan_a 'ism_a`_ilu wah_ua abnu ^ga`fari.n `an `amriw bni 'ab_i `amri.nw `ani almaqbur_iyi `an 'ab_i hurayra:ta `ani alnnab_iyi .sl`m bimi_tli ma`n/a .had_i_ti abni `umara `ani alnnab_iyi .sl`m
+wa*hadda_tan_a ya*hy/a bnu 'ayy_uba waqutayba=tu w_abnu *hu^gri*n q_al_u_a *hadda_tan_a 'ism_a`_ilu wah_ua abnu ^ga`fari*n `an `amriw bni 'ab_i `amri*nw `ani almaqbur_iyi `an 'ab_i hurayra=ta `ani alnnab_iyi *sl`m bimi_tli ma`n/a *had_i_ti abni `umara `ani alnnab_iyi *sl`m
 
 ############################################################
 ## betaCodeManual
@@ -17,11 +17,11 @@ wa.hadda_tan_a ya.hy/a bnu 'ayy_uba waqutayba:tu w_abnu .hu^gri.n q_al_u_a .hadd
 
 ############################################################
 ## betaCodeManual>Translit
-waḥaddaṯanā yaḥyá bnu ʾayyūba waḳutaybaŧu wābnu ḥuǧriȵ ḳālūā ḥaddaṯanā ʾismāʿīlu wahūa abnu ǧaʿfariȵ ʿan ʿamriw bni ʾabī ʿamriȵw ʿani almaḳburīyi ʿan ʾabī hurayraŧa ʿani alnnabīyi ṣlʿm bimiṯli maʿná ḥadīṯi abni ʿumara ʿani alnnabīyi ṣlʿm
+wa.haddaṯanā ya.hyá bnu ʾayyūba waḳutayba:tu wābnu .huǧri.n ḳālūā .haddaṯanā ʾismāʿīlu wahūa abnu ǧaʿfari.n ʿan ʿamriw bni ʾabī ʿamri.nw ʿani almaḳburīyi ʿan ʾabī hurayra:ta ʿani alnnabīyi .slʿm bimiṯli maʿná .hadīṯi abni ʿumara ʿani alnnabīyi .slʿm
 
 ############################################################
 ## betaCodeManual>Arabic
-وَحَدَّثَنَا يَحْيٰى بْنُ أَيّوبَ وَقُتَيْبَةُ وَابْنُ حُجْرٍ قَالُوا حَدَّثَنَا إِسْمَاعِيلُ وَهُوَ أَبْنُ جَعْفَرٍ عَنْ عَمْرِوْ بْنِ أَبِي عَمْرٍوْ عَنِ أَلْمَقْبُرِييِ عَنْ أَبِي هُرَيْرَةَ عَنِ أَلْنَّبِييِ صْلْعْمْ بِمِثْلِ مَعْنٰى حَدِيثِ أَبْنِ عُمَرَ عَنِ أَلْنَّبِييِ صْلْعْمْ
+وَ.هَدَّثَنَا يَ.هْيٰى بْنُ أَيّوبَ وَقُتَيْبَ:تُ وَابْنُ .هُجْرِ.نْ قَالُوا .هَدَّثَنَا إِسْمَاعِيلُ وَهُوَ أَبْنُ جَعْفَرِ.نْ عَنْ عَمْرِوْ بْنِ أَبِي عَمْرِ.نْوْ عَنِ أَلْمَقْبُرِييِ عَنْ أَبِي هُرَيْرَ:تَ عَنِ أَلْنَّبِييِ .سْلْعْمْ بِمِثْلِ مَعْنٰى .هَدِيثِ أَبْنِ عُمَرَ عَنِ أَلْنَّبِييِ .سْلْعْمْ
 
 ############################################################
 ## TranslationBetaCode

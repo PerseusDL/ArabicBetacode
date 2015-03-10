@@ -9,7 +9,7 @@
 
 ############################################################
 ## betaCodeAuto
-'a_hbaran_a 'is.h_aqu bnu 'ibr_ah_ima q_ala 'anba'an_a `abdu alrrazz_aqi q_ala .hadda_tan_a ma`maru.n `ani alzzuhr_iyi `an s_alimi.n `an 'ab_ihi q_ala k_ana ras_ulu allahi .sl`m yu.sall_i ba`da al^gumu`a:ti rak`atayni f_i baytihi
+'a_hbaran_a 'is*h_aqu bnu 'ibr_ah_ima q_ala 'anba'an_a `abdu alrrazz_aqi q_ala *hadda_tan_a ma`maru*n `ani alzzuhr_iyi `an s_alimi*n `an 'ab_ihi q_ala k_ana ras_ulu allahi *sl`m yu*sall_i ba`da al^gumu`a=ti rak`atayni f_i baytihi
 
 ############################################################
 ## betaCodeManual
@@ -17,11 +17,11 @@
 
 ############################################################
 ## betaCodeManual>Translit
-ʾaḫbaranā ʾisḥāḳu bnu ʾibrāhīma ḳāla ʾanbaʾanā ʿabdu alrrazzāḳi ḳāla ḥaddaṯanā maʿmaruȵ ʿani alzzuhrīyi ʿan sālimiȵ ʿan ʾabīhi ḳāla kāna rasūlu allahi ṣlʿm yuṣallī baʿda alǧumuʿaŧi rakʿatayni fī baytihi
+ʾaḫbaranā ʾis.hāḳu bnu ʾibrāhīma ḳāla ʾanbaʾanā ʿabdu alrrazzāḳi ḳāla .haddaṯanā maʿmaru.n ʿani alzzuhrīyi ʿan sālimi.n ʿan ʾabīhi ḳāla kāna rasūlu allahi .slʿm yu.sallī baʿda alǧumuʿa:ti rakʿatayni fī baytihi
 
 ############################################################
 ## betaCodeManual>Arabic
-أَخْبَرَنَا إِسْحَاقُ بْنُ إِبْرَاهِيمَ قَالَ أَنْبَأَنَا عَبْدُ أَلْرَّزّاقِ قَالَ حَدَّثَنَا مَعْمَرٌ عَنِ أَلْزُّهْرِييِ عَنْ سَالِمٍ عَنْ أَبِيهِ قَالَ كَانَ رَسُولُ أَلَّهِ صْلْعْمْ يُصَلّي بَعْدَ أَلْجُمُعَةِ رَكْعَتَيْنِ فِي بَيْتِهِ
+أَخْبَرَنَا إِس.هَاقُ بْنُ إِبْرَاهِيمَ قَالَ أَنْبَأَنَا عَبْدُ أَلْرَّزّاقِ قَالَ .هَدَّثَنَا مَعْمَرُ.نْ عَنِ أَلْزُّهْرِييِ عَنْ سَالِمِ.نْ عَنْ أَبِيهِ قَالَ كَانَ رَسُولُ أَلَّهِ .سْلْعْمْ يُ.سَلّي بَعْدَ أَلْجُمُعَ:تِ رَكْعَتَيْنِ فِي بَيْتِهِ
 
 ############################################################
 ## TranslationBetaCode

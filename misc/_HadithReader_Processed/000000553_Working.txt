@@ -9,7 +9,7 @@
 
 ############################################################
 ## betaCodeAuto
-'a_hbaran_a mu.hammadu bnu ba^ss_ari.n q_ala .hadda_tan_a `abdu alrra.hmani q_ala .hadda_tan_a mu`_aw_ia:tu `ani al`al_a'i bni al.h_ari_ti `an mak.h_uli.n `an `uqba:ta 'anna ras_ula allahi .sl`m qara'a bihim_a f_i .sal_a:ti al.ssub.hi
+'a_hbaran_a mu*hammadu bnu ba^ss_ari*n q_ala *hadda_tan_a `abdu alrra*hmani q_ala *hadda_tan_a mu`_aw_ia=tu `ani al`al_a'i bni al*h_ari_ti `an mak*h_uli*n `an `uqba=ta 'anna ras_ula allahi *sl`m qara'a bihim_a f_i *sal_a=ti al*ssub*hi
 
 ############################################################
 ## betaCodeManual
@@ -17,11 +17,11 @@
 
 ############################################################
 ## betaCodeManual>Translit
-ʾaḫbaranā muḥammadu bnu bašsāriȵ ḳāla ḥaddaṯanā ʿabdu alrraḥmani ḳāla ḥaddaṯanā muʿāwīaŧu ʿani alʿalāʾi bni alḥāriṯi ʿan makḥūliȵ ʿan ʿuḳbaŧa ʾanna rasūla allahi ṣlʿm ḳaraʾa bihimā fī ṣalāŧi alṣsubḥi
+ʾaḫbaranā mu.hammadu bnu bašsāri.n ḳāla .haddaṯanā ʿabdu alrra.hmani ḳāla .haddaṯanā muʿāwīa:tu ʿani alʿalāʾi bni al.hāriṯi ʿan mak.hūli.n ʿan ʿuḳba:ta ʾanna rasūla allahi .slʿm ḳaraʾa bihimā fī .salā:ti al.ssub.hi
 
 ############################################################
 ## betaCodeManual>Arabic
-أَخْبَرَنَا مُحَمَّدُ بْنُ بَشْسَارٍ قَالَ حَدَّثَنَا عَبْدُ أَلْرَّحْمَنِ قَالَ حَدَّثَنَا مُعَاوِيَةُ عَنِ أَلْعَلاءِ بْنِ أَلْحَارِثِ عَنْ مَكْحُولٍ عَنْ عُقْبَةَ أَنَّ رَسُولَ أَلَّهِ صْلْعْمْ قَرَأَ بِهِمَا فِي صَلَاةِ أَلْصْسُبْحِ
+أَخْبَرَنَا مُ.هَمَّدُ بْنُ بَشْسَارِ.نْ قَالَ .هَدَّثَنَا عَبْدُ أَلْرَّ.هْمَنِ قَالَ .هَدَّثَنَا مُعَاوِيَ:تُ عَنِ أَلْعَلاءِ بْنِ أَل.هَارِثِ عَنْ مَك.هُولِ.نْ عَنْ عُقْبَ:تَ أَنَّ رَسُولَ أَلَّهِ .سْلْعْمْ قَرَأَ بِهِمَا فِي .سَلَا:تِ أَل.سُّب.هِ
 
 ############################################################
 ## TranslationBetaCode

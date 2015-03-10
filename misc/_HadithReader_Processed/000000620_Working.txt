@@ -9,7 +9,7 @@
 
 ############################################################
 ## betaCodeAuto
-.hadda_tan_a ya.hy/a bnu .hak_imi.n .hadda_tan_a ya.hy/a bnu sa`_idi.n `an `ubaydi allahi bni `umara `an n_afi`i.n `ani abni `umara q_ala q_ala ras_ulu allahi  .sl`m  l_a ya_h.tubi alrra^gulu `al/a _hi.tba:ti 'a_h_ihi
+*hadda_tan_a ya*hy/a bnu *hak_imi*n *hadda_tan_a ya*hy/a bnu sa`_idi*n `an `ubaydi allahi bni `umara `an n_afi`i*n `ani abni `umara q_ala q_ala ras_ulu allahi  *sl`m  l_a ya_h*tubi alrra^gulu `al/a _hi*tba=ti 'a_h_ihi
 
 ############################################################
 ## betaCodeManual
@@ -17,11 +17,11 @@
 
 ############################################################
 ## betaCodeManual>Translit
-ḥaddaṯanā yaḥyá bnu ḥakīmiȵ ḥaddaṯanā yaḥyá bnu saʿīdiȵ ʿan ʿubaydi allahi bni ʿumara ʿan nāfiʿiȵ ʿani abni ʿumara ḳāla ḳāla rasūlu allahi  ṣlʿm  lā yaḫṭubi alrraǧulu ʿalá ḫiṭbaŧi ʾaḫīhi
+.haddaṯanā ya.hyá bnu .hakīmi.n .haddaṯanā ya.hyá bnu saʿīdi.n ʿan ʿubaydi allahi bni ʿumara ʿan nāfiʿi.n ʿani abni ʿumara ḳāla ḳāla rasūlu allahi  .slʿm  lā yaḫ.tubi alrraǧulu ʿalá ḫi.tba:ti ʾaḫīhi
 
 ############################################################
 ## betaCodeManual>Arabic
-حَدَّثَنَا يَحْيٰى بْنُ حَكِيمٍ حَدَّثَنَا يَحْيٰى بْنُ سَعِيدٍ عَنْ عُبَيْدِ أَلَّهِ بْنِ عُمَرَ عَنْ نَافِعٍ عَنِ أَبْنِ عُمَرَ قَالَ قَالَ رَسُولُ أَلَّهِ  صْلْعْمْ  لَا يَخْطُبِ أَلْرَّجُلُ عَلٰى خِطْبَةِ أَخِيهِ
+.هَدَّثَنَا يَ.هْيٰى بْنُ .هَكِيمِ.نْ .هَدَّثَنَا يَ.هْيٰى بْنُ سَعِيدِ.نْ عَنْ عُبَيْدِ أَلَّهِ بْنِ عُمَرَ عَنْ نَافِعِ.نْ عَنِ أَبْنِ عُمَرَ قَالَ قَالَ رَسُولُ أَلَّهِ  .سْلْعْمْ  لَا يَخ.تُبِ أَلْرَّجُلُ عَلٰى خِ.تْبَ:تِ أَخِيهِ
 
 ############################################################
 ## TranslationBetaCode
@@ -29,5 +29,5 @@ Type your translation on this line
 
 ############################################################
 ## TranslationTranslit
-Translation with transliterated names will appear here
+Type your translation on this line
 

@@ -68,9 +68,9 @@ betacodeTranslit = {
     #'.n' : 'ȵ',  # n of tanwīn
     #'^n' : 'ȵ',  # n of tanwīn
     #'_n' : 'ȵ',  # n of tanwīn
-    '*n' : 'ȵ'   # n of tanwīn
-    '.w' : 'ů',  # silent w, like in `Amru.n.w
-    '.a' : 'å'  # silent alif, like in fa`al_u.a    
+    '*n' : 'ȵ',   # n of tanwīn
+    '*w' : 'ů',  # silent w, like in `Amru.n.w
+    '*a' : 'å'  # silent alif, like in fa`al_u.a    
     }
 
 # conventional US/LOC transliteration

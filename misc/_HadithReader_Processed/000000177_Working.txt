@@ -9,7 +9,7 @@
 
 ############################################################
 ## betaCodeAuto
-.hadda_tan_a 'ab_u bakri bnu 'ab_i ^sayba:ta .hadda_tan_a 'ab_u 'aus_ama:ta `an z_a'ida:ta .h wa.hadda_tan_i bi^sru bnu _h_alidi.n .hadda_tan_a mu.hammadu.n ya`n_i abna ^ga`fari.n .hadda_tan_a ^su`ba:tu kil_ahum_a `ani al'a`ma^si biha_d_a al'isn_adi
+*hadda_tan_a 'ab_u bakri bnu 'ab_i ^sayba=ta *hadda_tan_a 'ab_u 'aus_ama=ta `an z_a'ida=ta *h wa*hadda_tan_i bi^sru bnu _h_alidi*n *hadda_tan_a mu*hammadu*n ya`n_i abna ^ga`fari*n *hadda_tan_a ^su`ba=tu kil_ahum_a `ani al'a`ma^si biha_d_a al'isn_adi
 
 ############################################################
 ## betaCodeManual
@@ -17,11 +17,11 @@
 
 ############################################################
 ## betaCodeManual>Translit
-ḥaddaṯanā ʾabū bakri bnu ʾabī šaybaŧa ḥaddaṯanā ʾabū ʾausāmaŧa ʿan zāʾidaŧa ḥ waḥaddaṯanī bišru bnu ḫālidiȵ ḥaddaṯanā muḥammaduȵ yaʿnī abna ǧaʿfariȵ ḥaddaṯanā šuʿbaŧu kilāhumā ʿani alʾaʿmaši bihaḏā alʾisnādi
+.haddaṯanā ʾabū bakri bnu ʾabī šayba:ta .haddaṯanā ʾabū ʾausāma:ta ʿan zāʾida:ta .h wa.haddaṯanī bišru bnu ḫālidi.n .haddaṯanā mu.hammadu.n yaʿnī abna ǧaʿfari.n .haddaṯanā šuʿba:tu kilāhumā ʿani alʾaʿmaši bihaḏā alʾisnādi
 
 ############################################################
 ## betaCodeManual>Arabic
-حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ حَدَّثَنَا أَبُو أَأُسَامَةَ عَنْ زائِدَةَ حْ وَحَدَّثَنِي بِشْرُ بْنُ خَالِدٍ حَدَّثَنَا مُحَمَّدٌ يَعْنِي أَبْنَ جَعْفَرٍ حَدَّثَنَا شُعْبَةُ كِلَاهُمَا عَنِ أَلْأَعْمَشِ بِهَذَا أَلْئِسْنَادِ
+.هَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَ:تَ .هَدَّثَنَا أَبُو أَأُسَامَ:تَ عَنْ زائِدَ:تَ .هْ وَ.هَدَّثَنِي بِشْرُ بْنُ خَالِدِ.نْ .هَدَّثَنَا مُ.هَمَّدُ.نْ يَعْنِي أَبْنَ جَعْفَرِ.نْ .هَدَّثَنَا شُعْبَ:تُ كِلَاهُمَا عَنِ أَلْأَعْمَشِ بِهَذَا أَلْئِسْنَادِ
 
 ############################################################
 ## TranslationBetaCode

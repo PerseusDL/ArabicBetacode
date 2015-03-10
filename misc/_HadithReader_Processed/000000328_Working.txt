@@ -9,7 +9,7 @@
 
 ############################################################
 ## betaCodeAuto
-.hadda_tan_i `abdu allahi bnu 'ab_i ^sayba:ta .hadda_tan_a ya.hy/a bnu sa`_idi.n `an sufy_ana `an m_us/a bni 'ab_i `_a'i^sa:ta `an `ubaydi allahi bni `abdi allahi bni `utba:ta `an `_a'i^sa:ta w_abni `abb_asi.n 'anna 'ab_a bakri.n  r.d/a allh `nh  qabbala alnnab_iya .sl`m ba`da mawtihi
+*hadda_tan_i `abdu allahi bnu 'ab_i ^sayba=ta *hadda_tan_a ya*hy/a bnu sa`_idi*n `an sufy_ana `an m_us/a bni 'ab_i `_a'i^sa=ta `an `ubaydi allahi bni `abdi allahi bni `utba=ta `an `_a'i^sa=ta w_abni `abb_asi*n 'anna 'ab_a bakri*n  r*d/a allh `nh  qabbala alnnab_iya *sl`m ba`da mawtihi
 
 ############################################################
 ## betaCodeManual
@@ -17,11 +17,11 @@
 
 ############################################################
 ## betaCodeManual>Translit
-ḥaddaṯanī ʿabdu allahi bnu ʾabī šaybaŧa ḥaddaṯanā yaḥyá bnu saʿīdiȵ ʿan sufyāna ʿan mūsá bni ʾabī ʿāʾišaŧa ʿan ʿubaydi allahi bni ʿabdi allahi bni ʿutbaŧa ʿan ʿāʾišaŧa wābni ʿabbāsiȵ ʾanna ʾabā bakriȵ  rḍá allh ʿnh  ḳabbala alnnabīya ṣlʿm baʿda mawtihi
+.haddaṯanī ʿabdu allahi bnu ʾabī šayba:ta .haddaṯanā ya.hyá bnu saʿīdi.n ʿan sufyāna ʿan mūsá bni ʾabī ʿāʾiša:ta ʿan ʿubaydi allahi bni ʿabdi allahi bni ʿutba:ta ʿan ʿāʾiša:ta wābni ʿabbāsi.n ʾanna ʾabā bakri.n  r.dá allh ʿnh  ḳabbala alnnabīya .slʿm baʿda mawtihi
 
 ############################################################
 ## betaCodeManual>Arabic
-حَدَّثَنِي عَبْدُ أَلَّهِ بْنُ أَبِي شَيْبَةَ حَدَّثَنَا يَحْيٰى بْنُ سَعِيدٍ عَنْ سُفْيَانَ عَنْ مُوسٰى بْنِ أَبِي عائِشَةَ عَنْ عُبَيْدِ أَلَّهِ بْنِ عَبْدِ أَلَّهِ بْنِ عُتْبَةَ عَنْ عائِشَةَ وَابْنِ عَبّاسٍ أَنَّ أَبَا بَكْرٍ  رْضٰى أَلّهْ عْنْهْ  قَبَّلَ أَلْنَّبِييَ صْلْعْمْ بَعْدَ مَوْتِهِ
+.هَدَّثَنِي عَبْدُ أَلَّهِ بْنُ أَبِي شَيْبَ:تَ .هَدَّثَنَا يَ.هْيٰى بْنُ سَعِيدِ.نْ عَنْ سُفْيَانَ عَنْ مُوسٰى بْنِ أَبِي عائِشَ:تَ عَنْ عُبَيْدِ أَلَّهِ بْنِ عَبْدِ أَلَّهِ بْنِ عُتْبَ:تَ عَنْ عائِشَ:تَ وَابْنِ عَبّاسِ.نْ أَنَّ أَبَا بَكْرِ.نْ  ر.دٰى أَلّهْ عْنْهْ  قَبَّلَ أَلْنَّبِييَ .سْلْعْمْ بَعْدَ مَوْتِهِ
 
 ############################################################
 ## TranslationBetaCode

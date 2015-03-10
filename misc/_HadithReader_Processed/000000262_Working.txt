@@ -9,7 +9,7 @@
 
 ############################################################
 ## betaCodeAuto
-'a_hbaran_a 'is.h_aqu bnu 'ibr_ah_ima q_ala .hadda_tan_a mu`_a_du bnu hi^s_ami.n q_ala .hadda_tan_i 'ab_i `an qat_ada:ta `ani al.hasani `an 'ab_i hurayra:ta na.hwahu walam yarfa`hu
+'a_hbaran_a 'is*h_aqu bnu 'ibr_ah_ima q_ala *hadda_tan_a mu`_a_du bnu hi^s_ami*n q_ala *hadda_tan_i 'ab_i `an qat_ada=ta `ani al*hasani `an 'ab_i hurayra=ta na*hwahu walam yarfa`hu
 
 ############################################################
 ## betaCodeManual
@@ -17,11 +17,11 @@
 
 ############################################################
 ## betaCodeManual>Translit
-ʾaḫbaranā ʾisḥāḳu bnu ʾibrāhīma ḳāla ḥaddaṯanā muʿāḏu bnu hišāmiȵ ḳāla ḥaddaṯanī ʾabī ʿan ḳatādaŧa ʿani alḥasani ʿan ʾabī hurayraŧa naḥwahu walam yarfaʿhu
+ʾaḫbaranā ʾis.hāḳu bnu ʾibrāhīma ḳāla .haddaṯanā muʿāḏu bnu hišāmi.n ḳāla .haddaṯanī ʾabī ʿan ḳatāda:ta ʿani al.hasani ʿan ʾabī hurayra:ta na.hwahu walam yarfaʿhu
 
 ############################################################
 ## betaCodeManual>Arabic
-أَخْبَرَنَا إِسْحَاقُ بْنُ إِبْرَاهِيمَ قَالَ حَدَّثَنَا مُعَاذُ بْنُ هِشَامٍ قَالَ حَدَّثَنِي أَبِي عَنْ قَتَادَةَ عَنِ أَلْحَسَنِ عَنْ أَبِي هُرَيْرَةَ نَحْوَهُ وَلَمْ يَرْفَعْهُ
+أَخْبَرَنَا إِس.هَاقُ بْنُ إِبْرَاهِيمَ قَالَ .هَدَّثَنَا مُعَاذُ بْنُ هِشَامِ.نْ قَالَ .هَدَّثَنِي أَبِي عَنْ قَتَادَ:تَ عَنِ أَل.هَسَنِ عَنْ أَبِي هُرَيْرَ:تَ نَ.هْوَهُ وَلَمْ يَرْفَعْهُ
 
 ############################################################
 ## TranslationBetaCode

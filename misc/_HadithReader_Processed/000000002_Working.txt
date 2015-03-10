@@ -9,7 +9,7 @@
 
 ############################################################
 ## betaCodeAuto
-.hadda_tan_a `amr_u bnu r_afi`i.n .hadda_tan_a `abdu allahi bnu almub_araki `an mu.hammadi bni 'is.h_aqa `an mu.hammadi bni ^ga`fari.n `an `ubaydi allahi bni `abdi allahi bni `umara `an 'ab_ihi `ani alnnab_iyi  .sl`m  na.hwahu
+*hadda_tan_a `amr_u bnu r_afi`i*n *hadda_tan_a `abdu allahi bnu almub_araki `an mu*hammadi bni 'is*h_aqa `an mu*hammadi bni ^ga`fari*n `an `ubaydi allahi bni `abdi allahi bni `umara `an 'ab_ihi `ani alnnab_iyi  *sl`m  na*hwahu
 
 ############################################################
 ## betaCodeManual
@@ -17,11 +17,11 @@
 
 ############################################################
 ## betaCodeManual>Translit
-ḥaddaṯa-nā ʿAmrủů bnủ Rāfiʿỉȵ , ḥaddaṯa-nā ʿAbdủ Allãhỉ bnủ al-Mubārakỉ , ʿan Muḥammadỉ bnỉ ʾIsḥāḳả , ʿan Muḥammadỉ bnỉ Ǧaʿfarỉȵ , ʿan ʿUbaydỉ Allãhỉ bnỉ ʿAbdỉ Allãhỉ bnỉ ʿUmarả , ʿan ʾAbī-hi , ʿanỉ al-nabiyyỉ ( ṣlʿm ) naḥwa-hu
+.haddaṯa-nā ʿAmrủ.w bnủ Rāfiʿỉ.n , .haddaṯa-nā ʿAbdủ Allãhỉ bnủ al-Mubārakỉ , ʿan Mu.hammadỉ bnỉ ʾIs.hāḳả , ʿan Mu.hammadỉ bnỉ Ǧaʿfarỉ.n , ʿan ʿUbaydỉ Allãhỉ bnỉ ʿAbdỉ Allãhỉ bnỉ ʿUmarả , ʿan ʾAbī-hi , ʿanỉ al-nabiyyỉ ( .slʿm ) na.hwa-hu
 
 ############################################################
 ## betaCodeManual>Arabic
-حَدَّثَنَا عَمْرُو بْنُ رَافِعٍ ، حَدَّثَنَا عَبْدُ ﭐلـلّٰـهِ بْنُ ﭐلْمُبَارَكِ ، عَنْ مُحَمَّدِ بْنِ إِسْحَاقَ ، عَنْ مُحَمَّدِ بْنِ جَعْفَرٍ ، عَنْ عُبَيْدِ ﭐلـلّٰـهِ بْنِ عَبْدِ ﭐلـلّٰـهِ بْنِ عُمَرَ ، عَنْ أَبِيهِ ، عَنِ ﭐلنَّبِيِّ ( صْلْعْمْ ) نَحْوَهُ
+.هَدَّثَنَا عَمْرُ.وْ بْنُ رَافِعِ.نْ ، .هَدَّثَنَا عَبْدُ ﭐلـلّٰـهِ بْنُ ﭐلْمُبَارَكِ ، عَنْ مُ.هَمَّدِ بْنِ إِس.هَاقَ ، عَنْ مُ.هَمَّدِ بْنِ جَعْفَرِ.نْ ، عَنْ عُبَيْدِ ﭐلـلّٰـهِ بْنِ عَبْدِ ﭐلـلّٰـهِ بْنِ عُمَرَ ، عَنْ أَبِيهِ ، عَنِ ﭐلنَّبِيِّ ( .سْلْعْمْ ) نَ.هْوَهُ
 
 ############################################################
 ## TranslationBetaCode
@@ -29,5 +29,5 @@
 
 ############################################################
 ## TranslationTranslit
-ʿAmr b. Rāfiʿ narrated to us, ʿAbd Allãh b. al-Mubārak narrated to us, from Muḥammad b. Isḥāḳ , from Muḥammad b. Ǧaʿfar, from ʿUbayd Allãh b. ʿAbd Allãh b. ʿUmar, from his father, from the Prophet ( ṣlʿm ) something similar to that.
+ʿAmr b. Rāfiʿ narrated to us, ʿAbd Allãh b. al-Mubārak narrated to us, from Mu.hammad b. Is.hāḳ , from Mu.hammad b. Ǧaʿfar, from ʿUbayd Allãh b. ʿAbd Allãh b. ʿUmar, from his father, from the Prophet ( .slʿm ) something similar to that.
 

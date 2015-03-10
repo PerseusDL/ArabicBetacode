@@ -9,7 +9,7 @@
 
 ############################################################
 ## betaCodeAuto
-wa.hadda_tan_a 'ab_u bakri bnu 'ab_i ^sayba:ta .hadda_tan_a wak_i`u.n wa`abdu allahi bnu numayri.n `an 'ism_a`_ila `an qaysi.n `an ^gar_iri.n `ani alnnab_iyi .sl`m .h wa.hadda_tan_a 'ab_u bakri bnu 'ab_i ^sayba:ta w_abnu 'ab_i `umara wa'a.hmadu bnu `abda:ta q_al_u_a .hadda_tan_a sufy_anu `an `amri.nw `an n_afi`i bni ^gubayri.n `an ^gar_iri.n `ani alnnab_iyi .sl`m bimi_tli .had_i_ti al'a`ma^si
+wa*hadda_tan_a 'ab_u bakri bnu 'ab_i ^sayba=ta *hadda_tan_a wak_i`u*n wa`abdu allahi bnu numayri*n `an 'ism_a`_ila `an qaysi*n `an ^gar_iri*n `ani alnnab_iyi *sl`m *h wa*hadda_tan_a 'ab_u bakri bnu 'ab_i ^sayba=ta w_abnu 'ab_i `umara wa'a*hmadu bnu `abda=ta q_al_u_a *hadda_tan_a sufy_anu `an `amri*nw `an n_afi`i bni ^gubayri*n `an ^gar_iri*n `ani alnnab_iyi *sl`m bimi_tli *had_i_ti al'a`ma^si
 
 ############################################################
 ## betaCodeManual
@@ -17,11 +17,11 @@ wa.hadda_tan_a 'ab_u bakri bnu 'ab_i ^sayba:ta .hadda_tan_a wak_i`u.n wa`abdu al
 
 ############################################################
 ## betaCodeManual>Translit
-waḥaddaṯanā ʾabū bakri bnu ʾabī šaybaŧa ḥaddaṯanā wakīʿuȵ waʿabdu allahi bnu numayriȵ ʿan ʾismāʿīla ʿan ḳaysiȵ ʿan ǧarīriȵ ʿani alnnabīyi ṣlʿm ḥ waḥaddaṯanā ʾabū bakri bnu ʾabī šaybaŧa wābnu ʾabī ʿumara waʾaḥmadu bnu ʿabdaŧa ḳālūā ḥaddaṯanā sufyānu ʿan ʿamriȵw ʿan nāfiʿi bni ǧubayriȵ ʿan ǧarīriȵ ʿani alnnabīyi ṣlʿm bimiṯli ḥadīṯi alʾaʿmaši
+wa.haddaṯanā ʾabū bakri bnu ʾabī šayba:ta .haddaṯanā wakīʿu.n waʿabdu allahi bnu numayri.n ʿan ʾismāʿīla ʿan ḳaysi.n ʿan ǧarīri.n ʿani alnnabīyi .slʿm .h wa.haddaṯanā ʾabū bakri bnu ʾabī šayba:ta wābnu ʾabī ʿumara waʾa.hmadu bnu ʿabda:ta ḳālūā .haddaṯanā sufyānu ʿan ʿamri.nw ʿan nāfiʿi bni ǧubayri.n ʿan ǧarīri.n ʿani alnnabīyi .slʿm bimiṯli .hadīṯi alʾaʿmaši
 
 ############################################################
 ## betaCodeManual>Arabic
-وَحَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ حَدَّثَنَا وَكِيعٌ وَعَبْدُ أَلَّهِ بْنُ نُمَيْرٍ عَنْ إِسْمَاعِيلَ عَنْ قَيْسٍ عَنْ جَرِيرٍ عَنِ أَلْنَّبِييِ صْلْعْمْ حْ وَحَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ وَابْنُ أَبِي عُمَرَ وَأَحْمَدُ بْنُ عَبْدَةَ قَالُوا حَدَّثَنَا سُفْيَانُ عَنْ عَمْرٍوْ عَنْ نَافِعِ بْنِ جُبَيْرٍ عَنْ جَرِيرٍ عَنِ أَلْنَّبِييِ صْلْعْمْ بِمِثْلِ حَدِيثِ أَلْأَعْمَشِ
+وَ.هَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَ:تَ .هَدَّثَنَا وَكِيعُ.نْ وَعَبْدُ أَلَّهِ بْنُ نُمَيْرِ.نْ عَنْ إِسْمَاعِيلَ عَنْ قَيْسِ.نْ عَنْ جَرِيرِ.نْ عَنِ أَلْنَّبِييِ .سْلْعْمْ .هْ وَ.هَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَ:تَ وَابْنُ أَبِي عُمَرَ وَأَ.هْمَدُ بْنُ عَبْدَ:تَ قَالُوا .هَدَّثَنَا سُفْيَانُ عَنْ عَمْرِ.نْوْ عَنْ نَافِعِ بْنِ جُبَيْرِ.نْ عَنْ جَرِيرِ.نْ عَنِ أَلْنَّبِييِ .سْلْعْمْ بِمِثْلِ .هَدِيثِ أَلْأَعْمَشِ
 
 ############################################################
 ## TranslationBetaCode

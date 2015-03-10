@@ -9,7 +9,7 @@
 
 ############################################################
 ## betaCodeAuto
-.hadda_tan_a 'ab_u bakri bnu 'ab_i ^sayba:ta .hadda_tan_a `abdu allahi bnu almub_araki `an y_unusa `ani alzzuhr_iyi `an 'ab_i salama:ta `an `_a'i^sa:ta 'anna alnnab_iya  .sl`m  k_ana 'i_d_a 'ar_ada 'an ya'akula wah_ua ^gunubu.n .gasala yadayhi
+*hadda_tan_a 'ab_u bakri bnu 'ab_i ^sayba=ta *hadda_tan_a `abdu allahi bnu almub_araki `an y_unusa `ani alzzuhr_iyi `an 'ab_i salama=ta `an `_a'i^sa=ta 'anna alnnab_iya  *sl`m  k_ana 'i_d_a 'ar_ada 'an ya'akula wah_ua ^gunubu*n *gasala yadayhi
 
 ############################################################
 ## betaCodeManual
@@ -17,11 +17,11 @@
 
 ############################################################
 ## betaCodeManual>Translit
-ḥaddaṯanā ʾabū bakri bnu ʾabī šaybaŧa ḥaddaṯanā ʿabdu allahi bnu almubāraki ʿan yūnusa ʿani alzzuhrīyi ʿan ʾabī salamaŧa ʿan ʿāʾišaŧa ʾanna alnnabīya  ṣlʿm  kāna ʾiḏā ʾarāda ʾan yaʾakula wahūa ǧunubuȵ ġasala yadayhi
+.haddaṯanā ʾabū bakri bnu ʾabī šayba:ta .haddaṯanā ʿabdu allahi bnu almubāraki ʿan yūnusa ʿani alzzuhrīyi ʿan ʾabī salama:ta ʿan ʿāʾiša:ta ʾanna alnnabīya  .slʿm  kāna ʾiḏā ʾarāda ʾan yaʾakula wahūa ǧunubu.n .gasala yadayhi
 
 ############################################################
 ## betaCodeManual>Arabic
-حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ حَدَّثَنَا عَبْدُ أَلَّهِ بْنُ أَلْمُبَارَكِ عَنْ يُونُسَ عَنِ أَلْزُّهْرِييِ عَنْ أَبِي سَلَمَةَ عَنْ عائِشَةَ أَنَّ أَلْنَّبِييَ  صْلْعْمْ  كَانَ إِذَا أَرَادَ أَنْ يَأَكُلَ وَهُوَ جُنُبٌ غَسَلَ يَدَيْهِ
+.هَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَ:تَ .هَدَّثَنَا عَبْدُ أَلَّهِ بْنُ أَلْمُبَارَكِ عَنْ يُونُسَ عَنِ أَلْزُّهْرِييِ عَنْ أَبِي سَلَمَ:تَ عَنْ عائِشَ:تَ أَنَّ أَلْنَّبِييَ  .سْلْعْمْ  كَانَ إِذَا أَرَادَ أَنْ يَأَكُلَ وَهُوَ جُنُبُ.نْ .گَسَلَ يَدَيْهِ
 
 ############################################################
 ## TranslationBetaCode

@@ -9,7 +9,7 @@
 
 ############################################################
 ## betaCodeAuto
-.hada_tan_a bi_dalika `al_iu bnu .hu^gri.n 'a_hbaran_a 'ism_a`_ilu bnu 'ibr_ah_ima 'a_hbaran_a `abdu al`az_izi bnu .suhaybi.n `an 'anasi bni m_aliki.n `ani alnab_ii .sl`m bi_dalika q_ala 'ab_u `_is/a ha_d_a .had_i_tu.n .hasanu.n .sa.h_i.hu.n
+*hada_tan_a bi_dalika `al_iu bnu *hu^gri*n 'a_hbaran_a 'ism_a`_ilu bnu 'ibr_ah_ima 'a_hbaran_a `abdu al`az_izi bnu *suhaybi*n `an 'anasi bni m_aliki*n `ani alnab_ii *sl`m bi_dalika q_ala 'ab_u `_is/a ha_d_a *had_i_tu*n *hasanu*n *sa*h_i*hu*n
 
 ############################################################
 ## betaCodeManual
@@ -17,11 +17,11 @@
 
 ############################################################
 ## betaCodeManual>Translit
-ḥadaṯanā biḏalika ʿalīu bnu ḥuǧriȵ ʾaḫbaranā ʾismāʿīlu bnu ʾibrāhīma ʾaḫbaranā ʿabdu alʿazīzi bnu ṣuhaybiȵ ʿan ʾanasi bni mālikiȵ ʿani alnabīi ṣlʿm biḏalika ḳāla ʾabū ʿīsá haḏā ḥadīṯuȵ ḥasanuȵ ṣaḥīḥuȵ
+.hadaṯanā biḏalika ʿalīu bnu .huǧri.n ʾaḫbaranā ʾismāʿīlu bnu ʾibrāhīma ʾaḫbaranā ʿabdu alʿazīzi bnu .suhaybi.n ʿan ʾanasi bni māliki.n ʿani alnabīi .slʿm biḏalika ḳāla ʾabū ʿīsá haḏā .hadīṯu.n .hasanu.n .sa.hī.hu.n
 
 ############################################################
 ## betaCodeManual>Arabic
-حَدَثَنَا بِذَلِكَ عَلِيُ بْنُ حُجْرٍ أَخْبَرَنَا إِسْمَاعِيلُ بْنُ إِبْرَاهِيمَ أَخْبَرَنَا عَبْدُ أَلْعَزِيزِ بْنُ صُهَيْبٍ عَنْ أَنَسِ بْنِ مَالِكٍ عَنِ أَلْنَبِيِ صْلْعْمْ بِذَلِكَ قَالَ أَبُو عِيسٰى هَذَا حَدِيثٌ حَسَنٌ صَحِيحٌ
+.هَدَثَنَا بِذَلِكَ عَلِيُ بْنُ .هُجْرِ.نْ أَخْبَرَنَا إِسْمَاعِيلُ بْنُ إِبْرَاهِيمَ أَخْبَرَنَا عَبْدُ أَلْعَزِيزِ بْنُ .سُهَيْبِ.نْ عَنْ أَنَسِ بْنِ مَالِكِ.نْ عَنِ أَلْنَبِيِ .سْلْعْمْ بِذَلِكَ قَالَ أَبُو عِيسٰى هَذَا .هَدِيثُ.نْ .هَسَنُ.نْ .سَ.هِي.هُ.نْ
 
 ############################################################
 ## TranslationBetaCode

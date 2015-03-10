@@ -9,7 +9,7 @@
 
 ############################################################
 ## betaCodeAuto
-'a_hbaran_a mu.hammadu bnu almu_tann/a q_ala .hadda_tan_a ya.hy/a bnu sa`_idi.n `an mu.hammadi bni `amri.nw `an 'ab_i salama:ta `ani abni `umara `ani alnnab_iyi .sl`m q_ala kullu muskiri.n .har_amu.n
+'a_hbaran_a mu*hammadu bnu almu_tann/a q_ala *hadda_tan_a ya*hy/a bnu sa`_idi*n `an mu*hammadi bni `amri*nw `an 'ab_i salama=ta `ani abni `umara `ani alnnab_iyi *sl`m q_ala kullu muskiri*n *har_amu*n
 
 ############################################################
 ## betaCodeManual
@@ -17,11 +17,11 @@
 
 ############################################################
 ## betaCodeManual>Translit
-ʾaḫbaranā muḥammadu bnu almuṯanná ḳāla ḥaddaṯanā yaḥyá bnu saʿīdiȵ ʿan muḥammadi bni ʿamriȵw ʿan ʾabī salamaŧa ʿani abni ʿumara ʿani alnnabīyi ṣlʿm ḳāla kullu muskiriȵ ḥarāmuȵ
+ʾaḫbaranā mu.hammadu bnu almuṯanná ḳāla .haddaṯanā ya.hyá bnu saʿīdi.n ʿan mu.hammadi bni ʿamri.nw ʿan ʾabī salama:ta ʿani abni ʿumara ʿani alnnabīyi .slʿm ḳāla kullu muskiri.n .harāmu.n
 
 ############################################################
 ## betaCodeManual>Arabic
-أَخْبَرَنَا مُحَمَّدُ بْنُ أَلْمُثَنّٰى قَالَ حَدَّثَنَا يَحْيٰى بْنُ سَعِيدٍ عَنْ مُحَمَّدِ بْنِ عَمْرٍوْ عَنْ أَبِي سَلَمَةَ عَنِ أَبْنِ عُمَرَ عَنِ أَلْنَّبِييِ صْلْعْمْ قَالَ كُلُّ مُسْكِرٍ حَرَامٌ
+أَخْبَرَنَا مُ.هَمَّدُ بْنُ أَلْمُثَنّٰى قَالَ .هَدَّثَنَا يَ.هْيٰى بْنُ سَعِيدِ.نْ عَنْ مُ.هَمَّدِ بْنِ عَمْرِ.نْوْ عَنْ أَبِي سَلَمَ:تَ عَنِ أَبْنِ عُمَرَ عَنِ أَلْنَّبِييِ .سْلْعْمْ قَالَ كُلُّ مُسْكِرِ.نْ .هَرَامُ.نْ
 
 ############################################################
 ## TranslationBetaCode

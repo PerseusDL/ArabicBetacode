@@ -9,7 +9,7 @@
 
 ############################################################
 ## betaCodeAuto
-.hadda_tan_a 'ab_u bakri bnu 'ab_i ^sayba:ta wamu.hammadu bnu al.ssabb_a.hi q_al_a .hadda_tan_a sufy_anu bnu `uyayna:ta `ani alzzuhr_iyi `an .safw_ana bni `abdi allahi `an 'aummi alddard_a'i `an ka`bi bni `_a.simi.n q_ala q_ala ras_ulu allahi  .sl`m  laysa mina albirri al.ss_i_amu f_i alssafari
+*hadda_tan_a 'ab_u bakri bnu 'ab_i ^sayba=ta wamu*hammadu bnu al*ssabb_a*hi q_al_a *hadda_tan_a sufy_anu bnu `uyayna=ta `ani alzzuhr_iyi `an *safw_ana bni `abdi allahi `an 'aummi alddard_a'i `an ka`bi bni `_a*simi*n q_ala q_ala ras_ulu allahi  *sl`m  laysa mina albirri al*ss_i_amu f_i alssafari
 
 ############################################################
 ## betaCodeManual
@@ -17,11 +17,11 @@
 
 ############################################################
 ## betaCodeManual>Translit
-ḥaddaṯanā ʾabū bakri bnu ʾabī šaybaŧa wamuḥammadu bnu alṣsabbāḥi ḳālā ḥaddaṯanā sufyānu bnu ʿuyaynaŧa ʿani alzzuhrīyi ʿan ṣafwāna bni ʿabdi allahi ʿan ʾaummi alddardāʾi ʿan kaʿbi bni ʿāṣimiȵ ḳāla ḳāla rasūlu allahi  ṣlʿm  laysa mina albirri alṣsīāmu fī alssafari
+.haddaṯanā ʾabū bakri bnu ʾabī šayba:ta wamu.hammadu bnu al.ssabbā.hi ḳālā .haddaṯanā sufyānu bnu ʿuyayna:ta ʿani alzzuhrīyi ʿan .safwāna bni ʿabdi allahi ʿan ʾaummi alddardāʾi ʿan kaʿbi bni ʿā.simi.n ḳāla ḳāla rasūlu allahi  .slʿm  laysa mina albirri al.ssīāmu fī alssafari
 
 ############################################################
 ## betaCodeManual>Arabic
-حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ وَمُحَمَّدُ بْنُ أَلْصْسَبّاحِ قَالَا حَدَّثَنَا سُفْيَانُ بْنُ عُيَيْنَةَ عَنِ أَلْزُّهْرِييِ عَنْ صَفْوَانَ بْنِ عَبْدِ أَلَّهِ عَنْ أَأُمِّ أَلْدَّرْداءِ عَنْ كَعْبِ بْنِ عَاصِمٍ قَالَ قَالَ رَسُولُ أَلَّهِ  صْلْعْمْ  لَيْسَ مِنَ أَلْبِرِّ أَلْصْسِيامُ فِي أَلْسَّفَرِ
+.هَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَ:تَ وَمُ.هَمَّدُ بْنُ أَل.سَّبّا.هِ قَالَا .هَدَّثَنَا سُفْيَانُ بْنُ عُيَيْنَ:تَ عَنِ أَلْزُّهْرِييِ عَنْ .سَفْوَانَ بْنِ عَبْدِ أَلَّهِ عَنْ أَأُمِّ أَلْدَّرْداءِ عَنْ كَعْبِ بْنِ عَا.سِمِ.نْ قَالَ قَالَ رَسُولُ أَلَّهِ  .سْلْعْمْ  لَيْسَ مِنَ أَلْبِرِّ أَل.سّيامُ فِي أَلْسَّفَرِ
 
 ############################################################
 ## TranslationBetaCode
@@ -29,5 +29,5 @@ Type your translation on this line
 
 ############################################################
 ## TranslationTranslit
-Translation with transliterated names will appear here
+Type your translation on this line
 

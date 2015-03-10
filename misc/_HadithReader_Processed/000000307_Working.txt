@@ -9,7 +9,7 @@
 
 ############################################################
 ## betaCodeAuto
-.hadda_tan_a abnu 'ab_i `umara .hadda_tan_a sufy_anu bnu `uyayna:ta `an `amriw bni d_in_ari.n `ani alzzuhr_iyi `an s_alimi.n `an 'ab_ihi `ani alnnab_iyi .sl`m 'annahu k_ana yu.sall_i ba`da al^gumu`a:ti rak`atayni q_ala waf_i alb_abi `an ^g_abiri.n q_ala 'ab_u `_is/a .had_i_tu abni `umara .had_i_tu.n .hasanu.n .sa.h_i.hu.n waqad r_u_ia `an n_afi`i.n `ani abni `umara 'ay.da.n_a w_al`amalu `al/a ha_d_a `inda ba`.di 'ahli al`ilmi wabihi yaq_ulu al^ss_afi`_iyu wa'a.hmadu
+*hadda_tan_a abnu 'ab_i `umara *hadda_tan_a sufy_anu bnu `uyayna=ta `an `amriw bni d_in_ari*n `ani alzzuhr_iyi `an s_alimi*n `an 'ab_ihi `ani alnnab_iyi *sl`m 'annahu k_ana yu*sall_i ba`da al^gumu`a=ti rak`atayni q_ala waf_i alb_abi `an ^g_abiri*n q_ala 'ab_u `_is/a *had_i_tu abni `umara *had_i_tu*n *hasanu*n *sa*h_i*hu*n waqad r_u_ia `an n_afi`i*n `ani abni `umara 'ay*da*n_a w_al`amalu `al/a ha_d_a `inda ba`*di 'ahli al`ilmi wabihi yaq_ulu al^ss_afi`_iyu wa'a*hmadu
 
 ############################################################
 ## betaCodeManual
@@ -17,11 +17,11 @@
 
 ############################################################
 ## betaCodeManual>Translit
-ḥaddaṯanā abnu ʾabī ʿumara ḥaddaṯanā sufyānu bnu ʿuyaynaŧa ʿan ʿamriw bni dīnāriȵ ʿani alzzuhrīyi ʿan sālimiȵ ʿan ʾabīhi ʿani alnnabīyi ṣlʿm ʾannahu kāna yuṣallī baʿda alǧumuʿaŧi rakʿatayni ḳāla wafī albābi ʿan ǧābiriȵ ḳāla ʾabū ʿīsá ḥadīṯu abni ʿumara ḥadīṯuȵ ḥasanuȵ ṣaḥīḥuȵ waḳad rūīa ʿan nāfiʿiȵ ʿani abni ʿumara ʾayḍaȵā wālʿamalu ʿalá haḏā ʿinda baʿḍi ʾahli alʿilmi wabihi yaḳūlu alšsāfiʿīyu waʾaḥmadu
+.haddaṯanā abnu ʾabī ʿumara .haddaṯanā sufyānu bnu ʿuyayna:ta ʿan ʿamriw bni dīnāri.n ʿani alzzuhrīyi ʿan sālimi.n ʿan ʾabīhi ʿani alnnabīyi .slʿm ʾannahu kāna yu.sallī baʿda alǧumuʿa:ti rakʿatayni ḳāla wafī albābi ʿan ǧābiri.n ḳāla ʾabū ʿīsá .hadīṯu abni ʿumara .hadīṯu.n .hasanu.n .sa.hī.hu.n waḳad rūīa ʿan nāfiʿi.n ʿani abni ʿumara ʾay.da.nā wālʿamalu ʿalá haḏā ʿinda baʿ.di ʾahli alʿilmi wabihi yaḳūlu alšsāfiʿīyu waʾa.hmadu
 
 ############################################################
 ## betaCodeManual>Arabic
-حَدَّثَنَا أَبْنُ أَبِي عُمَرَ حَدَّثَنَا سُفْيَانُ بْنُ عُيَيْنَةَ عَنْ عَمْرِوْ بْنِ دِينَارٍ عَنِ أَلْزُّهْرِييِ عَنْ سَالِمٍ عَنْ أَبِيهِ عَنِ أَلْنَّبِييِ صْلْعْمْ أَنَّهُ كَانَ يُصَلّي بَعْدَ أَلْجُمُعَةِ رَكْعَتَيْنِ قَالَ وَفِي أَلْبَابِ عَنْ جَابِرٍ قَالَ أَبُو عِيسٰى حَدِيثُ أَبْنِ عُمَرَ حَدِيثٌ حَسَنٌ صَحِيحٌ وَقَدْ رُويَ عَنْ نَافِعٍ عَنِ أَبْنِ عُمَرَ أَيْضاًا وَالْعَمَلُ عَلٰى هَذَا عِنْدَ بَعْضِ أَهْلِ أَلْعِلْمِ وَبِهِ يَقُولُ أَلْشْسَافِعِييُ وَأَحْمَدُ
+.هَدَّثَنَا أَبْنُ أَبِي عُمَرَ .هَدَّثَنَا سُفْيَانُ بْنُ عُيَيْنَ:تَ عَنْ عَمْرِوْ بْنِ دِينَارِ.نْ عَنِ أَلْزُّهْرِييِ عَنْ سَالِمِ.نْ عَنْ أَبِيهِ عَنِ أَلْنَّبِييِ .سْلْعْمْ أَنَّهُ كَانَ يُ.سَلّي بَعْدَ أَلْجُمُعَ:تِ رَكْعَتَيْنِ قَالَ وَفِي أَلْبَابِ عَنْ جَابِرِ.نْ قَالَ أَبُو عِيسٰى .هَدِيثُ أَبْنِ عُمَرَ .هَدِيثُ.نْ .هَسَنُ.نْ .سَ.هِي.هُ.نْ وَقَدْ رُويَ عَنْ نَافِعِ.نْ عَنِ أَبْنِ عُمَرَ أَي.دَ.نَا وَالْعَمَلُ عَلٰى هَذَا عِنْدَ بَع.دِ أَهْلِ أَلْعِلْمِ وَبِهِ يَقُولُ أَلْشْسَافِعِييُ وَأَ.هْمَدُ
 
 ############################################################
 ## TranslationBetaCode

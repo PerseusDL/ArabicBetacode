@@ -9,7 +9,7 @@
 
 ############################################################
 ## betaCodeAuto
-wa.hadda_tan_a mu.hammadu bnu ba^ss_ari.n .hadda_tan_a mu.hammadu bnu ^ga`fari.n .hadda_tan_a ^su`ba:tu q_ala sami`tu mu.hammada bna z_i_adi.n q_ala sami`tu 'ab_a hurayra:ta yaq_ulu sami`tu ras_ula allahi .sl`m yaq_ulu bimi_tli .had_i_ti alrrab_i`i
+wa*hadda_tan_a mu*hammadu bnu ba^ss_ari*n *hadda_tan_a mu*hammadu bnu ^ga`fari*n *hadda_tan_a ^su`ba=tu q_ala sami`tu mu*hammada bna z_i_adi*n q_ala sami`tu 'ab_a hurayra=ta yaq_ulu sami`tu ras_ula allahi *sl`m yaq_ulu bimi_tli *had_i_ti alrrab_i`i
 
 ############################################################
 ## betaCodeManual
@@ -17,11 +17,11 @@ wa-.hadda_ta-n_a Mu.hammad?u bn?u Ba^s^s_ar?i.n , .hadda_ta-n_a Mu.hammad?u bn?u
 
 ############################################################
 ## betaCodeManual>Translit
-wa-ḥaddaṯa-nā Muḥammadủ bnủ Baššārỉȵ , ḥaddaṯa-nā Muḥammadủ bnủ Ǧaʿfarỉȵ , ḥaddaṯa-nā Šuʿbaŧủ ḳāla , samiʿtu Muḥammadả bnả Ziyādỉȵ ḳāla , samiʿtu Abā Hurayraŧả yaḳūlu , samiʿtu rasūlả Allãhỉ ( ṣlʿm ) yaḳūlu bi-miṯlỉ ḥadīṯỉ al-Rabīʿỉ
+wa-.haddaṯa-nā Mu.hammadủ bnủ Baššārỉ.n , .haddaṯa-nā Mu.hammadủ bnủ Ǧaʿfarỉ.n , .haddaṯa-nā Šuʿba:tủ ḳāla , samiʿtu Mu.hammadả bnả Ziyādỉ.n ḳāla , samiʿtu Abā Hurayra:tả yaḳūlu , samiʿtu rasūlả Allãhỉ ( .slʿm ) yaḳūlu bi-miṯlỉ .hadīṯỉ al-Rabīʿỉ
 
 ############################################################
 ## betaCodeManual>Arabic
-وَحَدَّثَنَا مُحَمَّدُ بْنُ بَشّارٍ ، حَدَّثَنَا مُحَمَّدُ بْنُ جَعْفَرٍ ، حَدَّثَنَا شُعْبَةُ قَالَ ، سَمِعْتُ مُحَمَّدَ بْنَ زِيَادٍ قَالَ ، سَمِعْتُ أَبَا هُرَيْرَةَ يَقُولُ ، سَمِعْتُ رَسُولَ ﭐلـلّٰـهِ ( صْلْعْمْ ) يَقُولُ بِمِثْلِ حَدِيثِ ﭐلرَّبِيعِ
+وَ.هَدَّثَنَا مُ.هَمَّدُ بْنُ بَشّارِ.نْ ، .هَدَّثَنَا مُ.هَمَّدُ بْنُ جَعْفَرِ.نْ ، .هَدَّثَنَا شُعْبَ:تُ قَالَ ، سَمِعْتُ مُ.هَمَّدَ بْنَ زِيَادِ.نْ قَالَ ، سَمِعْتُ أَبَا هُرَيْرَ:تَ يَقُولُ ، سَمِعْتُ رَسُولَ ﭐلـلّٰـهِ ( .سْلْعْمْ ) يَقُولُ بِمِثْلِ .هَدِيثِ ﭐلرَّبِيعِ
 
 ############################################################
 ## TranslationBetaCode
@@ -29,5 +29,5 @@ And Mu.hammad b. Ba^s^s_ar narrated to us, Mu.hammad b. ^Ga`far narrated to us, 
 
 ############################################################
 ## TranslationTranslit
-And Muḥammad b. Baššār narrated to us, Muḥammad b. Ǧaʿfar narrated to us, Šuʿbaŧ narrated to us who said, I heard Muḥammad b. Ziyād who said, I heard Abū Hurayraŧ saying, I heard the Messenger of God ( ṣlʿm ) saying something similar to the ḥadīṯ of al-Rabīʿ.
+And Mu.hammad b. Baššār narrated to us, Mu.hammad b. Ǧaʿfar narrated to us, Šuʿba:t narrated to us who said, I heard Mu.hammad b. Ziyād who said, I heard Abū Hurayra:t saying, I heard the Messenger of God ( .slʿm ) saying something similar to the .hadīṯ of al-Rabīʿ.
 

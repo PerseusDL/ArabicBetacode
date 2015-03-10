@@ -9,7 +9,7 @@
 
 ############################################################
 ## betaCodeAuto
-'a_hbaran_a ma.hm_udu bnu _h_alidi.n q_ala .hada_tan_a alwal_idu q_ala .hada_tan_a 'ab_u `amri.nw al'awz_a`_iu `an ya.hy/a `an `al_ii.nn q_ala nah_an_i ras_ulu allahi .sl`m was_aqa al.had_i_ta
+'a_hbaran_a ma*hm_udu bnu _h_alidi*n q_ala *hada_tan_a alwal_idu q_ala *hada_tan_a 'ab_u `amri*nw al'awz_a`_iu `an ya*hy/a `an `al_ii*nn q_ala nah_an_i ras_ulu allahi *sl`m was_aqa al*had_i_ta
 
 ############################################################
 ## betaCodeManual
@@ -17,11 +17,11 @@
 
 ############################################################
 ## betaCodeManual>Translit
-ʾaḫbaranā maḥmūdu bnu ḫālidiȵ ḳāla ḥadaṯanā alwalīdu ḳāla ḥadaṯanā ʾabū ʿamriȵw alʾawzāʿīu ʿan yaḥyá ʿan ʿalīiȵn ḳāla nahānī rasūlu allahi ṣlʿm wasāḳa alḥadīṯa
+ʾaḫbaranā ma.hmūdu bnu ḫālidi.n ḳāla .hadaṯanā alwalīdu ḳāla .hadaṯanā ʾabū ʿamri.nw alʾawzāʿīu ʿan ya.hyá ʿan ʿalīi.nn ḳāla nahānī rasūlu allahi .slʿm wasāḳa al.hadīṯa
 
 ############################################################
 ## betaCodeManual>Arabic
-أَخْبَرَنَا مَحْمُودُ بْنُ خَالِدٍ قَالَ حَدَثَنَا أَلْوَلِيدُ قَالَ حَدَثَنَا أَبُو عَمْرٍوْ أَلْأَوْزَاعِيُ عَنْ يَحْيٰى عَنْ عَلِيٍنْ قَالَ نَهَانِي رَسُولُ أَلَّهِ صْلْعْمْ وَسَاقَ أَلْحَدِيثَ
+أَخْبَرَنَا مَ.هْمُودُ بْنُ خَالِدِ.نْ قَالَ .هَدَثَنَا أَلْوَلِيدُ قَالَ .هَدَثَنَا أَبُو عَمْرِ.نْوْ أَلْأَوْزَاعِيُ عَنْ يَ.هْيٰى عَنْ عَلِيِ.نّ قَالَ نَهَانِي رَسُولُ أَلَّهِ .سْلْعْمْ وَسَاقَ أَل.هَدِيثَ
 
 ############################################################
 ## TranslationBetaCode
@@ -29,5 +29,5 @@ Type your translation on this line
 
 ############################################################
 ## TranslationTranslit
-Translation with transliterated names will appear here
+Type your translation on this line
 

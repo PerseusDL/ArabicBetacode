@@ -9,7 +9,7 @@
 
 ############################################################
 ## betaCodeAuto
-.hadda_tan_a 'ab_u bakri bnu 'ab_i ^sayba:ta .hadda_tan_a .gundaru.n `an ^su`ba:ta .h wa.hadda_tan_a abnu almu_tann/a w_abnu ba^ss_ari.n q_al_a .hadda_tan_a mu.hammadu bnu ^ga`fari.n .hadda_tan_a ^su`ba:tu `an 'ab_i ^gamra:ta q_ala sami`tu abna `abb_asi.n yaq_ulu k_ana ras_ulu allahi .sl`m yu.sall_i mina allayli _tal_a_ta `a^sra:ta rak`a:ta.n
+*hadda_tan_a 'ab_u bakri bnu 'ab_i ^sayba=ta *hadda_tan_a *gundaru*n `an ^su`ba=ta *h wa*hadda_tan_a abnu almu_tann/a w_abnu ba^ss_ari*n q_al_a *hadda_tan_a mu*hammadu bnu ^ga`fari*n *hadda_tan_a ^su`ba=tu `an 'ab_i ^gamra=ta q_ala sami`tu abna `abb_asi*n yaq_ulu k_ana ras_ulu allahi *sl`m yu*sall_i mina allayli _tal_a_ta `a^sra=ta rak`a=ta*n
 
 ############################################################
 ## betaCodeManual
@@ -17,11 +17,11 @@
 
 ############################################################
 ## betaCodeManual>Translit
-ḥaddaṯanā ʾabū bakri bnu ʾabī šaybaŧa ḥaddaṯanā ġundaruȵ ʿan šuʿbaŧa ḥ waḥaddaṯanā abnu almuṯanná wābnu bašsāriȵ ḳālā ḥaddaṯanā muḥammadu bnu ǧaʿfariȵ ḥaddaṯanā šuʿbaŧu ʿan ʾabī ǧamraŧa ḳāla samiʿtu abna ʿabbāsiȵ yaḳūlu kāna rasūlu allahi ṣlʿm yuṣallī mina allayli ṯalāṯa ʿašraŧa rakʿaŧaȵ
+.haddaṯanā ʾabū bakri bnu ʾabī šayba:ta .haddaṯanā .gundaru.n ʿan šuʿba:ta .h wa.haddaṯanā abnu almuṯanná wābnu bašsāri.n ḳālā .haddaṯanā mu.hammadu bnu ǧaʿfari.n .haddaṯanā šuʿba:tu ʿan ʾabī ǧamra:ta ḳāla samiʿtu abna ʿabbāsi.n yaḳūlu kāna rasūlu allahi .slʿm yu.sallī mina allayli ṯalāṯa ʿašra:ta rakʿa:ta.n
 
 ############################################################
 ## betaCodeManual>Arabic
-حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ حَدَّثَنَا غُنْدَرٌ عَنْ شُعْبَةَ حْ وَحَدَّثَنَا أَبْنُ أَلْمُثَنّٰى وَابْنُ بَشْسَارٍ قَالَا حَدَّثَنَا مُحَمَّدُ بْنُ جَعْفَرٍ حَدَّثَنَا شُعْبَةُ عَنْ أَبِي جَمْرَةَ قَالَ سَمِعْتُ أَبْنَ عَبّاسٍ يَقُولُ كَانَ رَسُولُ أَلَّهِ صْلْعْمْ يُصَلّي مِنَ أَلَّيْلِ ثَلَاثَ عَشْرَةَ رَكْعَةً
+.هَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَ:تَ .هَدَّثَنَا .گُنْدَرُ.نْ عَنْ شُعْبَ:تَ .هْ وَ.هَدَّثَنَا أَبْنُ أَلْمُثَنّٰى وَابْنُ بَشْسَارِ.نْ قَالَا .هَدَّثَنَا مُ.هَمَّدُ بْنُ جَعْفَرِ.نْ .هَدَّثَنَا شُعْبَ:تُ عَنْ أَبِي جَمْرَ:تَ قَالَ سَمِعْتُ أَبْنَ عَبّاسِ.نْ يَقُولُ كَانَ رَسُولُ أَلَّهِ .سْلْعْمْ يُ.سَلّي مِنَ أَلَّيْلِ ثَلَاثَ عَشْرَ:تَ رَكْعَ:تَ.نْ
 
 ############################################################
 ## TranslationBetaCode

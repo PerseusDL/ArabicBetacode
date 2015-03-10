@@ -9,7 +9,7 @@
 
 ############################################################
 ## betaCodeAuto
-.hadda_tan_a mu.hammadu bnu ba^ss_ari.n .hadda_tan_a abnu 'ab_i `ad_iyi.n `an ^su`ba:ta `an qat_ada:ta `an `ikrima:ta `ani abni `abb_asi.n q_ala sami`tu alnnab_iya .sl`m na.hwahu
+*hadda_tan_a mu*hammadu bnu ba^ss_ari*n *hadda_tan_a abnu 'ab_i `ad_iyi*n `an ^su`ba=ta `an qat_ada=ta `an `ikrima=ta `ani abni `abb_asi*n q_ala sami`tu alnnab_iya *sl`m na*hwahu
 
 ############################################################
 ## betaCodeManual
@@ -17,11 +17,11 @@
 
 ############################################################
 ## betaCodeManual>Translit
-ḥaddaṯa-nā Muḥammadủ bnủ Baššārỉȵ , ḥaddaṯa-nā Ibnủ ʾAbī ʿAdiyyỉȵ , ʿan Šuʿbaŧả , ʿan Ḳatādaŧả , ʿan ʿIkrimaŧả , ʿanỉ Ibnỉ ʿAbbāsỉȵ ḳāla samiʿtu al-nabiyyả ( ṣlʿm ) naḥwa-hu
+.haddaṯa-nā Mu.hammadủ bnủ Baššārỉ.n , .haddaṯa-nā Ibnủ ʾAbī ʿAdiyyỉ.n , ʿan Šuʿba:tả , ʿan Ḳatāda:tả , ʿan ʿIkrima:tả , ʿanỉ Ibnỉ ʿAbbāsỉ.n ḳāla samiʿtu al-nabiyyả ( .slʿm ) na.hwa-hu
 
 ############################################################
 ## betaCodeManual>Arabic
-حَدَّثَنَا مُحَمَّدُ بْنُ بَشّارٍ ، حَدَّثَنَا إِبْنُ أَبِي عَدِيٍّ ، عَنْ شُعْبَةَ ، عَنْ قَتَادَةَ ، عَنْ عِكْرِمَةَ ، عَنِ إِبْنِ عَبّاسٍ قَالَ سَمِعْتُ ﭐلنَّبِيَّ ( صْلْعْمْ ) نَحْوَهُ
+.هَدَّثَنَا مُ.هَمَّدُ بْنُ بَشّارِ.نْ ، .هَدَّثَنَا إِبْنُ أَبِي عَدِيِّ.نْ ، عَنْ شُعْبَ:تَ ، عَنْ قَتَادَ:تَ ، عَنْ عِكْرِمَ:تَ ، عَنِ إِبْنِ عَبّاسِ.نْ قَالَ سَمِعْتُ ﭐلنَّبِيَّ ( .سْلْعْمْ ) نَ.هْوَهُ
 
 ############################################################
 ## TranslationBetaCode
@@ -29,5 +29,5 @@ Mu.hammad b. Ba^s^s_ar narrated to us, Ibn Ab_i `Ad_i narrated to us, from ^Su`b
 
 ############################################################
 ## TranslationTranslit
-Muḥammad b. Baššār narrated to us, Ibn Abī ʿAdī narrated to us, from Šuʿbaŧ, from Ḳatādaŧ, from ʿIkrimaŧ [who] said: I heard [from] the Prophet ( ṣlʿm ) something similar to that. 
+Mu.hammad b. Baššār narrated to us, Ibn Abī ʿAdī narrated to us, from Šuʿba:t, from Ḳatāda:t, from ʿIkrima:t [who] said: I heard [from] the Prophet ( .slʿm ) something similar to that. 
 

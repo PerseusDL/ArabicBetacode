@@ -9,7 +9,7 @@
 
 ############################################################
 ## betaCodeAuto
-wa.hadda_tan_i h_ar_unu bnu `abdi allahi .hadda_tan_a .ha^gg_a^gu bnu mu.hammadi.n .h wa.hadda_tan_a `abdu bnu .humaydi.n 'a_hbaran_a mu.hammadu bnu bakri.n kil_ahum_a `ani abni ^guray^gi.n q_ala 'a_hbaran_i 'ab_u alzzubayri 'annahu sami`a ^g_abira bna `abdi allahi yaq_ulu nah/a ras_ulu allahi .sl`m bimi_tlihi
+wa*hadda_tan_i h_ar_unu bnu `abdi allahi *hadda_tan_a *ha^gg_a^gu bnu mu*hammadi*n *h wa*hadda_tan_a `abdu bnu *humaydi*n 'a_hbaran_a mu*hammadu bnu bakri*n kil_ahum_a `ani abni ^guray^gi*n q_ala 'a_hbaran_i 'ab_u alzzubayri 'annahu sami`a ^g_abira bna `abdi allahi yaq_ulu nah/a ras_ulu allahi *sl`m bimi_tlihi
 
 ############################################################
 ## betaCodeManual
@@ -17,11 +17,11 @@ wa.hadda_tan_i h_ar_unu bnu `abdi allahi .hadda_tan_a .ha^gg_a^gu bnu mu.hammadi
 
 ############################################################
 ## betaCodeManual>Translit
-waḥaddaṯanī hārūnu bnu ʿabdi allahi ḥaddaṯanā ḥaǧgāǧu bnu muḥammadiȵ ḥ waḥaddaṯanā ʿabdu bnu ḥumaydiȵ ʾaḫbaranā muḥammadu bnu bakriȵ kilāhumā ʿani abni ǧurayǧiȵ ḳāla ʾaḫbaranī ʾabū alzzubayri ʾannahu samiʿa ǧābira bna ʿabdi allahi yaḳūlu nahá rasūlu allahi ṣlʿm bimiṯlihi
+wa.haddaṯanī hārūnu bnu ʿabdi allahi .haddaṯanā .haǧgāǧu bnu mu.hammadi.n .h wa.haddaṯanā ʿabdu bnu .humaydi.n ʾaḫbaranā mu.hammadu bnu bakri.n kilāhumā ʿani abni ǧurayǧi.n ḳāla ʾaḫbaranī ʾabū alzzubayri ʾannahu samiʿa ǧābira bna ʿabdi allahi yaḳūlu nahá rasūlu allahi .slʿm bimiṯlihi
 
 ############################################################
 ## betaCodeManual>Arabic
-وَحَدَّثَنِي هَارُونُ بْنُ عَبْدِ أَلَّهِ حَدَّثَنَا حَجْگَاجُ بْنُ مُحَمَّدٍ حْ وَحَدَّثَنَا عَبْدُ بْنُ حُمَيْدٍ أَخْبَرَنَا مُحَمَّدُ بْنُ بَكْرٍ كِلَاهُمَا عَنِ أَبْنِ جُرَيْجٍ قَالَ أَخْبَرَنِي أَبُو أَلْزُّبَيْرِ أَنَّهُ سَمِعَ جَابِرَ بْنَ عَبْدِ أَلَّهِ يَقُولُ نَهٰى رَسُولُ أَلَّهِ صْلْعْمْ بِمِثْلِهِ
+وَ.هَدَّثَنِي هَارُونُ بْنُ عَبْدِ أَلَّهِ .هَدَّثَنَا .هَجْگَاجُ بْنُ مُ.هَمَّدِ.نْ .هْ وَ.هَدَّثَنَا عَبْدُ بْنُ .هُمَيْدِ.نْ أَخْبَرَنَا مُ.هَمَّدُ بْنُ بَكْرِ.نْ كِلَاهُمَا عَنِ أَبْنِ جُرَيْجِ.نْ قَالَ أَخْبَرَنِي أَبُو أَلْزُّبَيْرِ أَنَّهُ سَمِعَ جَابِرَ بْنَ عَبْدِ أَلَّهِ يَقُولُ نَهٰى رَسُولُ أَلَّهِ .سْلْعْمْ بِمِثْلِهِ
 
 ############################################################
 ## TranslationBetaCode

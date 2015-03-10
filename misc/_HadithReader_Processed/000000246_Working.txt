@@ -9,7 +9,7 @@
 
 ############################################################
 ## betaCodeAuto
-wa.hadda_tan_a `ubaydu allahi bnu mu`_a_di.n .hadda_tan_a 'ab_i .hadda_tan_a ^su`ba:tu q_ala .hadda_tan_i ya.hy/a bnu 'ab_i 'is.h_aqa q_ala sami`tu 'anasa bna m_aliki.n yaq_ulu _hara^gn_a mina almad_ina:ti 'il/a al.ha^ggi _tumma _dakara mi_tlahu
+wa*hadda_tan_a `ubaydu allahi bnu mu`_a_di*n *hadda_tan_a 'ab_i *hadda_tan_a ^su`ba=tu q_ala *hadda_tan_i ya*hy/a bnu 'ab_i 'is*h_aqa q_ala sami`tu 'anasa bna m_aliki*n yaq_ulu _hara^gn_a mina almad_ina=ti 'il/a al*ha^ggi _tumma _dakara mi_tlahu
 
 ############################################################
 ## betaCodeManual
@@ -17,11 +17,11 @@ wa.hadda_tan_a `ubaydu allahi bnu mu`_a_di.n .hadda_tan_a 'ab_i .hadda_tan_a ^su
 
 ############################################################
 ## betaCodeManual>Translit
-waḥaddaṯanā ʿubaydu allahi bnu muʿāḏiȵ ḥaddaṯanā ʾabī ḥaddaṯanā šuʿbaŧu ḳāla ḥaddaṯanī yaḥyá bnu ʾabī ʾisḥāḳa ḳāla samiʿtu ʾanasa bna mālikiȵ yaḳūlu ḫaraǧnā mina almadīnaŧi ʾilá alḥaǧgi ṯumma ḏakara miṯlahu
+wa.haddaṯanā ʿubaydu allahi bnu muʿāḏi.n .haddaṯanā ʾabī .haddaṯanā šuʿba:tu ḳāla .haddaṯanī ya.hyá bnu ʾabī ʾis.hāḳa ḳāla samiʿtu ʾanasa bna māliki.n yaḳūlu ḫaraǧnā mina almadīna:ti ʾilá al.haǧgi ṯumma ḏakara miṯlahu
 
 ############################################################
 ## betaCodeManual>Arabic
-وَحَدَّثَنَا عُبَيْدُ أَلَّهِ بْنُ مُعَاذٍ حَدَّثَنَا أَبِي حَدَّثَنَا شُعْبَةُ قَالَ حَدَّثَنِي يَحْيٰى بْنُ أَبِي إِسْحَاقَ قَالَ سَمِعْتُ أَنَسَ بْنَ مَالِكٍ يَقُولُ خَرَجْنَا مِنَ أَلْمَدِينَةِ إِلٰى أَلْحَجْگِ ثُمَّ ذَكَرَ مِثْلَهُ
+وَ.هَدَّثَنَا عُبَيْدُ أَلَّهِ بْنُ مُعَاذِ.نْ .هَدَّثَنَا أَبِي .هَدَّثَنَا شُعْبَ:تُ قَالَ .هَدَّثَنِي يَ.هْيٰى بْنُ أَبِي إِس.هَاقَ قَالَ سَمِعْتُ أَنَسَ بْنَ مَالِكِ.نْ يَقُولُ خَرَجْنَا مِنَ أَلْمَدِينَ:تِ إِلٰى أَل.هَجْگِ ثُمَّ ذَكَرَ مِثْلَهُ
 
 ############################################################
 ## TranslationBetaCode

@@ -9,7 +9,7 @@
 
 ############################################################
 ## betaCodeAuto
-.hadda_tan_a ya.hy/a bnu m_us/a w_abnu 'ab_i `umara q_al_a .hadda_tan_a sufy_anu bnu `uyayna:ta `an `amriw bni d_in_ari.n `an `amriw bni 'awsi.n `an `abdi alrra.hmani bni 'ab_i bakri.n 'anna alnnab_iya .sl`m 'amara `abda alrra.hmani bna 'ab_i bakri.n 'an yu`mira `_a'i^sa:ta mina alttan`_imi q_ala 'ab_u `_is/a ha_d_a .had_i_tu.n .hasanu.n .sa.h_i.hu.n
+*hadda_tan_a ya*hy/a bnu m_us/a w_abnu 'ab_i `umara q_al_a *hadda_tan_a sufy_anu bnu `uyayna=ta `an `amriw bni d_in_ari*n `an `amriw bni 'awsi*n `an `abdi alrra*hmani bni 'ab_i bakri*n 'anna alnnab_iya *sl`m 'amara `abda alrra*hmani bna 'ab_i bakri*n 'an yu`mira `_a'i^sa=ta mina alttan`_imi q_ala 'ab_u `_is/a ha_d_a *had_i_tu*n *hasanu*n *sa*h_i*hu*n
 
 ############################################################
 ## betaCodeManual
@@ -17,11 +17,11 @@
 
 ############################################################
 ## betaCodeManual>Translit
-ḥaddaṯanā yaḥyá bnu mūsá wābnu ʾabī ʿumara ḳālā ḥaddaṯanā sufyānu bnu ʿuyaynaŧa ʿan ʿamriw bni dīnāriȵ ʿan ʿamriw bni ʾawsiȵ ʿan ʿabdi alrraḥmani bni ʾabī bakriȵ ʾanna alnnabīya ṣlʿm ʾamara ʿabda alrraḥmani bna ʾabī bakriȵ ʾan yuʿmira ʿāʾišaŧa mina alttanʿīmi ḳāla ʾabū ʿīsá haḏā ḥadīṯuȵ ḥasanuȵ ṣaḥīḥuȵ
+.haddaṯanā ya.hyá bnu mūsá wābnu ʾabī ʿumara ḳālā .haddaṯanā sufyānu bnu ʿuyayna:ta ʿan ʿamriw bni dīnāri.n ʿan ʿamriw bni ʾawsi.n ʿan ʿabdi alrra.hmani bni ʾabī bakri.n ʾanna alnnabīya .slʿm ʾamara ʿabda alrra.hmani bna ʾabī bakri.n ʾan yuʿmira ʿāʾiša:ta mina alttanʿīmi ḳāla ʾabū ʿīsá haḏā .hadīṯu.n .hasanu.n .sa.hī.hu.n
 
 ############################################################
 ## betaCodeManual>Arabic
-حَدَّثَنَا يَحْيٰى بْنُ مُوسٰى وَابْنُ أَبِي عُمَرَ قَالَا حَدَّثَنَا سُفْيَانُ بْنُ عُيَيْنَةَ عَنْ عَمْرِوْ بْنِ دِينَارٍ عَنْ عَمْرِوْ بْنِ أَوْسٍ عَنْ عَبْدِ أَلْرَّحْمَنِ بْنِ أَبِي بَكْرٍ أَنَّ أَلْنَّبِييَ صْلْعْمْ أَمَرَ عَبْدَ أَلْرَّحْمَنِ بْنَ أَبِي بَكْرٍ أَنْ يُعْمِرَ عائِشَةَ مِنَ أَلْتَّنْعِيمِ قَالَ أَبُو عِيسٰى هَذَا حَدِيثٌ حَسَنٌ صَحِيحٌ
+.هَدَّثَنَا يَ.هْيٰى بْنُ مُوسٰى وَابْنُ أَبِي عُمَرَ قَالَا .هَدَّثَنَا سُفْيَانُ بْنُ عُيَيْنَ:تَ عَنْ عَمْرِوْ بْنِ دِينَارِ.نْ عَنْ عَمْرِوْ بْنِ أَوْسِ.نْ عَنْ عَبْدِ أَلْرَّ.هْمَنِ بْنِ أَبِي بَكْرِ.نْ أَنَّ أَلْنَّبِييَ .سْلْعْمْ أَمَرَ عَبْدَ أَلْرَّ.هْمَنِ بْنَ أَبِي بَكْرِ.نْ أَنْ يُعْمِرَ عائِشَ:تَ مِنَ أَلْتَّنْعِيمِ قَالَ أَبُو عِيسٰى هَذَا .هَدِيثُ.نْ .هَسَنُ.نْ .سَ.هِي.هُ.نْ
 
 ############################################################
 ## TranslationBetaCode
@@ -29,5 +29,5 @@ Type your translation on this line
 
 ############################################################
 ## TranslationTranslit
-Translation with transliterated names will appear here
+Type your translation on this line
 

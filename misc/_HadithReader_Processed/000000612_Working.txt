@@ -9,7 +9,7 @@
 
 ############################################################
 ## betaCodeAuto
-.hadda_tan_a 'ab_u alwal_idi .hadda_tan_a ^su`ba:tu `an sa`di bni 'ibr_ah_ima sami`tu .humayda bna `abdi alrra.hmani `an 'ab_i hurayra:ta `ani alnnab_iyi .sl`m q_ala l_a yanba.g_i li`abdi.n 'an yaq_ula 'an_a _hayru.n min y_unusa bni matt/a
+*hadda_tan_a 'ab_u alwal_idi *hadda_tan_a ^su`ba=tu `an sa`di bni 'ibr_ah_ima sami`tu *humayda bna `abdi alrra*hmani `an 'ab_i hurayra=ta `ani alnnab_iyi *sl`m q_ala l_a yanba*g_i li`abdi*n 'an yaq_ula 'an_a _hayru*n min y_unusa bni matt/a
 
 ############################################################
 ## betaCodeManual
@@ -17,11 +17,11 @@
 
 ############################################################
 ## betaCodeManual>Translit
-ḥaddaṯanā ʾabū alwalīdi ḥaddaṯanā šuʿbaŧu ʿan saʿdi bni ʾibrāhīma samiʿtu ḥumayda bna ʿabdi alrraḥmani ʿan ʾabī hurayraŧa ʿani alnnabīyi ṣlʿm ḳāla lā yanbaġī liʿabdiȵ ʾan yaḳūla ʾanā ḫayruȵ min yūnusa bni mattá
+.haddaṯanā ʾabū alwalīdi .haddaṯanā šuʿba:tu ʿan saʿdi bni ʾibrāhīma samiʿtu .humayda bna ʿabdi alrra.hmani ʿan ʾabī hurayra:ta ʿani alnnabīyi .slʿm ḳāla lā yanba.gī liʿabdi.n ʾan yaḳūla ʾanā ḫayru.n min yūnusa bni mattá
 
 ############################################################
 ## betaCodeManual>Arabic
-حَدَّثَنَا أَبُو أَلْوَلِيدِ حَدَّثَنَا شُعْبَةُ عَنْ سَعْدِ بْنِ إِبْرَاهِيمَ سَمِعْتُ حُمَيْدَ بْنَ عَبْدِ أَلْرَّحْمَنِ عَنْ أَبِي هُرَيْرَةَ عَنِ أَلْنَّبِييِ صْلْعْمْ قَالَ لَا يَنْبَغِي لِعَبْدٍ أَنْ يَقُولَ أَنَا خَيْرٌ مِنْ يُونُسَ بْنِ مَتّٰى
+.هَدَّثَنَا أَبُو أَلْوَلِيدِ .هَدَّثَنَا شُعْبَ:تُ عَنْ سَعْدِ بْنِ إِبْرَاهِيمَ سَمِعْتُ .هُمَيْدَ بْنَ عَبْدِ أَلْرَّ.هْمَنِ عَنْ أَبِي هُرَيْرَ:تَ عَنِ أَلْنَّبِييِ .سْلْعْمْ قَالَ لَا يَنْبَ.گِي لِعَبْدِ.نْ أَنْ يَقُولَ أَنَا خَيْرُ.نْ مِنْ يُونُسَ بْنِ مَتّٰى
 
 ############################################################
 ## TranslationBetaCode
@@ -29,5 +29,5 @@ Type your translation on this line
 
 ############################################################
 ## TranslationTranslit
-Translation with transliterated names will appear here
+Type your translation on this line
 

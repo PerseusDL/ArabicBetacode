@@ -9,7 +9,7 @@
 
 ############################################################
 ## betaCodeAuto
-.hadda_tan_a ya.hy/a bnu m_us/a .hadda_tan_a `abdu alrrazz_aqi 'a_hbaran_a 'ibr_ah_imu bnu maym_uni.n `ani abni .t_awusi.n `an 'ab_ihi `ani abni `abb_asi.n q_ala q_ala ras_ulu allahi .sl`m yadu allahi ma`a al^gam_a`a:ti ha_d_a .had_i_tu.n .hasanu.n .gar_ibu.n l_a na`rifuhu min .had_i_ti abni `abb_asi.n 'il_aa min ha_d_a alwa^ghi
+*hadda_tan_a ya*hy/a bnu m_us/a *hadda_tan_a `abdu alrrazz_aqi 'a_hbaran_a 'ibr_ah_imu bnu maym_uni*n `ani abni *t_awusi*n `an 'ab_ihi `ani abni `abb_asi*n q_ala q_ala ras_ulu allahi *sl`m yadu allahi ma`a al^gam_a`a=ti ha_d_a *had_i_tu*n *hasanu*n *gar_ibu*n l_a na`rifuhu min *had_i_ti abni `abb_asi*n 'il_aa min ha_d_a alwa^ghi
 
 ############################################################
 ## betaCodeManual
@@ -17,11 +17,11 @@
 
 ############################################################
 ## betaCodeManual>Translit
-ḥaddaṯanā yaḥyá bnu mūsá ḥaddaṯanā ʿabdu alrrazzāḳi ʾaḫbaranā ʾibrāhīmu bnu maymūniȵ ʿani abni ṭāwusiȵ ʿan ʾabīhi ʿani abni ʿabbāsiȵ ḳāla ḳāla rasūlu allahi ṣlʿm yadu allahi maʿa alǧamāʿaŧi haḏā ḥadīṯuȵ ḥasanuȵ ġarībuȵ lā naʿrifuhu min ḥadīṯi abni ʿabbāsiȵ ʾilāa min haḏā alwaǧhi
+.haddaṯanā ya.hyá bnu mūsá .haddaṯanā ʿabdu alrrazzāḳi ʾaḫbaranā ʾibrāhīmu bnu maymūni.n ʿani abni .tāwusi.n ʿan ʾabīhi ʿani abni ʿabbāsi.n ḳāla ḳāla rasūlu allahi .slʿm yadu allahi maʿa alǧamāʿa:ti haḏā .hadīṯu.n .hasanu.n .garību.n lā naʿrifuhu min .hadīṯi abni ʿabbāsi.n ʾilāa min haḏā alwaǧhi
 
 ############################################################
 ## betaCodeManual>Arabic
-حَدَّثَنَا يَحْيٰى بْنُ مُوسٰى حَدَّثَنَا عَبْدُ أَلْرَّزّاقِ أَخْبَرَنَا إِبْرَاهِيمُ بْنُ مَيْمُونٍ عَنِ أَبْنِ طَاوُسٍ عَنْ أَبِيهِ عَنِ أَبْنِ عَبّاسٍ قَالَ قَالَ رَسُولُ أَلَّهِ صْلْعْمْ يَدُ أَلَّهِ مَعَ أَلْجَمَاعَةِ هَذَا حَدِيثٌ حَسَنٌ غَرِيبٌ لَا نَعْرِفُهُ مِنْ حَدِيثِ أَبْنِ عَبّاسٍ إِلَاَ مِنْ هَذَا أَلْوَجْهِ
+.هَدَّثَنَا يَ.هْيٰى بْنُ مُوسٰى .هَدَّثَنَا عَبْدُ أَلْرَّزّاقِ أَخْبَرَنَا إِبْرَاهِيمُ بْنُ مَيْمُونِ.نْ عَنِ أَبْنِ .تَاوُسِ.نْ عَنْ أَبِيهِ عَنِ أَبْنِ عَبّاسِ.نْ قَالَ قَالَ رَسُولُ أَلَّهِ .سْلْعْمْ يَدُ أَلَّهِ مَعَ أَلْجَمَاعَ:تِ هَذَا .هَدِيثُ.نْ .هَسَنُ.نْ .گَرِيبُ.نْ لَا نَعْرِفُهُ مِنْ .هَدِيثِ أَبْنِ عَبّاسِ.نْ إِلَاَ مِنْ هَذَا أَلْوَجْهِ
 
 ############################################################
 ## TranslationBetaCode

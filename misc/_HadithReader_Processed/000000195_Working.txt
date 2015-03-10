@@ -9,7 +9,7 @@
 
 ############################################################
 ## betaCodeAuto
-.hadda_tan_a zuhayru bnu .harbi.n wamu.hammadu bnu almu_tann/a w_abnu ba^ss_ari.n q_al_u_a .hadda_tan_a `abdu alrra.hmani `an sufy_ana `an 'ab_i 'is.h_aqa `ani al'aswadi `an 'ab_i m_us/a q_ala 'ataytu ras_ula allahi .sl`m wa'an_a 'aur/a 'anna `abda allahi min 'ahli albayti 'aw m_a _dakara min na.hwi ha_d_a
+*hadda_tan_a zuhayru bnu *harbi*n wamu*hammadu bnu almu_tann/a w_abnu ba^ss_ari*n q_al_u_a *hadda_tan_a `abdu alrra*hmani `an sufy_ana `an 'ab_i 'is*h_aqa `ani al'aswadi `an 'ab_i m_us/a q_ala 'ataytu ras_ula allahi *sl`m wa'an_a 'aur/a 'anna `abda allahi min 'ahli albayti 'aw m_a _dakara min na*hwi ha_d_a
 
 ############################################################
 ## betaCodeManual
@@ -17,11 +17,11 @@
 
 ############################################################
 ## betaCodeManual>Translit
-ḥaddaṯanā zuhayru bnu ḥarbiȵ wamuḥammadu bnu almuṯanná wābnu bašsāriȵ ḳālūā ḥaddaṯanā ʿabdu alrraḥmani ʿan sufyāna ʿan ʾabī ʾisḥāḳa ʿani alʾaswadi ʿan ʾabī mūsá ḳāla ʾataytu rasūla allahi ṣlʿm waʾanā ʾaurá ʾanna ʿabda allahi min ʾahli albayti ʾaw mā ḏakara min naḥwi haḏā
+.haddaṯanā zuhayru bnu .harbi.n wamu.hammadu bnu almuṯanná wābnu bašsāri.n ḳālūā .haddaṯanā ʿabdu alrra.hmani ʿan sufyāna ʿan ʾabī ʾis.hāḳa ʿani alʾaswadi ʿan ʾabī mūsá ḳāla ʾataytu rasūla allahi .slʿm waʾanā ʾaurá ʾanna ʿabda allahi min ʾahli albayti ʾaw mā ḏakara min na.hwi haḏā
 
 ############################################################
 ## betaCodeManual>Arabic
-حَدَّثَنَا زُهَيْرُ بْنُ حَرْبٍ وَمُحَمَّدُ بْنُ أَلْمُثَنّٰى وَابْنُ بَشْسَارٍ قَالُوا حَدَّثَنَا عَبْدُ أَلْرَّحْمَنِ عَنْ سُفْيَانَ عَنْ أَبِي إِسْحَاقَ عَنِ أَلْأَسْوَدِ عَنْ أَبِي مُوسٰى قَالَ أَتَيْتُ رَسُولَ أَلَّهِ صْلْعْمْ وَأَنَا أَأُرٰى أَنَّ عَبْدَ أَلَّهِ مِنْ أَهْلِ أَلْبَيْتِ أَوْ مَا ذَكَرَ مِنْ نَحْوِ هَذَا
+.هَدَّثَنَا زُهَيْرُ بْنُ .هَرْبِ.نْ وَمُ.هَمَّدُ بْنُ أَلْمُثَنّٰى وَابْنُ بَشْسَارِ.نْ قَالُوا .هَدَّثَنَا عَبْدُ أَلْرَّ.هْمَنِ عَنْ سُفْيَانَ عَنْ أَبِي إِس.هَاقَ عَنِ أَلْأَسْوَدِ عَنْ أَبِي مُوسٰى قَالَ أَتَيْتُ رَسُولَ أَلَّهِ .سْلْعْمْ وَأَنَا أَأُرٰى أَنَّ عَبْدَ أَلَّهِ مِنْ أَهْلِ أَلْبَيْتِ أَوْ مَا ذَكَرَ مِنْ نَ.هْوِ هَذَا
 
 ############################################################
 ## TranslationBetaCode

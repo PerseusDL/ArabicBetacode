@@ -9,7 +9,7 @@
 
 ############################################################
 ## betaCodeAuto
-.hadda_tan_a `al_iyu bnu mu.hammadi.n .hadda_tan_a `ubaydu allahi bnu m_us/a `ani al.hasani bni .s_ali.hi.n `an ^g_abiri.n `an 'ab_i alzzubayri `an ^g_abiri.n q_ala q_ala ras_ulu allahi  .sl`m  man k_ana lahu 'im_amu.n fa'inna qir_a'a:ta al'im_ami lahu qir_a'a:tu.n
+*hadda_tan_a `al_iyu bnu mu*hammadi*n *hadda_tan_a `ubaydu allahi bnu m_us/a `ani al*hasani bni *s_ali*hi*n `an ^g_abiri*n `an 'ab_i alzzubayri `an ^g_abiri*n q_ala q_ala ras_ulu allahi  *sl`m  man k_ana lahu 'im_amu*n fa'inna qir_a'a=ta al'im_ami lahu qir_a'a=tu*n
 
 ############################################################
 ## betaCodeManual
@@ -17,11 +17,11 @@
 
 ############################################################
 ## betaCodeManual>Translit
-ḥaddaṯanā ʿalīyu bnu muḥammadiȵ ḥaddaṯanā ʿubaydu allahi bnu mūsá ʿani alḥasani bni ṣāliḥiȵ ʿan ǧābiriȵ ʿan ʾabī alzzubayri ʿan ǧābiriȵ ḳāla ḳāla rasūlu allahi  ṣlʿm  man kāna lahu ʾimāmuȵ faʾinna ḳirāʾaŧa alʾimāmi lahu ḳirāʾaŧuȵ
+.haddaṯanā ʿalīyu bnu mu.hammadi.n .haddaṯanā ʿubaydu allahi bnu mūsá ʿani al.hasani bni .sāli.hi.n ʿan ǧābiri.n ʿan ʾabī alzzubayri ʿan ǧābiri.n ḳāla ḳāla rasūlu allahi  .slʿm  man kāna lahu ʾimāmu.n faʾinna ḳirāʾa:ta alʾimāmi lahu ḳirāʾa:tu.n
 
 ############################################################
 ## betaCodeManual>Arabic
-حَدَّثَنَا عَلِييُ بْنُ مُحَمَّدٍ حَدَّثَنَا عُبَيْدُ أَلَّهِ بْنُ مُوسٰى عَنِ أَلْحَسَنِ بْنِ صَالِحٍ عَنْ جَابِرٍ عَنْ أَبِي أَلْزُّبَيْرِ عَنْ جَابِرٍ قَالَ قَالَ رَسُولُ أَلَّهِ  صْلْعْمْ  مَنْ كَانَ لَهُ إِمَامٌ فَئِنَّ قِرَاءَةَ أَلْئِمَامِ لَهُ قِرَاءَةٌ
+.هَدَّثَنَا عَلِييُ بْنُ مُ.هَمَّدِ.نْ .هَدَّثَنَا عُبَيْدُ أَلَّهِ بْنُ مُوسٰى عَنِ أَل.هَسَنِ بْنِ .سَالِ.هِ.نْ عَنْ جَابِرِ.نْ عَنْ أَبِي أَلْزُّبَيْرِ عَنْ جَابِرِ.نْ قَالَ قَالَ رَسُولُ أَلَّهِ  .سْلْعْمْ  مَنْ كَانَ لَهُ إِمَامُ.نْ فَئِنَّ قِراءَ:تَ أَلْئِمَامِ لَهُ قِراءَ:تُ.نْ
 
 ############################################################
 ## TranslationBetaCode

@@ -9,7 +9,7 @@
 
 ############################################################
 ## betaCodeAuto
-wa.hadda_tan_ahu mu.hammadu bnu almu_tann/a w_abnu ba^ss_ari.n q_al_a .hadda_tan_a 'ab_u d_awuda .hadda_tan_a ^su`ba:tu f_i ha_d_a al'isn_adi
+wa*hadda_tan_ahu mu*hammadu bnu almu_tann/a w_abnu ba^ss_ari*n q_al_a *hadda_tan_a 'ab_u d_awuda *hadda_tan_a ^su`ba=tu f_i ha_d_a al'isn_adi
 
 ############################################################
 ## betaCodeManual
@@ -17,11 +17,11 @@ wa.hadda_tan_ahu mu.hammadu bnu almu_tann/a w_abnu ba^ss_ari.n q_al_a .hadda_tan
 
 ############################################################
 ## betaCodeManual>Translit
-waḥaddaṯanāhu muḥammadu bnu almuṯanná wābnu bašsāriȵ ḳālā ḥaddaṯanā ʾabū dāwuda ḥaddaṯanā šuʿbaŧu fī haḏā alʾisnādi
+wa.haddaṯanāhu mu.hammadu bnu almuṯanná wābnu bašsāri.n ḳālā .haddaṯanā ʾabū dāwuda .haddaṯanā šuʿba:tu fī haḏā alʾisnādi
 
 ############################################################
 ## betaCodeManual>Arabic
-وَحَدَّثَنَاهُ مُحَمَّدُ بْنُ أَلْمُثَنّٰى وَابْنُ بَشْسَارٍ قَالَا حَدَّثَنَا أَبُو دَاوُدَ حَدَّثَنَا شُعْبَةُ فِي هَذَا أَلْئِسْنَادِ
+وَ.هَدَّثَنَاهُ مُ.هَمَّدُ بْنُ أَلْمُثَنّٰى وَابْنُ بَشْسَارِ.نْ قَالَا .هَدَّثَنَا أَبُو دَاوُدَ .هَدَّثَنَا شُعْبَ:تُ فِي هَذَا أَلْئِسْنَادِ
 
 ############################################################
 ## TranslationBetaCode

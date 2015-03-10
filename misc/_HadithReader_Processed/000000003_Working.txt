@@ -9,7 +9,7 @@
 
 ############################################################
 ## betaCodeAuto
-'a_hbaran_a qutayba:tu q_ala .hadda_tan_a sufy_anu `an ya.hy/a bni sa`_idi.n `an 'ab_i bakri bni mu.hammadi.n `an `umara bni `abdi al`az_izi `an 'ab_i bakri bni `abdi alrra.hmani bni al.h_ari_ti bni hi^s_ami.n `an 'ab_i hurayra:ta mi_tlahu
+'a_hbaran_a qutayba=tu q_ala *hadda_tan_a sufy_anu `an ya*hy/a bni sa`_idi*n `an 'ab_i bakri bni mu*hammadi*n `an `umara bni `abdi al`az_izi `an 'ab_i bakri bni `abdi alrra*hmani bni al*h_ari_ti bni hi^s_ami*n `an 'ab_i hurayra=ta mi_tlahu
 
 ############################################################
 ## betaCodeManual
@@ -17,11 +17,11 @@
 
 ############################################################
 ## betaCodeManual>Translit
-ʾaḫbara-nā Ḳutaybaŧủ ḳāla , ḥaddaṯa-nā Sufyānủ , ʿan Yaḥyá bnỉ Saʿīdỉȵ , ʿan ʾAbī Bakrỉ bnỉ Muḥammadỉȵ , ʿan ʿUmarả bnỉ ʿAbdỉ al-ʿAzīzỉ , ʿan ʾAbī Bakrỉ bnỉ ʿAbdỉ al-Raḥmãnỉ bnỉ al-Ḥāriṯỉ bnỉ Hišāmỉȵ , ʿan ʾAbī Hurayraŧả miṯla-hu
+ʾaḫbara-nā Ḳutayba:tủ ḳāla , .haddaṯa-nā Sufyānủ , ʿan Ya.hyá bnỉ Saʿīdỉ.n , ʿan ʾAbī Bakrỉ bnỉ Mu.hammadỉ.n , ʿan ʿUmarả bnỉ ʿAbdỉ al-ʿAzīzỉ , ʿan ʾAbī Bakrỉ bnỉ ʿAbdỉ al-Ra.hmãnỉ bnỉ al-.Hāriṯỉ bnỉ Hišāmỉ.n , ʿan ʾAbī Hurayra:tả miṯla-hu
 
 ############################################################
 ## betaCodeManual>Arabic
-أَخْبَرَنَا قُتَيْبَةُ قَالَ ، حَدَّثَنَا سُفْيَانُ ، عَنْ يَحْيٰى بْنِ سَعِيدٍ ، عَنْ أَبِي بَكْرِ بْنِ مُحَمَّدٍ ، عَنْ عُمَرَ بْنِ عَبْدِ ﭐلْعَزِيزِ ، عَنْ أَبِي بَكْرِ بْنِ عَبْدِ ﭐلرَّحْمٰنِ بْنِ ﭐلْحَارِثِ بْنِ هِشَامٍ ، عَنْ أَبِي هُرَيْرَةَ مِثْلَهُ
+أَخْبَرَنَا قُتَيْبَ:تُ قَالَ ، .هَدَّثَنَا سُفْيَانُ ، عَنْ يَ.هْيٰى بْنِ سَعِيدِ.نْ ، عَنْ أَبِي بَكْرِ بْنِ مُ.هَمَّدِ.نْ ، عَنْ عُمَرَ بْنِ عَبْدِ ﭐلْعَزِيزِ ، عَنْ أَبِي بَكْرِ بْنِ عَبْدِ ﭐلرَّ.هْمٰنِ بْنِ ﭐلْ.هَارِثِ بْنِ هِشَامِ.نْ ، عَنْ أَبِي هُرَيْرَ:تَ مِثْلَهُ
 
 ############################################################
 ## TranslationBetaCode
@@ -29,5 +29,5 @@ Qutayba:t reported to us [and] said, Sufy_an narrated to us, from Ya.hy/a b. Sa`
 
 ############################################################
 ## TranslationTranslit
-Ḳutaybaŧ reported to us [and] said, Sufyān narrated to us, from Yaḥyá b. Saʿīd, from from Abū Bakr b. Muḥammad, from ʿUmar b. ʿAbd al-ʿAzīz, from Abū Bakr b. ʿAbd al-Raḥmãn b. al-Ḥāriṯ b. Hišām, from Abū Hurayraŧ something like that.
+Ḳutayba:t reported to us [and] said, Sufyān narrated to us, from Ya.hyá b. Saʿīd, from from Abū Bakr b. Mu.hammad, from ʿUmar b. ʿAbd al-ʿAzīz, from Abū Bakr b. ʿAbd al-Ra.hmãn b. al-.Hāriṯ b. Hišām, from Abū Hurayra:t something like that.
 

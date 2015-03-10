@@ -9,7 +9,7 @@
 
 ############################################################
 ## betaCodeAuto
-.hadda_tan_a 'ab_u bakri bnu 'ab_i ^sayba:ta .hadda_tan_a 'ab_u al'a.hwa.si `an 'ab_i 'is.h_aqa `ani al'aswadi `an `_a'i^sa:ta q_alat k_ana alnnab_iyu  .sl`m  'i_d_a tawa.dda'a .sall/a rak`atayni _tumma _hara^ga 'il/a al.ssal_a:ti
+*hadda_tan_a 'ab_u bakri bnu 'ab_i ^sayba=ta *hadda_tan_a 'ab_u al'a*hwa*si `an 'ab_i 'is*h_aqa `ani al'aswadi `an `_a'i^sa=ta q_alat k_ana alnnab_iyu  *sl`m  'i_d_a tawa*dda'a *sall/a rak`atayni _tumma _hara^ga 'il/a al*ssal_a=ti
 
 ############################################################
 ## betaCodeManual
@@ -17,11 +17,11 @@
 
 ############################################################
 ## betaCodeManual>Translit
-ḥaddaṯanā ʾabū bakri bnu ʾabī šaybaŧa ḥaddaṯanā ʾabū alʾaḥwaṣi ʿan ʾabī ʾisḥāḳa ʿani alʾaswadi ʿan ʿāʾišaŧa ḳālat kāna alnnabīyu  ṣlʿm  ʾiḏā tawaḍdaʾa ṣallá rakʿatayni ṯumma ḫaraǧa ʾilá alṣsalāŧi
+.haddaṯanā ʾabū bakri bnu ʾabī šayba:ta .haddaṯanā ʾabū alʾa.hwa.si ʿan ʾabī ʾis.hāḳa ʿani alʾaswadi ʿan ʿāʾiša:ta ḳālat kāna alnnabīyu  .slʿm  ʾiḏā tawa.ddaʾa .sallá rakʿatayni ṯumma ḫaraǧa ʾilá al.ssalā:ti
 
 ############################################################
 ## betaCodeManual>Arabic
-حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ حَدَّثَنَا أَبُو أَلْأَحْوَصِ عَنْ أَبِي إِسْحَاقَ عَنِ أَلْأَسْوَدِ عَنْ عائِشَةَ قَالَتْ كَانَ أَلْنَّبِييُ  صْلْعْمْ  إِذَا تَوَضْدَأَ صَلّٰى رَكْعَتَيْنِ ثُمَّ خَرَجَ إِلٰى أَلْصْسَلَاةِ
+.هَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَ:تَ .هَدَّثَنَا أَبُو أَلْأَ.هْوَ.سِ عَنْ أَبِي إِس.هَاقَ عَنِ أَلْأَسْوَدِ عَنْ عائِشَ:تَ قَالَتْ كَانَ أَلْنَّبِييُ  .سْلْعْمْ  إِذَا تَوَ.دَّأَ .سَلّٰى رَكْعَتَيْنِ ثُمَّ خَرَجَ إِلٰى أَل.سَّلَا:تِ
 
 ############################################################
 ## TranslationBetaCode

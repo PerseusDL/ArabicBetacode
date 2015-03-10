@@ -9,7 +9,7 @@
 
 ############################################################
 ## betaCodeAuto
-.hadda_tan_a mu.hammadu bnu ba^ss_ari.n .hadda_tan_a 'ab_u `_a.simi.n `an `abdi al.ham_idi bni ^ga`fari.n `an yaz_ida bni 'ab_i .hab_ibi.n q_ala kataba 'il/aa `a.t_a'u.n `an ^g_abiri.n na.hwahu lam yaqul h_ua .har_amu.n
+*hadda_tan_a mu*hammadu bnu ba^ss_ari*n *hadda_tan_a 'ab_u `_a*simi*n `an `abdi al*ham_idi bni ^ga`fari*n `an yaz_ida bni 'ab_i *hab_ibi*n q_ala kataba 'il/aa `a*t_a'u*n `an ^g_abiri*n na*hwahu lam yaqul h_ua *har_amu*n
 
 ############################################################
 ## betaCodeManual
@@ -17,11 +17,11 @@
 
 ############################################################
 ## betaCodeManual>Translit
-ḥaddaṯanā muḥammadu bnu bašsāriȵ ḥaddaṯanā ʾabū ʿāṣimiȵ ʿan ʿabdi alḥamīdi bni ǧaʿfariȵ ʿan yazīda bni ʾabī ḥabībiȵ ḳāla kataba ʾiláa ʿaṭāʾuȵ ʿan ǧābiriȵ naḥwahu lam yaḳul hūa ḥarāmuȵ
+.haddaṯanā mu.hammadu bnu bašsāri.n .haddaṯanā ʾabū ʿā.simi.n ʿan ʿabdi al.hamīdi bni ǧaʿfari.n ʿan yazīda bni ʾabī .habībi.n ḳāla kataba ʾiláa ʿa.tāʾu.n ʿan ǧābiri.n na.hwahu lam yaḳul hūa .harāmu.n
 
 ############################################################
 ## betaCodeManual>Arabic
-حَدَّثَنَا مُحَمَّدُ بْنُ بَشْسَارٍ حَدَّثَنَا أَبُو عَاصِمٍ عَنْ عَبْدِ أَلْحَمِيدِ بْنِ جَعْفَرٍ عَنْ يَزِيدَ بْنِ أَبِي حَبِيبٍ قَالَ كَتَبَ إِلٰىَ عَطاءٌ عَنْ جَابِرٍ نَحْوَهُ لَمْ يَقُلْ هُوَ حَرَامٌ
+.هَدَّثَنَا مُ.هَمَّدُ بْنُ بَشْسَارِ.نْ .هَدَّثَنَا أَبُو عَا.سِمِ.نْ عَنْ عَبْدِ أَل.هَمِيدِ بْنِ جَعْفَرِ.نْ عَنْ يَزِيدَ بْنِ أَبِي .هَبِيبِ.نْ قَالَ كَتَبَ إِلٰىَ عَ.تاءُ.نْ عَنْ جَابِرِ.نْ نَ.هْوَهُ لَمْ يَقُلْ هُوَ .هَرَامُ.نْ
 
 ############################################################
 ## TranslationBetaCode
@@ -29,5 +29,5 @@ Type your translation on this line
 
 ############################################################
 ## TranslationTranslit
-Translation with transliterated names will appear here
+Type your translation on this line
 

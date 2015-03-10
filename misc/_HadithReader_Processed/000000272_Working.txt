@@ -9,7 +9,7 @@
 
 ############################################################
 ## betaCodeAuto
-.hadda_tan_a ya.hy/a bnu 'ayy_uba waqutayba:tu w_abnu .hu^gri.n q_al_u_a .hadda_tan_a 'ism_a`_ilu wah_ua abnu ^ga`fari.n `ani al`al_a'i `an 'ab_ihi `an 'ab_i hurayra:ta 'anna ras_ula allahi .sl`m q_ala man .sall/a `al/aa w_a.hida:ta.n .sall/a allahu `alayhi `a^sra.n_a
+*hadda_tan_a ya*hy/a bnu 'ayy_uba waqutayba=tu w_abnu *hu^gri*n q_al_u_a *hadda_tan_a 'ism_a`_ilu wah_ua abnu ^ga`fari*n `ani al`al_a'i `an 'ab_ihi `an 'ab_i hurayra=ta 'anna ras_ula allahi *sl`m q_ala man *sall/a `al/aa w_a*hida=ta*n *sall/a allahu `alayhi `a^sra*n_a
 
 ############################################################
 ## betaCodeManual
@@ -17,11 +17,11 @@
 
 ############################################################
 ## betaCodeManual>Translit
-ḥaddaṯanā yaḥyá bnu ʾayyūba waḳutaybaŧu wābnu ḥuǧriȵ ḳālūā ḥaddaṯanā ʾismāʿīlu wahūa abnu ǧaʿfariȵ ʿani alʿalāʾi ʿan ʾabīhi ʿan ʾabī hurayraŧa ʾanna rasūla allahi ṣlʿm ḳāla man ṣallá ʿaláa wāḥidaŧaȵ ṣallá allahu ʿalayhi ʿašraȵā
+.haddaṯanā ya.hyá bnu ʾayyūba waḳutayba:tu wābnu .huǧri.n ḳālūā .haddaṯanā ʾismāʿīlu wahūa abnu ǧaʿfari.n ʿani alʿalāʾi ʿan ʾabīhi ʿan ʾabī hurayra:ta ʾanna rasūla allahi .slʿm ḳāla man .sallá ʿaláa wā.hida:ta.n .sallá allahu ʿalayhi ʿašra.nā
 
 ############################################################
 ## betaCodeManual>Arabic
-حَدَّثَنَا يَحْيٰى بْنُ أَيّوبَ وَقُتَيْبَةُ وَابْنُ حُجْرٍ قَالُوا حَدَّثَنَا إِسْمَاعِيلُ وَهُوَ أَبْنُ جَعْفَرٍ عَنِ أَلْعَلاءِ عَنْ أَبِيهِ عَنْ أَبِي هُرَيْرَةَ أَنَّ رَسُولَ أَلَّهِ صْلْعْمْ قَالَ مَنْ صَلّٰى عَلٰىَ وَاحِدَةً صَلّٰى أَلَّهُ عَلَيْهِ عَشْراًا
+.هَدَّثَنَا يَ.هْيٰى بْنُ أَيّوبَ وَقُتَيْبَ:تُ وَابْنُ .هُجْرِ.نْ قَالُوا .هَدَّثَنَا إِسْمَاعِيلُ وَهُوَ أَبْنُ جَعْفَرِ.نْ عَنِ أَلْعَلاءِ عَنْ أَبِيهِ عَنْ أَبِي هُرَيْرَ:تَ أَنَّ رَسُولَ أَلَّهِ .سْلْعْمْ قَالَ مَنْ .سَلّٰى عَلٰىَ وَا.هِدَ:تَ.نْ .سَلّٰى أَلَّهُ عَلَيْهِ عَشْرَ.نَا
 
 ############################################################
 ## TranslationBetaCode

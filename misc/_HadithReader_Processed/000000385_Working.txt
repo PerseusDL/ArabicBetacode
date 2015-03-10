@@ -9,7 +9,7 @@
 
 ############################################################
 ## betaCodeAuto
-.hadda_tan_a ma.hm_udu bnu .gayl_ana .hadda_tan_a ya.hy/a bnu 'adama `an `abdi alrra.h_imi bni sulaym_ana na.hwahu q_ala 'ab_u `_is/a ha_d_a .had_i_tu.n .gar_ibu.n min ha_d_a alwa^ghi
+*hadda_tan_a ma*hm_udu bnu *gayl_ana *hadda_tan_a ya*hy/a bnu 'adama `an `abdi alrra*h_imi bni sulaym_ana na*hwahu q_ala 'ab_u `_is/a ha_d_a *had_i_tu*n *gar_ibu*n min ha_d_a alwa^ghi
 
 ############################################################
 ## betaCodeManual
@@ -17,11 +17,11 @@
 
 ############################################################
 ## betaCodeManual>Translit
-ḥaddaṯanā maḥmūdu bnu ġaylāna ḥaddaṯanā yaḥyá bnu ʾadama ʿan ʿabdi alrraḥīmi bni sulaymāna naḥwahu ḳāla ʾabū ʿīsá haḏā ḥadīṯuȵ ġarībuȵ min haḏā alwaǧhi
+.haddaṯanā ma.hmūdu bnu .gaylāna .haddaṯanā ya.hyá bnu ʾadama ʿan ʿabdi alrra.hīmi bni sulaymāna na.hwahu ḳāla ʾabū ʿīsá haḏā .hadīṯu.n .garību.n min haḏā alwaǧhi
 
 ############################################################
 ## betaCodeManual>Arabic
-حَدَّثَنَا مَحْمُودُ بْنُ غَيْلَانَ حَدَّثَنَا يَحْيٰى بْنُ أَدَمَ عَنْ عَبْدِ أَلْرَّحِيمِ بْنِ سُلَيْمَانَ نَحْوَهُ قَالَ أَبُو عِيسٰى هَذَا حَدِيثٌ غَرِيبٌ مِنْ هَذَا أَلْوَجْهِ
+.هَدَّثَنَا مَ.هْمُودُ بْنُ .گَيْلَانَ .هَدَّثَنَا يَ.هْيٰى بْنُ أَدَمَ عَنْ عَبْدِ أَلْرَّ.هِيمِ بْنِ سُلَيْمَانَ نَ.هْوَهُ قَالَ أَبُو عِيسٰى هَذَا .هَدِيثُ.نْ .گَرِيبُ.نْ مِنْ هَذَا أَلْوَجْهِ
 
 ############################################################
 ## TranslationBetaCode

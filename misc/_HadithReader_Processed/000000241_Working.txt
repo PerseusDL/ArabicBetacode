@@ -9,7 +9,7 @@
 
 ############################################################
 ## betaCodeAuto
-wa.hadda_tan_a abnu numayri.n .hadda_tan_a 'ab_i .h wa.hadda_tan_a 'ab_u kuraybi.n .hadda_tan_a 'ab_u 'aus_ama:ta ^gam_i`a.n_a `ani al_ttawr_iyi `an ya.hy/a bni 'ab_i 'is.h_aqa `an 'anasi.n `ani alnnab_iyi .sl`m bimi_tlihi walam ya_dkuri al.ha^gga
+wa*hadda_tan_a abnu numayri*n *hadda_tan_a 'ab_i *h wa*hadda_tan_a 'ab_u kuraybi*n *hadda_tan_a 'ab_u 'aus_ama=ta ^gam_i`a*n_a `ani al_ttawr_iyi `an ya*hy/a bni 'ab_i 'is*h_aqa `an 'anasi*n `ani alnnab_iyi *sl`m bimi_tlihi walam ya_dkuri al*ha^gga
 
 ############################################################
 ## betaCodeManual
@@ -17,11 +17,11 @@ wa.hadda_tan_a abnu numayri.n .hadda_tan_a 'ab_i .h wa.hadda_tan_a 'ab_u kuraybi
 
 ############################################################
 ## betaCodeManual>Translit
-waḥaddaṯanā abnu numayriȵ ḥaddaṯanā ʾabī ḥ waḥaddaṯanā ʾabū kuraybiȵ ḥaddaṯanā ʾabū ʾausāmaŧa ǧamīʿaȵā ʿani alṯtawrīyi ʿan yaḥyá bni ʾabī ʾisḥāḳa ʿan ʾanasiȵ ʿani alnnabīyi ṣlʿm bimiṯlihi walam yaḏkuri alḥaǧga
+wa.haddaṯanā abnu numayri.n .haddaṯanā ʾabī .h wa.haddaṯanā ʾabū kuraybi.n .haddaṯanā ʾabū ʾausāma:ta ǧamīʿa.nā ʿani alṯtawrīyi ʿan ya.hyá bni ʾabī ʾis.hāḳa ʿan ʾanasi.n ʿani alnnabīyi .slʿm bimiṯlihi walam yaḏkuri al.haǧga
 
 ############################################################
 ## betaCodeManual>Arabic
-وَحَدَّثَنَا أَبْنُ نُمَيْرٍ حَدَّثَنَا أَبِي حْ وَحَدَّثَنَا أَبُو كُرَيْبٍ حَدَّثَنَا أَبُو أَأُسَامَةَ جَمِيعاًا عَنِ أَلْثْتَوْرِييِ عَنْ يَحْيٰى بْنِ أَبِي إِسْحَاقَ عَنْ أَنَسٍ عَنِ أَلْنَّبِييِ صْلْعْمْ بِمِثْلِهِ وَلَمْ يَذْكُرِ أَلْحَجْگَ
+وَ.هَدَّثَنَا أَبْنُ نُمَيْرِ.نْ .هَدَّثَنَا أَبِي .هْ وَ.هَدَّثَنَا أَبُو كُرَيْبِ.نْ .هَدَّثَنَا أَبُو أَأُسَامَ:تَ جَمِيعَ.نَا عَنِ أَلْثْتَوْرِييِ عَنْ يَ.هْيٰى بْنِ أَبِي إِس.هَاقَ عَنْ أَنَسِ.نْ عَنِ أَلْنَّبِييِ .سْلْعْمْ بِمِثْلِهِ وَلَمْ يَذْكُرِ أَل.هَجْگَ
 
 ############################################################
 ## TranslationBetaCode

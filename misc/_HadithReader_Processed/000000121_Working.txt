@@ -9,7 +9,7 @@
 
 ############################################################
 ## betaCodeAuto
-.hadda_tan_a 'ab_u bakri bnu 'ab_i ^sayba:ta .hadda_tan_a `abda:tu bnu sulaym_ana `an hi^s_ami bni `urwa:ta `an 'ab_ihi `an `_a'i^sa:ta q_alat k_ana alnnab_iyu  .sl`m  yu.sall_i mina allayli _tal_a_ta `a^sra:ta rak`a:ta.n
+*hadda_tan_a 'ab_u bakri bnu 'ab_i ^sayba=ta *hadda_tan_a `abda=tu bnu sulaym_ana `an hi^s_ami bni `urwa=ta `an 'ab_ihi `an `_a'i^sa=ta q_alat k_ana alnnab_iyu  *sl`m  yu*sall_i mina allayli _tal_a_ta `a^sra=ta rak`a=ta*n
 
 ############################################################
 ## betaCodeManual
@@ -17,11 +17,11 @@
 
 ############################################################
 ## betaCodeManual>Translit
-ḥaddaṯanā ʾabū bakri bnu ʾabī šaybaŧa ḥaddaṯanā ʿabdaŧu bnu sulaymāna ʿan hišāmi bni ʿurwaŧa ʿan ʾabīhi ʿan ʿāʾišaŧa ḳālat kāna alnnabīyu  ṣlʿm  yuṣallī mina allayli ṯalāṯa ʿašraŧa rakʿaŧaȵ
+.haddaṯanā ʾabū bakri bnu ʾabī šayba:ta .haddaṯanā ʿabda:tu bnu sulaymāna ʿan hišāmi bni ʿurwa:ta ʿan ʾabīhi ʿan ʿāʾiša:ta ḳālat kāna alnnabīyu  .slʿm  yu.sallī mina allayli ṯalāṯa ʿašra:ta rakʿa:ta.n
 
 ############################################################
 ## betaCodeManual>Arabic
-حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ حَدَّثَنَا عَبْدَةُ بْنُ سُلَيْمَانَ عَنْ هِشَامِ بْنِ عُرْوَةَ عَنْ أَبِيهِ عَنْ عائِشَةَ قَالَتْ كَانَ أَلْنَّبِييُ  صْلْعْمْ  يُصَلّي مِنَ أَلَّيْلِ ثَلَاثَ عَشْرَةَ رَكْعَةً
+.هَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَ:تَ .هَدَّثَنَا عَبْدَ:تُ بْنُ سُلَيْمَانَ عَنْ هِشَامِ بْنِ عُرْوَ:تَ عَنْ أَبِيهِ عَنْ عائِشَ:تَ قَالَتْ كَانَ أَلْنَّبِييُ  .سْلْعْمْ  يُ.سَلّي مِنَ أَلَّيْلِ ثَلَاثَ عَشْرَ:تَ رَكْعَ:تَ.نْ
 
 ############################################################
 ## TranslationBetaCode

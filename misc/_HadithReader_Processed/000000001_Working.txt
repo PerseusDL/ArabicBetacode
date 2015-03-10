@@ -9,7 +9,7 @@
 
 ############################################################
 ## betaCodeAuto
-q_ala 'ab_u mus`_udi.n 'an_a qad sami`tu ha_d_a min ras_uli allahi .sl`m
+q_ala 'ab_u mus`_udi*n 'an_a qad sami`tu ha_d_a min ras_uli allahi *sl`m
 
 ############################################################
 ## betaCodeManual
@@ -17,11 +17,11 @@ q_ala Ab_u Mas`_ud?i.n ( m ) an_a qad sami`tu h~a_d_a min ras_ul?i All~ah?i ( .s
 
 ############################################################
 ## betaCodeManual>Translit
-ḳāla Abū Masʿūdỉȵ ( m ) anā ḳad samiʿtu hãḏā min rasūlỉ Allãhỉ ( ṣlʿm )
+ḳāla Abū Masʿūdỉ.n ( m ) anā ḳad samiʿtu hãḏā min rasūlỉ Allãhỉ ( .slʿm )
 
 ############################################################
 ## betaCodeManual>Arabic
-قَالَ أَبُو مَسْعُودٍ ( مْ ) أَنَا قَدْ سَمِعْتُ هٰذَا مِنْ رَسُولِ ﭐلـلّٰـهِ ( صْلْعْمْ )
+قَالَ أَبُو مَسْعُودِ.نْ ( مْ ) أَنَا قَدْ سَمِعْتُ هٰذَا مِنْ رَسُولِ ﭐلـلّٰـهِ ( .سْلْعْمْ )
 
 ############################################################
 ## TranslationBetaCode
@@ -29,5 +29,5 @@ Ab_u Mas`_ud said ( m ) I have heard this from the Messenger of God ( .sl`m )
 
 ############################################################
 ## TranslationTranslit
-Abū Masʿūd said ( m ) I have heard this from the Messenger of God ( ṣlʿm )
+Abū Masʿūd said ( m ) I have heard this from the Messenger of God ( .slʿm )
 

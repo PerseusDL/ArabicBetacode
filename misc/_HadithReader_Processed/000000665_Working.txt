@@ -9,7 +9,7 @@
 
 ############################################################
 ## betaCodeAuto
-'a_hbaran_a mu.hammadu bnu `abdi allahi bni yaz_ida q_ala .hadda_tan_a 'ab_i q_ala .hadda_tan_a ^g_uayr_ia:tu bnu 'asm_a'a `an n_afi`i.n `an `abdi allahi bni `umara `an .haf.sa:ta 'anna ras_ula allahi .sl`m k_ana yu.sall_i rak`atayni 'i_d_a .tala`a alfa^gru
+'a_hbaran_a mu*hammadu bnu `abdi allahi bni yaz_ida q_ala *hadda_tan_a 'ab_i q_ala *hadda_tan_a ^g_uayr_ia=tu bnu 'asm_a'a `an n_afi`i*n `an `abdi allahi bni `umara `an *haf*sa=ta 'anna ras_ula allahi *sl`m k_ana yu*sall_i rak`atayni 'i_d_a *tala`a alfa^gru
 
 ############################################################
 ## betaCodeManual
@@ -17,11 +17,11 @@
 
 ############################################################
 ## betaCodeManual>Translit
-ʾaḫbaranā muḥammadu bnu ʿabdi allahi bni yazīda ḳāla ḥaddaṯanā ʾabī ḳāla ḥaddaṯanā ǧūayrīaŧu bnu ʾasmāʾa ʿan nāfiʿiȵ ʿan ʿabdi allahi bni ʿumara ʿan ḥafṣaŧa ʾanna rasūla allahi ṣlʿm kāna yuṣallī rakʿatayni ʾiḏā ṭalaʿa alfaǧru
+ʾaḫbaranā mu.hammadu bnu ʿabdi allahi bni yazīda ḳāla .haddaṯanā ʾabī ḳāla .haddaṯanā ǧūayrīa:tu bnu ʾasmāʾa ʿan nāfiʿi.n ʿan ʿabdi allahi bni ʿumara ʿan .haf.sa:ta ʾanna rasūla allahi .slʿm kāna yu.sallī rakʿatayni ʾiḏā .talaʿa alfaǧru
 
 ############################################################
 ## betaCodeManual>Arabic
-أَخْبَرَنَا مُحَمَّدُ بْنُ عَبْدِ أَلَّهِ بْنِ يَزِيدَ قَالَ حَدَّثَنَا أَبِي قَالَ حَدَّثَنَا جُوَيْرِيَةُ بْنُ أَسْماءَ عَنْ نَافِعٍ عَنْ عَبْدِ أَلَّهِ بْنِ عُمَرَ عَنْ حَفْصَةَ أَنَّ رَسُولَ أَلَّهِ صْلْعْمْ كَانَ يُصَلّي رَكْعَتَيْنِ إِذَا طَلَعَ أَلْفَجْرُ
+أَخْبَرَنَا مُ.هَمَّدُ بْنُ عَبْدِ أَلَّهِ بْنِ يَزِيدَ قَالَ .هَدَّثَنَا أَبِي قَالَ .هَدَّثَنَا جُوَيْرِيَ:تُ بْنُ أَسْماءَ عَنْ نَافِعِ.نْ عَنْ عَبْدِ أَلَّهِ بْنِ عُمَرَ عَنْ .هَف.سَ:تَ أَنَّ رَسُولَ أَلَّهِ .سْلْعْمْ كَانَ يُ.سَلّي رَكْعَتَيْنِ إِذَا .تَلَعَ أَلْفَجْرُ
 
 ############################################################
 ## TranslationBetaCode
@@ -29,5 +29,5 @@ Type your translation on this line
 
 ############################################################
 ## TranslationTranslit
-Translation with transliterated names will appear here
+Type your translation on this line
 

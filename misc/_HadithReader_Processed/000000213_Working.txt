@@ -9,7 +9,7 @@
 
 ############################################################
 ## betaCodeAuto
-.hadda_tan_a `abdu bnu .humaydi.n 'a_hbaran_a `abdu alrrazz_aqi `an ma`mari.n `ani abni .t_awusi.n `an 'ab_ihi `ani abni `abb_asi.n `ani alnnab_iyi .sl`m na.hwahu q_ala 'ab_u `_is/a ha_d_a .had_i_tu.n .hasanu.n waqad raw/a ba`.duhum `ani abni .t_awusi.n `an 'ab_ihi `ani alnnab_iyi .sl`m mursal_a.n
+*hadda_tan_a `abdu bnu *humaydi*n 'a_hbaran_a `abdu alrrazz_aqi `an ma`mari*n `ani abni *t_awusi*n `an 'ab_ihi `ani abni `abb_asi*n `ani alnnab_iyi *sl`m na*hwahu q_ala 'ab_u `_is/a ha_d_a *had_i_tu*n *hasanu*n waqad raw/a ba`*duhum `ani abni *t_awusi*n `an 'ab_ihi `ani alnnab_iyi *sl`m mursal_a*n
 
 ############################################################
 ## betaCodeManual
@@ -17,11 +17,11 @@
 
 ############################################################
 ## betaCodeManual>Translit
-ḥaddaṯanā ʿabdu bnu ḥumaydiȵ ʾaḫbaranā ʿabdu alrrazzāḳi ʿan maʿmariȵ ʿani abni ṭāwusiȵ ʿan ʾabīhi ʿani abni ʿabbāsiȵ ʿani alnnabīyi ṣlʿm naḥwahu ḳāla ʾabū ʿīsá haḏā ḥadīṯuȵ ḥasanuȵ waḳad rawá baʿḍuhum ʿani abni ṭāwusiȵ ʿan ʾabīhi ʿani alnnabīyi ṣlʿm mursalāȵ
+.haddaṯanā ʿabdu bnu .humaydi.n ʾaḫbaranā ʿabdu alrrazzāḳi ʿan maʿmari.n ʿani abni .tāwusi.n ʿan ʾabīhi ʿani abni ʿabbāsi.n ʿani alnnabīyi .slʿm na.hwahu ḳāla ʾabū ʿīsá haḏā .hadīṯu.n .hasanu.n waḳad rawá baʿ.duhum ʿani abni .tāwusi.n ʿan ʾabīhi ʿani alnnabīyi .slʿm mursalā.n
 
 ############################################################
 ## betaCodeManual>Arabic
-حَدَّثَنَا عَبْدُ بْنُ حُمَيْدٍ أَخْبَرَنَا عَبْدُ أَلْرَّزّاقِ عَنْ مَعْمَرٍ عَنِ أَبْنِ طَاوُسٍ عَنْ أَبِيهِ عَنِ أَبْنِ عَبّاسٍ عَنِ أَلْنَّبِييِ صْلْعْمْ نَحْوَهُ قَالَ أَبُو عِيسٰى هَذَا حَدِيثٌ حَسَنٌ وَقَدْ رَوٰى بَعْضُهُمْ عَنِ أَبْنِ طَاوُسٍ عَنْ أَبِيهِ عَنِ أَلْنَّبِييِ صْلْعْمْ مُرْسَلَاȵ
+.هَدَّثَنَا عَبْدُ بْنُ .هُمَيْدِ.نْ أَخْبَرَنَا عَبْدُ أَلْرَّزّاقِ عَنْ مَعْمَرِ.نْ عَنِ أَبْنِ .تَاوُسِ.نْ عَنْ أَبِيهِ عَنِ أَبْنِ عَبّاسِ.نْ عَنِ أَلْنَّبِييِ .سْلْعْمْ نَ.هْوَهُ قَالَ أَبُو عِيسٰى هَذَا .هَدِيثُ.نْ .هَسَنُ.نْ وَقَدْ رَوٰى بَع.دُهُمْ عَنِ أَبْنِ .تَاوُسِ.نْ عَنْ أَبِيهِ عَنِ أَلْنَّبِييِ .سْلْعْمْ مُرْسَلَا.نْ
 
 ############################################################
 ## TranslationBetaCode

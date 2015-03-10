@@ -9,7 +9,7 @@
 
 ############################################################
 ## betaCodeAuto
-.hadda_tan_a 'a.hmadu bnu `abda:ta 'anba'an_a .hamm_adu bnu zaydi.n `an 'anasi bni s_ir_ina `ani abni `umara q_ala k_ana ras_ulu allahi  .sl`m  yu.sall_i mina allayli ma_tn/a ma_tn/a
+*hadda_tan_a 'a*hmadu bnu `abda=ta 'anba'an_a *hamm_adu bnu zaydi*n `an 'anasi bni s_ir_ina `ani abni `umara q_ala k_ana ras_ulu allahi  *sl`m  yu*sall_i mina allayli ma_tn/a ma_tn/a
 
 ############################################################
 ## betaCodeManual
@@ -17,11 +17,11 @@
 
 ############################################################
 ## betaCodeManual>Translit
-ḥaddaṯanā ʾaḥmadu bnu ʿabdaŧa ʾanbaʾanā ḥammādu bnu zaydiȵ ʿan ʾanasi bni sīrīna ʿani abni ʿumara ḳāla kāna rasūlu allahi  ṣlʿm  yuṣallī mina allayli maṯná maṯná
+.haddaṯanā ʾa.hmadu bnu ʿabda:ta ʾanbaʾanā .hammādu bnu zaydi.n ʿan ʾanasi bni sīrīna ʿani abni ʿumara ḳāla kāna rasūlu allahi  .slʿm  yu.sallī mina allayli maṯná maṯná
 
 ############################################################
 ## betaCodeManual>Arabic
-حَدَّثَنَا أَحْمَدُ بْنُ عَبْدَةَ أَنْبَأَنَا حَمّادُ بْنُ زَيْدٍ عَنْ أَنَسِ بْنِ سِيرِينَ عَنِ أَبْنِ عُمَرَ قَالَ كَانَ رَسُولُ أَلَّهِ  صْلْعْمْ  يُصَلّي مِنَ أَلَّيْلِ مَثْنٰى مَثْنٰى
+.هَدَّثَنَا أَ.هْمَدُ بْنُ عَبْدَ:تَ أَنْبَأَنَا .هَمّادُ بْنُ زَيْدِ.نْ عَنْ أَنَسِ بْنِ سِيرِينَ عَنِ أَبْنِ عُمَرَ قَالَ كَانَ رَسُولُ أَلَّهِ  .سْلْعْمْ  يُ.سَلّي مِنَ أَلَّيْلِ مَثْنٰى مَثْنٰى
 
 ############################################################
 ## TranslationBetaCode
@@ -29,5 +29,5 @@ Type your translation on this line
 
 ############################################################
 ## TranslationTranslit
-Translation with transliterated names will appear here
+Type your translation on this line
 

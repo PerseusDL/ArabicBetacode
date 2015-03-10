@@ -9,7 +9,7 @@
 
 ############################################################
 ## betaCodeAuto
-.hadda_tan_a 'a.hmadu bnu y_unusa .hadda_tan_a zuhayru.n .hadda_tan_a 'ab_u alzzubayri `an ^g_abiri.n yarfa`uhu 'il/a alnnab_iyi .sl`m
+*hadda_tan_a 'a*hmadu bnu y_unusa *hadda_tan_a zuhayru*n *hadda_tan_a 'ab_u alzzubayri `an ^g_abiri*n yarfa`uhu 'il/a alnnab_iyi *sl`m
 
 ############################################################
 ## betaCodeManual
@@ -17,11 +17,11 @@
 
 ############################################################
 ## betaCodeManual>Translit
-ḥaddaṯanā ʾaḥmadu bnu yūnusa ḥaddaṯanā zuhayruȵ ḥaddaṯanā ʾabū alzzubayri ʿan ǧābiriȵ yarfaʿuhu ʾilá alnnabīyi ṣlʿm
+.haddaṯanā ʾa.hmadu bnu yūnusa .haddaṯanā zuhayru.n .haddaṯanā ʾabū alzzubayri ʿan ǧābiri.n yarfaʿuhu ʾilá alnnabīyi .slʿm
 
 ############################################################
 ## betaCodeManual>Arabic
-حَدَّثَنَا أَحْمَدُ بْنُ يُونُسَ حَدَّثَنَا زُهَيْرٌ حَدَّثَنَا أَبُو أَلْزُّبَيْرِ عَنْ جَابِرٍ يَرْفَعُهُ إِلٰى أَلْنَّبِييِ صْلْعْمْ
+.هَدَّثَنَا أَ.هْمَدُ بْنُ يُونُسَ .هَدَّثَنَا زُهَيْرُ.نْ .هَدَّثَنَا أَبُو أَلْزُّبَيْرِ عَنْ جَابِرِ.نْ يَرْفَعُهُ إِلٰى أَلْنَّبِييِ .سْلْعْمْ
 
 ############################################################
 ## TranslationBetaCode

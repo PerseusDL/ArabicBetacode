@@ -9,7 +9,7 @@
 
 ############################################################
 ## betaCodeAuto
-.hadda_tan_a `al_iyu bnu .hu^gri.n .hadda_tan_a ^su`aybu bnu .safw_ana `an `abdi almaliki bni `umayri.n `an m_us/a bni .tal.ha:ta `an 'ab_i hurayra:ta `ani alnnab_iyi .sl`m na.hwahu bima`n_ahu
+*hadda_tan_a `al_iyu bnu *hu^gri*n *hadda_tan_a ^su`aybu bnu *safw_ana `an `abdi almaliki bni `umayri*n `an m_us/a bni *tal*ha=ta `an 'ab_i hurayra=ta `ani alnnab_iyi *sl`m na*hwahu bima`n_ahu
 
 ############################################################
 ## betaCodeManual
@@ -17,11 +17,11 @@
 
 ############################################################
 ## betaCodeManual>Translit
-ḥaddaṯanā ʿalīyu bnu ḥuǧriȵ ḥaddaṯanā šuʿaybu bnu ṣafwāna ʿan ʿabdi almaliki bni ʿumayriȵ ʿan mūsá bni ṭalḥaŧa ʿan ʾabī hurayraŧa ʿani alnnabīyi ṣlʿm naḥwahu bimaʿnāhu
+.haddaṯanā ʿalīyu bnu .huǧri.n .haddaṯanā šuʿaybu bnu .safwāna ʿan ʿabdi almaliki bni ʿumayri.n ʿan mūsá bni .tal.ha:ta ʿan ʾabī hurayra:ta ʿani alnnabīyi .slʿm na.hwahu bimaʿnāhu
 
 ############################################################
 ## betaCodeManual>Arabic
-حَدَّثَنَا عَلِييُ بْنُ حُجْرٍ حَدَّثَنَا شُعَيْبُ بْنُ صَفْوَانَ عَنْ عَبْدِ أَلْمَلِكِ بْنِ عُمَيْرٍ عَنْ مُوسٰى بْنِ طَلْحَةَ عَنْ أَبِي هُرَيْرَةَ عَنِ أَلْنَّبِييِ صْلْعْمْ نَحْوَهُ بِمَعْنَاهُ
+.هَدَّثَنَا عَلِييُ بْنُ .هُجْرِ.نْ .هَدَّثَنَا شُعَيْبُ بْنُ .سَفْوَانَ عَنْ عَبْدِ أَلْمَلِكِ بْنِ عُمَيْرِ.نْ عَنْ مُوسٰى بْنِ .تَل.هَ:تَ عَنْ أَبِي هُرَيْرَ:تَ عَنِ أَلْنَّبِييِ .سْلْعْمْ نَ.هْوَهُ بِمَعْنَاهُ
 
 ############################################################
 ## TranslationBetaCode

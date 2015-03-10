@@ -9,7 +9,7 @@
 
 ############################################################
 ## betaCodeAuto
-.hadda_tan_a 'ab_u bakri.n .hadda_tan_a `al_iyu bnu mushiri.n `an yaz_ida bni 'ab_i z_i_adi.n `ani al.hasani bni suhayli.n `ani abni `umara q_ala nah/a ras_ulu allahi  .sl`m  `an _h_atami al_ddahabi
+*hadda_tan_a 'ab_u bakri*n *hadda_tan_a `al_iyu bnu mushiri*n `an yaz_ida bni 'ab_i z_i_adi*n `ani al*hasani bni suhayli*n `ani abni `umara q_ala nah/a ras_ulu allahi  *sl`m  `an _h_atami al_ddahabi
 
 ############################################################
 ## betaCodeManual
@@ -17,11 +17,11 @@
 
 ############################################################
 ## betaCodeManual>Translit
-ḥaddaṯanā ʾabū bakriȵ ḥaddaṯanā ʿalīyu bnu mushiriȵ ʿan yazīda bni ʾabī zīādiȵ ʿani alḥasani bni suhayliȵ ʿani abni ʿumara ḳāla nahá rasūlu allahi  ṣlʿm  ʿan ḫātami alḏdahabi
+.haddaṯanā ʾabū bakri.n .haddaṯanā ʿalīyu bnu mushiri.n ʿan yazīda bni ʾabī zīādi.n ʿani al.hasani bni suhayli.n ʿani abni ʿumara ḳāla nahá rasūlu allahi  .slʿm  ʿan ḫātami alḏdahabi
 
 ############################################################
 ## betaCodeManual>Arabic
-حَدَّثَنَا أَبُو بَكْرٍ حَدَّثَنَا عَلِييُ بْنُ مُسْهِرٍ عَنْ يَزِيدَ بْنِ أَبِي زِيادٍ عَنِ أَلْحَسَنِ بْنِ سُهَيْلٍ عَنِ أَبْنِ عُمَرَ قَالَ نَهٰى رَسُولُ أَلَّهِ  صْلْعْمْ  عَنْ خَاتَمِ أَلْذْدَهَبِ
+.هَدَّثَنَا أَبُو بَكْرِ.نْ .هَدَّثَنَا عَلِييُ بْنُ مُسْهِرِ.نْ عَنْ يَزِيدَ بْنِ أَبِي زِيادِ.نْ عَنِ أَل.هَسَنِ بْنِ سُهَيْلِ.نْ عَنِ أَبْنِ عُمَرَ قَالَ نَهٰى رَسُولُ أَلَّهِ  .سْلْعْمْ  عَنْ خَاتَمِ أَلْذْدَهَبِ
 
 ############################################################
 ## TranslationBetaCode
@@ -29,5 +29,5 @@ Type your translation on this line
 
 ############################################################
 ## TranslationTranslit
-Translation with transliterated names will appear here
+Type your translation on this line
 

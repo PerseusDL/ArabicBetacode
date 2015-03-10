@@ -9,7 +9,7 @@
 
 ############################################################
 ## betaCodeAuto
-.hadda_tan_a qutayba:tu .hadda_tan_a .hamm_adu bnu zaydi.n `an 'ayy_uba `an `ikrima:ta `ani abni `abb_asi.n 'anna alnnab_iya .sl`m tazawwa^ga maym_una:ta wah_ua mu.hrimu.n
+*hadda_tan_a qutayba=tu *hadda_tan_a *hamm_adu bnu zaydi*n `an 'ayy_uba `an `ikrima=ta `ani abni `abb_asi*n 'anna alnnab_iya *sl`m tazawwa^ga maym_una=ta wah_ua mu*hrimu*n
 
 ############################################################
 ## betaCodeManual
@@ -17,11 +17,11 @@
 
 ############################################################
 ## betaCodeManual>Translit
-ḥaddaṯanā ḳutaybaŧu ḥaddaṯanā ḥammādu bnu zaydiȵ ʿan ʾayyūba ʿan ʿikrimaŧa ʿani abni ʿabbāsiȵ ʾanna alnnabīya ṣlʿm tazawwaǧa maymūnaŧa wahūa muḥrimuȵ
+.haddaṯanā ḳutayba:tu .haddaṯanā .hammādu bnu zaydi.n ʿan ʾayyūba ʿan ʿikrima:ta ʿani abni ʿabbāsi.n ʾanna alnnabīya .slʿm tazawwaǧa maymūna:ta wahūa mu.hrimu.n
 
 ############################################################
 ## betaCodeManual>Arabic
-حَدَّثَنَا قُتَيْبَةُ حَدَّثَنَا حَمّادُ بْنُ زَيْدٍ عَنْ أَيّوبَ عَنْ عِكْرِمَةَ عَنِ أَبْنِ عَبّاسٍ أَنَّ أَلْنَّبِييَ صْلْعْمْ تَزَوَّجَ مَيْمُونَةَ وَهُوَ مُحْرِمٌ
+.هَدَّثَنَا قُتَيْبَ:تُ .هَدَّثَنَا .هَمّادُ بْنُ زَيْدِ.نْ عَنْ أَيّوبَ عَنْ عِكْرِمَ:تَ عَنِ أَبْنِ عَبّاسِ.نْ أَنَّ أَلْنَّبِييَ .سْلْعْمْ تَزَوَّجَ مَيْمُونَ:تَ وَهُوَ مُ.هْرِمُ.نْ
 
 ############################################################
 ## TranslationBetaCode
@@ -29,5 +29,5 @@ Type your translation on this line
 
 ############################################################
 ## TranslationTranslit
-Translation with transliterated names will appear here
+Type your translation on this line
 

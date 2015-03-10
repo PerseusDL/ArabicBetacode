@@ -9,7 +9,7 @@
 
 ############################################################
 ## betaCodeAuto
-.hadda_tan_a qutayba:tu .hadda_tan_a `abdu allahi bnu wahbi.n `an 'ab_i h_ani'i.n al_hawl_an_iyi biha_d_a al'isn_adi na.hwahu waraw/a ba`.duhum ha_d_a al.had_i_ta `an `abdi allahi bni wahbi.n biha_d_a al'isn_adi waq_ala `an `abdi allahi bni `amri.nw
+*hadda_tan_a qutayba=tu *hadda_tan_a `abdu allahi bnu wahbi*n `an 'ab_i h_ani'i*n al_hawl_an_iyi biha_d_a al'isn_adi na*hwahu waraw/a ba`*duhum ha_d_a al*had_i_ta `an `abdi allahi bni wahbi*n biha_d_a al'isn_adi waq_ala `an `abdi allahi bni `amri*nw
 
 ############################################################
 ## betaCodeManual
@@ -17,11 +17,11 @@
 
 ############################################################
 ## betaCodeManual>Translit
-ḥaddaṯanā ḳutaybaŧu ḥaddaṯanā ʿabdu allahi bnu wahbiȵ ʿan ʾabī hāniʾiȵ alḫawlānīyi bihaḏā alʾisnādi naḥwahu warawá baʿḍuhum haḏā alḥadīṯa ʿan ʿabdi allahi bni wahbiȵ bihaḏā alʾisnādi waḳāla ʿan ʿabdi allahi bni ʿamriȵw
+.haddaṯanā ḳutayba:tu .haddaṯanā ʿabdu allahi bnu wahbi.n ʿan ʾabī hāniʾi.n alḫawlānīyi bihaḏā alʾisnādi na.hwahu warawá baʿ.duhum haḏā al.hadīṯa ʿan ʿabdi allahi bni wahbi.n bihaḏā alʾisnādi waḳāla ʿan ʿabdi allahi bni ʿamri.nw
 
 ############################################################
 ## betaCodeManual>Arabic
-حَدَّثَنَا قُتَيْبَةُ حَدَّثَنَا عَبْدُ أَلَّهِ بْنُ وَهْبٍ عَنْ أَبِي هَانِئٍ أَلْخَوْلَانِييِ بِهَذَا أَلْئِسْنَادِ نَحْوَهُ وَرَوٰى بَعْضُهُمْ هَذَا أَلْحَدِيثَ عَنْ عَبْدِ أَلَّهِ بْنِ وَهْبٍ بِهَذَا أَلْئِسْنَادِ وَقَالَ عَنْ عَبْدِ أَلَّهِ بْنِ عَمْرٍوْ
+.هَدَّثَنَا قُتَيْبَ:تُ .هَدَّثَنَا عَبْدُ أَلَّهِ بْنُ وَهْبِ.نْ عَنْ أَبِي هَانِئِ.نْ أَلْخَوْلَانِييِ بِهَذَا أَلْئِسْنَادِ نَ.هْوَهُ وَرَوٰى بَع.دُهُمْ هَذَا أَل.هَدِيثَ عَنْ عَبْدِ أَلَّهِ بْنِ وَهْبِ.نْ بِهَذَا أَلْئِسْنَادِ وَقَالَ عَنْ عَبْدِ أَلَّهِ بْنِ عَمْرِ.نْوْ
 
 ############################################################
 ## TranslationBetaCode

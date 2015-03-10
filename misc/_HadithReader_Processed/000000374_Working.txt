@@ -9,7 +9,7 @@
 
 ############################################################
 ## betaCodeAuto
-.hadda_tan_a zuhayru bnu .harbi.n .hadda_tan_a ^gar_iru.n .h wa.hadda_tan_a abnu numayri.n .hadda_tan_a 'ab_i ^gam_i`a.n_a `an hi^s_ami bni `urwa:ta `an 'ab_ihi `an `_a'i^sa:ta q_alat m_a taraka ras_ulu allahi .sl`m rak`atayni ba`da al`a.sri `ind_i qa.ttu
+*hadda_tan_a zuhayru bnu *harbi*n *hadda_tan_a ^gar_iru*n *h wa*hadda_tan_a abnu numayri*n *hadda_tan_a 'ab_i ^gam_i`a*n_a `an hi^s_ami bni `urwa=ta `an 'ab_ihi `an `_a'i^sa=ta q_alat m_a taraka ras_ulu allahi *sl`m rak`atayni ba`da al`a*sri `ind_i qa*ttu
 
 ############################################################
 ## betaCodeManual
@@ -17,11 +17,11 @@
 
 ############################################################
 ## betaCodeManual>Translit
-ḥaddaṯanā zuhayru bnu ḥarbiȵ ḥaddaṯanā ǧarīruȵ ḥ waḥaddaṯanā abnu numayriȵ ḥaddaṯanā ʾabī ǧamīʿaȵā ʿan hišāmi bni ʿurwaŧa ʿan ʾabīhi ʿan ʿāʾišaŧa ḳālat mā taraka rasūlu allahi ṣlʿm rakʿatayni baʿda alʿaṣri ʿindī ḳaṭtu
+.haddaṯanā zuhayru bnu .harbi.n .haddaṯanā ǧarīru.n .h wa.haddaṯanā abnu numayri.n .haddaṯanā ʾabī ǧamīʿa.nā ʿan hišāmi bni ʿurwa:ta ʿan ʾabīhi ʿan ʿāʾiša:ta ḳālat mā taraka rasūlu allahi .slʿm rakʿatayni baʿda alʿa.sri ʿindī ḳa.ttu
 
 ############################################################
 ## betaCodeManual>Arabic
-حَدَّثَنَا زُهَيْرُ بْنُ حَرْبٍ حَدَّثَنَا جَرِيرٌ حْ وَحَدَّثَنَا أَبْنُ نُمَيْرٍ حَدَّثَنَا أَبِي جَمِيعاًا عَنْ هِشَامِ بْنِ عُرْوَةَ عَنْ أَبِيهِ عَنْ عائِشَةَ قَالَتْ مَا تَرَكَ رَسُولُ أَلَّهِ صْلْعْمْ رَكْعَتَيْنِ بَعْدَ أَلْعَصْرِ عِنْدِي قَطْتُ
+.هَدَّثَنَا زُهَيْرُ بْنُ .هَرْبِ.نْ .هَدَّثَنَا جَرِيرُ.نْ .هْ وَ.هَدَّثَنَا أَبْنُ نُمَيْرِ.نْ .هَدَّثَنَا أَبِي جَمِيعَ.نَا عَنْ هِشَامِ بْنِ عُرْوَ:تَ عَنْ أَبِيهِ عَنْ عائِشَ:تَ قَالَتْ مَا تَرَكَ رَسُولُ أَلَّهِ .سْلْعْمْ رَكْعَتَيْنِ بَعْدَ أَلْعَ.سْرِ عِنْدِي قَ.تُّ
 
 ############################################################
 ## TranslationBetaCode

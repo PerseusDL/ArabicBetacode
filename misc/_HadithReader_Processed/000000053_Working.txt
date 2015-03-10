@@ -9,7 +9,7 @@
 
 ############################################################
 ## betaCodeAuto
-.hadda_tan_a h_ar_unu bnu `abdi allahi .hadda_tan_a mu.hammadu bnu alfa.dli .hadda_tan_a .hamm_adu bnu salama:ta `an hi^s_ami bni `urwa:ta `an `urwa:ta `an `_a'i^sa:ta mi_tlahu
+*hadda_tan_a h_ar_unu bnu `abdi allahi *hadda_tan_a mu*hammadu bnu alfa*dli *hadda_tan_a *hamm_adu bnu salama=ta `an hi^s_ami bni `urwa=ta `an `urwa=ta `an `_a'i^sa=ta mi_tlahu
 
 ############################################################
 ## betaCodeManual
@@ -17,11 +17,11 @@
 
 ############################################################
 ## betaCodeManual>Translit
-ḥaddaṯanā hārūnu bnu ʿabdi allahi ḥaddaṯanā muḥammadu bnu alfaḍli ḥaddaṯanā ḥammādu bnu salamaŧa ʿan hišāmi bni ʿurwaŧa ʿan ʿurwaŧa ʿan ʿāʾišaŧa miṯlahu
+.haddaṯanā hārūnu bnu ʿabdi allahi .haddaṯanā mu.hammadu bnu alfa.dli .haddaṯanā .hammādu bnu salama:ta ʿan hišāmi bni ʿurwa:ta ʿan ʿurwa:ta ʿan ʿāʾiša:ta miṯlahu
 
 ############################################################
 ## betaCodeManual>Arabic
-حَدَّثَنَا هَارُونُ بْنُ عَبْدِ أَلَّهِ حَدَّثَنَا مُحَمَّدُ بْنُ أَلْفَضْلِ حَدَّثَنَا حَمّادُ بْنُ سَلَمَةَ عَنْ هِشَامِ بْنِ عُرْوَةَ عَنْ عُرْوَةَ عَنْ عائِشَةَ مِثْلَهُ
+.هَدَّثَنَا هَارُونُ بْنُ عَبْدِ أَلَّهِ .هَدَّثَنَا مُ.هَمَّدُ بْنُ أَلْفَ.دْلِ .هَدَّثَنَا .هَمّادُ بْنُ سَلَمَ:تَ عَنْ هِشَامِ بْنِ عُرْوَ:تَ عَنْ عُرْوَ:تَ عَنْ عائِشَ:تَ مِثْلَهُ
 
 ############################################################
 ## TranslationBetaCode

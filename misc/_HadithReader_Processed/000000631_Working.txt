@@ -9,7 +9,7 @@
 
 ############################################################
 ## betaCodeAuto
-.hadda_tan_a 'ab_u bakri bnu 'ab_i alnna.dri alba.gd_ad_iyu .hadda_tan_a `al_iyu bnu al.hasani h_ua abnu ^saq_iqi.n `an `abdi allahi bni almub_araki `an ma`mari.n `an sim_aki bni alfa.dli `an wahbi bni munabbihi.n `an `abdi allahi bni `amri.nw 'anna alnnab_iya .sl`m q_ala lahu aqra'i alqur'ana f_i 'arba`_ina q_ala 'ab_u `_is/a ha_d_a .had_i_tu.n .hasanu.n .gar_ibu.n waraw/a ba`.duhum `an ma`mari.n `an sim_aki bni alfa.dli `an wahbi bni munabbihi.n 'anna alnnab_iya .sl`m 'amara `abda allahi bna `amri.nw 'an yaqra'a alqur'ana f_i 'arba`_ina
+*hadda_tan_a 'ab_u bakri bnu 'ab_i alnna*dri alba*gd_ad_iyu *hadda_tan_a `al_iyu bnu al*hasani h_ua abnu ^saq_iqi*n `an `abdi allahi bni almub_araki `an ma`mari*n `an sim_aki bni alfa*dli `an wahbi bni munabbihi*n `an `abdi allahi bni `amri*nw 'anna alnnab_iya *sl`m q_ala lahu aqra'i alqur'ana f_i 'arba`_ina q_ala 'ab_u `_is/a ha_d_a *had_i_tu*n *hasanu*n *gar_ibu*n waraw/a ba`*duhum `an ma`mari*n `an sim_aki bni alfa*dli `an wahbi bni munabbihi*n 'anna alnnab_iya *sl`m 'amara `abda allahi bna `amri*nw 'an yaqra'a alqur'ana f_i 'arba`_ina
 
 ############################################################
 ## betaCodeManual
@@ -17,11 +17,11 @@
 
 ############################################################
 ## betaCodeManual>Translit
-ḥaddaṯanā ʾabū bakri bnu ʾabī alnnaḍri albaġdādīyu ḥaddaṯanā ʿalīyu bnu alḥasani hūa abnu šaḳīḳiȵ ʿan ʿabdi allahi bni almubāraki ʿan maʿmariȵ ʿan simāki bni alfaḍli ʿan wahbi bni munabbihiȵ ʿan ʿabdi allahi bni ʿamriȵw ʾanna alnnabīya ṣlʿm ḳāla lahu aḳraʾi alḳurʾana fī ʾarbaʿīna ḳāla ʾabū ʿīsá haḏā ḥadīṯuȵ ḥasanuȵ ġarībuȵ warawá baʿḍuhum ʿan maʿmariȵ ʿan simāki bni alfaḍli ʿan wahbi bni munabbihiȵ ʾanna alnnabīya ṣlʿm ʾamara ʿabda allahi bna ʿamriȵw ʾan yaḳraʾa alḳurʾana fī ʾarbaʿīna
+.haddaṯanā ʾabū bakri bnu ʾabī alnna.dri alba.gdādīyu .haddaṯanā ʿalīyu bnu al.hasani hūa abnu šaḳīḳi.n ʿan ʿabdi allahi bni almubāraki ʿan maʿmari.n ʿan simāki bni alfa.dli ʿan wahbi bni munabbihi.n ʿan ʿabdi allahi bni ʿamri.nw ʾanna alnnabīya .slʿm ḳāla lahu aḳraʾi alḳurʾana fī ʾarbaʿīna ḳāla ʾabū ʿīsá haḏā .hadīṯu.n .hasanu.n .garību.n warawá baʿ.duhum ʿan maʿmari.n ʿan simāki bni alfa.dli ʿan wahbi bni munabbihi.n ʾanna alnnabīya .slʿm ʾamara ʿabda allahi bna ʿamri.nw ʾan yaḳraʾa alḳurʾana fī ʾarbaʿīna
 
 ############################################################
 ## betaCodeManual>Arabic
-حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي أَلْنَّضْرِ أَلْبَغْدَادِييُ حَدَّثَنَا عَلِييُ بْنُ أَلْحَسَنِ هُوَ أَبْنُ شَقِيقٍ عَنْ عَبْدِ أَلَّهِ بْنِ أَلْمُبَارَكِ عَنْ مَعْمَرٍ عَنْ سِمَاكِ بْنِ أَلْفَضْلِ عَنْ وَهْبِ بْنِ مُنَبِّهٍ عَنْ عَبْدِ أَلَّهِ بْنِ عَمْرٍوْ أَنَّ أَلْنَّبِييَ صْلْعْمْ قَالَ لَهُ أَقْرَئِ أَلْقُرْأَنَ فِي أَرْبَعِينَ قَالَ أَبُو عِيسٰى هَذَا حَدِيثٌ حَسَنٌ غَرِيبٌ وَرَوٰى بَعْضُهُمْ عَنْ مَعْمَرٍ عَنْ سِمَاكِ بْنِ أَلْفَضْلِ عَنْ وَهْبِ بْنِ مُنَبِّهٍ أَنَّ أَلْنَّبِييَ صْلْعْمْ أَمَرَ عَبْدَ أَلَّهِ بْنَ عَمْرٍوْ أَنْ يَقْرَأَ أَلْقُرْأَنَ فِي أَرْبَعِينَ
+.هَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي أَلْنَّ.دْرِ أَلْبَ.گْدَادِييُ .هَدَّثَنَا عَلِييُ بْنُ أَل.هَسَنِ هُوَ أَبْنُ شَقِيقِ.نْ عَنْ عَبْدِ أَلَّهِ بْنِ أَلْمُبَارَكِ عَنْ مَعْمَرِ.نْ عَنْ سِمَاكِ بْنِ أَلْفَ.دْلِ عَنْ وَهْبِ بْنِ مُنَبِّهِ.نْ عَنْ عَبْدِ أَلَّهِ بْنِ عَمْرِ.نْوْ أَنَّ أَلْنَّبِييَ .سْلْعْمْ قَالَ لَهُ أَقْرَئِ أَلْقُرْأَنَ فِي أَرْبَعِينَ قَالَ أَبُو عِيسٰى هَذَا .هَدِيثُ.نْ .هَسَنُ.نْ .گَرِيبُ.نْ وَرَوٰى بَع.دُهُمْ عَنْ مَعْمَرِ.نْ عَنْ سِمَاكِ بْنِ أَلْفَ.دْلِ عَنْ وَهْبِ بْنِ مُنَبِّهِ.نْ أَنَّ أَلْنَّبِييَ .سْلْعْمْ أَمَرَ عَبْدَ أَلَّهِ بْنَ عَمْرِ.نْوْ أَنْ يَقْرَأَ أَلْقُرْأَنَ فِي أَرْبَعِينَ
 
 ############################################################
 ## TranslationBetaCode
@@ -29,5 +29,5 @@ Type your translation on this line
 
 ############################################################
 ## TranslationTranslit
-Translation with transliterated names will appear here
+Type your translation on this line
 

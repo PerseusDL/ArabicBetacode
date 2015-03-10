@@ -9,7 +9,7 @@
 
 ############################################################
 ## betaCodeAuto
-.hadda_tan_i zuhayru bnu .harbi.n .hadda_tan_a `aff_anu .hadda_tan_a .hamm_adu.n 'a_hbaran_a _t_abitu.n `an 'anasi.n 'anna ras_ula allahi .sl`m q_ala l_a taq_umu alss_a`a:tu .hatt/a l_a yuq_ala f_i al'ar.di allahu allahu
+*hadda_tan_i zuhayru bnu *harbi*n *hadda_tan_a `aff_anu *hadda_tan_a *hamm_adu*n 'a_hbaran_a _t_abitu*n `an 'anasi*n 'anna ras_ula allahi *sl`m q_ala l_a taq_umu alss_a`a=tu *hatt/a l_a yuq_ala f_i al'ar*di allahu allahu
 
 ############################################################
 ## betaCodeManual
@@ -17,11 +17,11 @@
 
 ############################################################
 ## betaCodeManual>Translit
-ḥaddaṯanī zuhayru bnu ḥarbiȵ ḥaddaṯanā ʿaffānu ḥaddaṯanā ḥammāduȵ ʾaḫbaranā ṯābituȵ ʿan ʾanasiȵ ʾanna rasūla allahi ṣlʿm ḳāla lā taḳūmu alssāʿaŧu ḥattá lā yuḳāla fī alʾarḍi allahu allahu
+.haddaṯanī zuhayru bnu .harbi.n .haddaṯanā ʿaffānu .haddaṯanā .hammādu.n ʾaḫbaranā ṯābitu.n ʿan ʾanasi.n ʾanna rasūla allahi .slʿm ḳāla lā taḳūmu alssāʿa:tu .hattá lā yuḳāla fī alʾar.di allahu allahu
 
 ############################################################
 ## betaCodeManual>Arabic
-حَدَّثَنِي زُهَيْرُ بْنُ حَرْبٍ حَدَّثَنَا عَفّانُ حَدَّثَنَا حَمّادٌ أَخْبَرَنَا ثَابِتٌ عَنْ أَنَسٍ أَنَّ رَسُولَ أَلَّهِ صْلْعْمْ قَالَ لَا تَقُومُ أَلْسّاعَةُ حَتّٰى لَا يُقَالَ فِي أَلْأَرْضِ أَلَّهُ أَلَّهُ
+.هَدَّثَنِي زُهَيْرُ بْنُ .هَرْبِ.نْ .هَدَّثَنَا عَفّانُ .هَدَّثَنَا .هَمّادُ.نْ أَخْبَرَنَا ثَابِتُ.نْ عَنْ أَنَسِ.نْ أَنَّ رَسُولَ أَلَّهِ .سْلْعْمْ قَالَ لَا تَقُومُ أَلْسّاعَ:تُ .هَتّٰى لَا يُقَالَ فِي أَلْأَر.دِ أَلَّهُ أَلَّهُ
 
 ############################################################
 ## TranslationBetaCode

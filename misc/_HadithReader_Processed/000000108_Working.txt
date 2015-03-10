@@ -9,7 +9,7 @@
 
 ############################################################
 ## betaCodeAuto
-.hadda_tan_a m_us/a bnu 'ism_a`_ila .hadda_tan_a ^gar_iru.n .hadda_tan_a .humaydu.n ya`n_i abna hil_ali.n `an sa`di bni hi^s_ami bni `_amiri.n biha_d_a al.had_i_ti
+*hadda_tan_a m_us/a bnu 'ism_a`_ila *hadda_tan_a ^gar_iru*n *hadda_tan_a *humaydu*n ya`n_i abna hil_ali*n `an sa`di bni hi^s_ami bni `_amiri*n biha_d_a al*had_i_ti
 
 ############################################################
 ## betaCodeManual
@@ -17,11 +17,11 @@
 
 ############################################################
 ## betaCodeManual>Translit
-ḥaddaṯanā mūsá bnu ʾismāʿīla ḥaddaṯanā ǧarīruȵ ḥaddaṯanā ḥumayduȵ yaʿnī abna hilāliȵ ʿan saʿdi bni hišāmi bni ʿāmiriȵ bihaḏā alḥadīṯi
+.haddaṯanā mūsá bnu ʾismāʿīla .haddaṯanā ǧarīru.n .haddaṯanā .humaydu.n yaʿnī abna hilāli.n ʿan saʿdi bni hišāmi bni ʿāmiri.n bihaḏā al.hadīṯi
 
 ############################################################
 ## betaCodeManual>Arabic
-حَدَّثَنَا مُوسٰى بْنُ إِسْمَاعِيلَ حَدَّثَنَا جَرِيرٌ حَدَّثَنَا حُمَيْدٌ يَعْنِي أَبْنَ هِلَالٍ عَنْ سَعْدِ بْنِ هِشَامِ بْنِ عَامِرٍ بِهَذَا أَلْحَدِيثِ
+.هَدَّثَنَا مُوسٰى بْنُ إِسْمَاعِيلَ .هَدَّثَنَا جَرِيرُ.نْ .هَدَّثَنَا .هُمَيْدُ.نْ يَعْنِي أَبْنَ هِلَالِ.نْ عَنْ سَعْدِ بْنِ هِشَامِ بْنِ عَامِرِ.نْ بِهَذَا أَل.هَدِيثِ
 
 ############################################################
 ## TranslationBetaCode

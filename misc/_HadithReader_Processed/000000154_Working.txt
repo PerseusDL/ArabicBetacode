@@ -9,7 +9,7 @@
 
 ############################################################
 ## betaCodeAuto
-.hadda_tan_a mu.hammadu bnu ba^ss_ari.n .hadda_tan_a abnu 'ab_i `ad_iyi.n `an .humaydi.n `an 'anasi.n q_ala q_ala ras_ulu allahi .sl`m l_a taq_umu alss_a`a:tu .hatt/a l_a yuq_ala f_i al'ar.di allahu allahu q_ala 'ab_u `_is/a ha_d_a .had_i_tu.n .hasanu.n
+*hadda_tan_a mu*hammadu bnu ba^ss_ari*n *hadda_tan_a abnu 'ab_i `ad_iyi*n `an *humaydi*n `an 'anasi*n q_ala q_ala ras_ulu allahi *sl`m l_a taq_umu alss_a`a=tu *hatt/a l_a yuq_ala f_i al'ar*di allahu allahu q_ala 'ab_u `_is/a ha_d_a *had_i_tu*n *hasanu*n
 
 ############################################################
 ## betaCodeManual
@@ -17,11 +17,11 @@
 
 ############################################################
 ## betaCodeManual>Translit
-ḥaddaṯanā muḥammadu bnu bašsāriȵ ḥaddaṯanā abnu ʾabī ʿadīyiȵ ʿan ḥumaydiȵ ʿan ʾanasiȵ ḳāla ḳāla rasūlu allahi ṣlʿm lā taḳūmu alssāʿaŧu ḥattá lā yuḳāla fī alʾarḍi allahu allahu ḳāla ʾabū ʿīsá haḏā ḥadīṯuȵ ḥasanuȵ
+.haddaṯanā mu.hammadu bnu bašsāri.n .haddaṯanā abnu ʾabī ʿadīyi.n ʿan .humaydi.n ʿan ʾanasi.n ḳāla ḳāla rasūlu allahi .slʿm lā taḳūmu alssāʿa:tu .hattá lā yuḳāla fī alʾar.di allahu allahu ḳāla ʾabū ʿīsá haḏā .hadīṯu.n .hasanu.n
 
 ############################################################
 ## betaCodeManual>Arabic
-حَدَّثَنَا مُحَمَّدُ بْنُ بَشْسَارٍ حَدَّثَنَا أَبْنُ أَبِي عَدِييٍ عَنْ حُمَيْدٍ عَنْ أَنَسٍ قَالَ قَالَ رَسُولُ أَلَّهِ صْلْعْمْ لَا تَقُومُ أَلْسّاعَةُ حَتّٰى لَا يُقَالَ فِي أَلْأَرْضِ أَلَّهُ أَلَّهُ قَالَ أَبُو عِيسٰى هَذَا حَدِيثٌ حَسَنٌ
+.هَدَّثَنَا مُ.هَمَّدُ بْنُ بَشْسَارِ.نْ .هَدَّثَنَا أَبْنُ أَبِي عَدِييِ.نْ عَنْ .هُمَيْدِ.نْ عَنْ أَنَسِ.نْ قَالَ قَالَ رَسُولُ أَلَّهِ .سْلْعْمْ لَا تَقُومُ أَلْسّاعَ:تُ .هَتّٰى لَا يُقَالَ فِي أَلْأَر.دِ أَلَّهُ أَلَّهُ قَالَ أَبُو عِيسٰى هَذَا .هَدِيثُ.نْ .هَسَنُ.نْ
 
 ############################################################
 ## TranslationBetaCode

@@ -9,7 +9,7 @@
 
 ############################################################
 ## betaCodeAuto
-'a_hbaran_a mu.hammadu bnu `abdi allahi bni `abdi al.hakami q_ala .hadda_tan_a ^su`aybu.n q_ala 'anba'an_a allay_tu `an `uqayli.n q_ala .hadda_tan_i abnu ^sih_abi.n `an sa`_idi.n wa'ab_i salama:ta wa'ab_i bakri bni `abdi alrra.hmani w_abni 'ab_i .ha_tma:ta `an 'ab_i hurayra:ta 'annahu q_ala lam yas^gud ras_ulu allahi .sl`m yawma'i_di.n qabla alssal_ami wal_a ba`dahu
+'a_hbaran_a mu*hammadu bnu `abdi allahi bni `abdi al*hakami q_ala *hadda_tan_a ^su`aybu*n q_ala 'anba'an_a allay_tu `an `uqayli*n q_ala *hadda_tan_i abnu ^sih_abi*n `an sa`_idi*n wa'ab_i salama=ta wa'ab_i bakri bni `abdi alrra*hmani w_abni 'ab_i *ha_tma=ta `an 'ab_i hurayra=ta 'annahu q_ala lam yas^gud ras_ulu allahi *sl`m yawma'i_di*n qabla alssal_ami wal_a ba`dahu
 
 ############################################################
 ## betaCodeManual
@@ -17,11 +17,11 @@
 
 ############################################################
 ## betaCodeManual>Translit
-ʾaḫbaranā muḥammadu bnu ʿabdi allahi bni ʿabdi alḥakami ḳāla ḥaddaṯanā šuʿaybuȵ ḳāla ʾanbaʾanā allayṯu ʿan ʿuḳayliȵ ḳāla ḥaddaṯanī abnu šihābiȵ ʿan saʿīdiȵ waʾabī salamaŧa waʾabī bakri bni ʿabdi alrraḥmani wābni ʾabī ḥaṯmaŧa ʿan ʾabī hurayraŧa ʾannahu ḳāla lam yasǧud rasūlu allahi ṣlʿm yawmaʾiḏiȵ ḳabla alssalāmi walā baʿdahu
+ʾaḫbaranā mu.hammadu bnu ʿabdi allahi bni ʿabdi al.hakami ḳāla .haddaṯanā šuʿaybu.n ḳāla ʾanbaʾanā allayṯu ʿan ʿuḳayli.n ḳāla .haddaṯanī abnu šihābi.n ʿan saʿīdi.n waʾabī salama:ta waʾabī bakri bni ʿabdi alrra.hmani wābni ʾabī .haṯma:ta ʿan ʾabī hurayra:ta ʾannahu ḳāla lam yasǧud rasūlu allahi .slʿm yawmaʾiḏi.n ḳabla alssalāmi walā baʿdahu
 
 ############################################################
 ## betaCodeManual>Arabic
-أَخْبَرَنَا مُحَمَّدُ بْنُ عَبْدِ أَلَّهِ بْنِ عَبْدِ أَلْحَكَمِ قَالَ حَدَّثَنَا شُعَيْبٌ قَالَ أَنْبَأَنَا أَلَّيْثُ عَنْ عُقَيْلٍ قَالَ حَدَّثَنِي أَبْنُ شِهَابٍ عَنْ سَعِيدٍ وَأَبِي سَلَمَةَ وَأَبِي بَكْرِ بْنِ عَبْدِ أَلْرَّحْمَنِ وَابْنِ أَبِي حَثْمَةَ عَنْ أَبِي هُرَيْرَةَ أَنَّهُ قَالَ لَمْ يَسْجُدْ رَسُولُ أَلَّهِ صْلْعْمْ يَوْمَئِذٍ قَبْلَ أَلْسَّلَامِ وَلَا بَعْدَهُ
+أَخْبَرَنَا مُ.هَمَّدُ بْنُ عَبْدِ أَلَّهِ بْنِ عَبْدِ أَل.هَكَمِ قَالَ .هَدَّثَنَا شُعَيْبُ.نْ قَالَ أَنْبَأَنَا أَلَّيْثُ عَنْ عُقَيْلِ.نْ قَالَ .هَدَّثَنِي أَبْنُ شِهَابِ.نْ عَنْ سَعِيدِ.نْ وَأَبِي سَلَمَ:تَ وَأَبِي بَكْرِ بْنِ عَبْدِ أَلْرَّ.هْمَنِ وَابْنِ أَبِي .هَثْمَ:تَ عَنْ أَبِي هُرَيْرَ:تَ أَنَّهُ قَالَ لَمْ يَسْجُدْ رَسُولُ أَلَّهِ .سْلْعْمْ يَوْمَئِذِ.نْ قَبْلَ أَلْسَّلَامِ وَلَا بَعْدَهُ
 
 ############################################################
 ## TranslationBetaCode

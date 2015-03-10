@@ -9,7 +9,7 @@
 
 ############################################################
 ## betaCodeAuto
-q_ala 'ab_u bakri bnu n_afi`i.n warubbam_a q_ala `umaru bnu `al_iyi.n f_i ha_d_a al.had_i_ti hi^s_amu bnu `urwa:ta `an 'ab_ihi `ani alnnab_iyi .sl`m mursalu.n walam ya_dkur f_ihi `an `_a'i^sa:ta
+q_ala 'ab_u bakri bnu n_afi`i*n warubbam_a q_ala `umaru bnu `al_iyi*n f_i ha_d_a al*had_i_ti hi^s_amu bnu `urwa=ta `an 'ab_ihi `ani alnnab_iyi *sl`m mursalu*n walam ya_dkur f_ihi `an `_a'i^sa=ta
 
 ############################################################
 ## betaCodeManual
@@ -17,11 +17,11 @@ q_ala 'ab_u bakri bnu n_afi`i.n warubbam_a q_ala `umaru bnu `al_iyi.n f_i ha_d_a
 
 ############################################################
 ## betaCodeManual>Translit
-ḳāla ʾabū bakri bnu nāfiʿiȵ warubbamā ḳāla ʿumaru bnu ʿalīyiȵ fī haḏā alḥadīṯi hišāmu bnu ʿurwaŧa ʿan ʾabīhi ʿani alnnabīyi ṣlʿm mursaluȵ walam yaḏkur fīhi ʿan ʿāʾišaŧa
+ḳāla ʾabū bakri bnu nāfiʿi.n warubbamā ḳāla ʿumaru bnu ʿalīyi.n fī haḏā al.hadīṯi hišāmu bnu ʿurwa:ta ʿan ʾabīhi ʿani alnnabīyi .slʿm mursalu.n walam yaḏkur fīhi ʿan ʿāʾiša:ta
 
 ############################################################
 ## betaCodeManual>Arabic
-قَالَ أَبُو بَكْرِ بْنُ نَافِعٍ وَرُبَّمَا قَالَ عُمَرُ بْنُ عَلِييٍ فِي هَذَا أَلْحَدِيثِ هِشَامُ بْنُ عُرْوَةَ عَنْ أَبِيهِ عَنِ أَلْنَّبِييِ صْلْعْمْ مُرْسَلٌ وَلَمْ يَذْكُرْ فِيهِ عَنْ عائِشَةَ
+قَالَ أَبُو بَكْرِ بْنُ نَافِعِ.نْ وَرُبَّمَا قَالَ عُمَرُ بْنُ عَلِييِ.نْ فِي هَذَا أَل.هَدِيثِ هِشَامُ بْنُ عُرْوَ:تَ عَنْ أَبِيهِ عَنِ أَلْنَّبِييِ .سْلْعْمْ مُرْسَلُ.نْ وَلَمْ يَذْكُرْ فِيهِ عَنْ عائِشَ:تَ
 
 ############################################################
 ## TranslationBetaCode

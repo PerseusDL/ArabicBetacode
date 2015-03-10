@@ -9,7 +9,7 @@
 
 ############################################################
 ## betaCodeAuto
-'a_hbaran_i 'ibr_ah_imu bnu ya`q_uba q_ala .hadda_tan_a m_us/a bnu d_awuda `an .hamm_adi bni salama:ta `an `a.t_a'i bni alss_a'ibi `an sa`_idi bni ^gubayri.n `ani abni `abb_asi.n 'anna alnnab_iya .sl`m q_ala al.ha^garu al'aswadu mina al^ganna:ti
+'a_hbaran_i 'ibr_ah_imu bnu ya`q_uba q_ala *hadda_tan_a m_us/a bnu d_awuda `an *hamm_adi bni salama=ta `an `a*t_a'i bni alss_a'ibi `an sa`_idi bni ^gubayri*n `ani abni `abb_asi*n 'anna alnnab_iya *sl`m q_ala al*ha^garu al'aswadu mina al^ganna=ti
 
 ############################################################
 ## betaCodeManual
@@ -17,11 +17,11 @@
 
 ############################################################
 ## betaCodeManual>Translit
-ʾaḫbaranī ʾibrāhīmu bnu yaʿḳūba ḳāla ḥaddaṯanā mūsá bnu dāwuda ʿan ḥammādi bni salamaŧa ʿan ʿaṭāʾi bni alssāʾibi ʿan saʿīdi bni ǧubayriȵ ʿani abni ʿabbāsiȵ ʾanna alnnabīya ṣlʿm ḳāla alḥaǧaru alʾaswadu mina alǧannaŧi
+ʾaḫbaranī ʾibrāhīmu bnu yaʿḳūba ḳāla .haddaṯanā mūsá bnu dāwuda ʿan .hammādi bni salama:ta ʿan ʿa.tāʾi bni alssāʾibi ʿan saʿīdi bni ǧubayri.n ʿani abni ʿabbāsi.n ʾanna alnnabīya .slʿm ḳāla al.haǧaru alʾaswadu mina alǧanna:ti
 
 ############################################################
 ## betaCodeManual>Arabic
-أَخْبَرَنِي إِبْرَاهِيمُ بْنُ يَعْقُوبَ قَالَ حَدَّثَنَا مُوسٰى بْنُ دَاوُدَ عَنْ حَمّادِ بْنِ سَلَمَةَ عَنْ عَطاءِ بْنِ أَلْسّائِبِ عَنْ سَعِيدِ بْنِ جُبَيْرٍ عَنِ أَبْنِ عَبّاسٍ أَنَّ أَلْنَّبِييَ صْلْعْمْ قَالَ أَلْحَجَرُ أَلْأَسْوَدُ مِنَ أَلْجَنَّةِ
+أَخْبَرَنِي إِبْرَاهِيمُ بْنُ يَعْقُوبَ قَالَ .هَدَّثَنَا مُوسٰى بْنُ دَاوُدَ عَنْ .هَمّادِ بْنِ سَلَمَ:تَ عَنْ عَ.تاءِ بْنِ أَلْسّائِبِ عَنْ سَعِيدِ بْنِ جُبَيْرِ.نْ عَنِ أَبْنِ عَبّاسِ.نْ أَنَّ أَلْنَّبِييَ .سْلْعْمْ قَالَ أَل.هَجَرُ أَلْأَسْوَدُ مِنَ أَلْجَنَّ:تِ
 
 ############################################################
 ## TranslationBetaCode

@@ -9,7 +9,7 @@
 
 ############################################################
 ## betaCodeAuto
-.hadda_tan_a 'ab_u kuraybi.n .hadda_tan_a 'ab_u mu`_aw_ia:ta `ani al'a`ma^si `an 'ab_i sufy_ana `an ^g_abiri.n `an 'ab_i sa`_idi.n q_ala .sall/a ras_ulu allahi  .sl`m  `al/a .ha.s_iri.n
+*hadda_tan_a 'ab_u kuraybi*n *hadda_tan_a 'ab_u mu`_aw_ia=ta `ani al'a`ma^si `an 'ab_i sufy_ana `an ^g_abiri*n `an 'ab_i sa`_idi*n q_ala *sall/a ras_ulu allahi  *sl`m  `al/a *ha*s_iri*n
 
 ############################################################
 ## betaCodeManual
@@ -17,11 +17,11 @@
 
 ############################################################
 ## betaCodeManual>Translit
-ḥaddaṯanā ʾabū kuraybiȵ ḥaddaṯanā ʾabū muʿāwīaŧa ʿani alʾaʿmaši ʿan ʾabī sufyāna ʿan ǧābiriȵ ʿan ʾabī saʿīdiȵ ḳāla ṣallá rasūlu allahi  ṣlʿm  ʿalá ḥaṣīriȵ
+.haddaṯanā ʾabū kuraybi.n .haddaṯanā ʾabū muʿāwīa:ta ʿani alʾaʿmaši ʿan ʾabī sufyāna ʿan ǧābiri.n ʿan ʾabī saʿīdi.n ḳāla .sallá rasūlu allahi  .slʿm  ʿalá .ha.sīri.n
 
 ############################################################
 ## betaCodeManual>Arabic
-حَدَّثَنَا أَبُو كُرَيْبٍ حَدَّثَنَا أَبُو مُعَاوِيَةَ عَنِ أَلْأَعْمَشِ عَنْ أَبِي سُفْيَانَ عَنْ جَابِرٍ عَنْ أَبِي سَعِيدٍ قَالَ صَلّٰى رَسُولُ أَلَّهِ  صْلْعْمْ  عَلٰى حَصِيرٍ
+.هَدَّثَنَا أَبُو كُرَيْبِ.نْ .هَدَّثَنَا أَبُو مُعَاوِيَ:تَ عَنِ أَلْأَعْمَشِ عَنْ أَبِي سُفْيَانَ عَنْ جَابِرِ.نْ عَنْ أَبِي سَعِيدِ.نْ قَالَ .سَلّٰى رَسُولُ أَلَّهِ  .سْلْعْمْ  عَلٰى .هَ.سِيرِ.نْ
 
 ############################################################
 ## TranslationBetaCode

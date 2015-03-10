@@ -9,7 +9,7 @@
 
 ############################################################
 ## betaCodeAuto
-.hadda_tan_a `abdu alrra.hmani bnu y_unusa .hadda_tan_a .h_atimu bnu 'ism_a`_ila `an mu.hammadi bni y_usufa `ani alss_a'ibi bni yaz_ida q_ala .hu^gga b_i ma`a ras_uli allahi .sl`m wa'an_a abnu sab`i sin_ina
+*hadda_tan_a `abdu alrra*hmani bnu y_unusa *hadda_tan_a *h_atimu bnu 'ism_a`_ila `an mu*hammadi bni y_usufa `ani alss_a'ibi bni yaz_ida q_ala *hu^gga b_i ma`a ras_uli allahi *sl`m wa'an_a abnu sab`i sin_ina
 
 ############################################################
 ## betaCodeManual
@@ -17,11 +17,11 @@
 
 ############################################################
 ## betaCodeManual>Translit
-ḥaddaṯanā ʿabdu alrraḥmani bnu yūnusa ḥaddaṯanā ḥātimu bnu ʾismāʿīla ʿan muḥammadi bni yūsufa ʿani alssāʾibi bni yazīda ḳāla ḥuǧga bī maʿa rasūli allahi ṣlʿm waʾanā abnu sabʿi sinīna
+.haddaṯanā ʿabdu alrra.hmani bnu yūnusa .haddaṯanā .hātimu bnu ʾismāʿīla ʿan mu.hammadi bni yūsufa ʿani alssāʾibi bni yazīda ḳāla .huǧga bī maʿa rasūli allahi .slʿm waʾanā abnu sabʿi sinīna
 
 ############################################################
 ## betaCodeManual>Arabic
-حَدَّثَنَا عَبْدُ أَلْرَّحْمَنِ بْنُ يُونُسَ حَدَّثَنَا حَاتِمُ بْنُ إِسْمَاعِيلَ عَنْ مُحَمَّدِ بْنِ يُوسُفَ عَنِ أَلْسّائِبِ بْنِ يَزِيدَ قَالَ حُجْگَ بِي مَعَ رَسُولِ أَلَّهِ صْلْعْمْ وَأَنَا أَبْنُ سَبْعِ سِنِينَ
+.هَدَّثَنَا عَبْدُ أَلْرَّ.هْمَنِ بْنُ يُونُسَ .هَدَّثَنَا .هَاتِمُ بْنُ إِسْمَاعِيلَ عَنْ مُ.هَمَّدِ بْنِ يُوسُفَ عَنِ أَلْسّائِبِ بْنِ يَزِيدَ قَالَ .هُجْگَ بِي مَعَ رَسُولِ أَلَّهِ .سْلْعْمْ وَأَنَا أَبْنُ سَبْعِ سِنِينَ
 
 ############################################################
 ## TranslationBetaCode
@@ -29,5 +29,5 @@ Type your translation on this line
 
 ############################################################
 ## TranslationTranslit
-Translation with transliterated names will appear here
+Type your translation on this line
 

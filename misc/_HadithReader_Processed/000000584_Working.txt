@@ -9,7 +9,7 @@
 
 ############################################################
 ## betaCodeAuto
-.hadda_tan_a musaddadu.n q_ala .hadda_tan_a ya.hy/a `an ^su`ba:ta q_ala .hadda_tan_i 'ab_u ^gamra:ta `ani abni `abb_asi.n  r.d/a allh `nhm_a  q_ala k_ana .sal_a:tu alnnab_iyi .sl`m _tal_a_ta `a^sra:ta rak`a:ta.n ya`n_i bi_allayli
+*hadda_tan_a musaddadu*n q_ala *hadda_tan_a ya*hy/a `an ^su`ba=ta q_ala *hadda_tan_i 'ab_u ^gamra=ta `ani abni `abb_asi*n  r*d/a allh `nhm_a  q_ala k_ana *sal_a=tu alnnab_iyi *sl`m _tal_a_ta `a^sra=ta rak`a=ta*n ya`n_i bi_allayli
 
 ############################################################
 ## betaCodeManual
@@ -17,11 +17,11 @@
 
 ############################################################
 ## betaCodeManual>Translit
-ḥaddaṯanā musaddaduȵ ḳāla ḥaddaṯanā yaḥyá ʿan šuʿbaŧa ḳāla ḥaddaṯanī ʾabū ǧamraŧa ʿani abni ʿabbāsiȵ  rḍá allh ʿnhmā  ḳāla kāna ṣalāŧu alnnabīyi ṣlʿm ṯalāṯa ʿašraŧa rakʿaŧaȵ yaʿnī biāllayli
+.haddaṯanā musaddadu.n ḳāla .haddaṯanā ya.hyá ʿan šuʿba:ta ḳāla .haddaṯanī ʾabū ǧamra:ta ʿani abni ʿabbāsi.n  r.dá allh ʿnhmā  ḳāla kāna .salā:tu alnnabīyi .slʿm ṯalāṯa ʿašra:ta rakʿa:ta.n yaʿnī biāllayli
 
 ############################################################
 ## betaCodeManual>Arabic
-حَدَّثَنَا مُسَدَّدٌ قَالَ حَدَّثَنَا يَحْيٰى عَنْ شُعْبَةَ قَالَ حَدَّثَنِي أَبُو جَمْرَةَ عَنِ أَبْنِ عَبّاسٍ  رْضٰى أَلّهْ عْنْهْمَا  قَالَ كَانَ صَلَاةُ أَلْنَّبِييِ صْلْعْمْ ثَلَاثَ عَشْرَةَ رَكْعَةً يَعْنِي بِالَّيْلِ
+.هَدَّثَنَا مُسَدَّدُ.نْ قَالَ .هَدَّثَنَا يَ.هْيٰى عَنْ شُعْبَ:تَ قَالَ .هَدَّثَنِي أَبُو جَمْرَ:تَ عَنِ أَبْنِ عَبّاسِ.نْ  ر.دٰى أَلّهْ عْنْهْمَا  قَالَ كَانَ .سَلَا:تُ أَلْنَّبِييِ .سْلْعْمْ ثَلَاثَ عَشْرَ:تَ رَكْعَ:تَ.نْ يَعْنِي بِالَّيْلِ
 
 ############################################################
 ## TranslationBetaCode
@@ -29,5 +29,5 @@ Type your translation on this line
 
 ############################################################
 ## TranslationTranslit
-Translation with transliterated names will appear here
+Type your translation on this line
 

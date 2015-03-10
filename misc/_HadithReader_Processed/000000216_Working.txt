@@ -9,7 +9,7 @@
 
 ############################################################
 ## betaCodeAuto
-'a_hbaran_a 'ab_u mu.s`abi.n qir_a'a:ta.n `an `abdi al`az_izi bni mu.hammadi.n `an `abdi alrra.hmani bni .humaydi.n `an 'ab_ihi `ani alnnab_iyi .sl`m na.hwahu walam ya_dkur f_ihi `an `abdi alrra.hmani bni `awfi.n q_ala waqad r_u_ia ha_d_a al.had_i_tu `an `abdi alrra.hmani bni .humaydi.n `an 'ab_ihi `an sa`_idi bni zaydi.n `ani alnnab_iyi .sl`m na.hwa ha_d_a waha_d_a 'a.sa.hhu mina al.had_i_ti al'awwali
+'a_hbaran_a 'ab_u mu*s`abi*n qir_a'a=ta*n `an `abdi al`az_izi bni mu*hammadi*n `an `abdi alrra*hmani bni *humaydi*n `an 'ab_ihi `ani alnnab_iyi *sl`m na*hwahu walam ya_dkur f_ihi `an `abdi alrra*hmani bni `awfi*n q_ala waqad r_u_ia ha_d_a al*had_i_tu `an `abdi alrra*hmani bni *humaydi*n `an 'ab_ihi `an sa`_idi bni zaydi*n `ani alnnab_iyi *sl`m na*hwa ha_d_a waha_d_a 'a*sa*hhu mina al*had_i_ti al'awwali
 
 ############################################################
 ## betaCodeManual
@@ -17,11 +17,11 @@
 
 ############################################################
 ## betaCodeManual>Translit
-ʾaḫbaranā ʾabū muṣʿabiȵ ḳirāʾaŧaȵ ʿan ʿabdi alʿazīzi bni muḥammadiȵ ʿan ʿabdi alrraḥmani bni ḥumaydiȵ ʿan ʾabīhi ʿani alnnabīyi ṣlʿm naḥwahu walam yaḏkur fīhi ʿan ʿabdi alrraḥmani bni ʿawfiȵ ḳāla waḳad rūīa haḏā alḥadīṯu ʿan ʿabdi alrraḥmani bni ḥumaydiȵ ʿan ʾabīhi ʿan saʿīdi bni zaydiȵ ʿani alnnabīyi ṣlʿm naḥwa haḏā wahaḏā ʾaṣaḥhu mina alḥadīṯi alʾawwali
+ʾaḫbaranā ʾabū mu.sʿabi.n ḳirāʾa:ta.n ʿan ʿabdi alʿazīzi bni mu.hammadi.n ʿan ʿabdi alrra.hmani bni .humaydi.n ʿan ʾabīhi ʿani alnnabīyi .slʿm na.hwahu walam yaḏkur fīhi ʿan ʿabdi alrra.hmani bni ʿawfi.n ḳāla waḳad rūīa haḏā al.hadīṯu ʿan ʿabdi alrra.hmani bni .humaydi.n ʿan ʾabīhi ʿan saʿīdi bni zaydi.n ʿani alnnabīyi .slʿm na.hwa haḏā wahaḏā ʾa.sa.hhu mina al.hadīṯi alʾawwali
 
 ############################################################
 ## betaCodeManual>Arabic
-أَخْبَرَنَا أَبُو مُصْعَبٍ قِرَاءَةً عَنْ عَبْدِ أَلْعَزِيزِ بْنِ مُحَمَّدٍ عَنْ عَبْدِ أَلْرَّحْمَنِ بْنِ حُمَيْدٍ عَنْ أَبِيهِ عَنِ أَلْنَّبِييِ صْلْعْمْ نَحْوَهُ وَلَمْ يَذْكُرْ فِيهِ عَنْ عَبْدِ أَلْرَّحْمَنِ بْنِ عَوْفٍ قَالَ وَقَدْ رُويَ هَذَا أَلْحَدِيثُ عَنْ عَبْدِ أَلْرَّحْمَنِ بْنِ حُمَيْدٍ عَنْ أَبِيهِ عَنْ سَعِيدِ بْنِ زَيْدٍ عَنِ أَلْنَّبِييِ صْلْعْمْ نَحْوَ هَذَا وَهَذَا أَصَحْهُ مِنَ أَلْحَدِيثِ أَلْأَوَّلِ
+أَخْبَرَنَا أَبُو مُ.سْعَبِ.نْ قِراءَ:تَ.نْ عَنْ عَبْدِ أَلْعَزِيزِ بْنِ مُ.هَمَّدِ.نْ عَنْ عَبْدِ أَلْرَّ.هْمَنِ بْنِ .هُمَيْدِ.نْ عَنْ أَبِيهِ عَنِ أَلْنَّبِييِ .سْلْعْمْ نَ.هْوَهُ وَلَمْ يَذْكُرْ فِيهِ عَنْ عَبْدِ أَلْرَّ.هْمَنِ بْنِ عَوْفِ.نْ قَالَ وَقَدْ رُويَ هَذَا أَل.هَدِيثُ عَنْ عَبْدِ أَلْرَّ.هْمَنِ بْنِ .هُمَيْدِ.نْ عَنْ أَبِيهِ عَنْ سَعِيدِ بْنِ زَيْدِ.نْ عَنِ أَلْنَّبِييِ .سْلْعْمْ نَ.هْوَ هَذَا وَهَذَا أَ.سَ.هُّ مِنَ أَل.هَدِيثِ أَلْأَوَّلِ
 
 ############################################################
 ## TranslationBetaCode

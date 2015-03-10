@@ -9,7 +9,7 @@
 
 ############################################################
 ## betaCodeAuto
-waq_ala .hadda_tan_a `abdu allahi bnu mu.hammadi.n .hadda_tan_a `abdu al.ssamadi `an `abdi alrra.hmani bni `abdi allahi bni d_in_ari.n `an 'ab_ihi `an `abdi allahi bni `umara  r.d/a allh `nhm_a  `ani alnnab_iyi .sl`m q_ala alkar_imu bnu alkar_imi bni alkar_imi bni alkar_imi y_usufu bnu ya`q_uba bni 'is.h_aqa bni 'ibr_ah_ima
+waq_ala *hadda_tan_a `abdu allahi bnu mu*hammadi*n *hadda_tan_a `abdu al*ssamadi `an `abdi alrra*hmani bni `abdi allahi bni d_in_ari*n `an 'ab_ihi `an `abdi allahi bni `umara  r*d/a allh `nhm_a  `ani alnnab_iyi *sl`m q_ala alkar_imu bnu alkar_imi bni alkar_imi bni alkar_imi y_usufu bnu ya`q_uba bni 'is*h_aqa bni 'ibr_ah_ima
 
 ############################################################
 ## betaCodeManual
@@ -17,11 +17,11 @@ waq_ala .hadda_tan_a `abdu allahi bnu mu.hammadi.n .hadda_tan_a `abdu al.ssamadi
 
 ############################################################
 ## betaCodeManual>Translit
-waḳāla ḥaddaṯanā ʿabdu allahi bnu muḥammadiȵ ḥaddaṯanā ʿabdu alṣsamadi ʿan ʿabdi alrraḥmani bni ʿabdi allahi bni dīnāriȵ ʿan ʾabīhi ʿan ʿabdi allahi bni ʿumara  rḍá allh ʿnhmā  ʿani alnnabīyi ṣlʿm ḳāla alkarīmu bnu alkarīmi bni alkarīmi bni alkarīmi yūsufu bnu yaʿḳūba bni ʾisḥāḳa bni ʾibrāhīma
+waḳāla .haddaṯanā ʿabdu allahi bnu mu.hammadi.n .haddaṯanā ʿabdu al.ssamadi ʿan ʿabdi alrra.hmani bni ʿabdi allahi bni dīnāri.n ʿan ʾabīhi ʿan ʿabdi allahi bni ʿumara  r.dá allh ʿnhmā  ʿani alnnabīyi .slʿm ḳāla alkarīmu bnu alkarīmi bni alkarīmi bni alkarīmi yūsufu bnu yaʿḳūba bni ʾis.hāḳa bni ʾibrāhīma
 
 ############################################################
 ## betaCodeManual>Arabic
-وَقَالَ حَدَّثَنَا عَبْدُ أَلَّهِ بْنُ مُحَمَّدٍ حَدَّثَنَا عَبْدُ أَلْصْسَمَدِ عَنْ عَبْدِ أَلْرَّحْمَنِ بْنِ عَبْدِ أَلَّهِ بْنِ دِينَارٍ عَنْ أَبِيهِ عَنْ عَبْدِ أَلَّهِ بْنِ عُمَرَ  رْضٰى أَلّهْ عْنْهْمَا  عَنِ أَلْنَّبِييِ صْلْعْمْ قَالَ أَلْكَرِيمُ بْنُ أَلْكَرِيمِ بْنِ أَلْكَرِيمِ بْنِ أَلْكَرِيمِ يُوسُفُ بْنُ يَعْقُوبَ بْنِ إِسْحَاقَ بْنِ إِبْرَاهِيمَ
+وَقَالَ .هَدَّثَنَا عَبْدُ أَلَّهِ بْنُ مُ.هَمَّدِ.نْ .هَدَّثَنَا عَبْدُ أَل.سَّمَدِ عَنْ عَبْدِ أَلْرَّ.هْمَنِ بْنِ عَبْدِ أَلَّهِ بْنِ دِينَارِ.نْ عَنْ أَبِيهِ عَنْ عَبْدِ أَلَّهِ بْنِ عُمَرَ  ر.دٰى أَلّهْ عْنْهْمَا  عَنِ أَلْنَّبِييِ .سْلْعْمْ قَالَ أَلْكَرِيمُ بْنُ أَلْكَرِيمِ بْنِ أَلْكَرِيمِ بْنِ أَلْكَرِيمِ يُوسُفُ بْنُ يَعْقُوبَ بْنِ إِس.هَاقَ بْنِ إِبْرَاهِيمَ
 
 ############################################################
 ## TranslationBetaCode

@@ -9,7 +9,7 @@
 
 ############################################################
 ## betaCodeAuto
-'a_hbaran_i `ubaydu allahi bnu fa.d_ala:ta bni 'ibr_ah_ima q_ala 'anba'an_a mu.hammadu.n q_ala .hadda_tan_a mu`_aw_ia:tu .h wa'a_hbaran_i 'a.hmadu bnu mu.hammadi bni almu.g_ira:ti q_ala .hadda_tan_a `u_tm_anu bnu sa`_idi.n `an mu`_aw_ia:ta w_allaf.zu lahu `an ya.hy/a bni 'ab_i ka_t_iri.n 'anna 'ab_a salama:ta 'a_hbarahu 'annahu sami`a `abda allahi wah_ua abnu `umara yaq_ulu sami`tu ras_ula allahi .sl`m yaq_ulu al^ssahru tis`u.n wa`i^sr_una
+'a_hbaran_i `ubaydu allahi bnu fa*d_ala=ta bni 'ibr_ah_ima q_ala 'anba'an_a mu*hammadu*n q_ala *hadda_tan_a mu`_aw_ia=tu *h wa'a_hbaran_i 'a*hmadu bnu mu*hammadi bni almu*g_ira=ti q_ala *hadda_tan_a `u_tm_anu bnu sa`_idi*n `an mu`_aw_ia=ta w_allaf*zu lahu `an ya*hy/a bni 'ab_i ka_t_iri*n 'anna 'ab_a salama=ta 'a_hbarahu 'annahu sami`a `abda allahi wah_ua abnu `umara yaq_ulu sami`tu ras_ula allahi *sl`m yaq_ulu al^ssahru tis`u*n wa`i^sr_una
 
 ############################################################
 ## betaCodeManual
@@ -17,11 +17,11 @@
 
 ############################################################
 ## betaCodeManual>Translit
-ʾaḫbaranī ʿubaydu allahi bnu faḍālaŧa bni ʾibrāhīma ḳāla ʾanbaʾanā muḥammaduȵ ḳāla ḥaddaṯanā muʿāwīaŧu ḥ waʾaḫbaranī ʾaḥmadu bnu muḥammadi bni almuġīraŧi ḳāla ḥaddaṯanā ʿuṯmānu bnu saʿīdiȵ ʿan muʿāwīaŧa wāllafẓu lahu ʿan yaḥyá bni ʾabī kaṯīriȵ ʾanna ʾabā salamaŧa ʾaḫbarahu ʾannahu samiʿa ʿabda allahi wahūa abnu ʿumara yaḳūlu samiʿtu rasūla allahi ṣlʿm yaḳūlu alšsahru tisʿuȵ waʿišrūna
+ʾaḫbaranī ʿubaydu allahi bnu fa.dāla:ta bni ʾibrāhīma ḳāla ʾanbaʾanā mu.hammadu.n ḳāla .haddaṯanā muʿāwīa:tu .h waʾaḫbaranī ʾa.hmadu bnu mu.hammadi bni almu.gīra:ti ḳāla .haddaṯanā ʿuṯmānu bnu saʿīdi.n ʿan muʿāwīa:ta wāllaf.zu lahu ʿan ya.hyá bni ʾabī kaṯīri.n ʾanna ʾabā salama:ta ʾaḫbarahu ʾannahu samiʿa ʿabda allahi wahūa abnu ʿumara yaḳūlu samiʿtu rasūla allahi .slʿm yaḳūlu alšsahru tisʿu.n waʿišrūna
 
 ############################################################
 ## betaCodeManual>Arabic
-أَخْبَرَنِي عُبَيْدُ أَلَّهِ بْنُ فَضَالَةَ بْنِ إِبْرَاهِيمَ قَالَ أَنْبَأَنَا مُحَمَّدٌ قَالَ حَدَّثَنَا مُعَاوِيَةُ حْ وَأَخْبَرَنِي أَحْمَدُ بْنُ مُحَمَّدِ بْنِ أَلْمُغِيرَةِ قَالَ حَدَّثَنَا عُثْمَانُ بْنُ سَعِيدٍ عَنْ مُعَاوِيَةَ وَالَّفْظُ لَهُ عَنْ يَحْيٰى بْنِ أَبِي كَثِيرٍ أَنَّ أَبَا سَلَمَةَ أَخْبَرَهُ أَنَّهُ سَمِعَ عَبْدَ أَلَّهِ وَهُوَ أَبْنُ عُمَرَ يَقُولُ سَمِعْتُ رَسُولَ أَلَّهِ صْلْعْمْ يَقُولُ أَلْشْسَهْرُ تِسْعٌ وَعِشْرُونَ
+أَخْبَرَنِي عُبَيْدُ أَلَّهِ بْنُ فَ.دَالَ:تَ بْنِ إِبْرَاهِيمَ قَالَ أَنْبَأَنَا مُ.هَمَّدُ.نْ قَالَ .هَدَّثَنَا مُعَاوِيَ:تُ .هْ وَأَخْبَرَنِي أَ.هْمَدُ بْنُ مُ.هَمَّدِ بْنِ أَلْمُ.گِيرَ:تِ قَالَ .هَدَّثَنَا عُثْمَانُ بْنُ سَعِيدِ.نْ عَنْ مُعَاوِيَ:تَ وَالَّف.زُ لَهُ عَنْ يَ.هْيٰى بْنِ أَبِي كَثِيرِ.نْ أَنَّ أَبَا سَلَمَ:تَ أَخْبَرَهُ أَنَّهُ سَمِعَ عَبْدَ أَلَّهِ وَهُوَ أَبْنُ عُمَرَ يَقُولُ سَمِعْتُ رَسُولَ أَلَّهِ .سْلْعْمْ يَقُولُ أَلْشْسَهْرُ تِسْعُ.نْ وَعِشْرُونَ
 
 ############################################################
 ## TranslationBetaCode
@@ -29,5 +29,5 @@ Type your translation on this line
 
 ############################################################
 ## TranslationTranslit
-Translation with transliterated names will appear here
+Type your translation on this line
 

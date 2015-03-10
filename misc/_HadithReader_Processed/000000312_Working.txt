@@ -9,7 +9,7 @@
 
 ############################################################
 ## betaCodeAuto
-'a_hbaran_a mu.hammadu bnu `abdi al'a`l/a q_ala .hadda_tan_a _h_alidu.n q_ala .hadda_tan_a ^su`ba:tu `an `amriw bni d_in_ari.n q_ala sami`tu ^g_abira bna `abdi allahi yaq_ulu 'anna ras_ula allahi .sl`m q_ala 'i_d_a ^g_a'a 'a.hadukum waqad _hara^ga al'im_amu falyu.salli rak`atayni q_ala ^su`ba:tu yawma al^gumu`a:ti
+'a_hbaran_a mu*hammadu bnu `abdi al'a`l/a q_ala *hadda_tan_a _h_alidu*n q_ala *hadda_tan_a ^su`ba=tu `an `amriw bni d_in_ari*n q_ala sami`tu ^g_abira bna `abdi allahi yaq_ulu 'anna ras_ula allahi *sl`m q_ala 'i_d_a ^g_a'a 'a*hadukum waqad _hara^ga al'im_amu falyu*salli rak`atayni q_ala ^su`ba=tu yawma al^gumu`a=ti
 
 ############################################################
 ## betaCodeManual
@@ -17,11 +17,11 @@
 
 ############################################################
 ## betaCodeManual>Translit
-ʾaḫbaranā muḥammadu bnu ʿabdi alʾaʿlá ḳāla ḥaddaṯanā ḫāliduȵ ḳāla ḥaddaṯanā šuʿbaŧu ʿan ʿamriw bni dīnāriȵ ḳāla samiʿtu ǧābira bna ʿabdi allahi yaḳūlu ʾanna rasūla allahi ṣlʿm ḳāla ʾiḏā ǧāʾa ʾaḥadukum waḳad ḫaraǧa alʾimāmu falyuṣalli rakʿatayni ḳāla šuʿbaŧu yawma alǧumuʿaŧi
+ʾaḫbaranā mu.hammadu bnu ʿabdi alʾaʿlá ḳāla .haddaṯanā ḫālidu.n ḳāla .haddaṯanā šuʿba:tu ʿan ʿamriw bni dīnāri.n ḳāla samiʿtu ǧābira bna ʿabdi allahi yaḳūlu ʾanna rasūla allahi .slʿm ḳāla ʾiḏā ǧāʾa ʾa.hadukum waḳad ḫaraǧa alʾimāmu falyu.salli rakʿatayni ḳāla šuʿba:tu yawma alǧumuʿa:ti
 
 ############################################################
 ## betaCodeManual>Arabic
-أَخْبَرَنَا مُحَمَّدُ بْنُ عَبْدِ أَلْأَعْلٰى قَالَ حَدَّثَنَا خَالِدٌ قَالَ حَدَّثَنَا شُعْبَةُ عَنْ عَمْرِوْ بْنِ دِينَارٍ قَالَ سَمِعْتُ جَابِرَ بْنَ عَبْدِ أَلَّهِ يَقُولُ أَنَّ رَسُولَ أَلَّهِ صْلْعْمْ قَالَ إِذَا جاءَ أَحَدُكُمْ وَقَدْ خَرَجَ أَلْئِمَامُ فَلْيُصَلِّ رَكْعَتَيْنِ قَالَ شُعْبَةُ يَوْمَ أَلْجُمُعَةِ
+أَخْبَرَنَا مُ.هَمَّدُ بْنُ عَبْدِ أَلْأَعْلٰى قَالَ .هَدَّثَنَا خَالِدُ.نْ قَالَ .هَدَّثَنَا شُعْبَ:تُ عَنْ عَمْرِوْ بْنِ دِينَارِ.نْ قَالَ سَمِعْتُ جَابِرَ بْنَ عَبْدِ أَلَّهِ يَقُولُ أَنَّ رَسُولَ أَلَّهِ .سْلْعْمْ قَالَ إِذَا جاءَ أَ.هَدُكُمْ وَقَدْ خَرَجَ أَلْئِمَامُ فَلْيُ.سَلِّ رَكْعَتَيْنِ قَالَ شُعْبَ:تُ يَوْمَ أَلْجُمُعَ:تِ
 
 ############################################################
 ## TranslationBetaCode

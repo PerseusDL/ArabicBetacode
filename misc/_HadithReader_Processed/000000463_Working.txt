@@ -9,7 +9,7 @@
 
 ############################################################
 ## betaCodeAuto
-'a_hbaran_a 'a.hmadu bnu na.sri.n q_ala .hadda_tan_a `ubaydu allahi wah_ua abnu m_us/a `ani abni ^guray^gi.n `an `a.t_a'i.n `ani abni `abb_asi.n 'anna ras_ula allahi .sl`m tazawwa^ga maym_una:ta wah_ua mu.hrimu.n
+'a_hbaran_a 'a*hmadu bnu na*sri*n q_ala *hadda_tan_a `ubaydu allahi wah_ua abnu m_us/a `ani abni ^guray^gi*n `an `a*t_a'i*n `ani abni `abb_asi*n 'anna ras_ula allahi *sl`m tazawwa^ga maym_una=ta wah_ua mu*hrimu*n
 
 ############################################################
 ## betaCodeManual
@@ -17,11 +17,11 @@
 
 ############################################################
 ## betaCodeManual>Translit
-ʾaḫbaranā ʾaḥmadu bnu naṣriȵ ḳāla ḥaddaṯanā ʿubaydu allahi wahūa abnu mūsá ʿani abni ǧurayǧiȵ ʿan ʿaṭāʾiȵ ʿani abni ʿabbāsiȵ ʾanna rasūla allahi ṣlʿm tazawwaǧa maymūnaŧa wahūa muḥrimuȵ
+ʾaḫbaranā ʾa.hmadu bnu na.sri.n ḳāla .haddaṯanā ʿubaydu allahi wahūa abnu mūsá ʿani abni ǧurayǧi.n ʿan ʿa.tāʾi.n ʿani abni ʿabbāsi.n ʾanna rasūla allahi .slʿm tazawwaǧa maymūna:ta wahūa mu.hrimu.n
 
 ############################################################
 ## betaCodeManual>Arabic
-أَخْبَرَنَا أَحْمَدُ بْنُ نَصْرٍ قَالَ حَدَّثَنَا عُبَيْدُ أَلَّهِ وَهُوَ أَبْنُ مُوسٰى عَنِ أَبْنِ جُرَيْجٍ عَنْ عَطاءٍ عَنِ أَبْنِ عَبّاسٍ أَنَّ رَسُولَ أَلَّهِ صْلْعْمْ تَزَوَّجَ مَيْمُونَةَ وَهُوَ مُحْرِمٌ
+أَخْبَرَنَا أَ.هْمَدُ بْنُ نَ.سْرِ.نْ قَالَ .هَدَّثَنَا عُبَيْدُ أَلَّهِ وَهُوَ أَبْنُ مُوسٰى عَنِ أَبْنِ جُرَيْجِ.نْ عَنْ عَ.تاءِ.نْ عَنِ أَبْنِ عَبّاسِ.نْ أَنَّ رَسُولَ أَلَّهِ .سْلْعْمْ تَزَوَّجَ مَيْمُونَ:تَ وَهُوَ مُ.هْرِمُ.نْ
 
 ############################################################
 ## TranslationBetaCode

@@ -9,7 +9,7 @@
 
 ############################################################
 ## betaCodeAuto
-.hadda_tan_a 'ab_u bakri bnu 'ab_i ^sayba:ta .hadda_tan_a ya.hy/a bnu 'ab_i bukayri.n .hadda_tan_a zuhayru bnu mu.hammadi.n `an `abdi allahi bni mu.hammadi bni `aq_ili.n `an sa`_idi bni almusayyabi `an 'ab_i sa`_idi.n al_hudr_iyi 'annahu sami`a ras_ula allahi  .sl`m  yaq_ulu 'i_d_a q_ala al'im_amu sami`a allahu liman .hamidahu faq_ul_u_a allahumma rabban_a walaka al.hamdu
+*hadda_tan_a 'ab_u bakri bnu 'ab_i ^sayba=ta *hadda_tan_a ya*hy/a bnu 'ab_i bukayri*n *hadda_tan_a zuhayru bnu mu*hammadi*n `an `abdi allahi bni mu*hammadi bni `aq_ili*n `an sa`_idi bni almusayyabi `an 'ab_i sa`_idi*n al_hudr_iyi 'annahu sami`a ras_ula allahi  *sl`m  yaq_ulu 'i_d_a q_ala al'im_amu sami`a allahu liman *hamidahu faq_ul_u_a allahumma rabban_a walaka al*hamdu
 
 ############################################################
 ## betaCodeManual
@@ -17,11 +17,11 @@
 
 ############################################################
 ## betaCodeManual>Translit
-ḥaddaṯanā ʾabū bakri bnu ʾabī šaybaŧa ḥaddaṯanā yaḥyá bnu ʾabī bukayriȵ ḥaddaṯanā zuhayru bnu muḥammadiȵ ʿan ʿabdi allahi bni muḥammadi bni ʿaḳīliȵ ʿan saʿīdi bni almusayyabi ʿan ʾabī saʿīdiȵ alḫudrīyi ʾannahu samiʿa rasūla allahi  ṣlʿm  yaḳūlu ʾiḏā ḳāla alʾimāmu samiʿa allahu liman ḥamidahu faḳūlūā allahumma rabbanā walaka alḥamdu
+.haddaṯanā ʾabū bakri bnu ʾabī šayba:ta .haddaṯanā ya.hyá bnu ʾabī bukayri.n .haddaṯanā zuhayru bnu mu.hammadi.n ʿan ʿabdi allahi bni mu.hammadi bni ʿaḳīli.n ʿan saʿīdi bni almusayyabi ʿan ʾabī saʿīdi.n alḫudrīyi ʾannahu samiʿa rasūla allahi  .slʿm  yaḳūlu ʾiḏā ḳāla alʾimāmu samiʿa allahu liman .hamidahu faḳūlūā allahumma rabbanā walaka al.hamdu
 
 ############################################################
 ## betaCodeManual>Arabic
-حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ حَدَّثَنَا يَحْيٰى بْنُ أَبِي بُكَيْرٍ حَدَّثَنَا زُهَيْرُ بْنُ مُحَمَّدٍ عَنْ عَبْدِ أَلَّهِ بْنِ مُحَمَّدِ بْنِ عَقِيلٍ عَنْ سَعِيدِ بْنِ أَلْمُسَيَّبِ عَنْ أَبِي سَعِيدٍ أَلْخُدْرِييِ أَنَّهُ سَمِعَ رَسُولَ أَلَّهِ  صْلْعْمْ  يَقُولُ إِذَا قَالَ أَلْئِمَامُ سَمِعَ أَلَّهُ لِمَنْ حَمِدَهُ فَقُولُوا أَلَّهُمَّ رَبَّنَا وَلَكَ أَلْحَمْدُ
+.هَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَ:تَ .هَدَّثَنَا يَ.هْيٰى بْنُ أَبِي بُكَيْرِ.نْ .هَدَّثَنَا زُهَيْرُ بْنُ مُ.هَمَّدِ.نْ عَنْ عَبْدِ أَلَّهِ بْنِ مُ.هَمَّدِ بْنِ عَقِيلِ.نْ عَنْ سَعِيدِ بْنِ أَلْمُسَيَّبِ عَنْ أَبِي سَعِيدِ.نْ أَلْخُدْرِييِ أَنَّهُ سَمِعَ رَسُولَ أَلَّهِ  .سْلْعْمْ  يَقُولُ إِذَا قَالَ أَلْئِمَامُ سَمِعَ أَلَّهُ لِمَنْ .هَمِدَهُ فَقُولُوا أَلَّهُمَّ رَبَّنَا وَلَكَ أَل.هَمْدُ
 
 ############################################################
 ## TranslationBetaCode
@@ -29,5 +29,5 @@ Type your translation on this line
 
 ############################################################
 ## TranslationTranslit
-Translation with transliterated names will appear here
+Type your translation on this line
 

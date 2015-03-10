@@ -9,7 +9,7 @@
 
 ############################################################
 ## betaCodeAuto
-.hadda_tan_a mu.hammadu bnu ba^ss_ari.n .hadda_tan_a mu.hammadu bnu ^ga`fari.n .hadda_tan_a ^su`ba:tu `an hi^s_ami bni zaydi.n sami`tu 'anasa bna m_aliki.n yaq_ulu mi_tla _dalika
+*hadda_tan_a mu*hammadu bnu ba^ss_ari*n *hadda_tan_a mu*hammadu bnu ^ga`fari*n *hadda_tan_a ^su`ba=tu `an hi^s_ami bni zaydi*n sami`tu 'anasa bna m_aliki*n yaq_ulu mi_tla _dalika
 
 ############################################################
 ## betaCodeManual
@@ -17,11 +17,11 @@
 
 ############################################################
 ## betaCodeManual>Translit
-ḥaddaṯa-nā Muḥammadủ bnủ Baššārỉȵ , ḥaddaṯa-nā Muḥammadủ bnủ Ǧaʿfarỉȵ , ḥaddaṯanā Šuʿbaŧủ , ʿan Hišāmỉ bnỉ Zaydỉȵ samiʿtu ʾAnasả bnả Mālikỉȵ yaḳūlu miṯlả ḏãlika
+.haddaṯa-nā Mu.hammadủ bnủ Baššārỉ.n , .haddaṯa-nā Mu.hammadủ bnủ Ǧaʿfarỉ.n , .haddaṯanā Šuʿba:tủ , ʿan Hišāmỉ bnỉ Zaydỉ.n samiʿtu ʾAnasả bnả Mālikỉ.n yaḳūlu miṯlả ḏãlika
 
 ############################################################
 ## betaCodeManual>Arabic
-حَدَّثَنَا مُحَمَّدُ بْنُ بَشّارٍ ، حَدَّثَنَا مُحَمَّدُ بْنُ جَعْفَرٍ ، حَدَّثَنَا شُعْبَةُ ، عَنْ هِشَامِ بْنِ زَيْدٍ سَمِعْتُ أَنَسَ بْنَ مَالِكٍ يَقُولُ مِثْلَ ذٰلِكَ
+.هَدَّثَنَا مُ.هَمَّدُ بْنُ بَشّارِ.نْ ، .هَدَّثَنَا مُ.هَمَّدُ بْنُ جَعْفَرِ.نْ ، .هَدَّثَنَا شُعْبَ:تُ ، عَنْ هِشَامِ بْنِ زَيْدِ.نْ سَمِعْتُ أَنَسَ بْنَ مَالِكِ.نْ يَقُولُ مِثْلَ ذٰلِكَ
 
 ############################################################
 ## TranslationBetaCode
@@ -29,5 +29,5 @@ Mu.hammad b. Ba^s^s_ar narrated to us, Mu.hammad b. ^Ga`far narrated to us, from
 
 ############################################################
 ## TranslationTranslit
-Muḥammad b. Baššār narrated to us, Muḥammad b. Ǧaʿfar narrated to us, from Hišām b. Zayd: I heard Anas b. Mālik saying something like that.
+Mu.hammad b. Baššār narrated to us, Mu.hammad b. Ǧaʿfar narrated to us, from Hišām b. Zayd: I heard Anas b. Mālik saying something like that.
 

@@ -9,7 +9,7 @@
 
 ############################################################
 ## betaCodeAuto
-'a_hbaran_i 'ibr_ah_imu bnu mu.hammadi.n q_ala .hadda_tan_a ya.hy/a bnu sa`_idi.n `an ^su`ba:ta `an qat_ada:ta `an ^g_abiri bni zaydi.n `ani abni `abb_asi.n q_ala _dukira liras_uli allahi .sl`m bintu .hamza:ta faq_ala 'innah_a abna:tu 'a_h_i mina alrra.d_a`a:ti q_ala ^su`ba:tu ha_d_a sami`ahu qat_ada:tu min ^g_abiri bni zaydi.n
+'a_hbaran_i 'ibr_ah_imu bnu mu*hammadi*n q_ala *hadda_tan_a ya*hy/a bnu sa`_idi*n `an ^su`ba=ta `an qat_ada=ta `an ^g_abiri bni zaydi*n `ani abni `abb_asi*n q_ala _dukira liras_uli allahi *sl`m bintu *hamza=ta faq_ala 'innah_a abna=tu 'a_h_i mina alrra*d_a`a=ti q_ala ^su`ba=tu ha_d_a sami`ahu qat_ada=tu min ^g_abiri bni zaydi*n
 
 ############################################################
 ## betaCodeManual
@@ -17,11 +17,11 @@
 
 ############################################################
 ## betaCodeManual>Translit
-ʾaḫbaranī ʾibrāhīmu bnu muḥammadiȵ ḳāla ḥaddaṯanā yaḥyá bnu saʿīdiȵ ʿan šuʿbaŧa ʿan ḳatādaŧa ʿan ǧābiri bni zaydiȵ ʿani abni ʿabbāsiȵ ḳāla ḏukira lirasūli allahi ṣlʿm bintu ḥamzaŧa faḳāla ʾinnahā abnaŧu ʾaḫī mina alrraḍāʿaŧi ḳāla šuʿbaŧu haḏā samiʿahu ḳatādaŧu min ǧābiri bni zaydiȵ
+ʾaḫbaranī ʾibrāhīmu bnu mu.hammadi.n ḳāla .haddaṯanā ya.hyá bnu saʿīdi.n ʿan šuʿba:ta ʿan ḳatāda:ta ʿan ǧābiri bni zaydi.n ʿani abni ʿabbāsi.n ḳāla ḏukira lirasūli allahi .slʿm bintu .hamza:ta faḳāla ʾinnahā abna:tu ʾaḫī mina alrra.dāʿa:ti ḳāla šuʿba:tu haḏā samiʿahu ḳatāda:tu min ǧābiri bni zaydi.n
 
 ############################################################
 ## betaCodeManual>Arabic
-أَخْبَرَنِي إِبْرَاهِيمُ بْنُ مُحَمَّدٍ قَالَ حَدَّثَنَا يَحْيٰى بْنُ سَعِيدٍ عَنْ شُعْبَةَ عَنْ قَتَادَةَ عَنْ جَابِرِ بْنِ زَيْدٍ عَنِ أَبْنِ عَبّاسٍ قَالَ ذُكِرَ لِرَسُولِ أَلَّهِ صْلْعْمْ بِنْتُ حَمْزَةَ فَقَالَ إِنَّهَا أَبْنَةُ أَخِي مِنَ أَلْرَّضَاعَةِ قَالَ شُعْبَةُ هَذَا سَمِعَهُ قَتَادَةُ مِنْ جَابِرِ بْنِ زَيْدٍ
+أَخْبَرَنِي إِبْرَاهِيمُ بْنُ مُ.هَمَّدِ.نْ قَالَ .هَدَّثَنَا يَ.هْيٰى بْنُ سَعِيدِ.نْ عَنْ شُعْبَ:تَ عَنْ قَتَادَ:تَ عَنْ جَابِرِ بْنِ زَيْدِ.نْ عَنِ أَبْنِ عَبّاسِ.نْ قَالَ ذُكِرَ لِرَسُولِ أَلَّهِ .سْلْعْمْ بِنْتُ .هَمْزَ:تَ فَقَالَ إِنَّهَا أَبْنَ:تُ أَخِي مِنَ أَلْرَّ.دَاعَ:تِ قَالَ شُعْبَ:تُ هَذَا سَمِعَهُ قَتَادَ:تُ مِنْ جَابِرِ بْنِ زَيْدِ.نْ
 
 ############################################################
 ## TranslationBetaCode

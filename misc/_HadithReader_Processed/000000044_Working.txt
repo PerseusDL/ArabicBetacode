@@ -9,7 +9,7 @@
 
 ############################################################
 ## betaCodeAuto
-.hadda_tan_a mu.hammadu bnu ba^ss_ari.n .hadda_tan_a mu.hammadu bnu ^ga`fari.n .hadda_tan_a ^su`ba:tu biha_d_a al'isn_adi na.hwahu q_ala 'ab_u `_is/a ha_d_a .had_i_tu.n .hasanu.n .sa.h_i.hu.n
+*hadda_tan_a mu*hammadu bnu ba^ss_ari*n *hadda_tan_a mu*hammadu bnu ^ga`fari*n *hadda_tan_a ^su`ba=tu biha_d_a al'isn_adi na*hwahu q_ala 'ab_u `_is/a ha_d_a *had_i_tu*n *hasanu*n *sa*h_i*hu*n
 
 ############################################################
 ## betaCodeManual
@@ -17,11 +17,11 @@
 
 ############################################################
 ## betaCodeManual>Translit
-ḥaddaṯa-nā Muḥammadủ bnủ Baššārỉȵ ḥaddaṯa-nā Muḥammadủ bnủ Ǧaʿfarỉȵ ḥaddaṯa-nā Šuʿbaŧủ bi-hãḏā al-ʾisnādỉ naḥwa-hu ( š ) ḳāla ʾAbū ʿĪsá hãḏā ḥadīṯủȵ ḥasanủȵ ṣaḥīḥủȵ
+.haddaṯa-nā Mu.hammadủ bnủ Baššārỉ.n .haddaṯa-nā Mu.hammadủ bnủ Ǧaʿfarỉ.n .haddaṯa-nā Šuʿba:tủ bi-hãḏā al-ʾisnādỉ na.hwa-hu ( š ) ḳāla ʾAbū ʿĪsá hãḏā .hadīṯủ.n .hasanủ.n .sa.hī.hủ.n
 
 ############################################################
 ## betaCodeManual>Arabic
-حَدَّثَنَا مُحَمَّدُ بْنُ بَشّارٍ حَدَّثَنَا مُحَمَّدُ بْنُ جَعْفَرٍ حَدَّثَنَا شُعْبَةُ بِهٰذَا ﭐلْإِسْنَادِ نَحْوَهُ ( شْ ) قَالَ أَبُو عِيسٰى هٰذَا حَدِيثٌ حَسَنٌ صَحِيحٌ
+.هَدَّثَنَا مُ.هَمَّدُ بْنُ بَشّارِ.نْ .هَدَّثَنَا مُ.هَمَّدُ بْنُ جَعْفَرِ.نْ .هَدَّثَنَا شُعْبَ:تُ بِهٰذَا ﭐلْإِسْنَادِ نَ.هْوَهُ ( شْ ) قَالَ أَبُو عِيسٰى هٰذَا .هَدِيثُ.نْ .هَسَنُ.نْ .سَ.هِي.هُ.نْ
 
 ############################################################
 ## TranslationBetaCode
@@ -29,5 +29,5 @@ Mu.hammad b. Ba^s^s_ar narrated to us : Mu.hammad b. ^Ga`far narrated to us : Sh
 
 ############################################################
 ## TranslationTranslit
-Muḥammad b. Baššār narrated to us : Muḥammad b. Ǧaʿfar narrated to us : Shuʿbaŧ narrated to us with this chain something like it ( š ) ʾAbū ʿĪsá said this is a sound, good report
+Mu.hammad b. Baššār narrated to us : Mu.hammad b. Ǧaʿfar narrated to us : Shuʿba:t narrated to us with this chain something like it ( š ) ʾAbū ʿĪsá said this is a sound, good report
 

@@ -9,7 +9,7 @@
 
 ############################################################
 ## betaCodeAuto
-.hadda_tan_a mu.hammadu bnu ba^ss_ari.n .hadda_tan_a `abdu alwahh_abi .hadda_tan_a .humaydu.n `an 'anasi.n 'anna ras_ula allahi  .sl`m  k_ana yarfa`u yadayhi 'i_d_a da_hala f_i al.ssal_a:ti wa'i_d_a raka`a
+*hadda_tan_a mu*hammadu bnu ba^ss_ari*n *hadda_tan_a `abdu alwahh_abi *hadda_tan_a *humaydu*n `an 'anasi*n 'anna ras_ula allahi  *sl`m  k_ana yarfa`u yadayhi 'i_d_a da_hala f_i al*ssal_a=ti wa'i_d_a raka`a
 
 ############################################################
 ## betaCodeManual
@@ -17,11 +17,11 @@
 
 ############################################################
 ## betaCodeManual>Translit
-ḥaddaṯanā muḥammadu bnu bašsāriȵ ḥaddaṯanā ʿabdu alwahhābi ḥaddaṯanā ḥumayduȵ ʿan ʾanasiȵ ʾanna rasūla allahi  ṣlʿm  kāna yarfaʿu yadayhi ʾiḏā daḫala fī alṣsalāŧi waʾiḏā rakaʿa
+.haddaṯanā mu.hammadu bnu bašsāri.n .haddaṯanā ʿabdu alwahhābi .haddaṯanā .humaydu.n ʿan ʾanasi.n ʾanna rasūla allahi  .slʿm  kāna yarfaʿu yadayhi ʾiḏā daḫala fī al.ssalā:ti waʾiḏā rakaʿa
 
 ############################################################
 ## betaCodeManual>Arabic
-حَدَّثَنَا مُحَمَّدُ بْنُ بَشْسَارٍ حَدَّثَنَا عَبْدُ أَلْوَهّابِ حَدَّثَنَا حُمَيْدٌ عَنْ أَنَسٍ أَنَّ رَسُولَ أَلَّهِ  صْلْعْمْ  كَانَ يَرْفَعُ يَدَيْهِ إِذَا دَخَلَ فِي أَلْصْسَلَاةِ وَئِذَا رَكَعَ
+.هَدَّثَنَا مُ.هَمَّدُ بْنُ بَشْسَارِ.نْ .هَدَّثَنَا عَبْدُ أَلْوَهّابِ .هَدَّثَنَا .هُمَيْدُ.نْ عَنْ أَنَسِ.نْ أَنَّ رَسُولَ أَلَّهِ  .سْلْعْمْ  كَانَ يَرْفَعُ يَدَيْهِ إِذَا دَخَلَ فِي أَل.سَّلَا:تِ وَئِذَا رَكَعَ
 
 ############################################################
 ## TranslationBetaCode

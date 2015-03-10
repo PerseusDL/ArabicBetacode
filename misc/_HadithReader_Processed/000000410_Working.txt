@@ -9,7 +9,7 @@
 
 ############################################################
 ## betaCodeAuto
-.hadda_tan_a mu.hammadu bnu ba^ss_ari.n .hadda_tan_a 'ab_u d_awuda .hadda_tan_a ^su`ba:tu `an sa`_idi bni 'ab_i burda:ta `an 'ab_ihi `an 'ab_i m_us/a q_ala q_ala ras_ulu allahi  .sl`m  kullu muskiri.n .har_amu.n
+*hadda_tan_a mu*hammadu bnu ba^ss_ari*n *hadda_tan_a 'ab_u d_awuda *hadda_tan_a ^su`ba=tu `an sa`_idi bni 'ab_i burda=ta `an 'ab_ihi `an 'ab_i m_us/a q_ala q_ala ras_ulu allahi  *sl`m  kullu muskiri*n *har_amu*n
 
 ############################################################
 ## betaCodeManual
@@ -17,11 +17,11 @@
 
 ############################################################
 ## betaCodeManual>Translit
-ḥaddaṯanā muḥammadu bnu bašsāriȵ ḥaddaṯanā ʾabū dāwuda ḥaddaṯanā šuʿbaŧu ʿan saʿīdi bni ʾabī burdaŧa ʿan ʾabīhi ʿan ʾabī mūsá ḳāla ḳāla rasūlu allahi  ṣlʿm  kullu muskiriȵ ḥarāmuȵ
+.haddaṯanā mu.hammadu bnu bašsāri.n .haddaṯanā ʾabū dāwuda .haddaṯanā šuʿba:tu ʿan saʿīdi bni ʾabī burda:ta ʿan ʾabīhi ʿan ʾabī mūsá ḳāla ḳāla rasūlu allahi  .slʿm  kullu muskiri.n .harāmu.n
 
 ############################################################
 ## betaCodeManual>Arabic
-حَدَّثَنَا مُحَمَّدُ بْنُ بَشْسَارٍ حَدَّثَنَا أَبُو دَاوُدَ حَدَّثَنَا شُعْبَةُ عَنْ سَعِيدِ بْنِ أَبِي بُرْدَةَ عَنْ أَبِيهِ عَنْ أَبِي مُوسٰى قَالَ قَالَ رَسُولُ أَلَّهِ  صْلْعْمْ  كُلُّ مُسْكِرٍ حَرَامٌ
+.هَدَّثَنَا مُ.هَمَّدُ بْنُ بَشْسَارِ.نْ .هَدَّثَنَا أَبُو دَاوُدَ .هَدَّثَنَا شُعْبَ:تُ عَنْ سَعِيدِ بْنِ أَبِي بُرْدَ:تَ عَنْ أَبِيهِ عَنْ أَبِي مُوسٰى قَالَ قَالَ رَسُولُ أَلَّهِ  .سْلْعْمْ  كُلُّ مُسْكِرِ.نْ .هَرَامُ.نْ
 
 ############################################################
 ## TranslationBetaCode

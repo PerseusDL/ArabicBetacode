@@ -9,7 +9,7 @@
 
 ############################################################
 ## betaCodeAuto
-'a_hbaran_a qutayba:tu q_ala .hadda_tan_a `abdu alw_a.hidi `ani al'a`ma^si q_ala .hadda_tan_a 'ibr_ah_imu q_ala sami`tu `abda alrra.hmani bna yaz_ida .h wa'anba'an_a ma.hm_udu bnu .gayl_ana q_ala .hadda_tan_a ya.hy/a bnu 'adama q_ala .hadda_tan_a sufy_anu `ani al'a`ma^si `an 'ibr_ah_ima `an `abdi alrra.hmani bni yaz_ida `an `abdi allahi r.d/a allh `nh q_ala .sallaytu bimina.n/a ma`a ras_uli allahi .sl`m rak`atayni
+'a_hbaran_a qutayba=tu q_ala *hadda_tan_a `abdu alw_a*hidi `ani al'a`ma^si q_ala *hadda_tan_a 'ibr_ah_imu q_ala sami`tu `abda alrra*hmani bna yaz_ida *h wa'anba'an_a ma*hm_udu bnu *gayl_ana q_ala *hadda_tan_a ya*hy/a bnu 'adama q_ala *hadda_tan_a sufy_anu `ani al'a`ma^si `an 'ibr_ah_ima `an `abdi alrra*hmani bni yaz_ida `an `abdi allahi r*d/a allh `nh q_ala *sallaytu bimina*n/a ma`a ras_uli allahi *sl`m rak`atayni
 
 ############################################################
 ## betaCodeManual
@@ -17,11 +17,11 @@
 
 ############################################################
 ## betaCodeManual>Translit
-ʾaḫbaranā ḳutaybaŧu ḳāla ḥaddaṯanā ʿabdu alwāḥidi ʿani alʾaʿmaši ḳāla ḥaddaṯanā ʾibrāhīmu ḳāla samiʿtu ʿabda alrraḥmani bna yazīda ḥ waʾanbaʾanā maḥmūdu bnu ġaylāna ḳāla ḥaddaṯanā yaḥyá bnu ʾadama ḳāla ḥaddaṯanā sufyānu ʿani alʾaʿmaši ʿan ʾibrāhīma ʿan ʿabdi alrraḥmani bni yazīda ʿan ʿabdi allahi rḍá allh ʿnh ḳāla ṣallaytu biminaȵá maʿa rasūli allahi ṣlʿm rakʿatayni
+ʾaḫbaranā ḳutayba:tu ḳāla .haddaṯanā ʿabdu alwā.hidi ʿani alʾaʿmaši ḳāla .haddaṯanā ʾibrāhīmu ḳāla samiʿtu ʿabda alrra.hmani bna yazīda .h waʾanbaʾanā ma.hmūdu bnu .gaylāna ḳāla .haddaṯanā ya.hyá bnu ʾadama ḳāla .haddaṯanā sufyānu ʿani alʾaʿmaši ʿan ʾibrāhīma ʿan ʿabdi alrra.hmani bni yazīda ʿan ʿabdi allahi r.dá allh ʿnh ḳāla .sallaytu bimina.ná maʿa rasūli allahi .slʿm rakʿatayni
 
 ############################################################
 ## betaCodeManual>Arabic
-أَخْبَرَنَا قُتَيْبَةُ قَالَ حَدَّثَنَا عَبْدُ أَلْوَاحِدِ عَنِ أَلْأَعْمَشِ قَالَ حَدَّثَنَا إِبْرَاهِيمُ قَالَ سَمِعْتُ عَبْدَ أَلْرَّحْمَنِ بْنَ يَزِيدَ حْ وَأَنْبَأَنَا مَحْمُودُ بْنُ غَيْلَانَ قَالَ حَدَّثَنَا يَحْيٰى بْنُ أَدَمَ قَالَ حَدَّثَنَا سُفْيَانُ عَنِ أَلْأَعْمَشِ عَنْ إِبْرَاهِيمَ عَنْ عَبْدِ أَلْرَّحْمَنِ بْنِ يَزِيدَ عَنْ عَبْدِ أَلَّهِ رْضٰى أَلّهْ عْنْهْ قَالَ صَلَّيْتُ بِمِناًٰى مَعَ رَسُولِ أَلَّهِ صْلْعْمْ رَكْعَتَيْنِ
+أَخْبَرَنَا قُتَيْبَ:تُ قَالَ .هَدَّثَنَا عَبْدُ أَلْوَا.هِدِ عَنِ أَلْأَعْمَشِ قَالَ .هَدَّثَنَا إِبْرَاهِيمُ قَالَ سَمِعْتُ عَبْدَ أَلْرَّ.هْمَنِ بْنَ يَزِيدَ .هْ وَأَنْبَأَنَا مَ.هْمُودُ بْنُ .گَيْلَانَ قَالَ .هَدَّثَنَا يَ.هْيٰى بْنُ أَدَمَ قَالَ .هَدَّثَنَا سُفْيَانُ عَنِ أَلْأَعْمَشِ عَنْ إِبْرَاهِيمَ عَنْ عَبْدِ أَلْرَّ.هْمَنِ بْنِ يَزِيدَ عَنْ عَبْدِ أَلَّهِ ر.دٰى أَلّهْ عْنْهْ قَالَ .سَلَّيْتُ بِمِنَ.نٰى مَعَ رَسُولِ أَلَّهِ .سْلْعْمْ رَكْعَتَيْنِ
 
 ############################################################
 ## TranslationBetaCode

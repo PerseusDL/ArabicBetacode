@@ -9,7 +9,7 @@
 
 ############################################################
 ## betaCodeAuto
-.hadda_tan_a mu.hammadu bnu almu_tann/a .hadda_tan_a ya.hy/a bnu sa`_idi.n .hadda_tan_a hi^s_amu.n biha_d_a al'isn_adi mi_tlahu
+*hadda_tan_a mu*hammadu bnu almu_tann/a *hadda_tan_a ya*hy/a bnu sa`_idi*n *hadda_tan_a hi^s_amu*n biha_d_a al'isn_adi mi_tlahu
 
 ############################################################
 ## betaCodeManual
@@ -17,11 +17,11 @@
 
 ############################################################
 ## betaCodeManual>Translit
-ḥaddaṯanā muḥammadu bnu almuṯanná ḥaddaṯanā yaḥyá bnu saʿīdiȵ ḥaddaṯanā hišāmuȵ bihaḏā alʾisnādi miṯlahu
+.haddaṯanā mu.hammadu bnu almuṯanná .haddaṯanā ya.hyá bnu saʿīdi.n .haddaṯanā hišāmu.n bihaḏā alʾisnādi miṯlahu
 
 ############################################################
 ## betaCodeManual>Arabic
-حَدَّثَنَا مُحَمَّدُ بْنُ أَلْمُثَنّٰى حَدَّثَنَا يَحْيٰى بْنُ سَعِيدٍ حَدَّثَنَا هِشَامٌ بِهَذَا أَلْئِسْنَادِ مِثْلَهُ
+.هَدَّثَنَا مُ.هَمَّدُ بْنُ أَلْمُثَنّٰى .هَدَّثَنَا يَ.هْيٰى بْنُ سَعِيدِ.نْ .هَدَّثَنَا هِشَامُ.نْ بِهَذَا أَلْئِسْنَادِ مِثْلَهُ
 
 ############################################################
 ## TranslationBetaCode

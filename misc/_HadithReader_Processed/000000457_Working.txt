@@ -9,7 +9,7 @@
 
 ############################################################
 ## betaCodeAuto
-.hadda_tan_a mu.hammadu bnu ka_t_iri.n 'a_hbaran_a sufy_anu `ani abni almunkadiri q_ala sami`tu ^g_abira.n_a  r.d/a allh `nh  yaq_ulu m_a su'ila alnnab_iyu .sl`m `an ^s/a'i.n qa.ttu faq_ala l_a
+*hadda_tan_a mu*hammadu bnu ka_t_iri*n 'a_hbaran_a sufy_anu `ani abni almunkadiri q_ala sami`tu ^g_abira*n_a  r*d/a allh `nh  yaq_ulu m_a su'ila alnnab_iyu *sl`m `an ^s/a'i*n qa*ttu faq_ala l_a
 
 ############################################################
 ## betaCodeManual
@@ -17,11 +17,11 @@
 
 ############################################################
 ## betaCodeManual>Translit
-ḥaddaṯanā muḥammadu bnu kaṯīriȵ ʾaḫbaranā sufyānu ʿani abni almunkadiri ḳāla samiʿtu ǧābiraȵā  rḍá allh ʿnh  yaḳūlu mā suʾila alnnabīyu ṣlʿm ʿan šáʾiȵ ḳaṭtu faḳāla lā
+.haddaṯanā mu.hammadu bnu kaṯīri.n ʾaḫbaranā sufyānu ʿani abni almunkadiri ḳāla samiʿtu ǧābira.nā  r.dá allh ʿnh  yaḳūlu mā suʾila alnnabīyu .slʿm ʿan šáʾi.n ḳa.ttu faḳāla lā
 
 ############################################################
 ## betaCodeManual>Arabic
-حَدَّثَنَا مُحَمَّدُ بْنُ كَثِيرٍ أَخْبَرَنَا سُفْيَانُ عَنِ أَبْنِ أَلْمُنْكَدِرِ قَالَ سَمِعْتُ جَابِراًا  رْضٰى أَلّهْ عْنْهْ  يَقُولُ مَا سُئِلَ أَلْنَّبِييُ صْلْعْمْ عَنْ شٰىءٍ قَطْتُ فَقَالَ لَا
+.هَدَّثَنَا مُ.هَمَّدُ بْنُ كَثِيرِ.نْ أَخْبَرَنَا سُفْيَانُ عَنِ أَبْنِ أَلْمُنْكَدِرِ قَالَ سَمِعْتُ جَابِرَ.نَا  ر.دٰى أَلّهْ عْنْهْ  يَقُولُ مَا سُئِلَ أَلْنَّبِييُ .سْلْعْمْ عَنْ شٰىءِ.نْ قَ.تُّ فَقَالَ لَا
 
 ############################################################
 ## TranslationBetaCode

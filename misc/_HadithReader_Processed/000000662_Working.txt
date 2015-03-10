@@ -9,7 +9,7 @@
 
 ############################################################
 ## betaCodeAuto
-.hadda_tan_a mu.hammadu bnu ya.hy/a bni f_arisi.n .hadda_tan_a ya`q_ubu bnu 'ibr_ah_ima bni sa`di.n .hadda_tan_a 'ab_i `ani abni 'is.h_aqa .hadda_tan_i `abdu allahi bnu 'ab_i bakri.n `an `amra:ta binti `abdi alrra.hmani `an `_a'i^sa:ta q_alat m_ata 'ibr_ah_imu abnu alnnab_iyi .sl`m wah_ua abnu _tam_an_ia:ta `a^sara ^sahra.n_a falam yu.salli `alayhi ras_ulu allahi .sl`m
+*hadda_tan_a mu*hammadu bnu ya*hy/a bni f_arisi*n *hadda_tan_a ya`q_ubu bnu 'ibr_ah_ima bni sa`di*n *hadda_tan_a 'ab_i `ani abni 'is*h_aqa *hadda_tan_i `abdu allahi bnu 'ab_i bakri*n `an `amra=ta binti `abdi alrra*hmani `an `_a'i^sa=ta q_alat m_ata 'ibr_ah_imu abnu alnnab_iyi *sl`m wah_ua abnu _tam_an_ia=ta `a^sara ^sahra*n_a falam yu*salli `alayhi ras_ulu allahi *sl`m
 
 ############################################################
 ## betaCodeManual
@@ -17,11 +17,11 @@
 
 ############################################################
 ## betaCodeManual>Translit
-ḥaddaṯanā muḥammadu bnu yaḥyá bni fārisiȵ ḥaddaṯanā yaʿḳūbu bnu ʾibrāhīma bni saʿdiȵ ḥaddaṯanā ʾabī ʿani abni ʾisḥāḳa ḥaddaṯanī ʿabdu allahi bnu ʾabī bakriȵ ʿan ʿamraŧa binti ʿabdi alrraḥmani ʿan ʿāʾišaŧa ḳālat māta ʾibrāhīmu abnu alnnabīyi ṣlʿm wahūa abnu ṯamānīaŧa ʿašara šahraȵā falam yuṣalli ʿalayhi rasūlu allahi ṣlʿm
+.haddaṯanā mu.hammadu bnu ya.hyá bni fārisi.n .haddaṯanā yaʿḳūbu bnu ʾibrāhīma bni saʿdi.n .haddaṯanā ʾabī ʿani abni ʾis.hāḳa .haddaṯanī ʿabdu allahi bnu ʾabī bakri.n ʿan ʿamra:ta binti ʿabdi alrra.hmani ʿan ʿāʾiša:ta ḳālat māta ʾibrāhīmu abnu alnnabīyi .slʿm wahūa abnu ṯamānīa:ta ʿašara šahra.nā falam yu.salli ʿalayhi rasūlu allahi .slʿm
 
 ############################################################
 ## betaCodeManual>Arabic
-حَدَّثَنَا مُحَمَّدُ بْنُ يَحْيٰى بْنِ فَارِسٍ حَدَّثَنَا يَعْقُوبُ بْنُ إِبْرَاهِيمَ بْنِ سَعْدٍ حَدَّثَنَا أَبِي عَنِ أَبْنِ إِسْحَاقَ حَدَّثَنِي عَبْدُ أَلَّهِ بْنُ أَبِي بَكْرٍ عَنْ عَمْرَةَ بِنْتِ عَبْدِ أَلْرَّحْمَنِ عَنْ عائِشَةَ قَالَتْ مَاتَ إِبْرَاهِيمُ أَبْنُ أَلْنَّبِييِ صْلْعْمْ وَهُوَ أَبْنُ ثَمَانِيَةَ عَشَرَ شَهْراًا فَلَمْ يُصَلِّ عَلَيْهِ رَسُولُ أَلَّهِ صْلْعْمْ
+.هَدَّثَنَا مُ.هَمَّدُ بْنُ يَ.هْيٰى بْنِ فَارِسِ.نْ .هَدَّثَنَا يَعْقُوبُ بْنُ إِبْرَاهِيمَ بْنِ سَعْدِ.نْ .هَدَّثَنَا أَبِي عَنِ أَبْنِ إِس.هَاقَ .هَدَّثَنِي عَبْدُ أَلَّهِ بْنُ أَبِي بَكْرِ.نْ عَنْ عَمْرَ:تَ بِنْتِ عَبْدِ أَلْرَّ.هْمَنِ عَنْ عائِشَ:تَ قَالَتْ مَاتَ إِبْرَاهِيمُ أَبْنُ أَلْنَّبِييِ .سْلْعْمْ وَهُوَ أَبْنُ ثَمَانِيَ:تَ عَشَرَ شَهْرَ.نَا فَلَمْ يُ.سَلِّ عَلَيْهِ رَسُولُ أَلَّهِ .سْلْعْمْ
 
 ############################################################
 ## TranslationBetaCode
@@ -29,5 +29,5 @@ Type your translation on this line
 
 ############################################################
 ## TranslationTranslit
-Translation with transliterated names will appear here
+Type your translation on this line
 

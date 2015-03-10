@@ -9,7 +9,7 @@
 
 ############################################################
 ## betaCodeAuto
-wa.hadda_tan_a 'ab_u bakri bnu 'ab_i ^sayba:ta 'a_hbaran_a wak_i`u.n .h wa.hadda_tan_i mu.hammadu bnu .h_atimi.n .hadda_tan_a ya.hy/a bnu sa`_idi.n ^gam_i`a.n_a `ani abni ^guray^gi.n `an 'ab_i alzzubayri `an ^g_abiri bni `abdi allahi q_ala nah/a ras_ulu allahi .sl`m `an bay`i fa.dli alm_a'i
+wa*hadda_tan_a 'ab_u bakri bnu 'ab_i ^sayba=ta 'a_hbaran_a wak_i`u*n *h wa*hadda_tan_i mu*hammadu bnu *h_atimi*n *hadda_tan_a ya*hy/a bnu sa`_idi*n ^gam_i`a*n_a `ani abni ^guray^gi*n `an 'ab_i alzzubayri `an ^g_abiri bni `abdi allahi q_ala nah/a ras_ulu allahi *sl`m `an bay`i fa*dli alm_a'i
 
 ############################################################
 ## betaCodeManual
@@ -17,11 +17,11 @@ wa.hadda_tan_a 'ab_u bakri bnu 'ab_i ^sayba:ta 'a_hbaran_a wak_i`u.n .h wa.hadda
 
 ############################################################
 ## betaCodeManual>Translit
-waḥaddaṯanā ʾabū bakri bnu ʾabī šaybaŧa ʾaḫbaranā wakīʿuȵ ḥ waḥaddaṯanī muḥammadu bnu ḥātimiȵ ḥaddaṯanā yaḥyá bnu saʿīdiȵ ǧamīʿaȵā ʿani abni ǧurayǧiȵ ʿan ʾabī alzzubayri ʿan ǧābiri bni ʿabdi allahi ḳāla nahá rasūlu allahi ṣlʿm ʿan bayʿi faḍli almāʾi
+wa.haddaṯanā ʾabū bakri bnu ʾabī šayba:ta ʾaḫbaranā wakīʿu.n .h wa.haddaṯanī mu.hammadu bnu .hātimi.n .haddaṯanā ya.hyá bnu saʿīdi.n ǧamīʿa.nā ʿani abni ǧurayǧi.n ʿan ʾabī alzzubayri ʿan ǧābiri bni ʿabdi allahi ḳāla nahá rasūlu allahi .slʿm ʿan bayʿi fa.dli almāʾi
 
 ############################################################
 ## betaCodeManual>Arabic
-وَحَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ أَخْبَرَنَا وَكِيعٌ حْ وَحَدَّثَنِي مُحَمَّدُ بْنُ حَاتِمٍ حَدَّثَنَا يَحْيٰى بْنُ سَعِيدٍ جَمِيعاًا عَنِ أَبْنِ جُرَيْجٍ عَنْ أَبِي أَلْزُّبَيْرِ عَنْ جَابِرِ بْنِ عَبْدِ أَلَّهِ قَالَ نَهٰى رَسُولُ أَلَّهِ صْلْعْمْ عَنْ بَيْعِ فَضْلِ أَلْماءِ
+وَ.هَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَ:تَ أَخْبَرَنَا وَكِيعُ.نْ .هْ وَ.هَدَّثَنِي مُ.هَمَّدُ بْنُ .هَاتِمِ.نْ .هَدَّثَنَا يَ.هْيٰى بْنُ سَعِيدِ.نْ جَمِيعَ.نَا عَنِ أَبْنِ جُرَيْجِ.نْ عَنْ أَبِي أَلْزُّبَيْرِ عَنْ جَابِرِ بْنِ عَبْدِ أَلَّهِ قَالَ نَهٰى رَسُولُ أَلَّهِ .سْلْعْمْ عَنْ بَيْعِ فَ.دْلِ أَلْماءِ
 
 ############################################################
 ## TranslationBetaCode

@@ -9,7 +9,7 @@
 
 ############################################################
 ## betaCodeAuto
-wa.hadda_tan_a abnu 'ab_i `umara .hadda_tan_a sufy_anu `an 'ab_i alzzin_adi `ani al'a`ra^gi `an 'ab_i hurayra:ta `ani alnnab_iyi .sl`m mi_tlahu 'aw na.hwahu
+wa*hadda_tan_a abnu 'ab_i `umara *hadda_tan_a sufy_anu `an 'ab_i alzzin_adi `ani al'a`ra^gi `an 'ab_i hurayra=ta `ani alnnab_iyi *sl`m mi_tlahu 'aw na*hwahu
 
 ############################################################
 ## betaCodeManual
@@ -17,11 +17,11 @@ wa.hadda_tan_a abnu 'ab_i `umara .hadda_tan_a sufy_anu `an 'ab_i alzzin_adi `ani
 
 ############################################################
 ## betaCodeManual>Translit
-waḥaddaṯanā abnu ʾabī ʿumara ḥaddaṯanā sufyānu ʿan ʾabī alzzinādi ʿani alʾaʿraǧi ʿan ʾabī hurayraŧa ʿani alnnabīyi ṣlʿm miṯlahu ʾaw naḥwahu
+wa.haddaṯanā abnu ʾabī ʿumara .haddaṯanā sufyānu ʿan ʾabī alzzinādi ʿani alʾaʿraǧi ʿan ʾabī hurayra:ta ʿani alnnabīyi .slʿm miṯlahu ʾaw na.hwahu
 
 ############################################################
 ## betaCodeManual>Arabic
-وَحَدَّثَنَا أَبْنُ أَبِي عُمَرَ حَدَّثَنَا سُفْيَانُ عَنْ أَبِي أَلْزِّنَادِ عَنِ أَلْأَعْرَجِ عَنْ أَبِي هُرَيْرَةَ عَنِ أَلْنَّبِييِ صْلْعْمْ مِثْلَهُ أَوْ نَحْوَهُ
+وَ.هَدَّثَنَا أَبْنُ أَبِي عُمَرَ .هَدَّثَنَا سُفْيَانُ عَنْ أَبِي أَلْزِّنَادِ عَنِ أَلْأَعْرَجِ عَنْ أَبِي هُرَيْرَ:تَ عَنِ أَلْنَّبِييِ .سْلْعْمْ مِثْلَهُ أَوْ نَ.هْوَهُ
 
 ############################################################
 ## TranslationBetaCode

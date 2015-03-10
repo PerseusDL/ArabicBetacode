@@ -9,7 +9,7 @@
 
 ############################################################
 ## betaCodeAuto
-.hadda_tan_a muslimu bnu 'ibr_ah_ima .hadda_tan_a hi^s_amu.n `an qat_ada:ta `an 'anasi.n 'anna ras_ula allahi .sl`m nah/a 'an ya^sraba alrra^gulu q_a'ima.n_a
+*hadda_tan_a muslimu bnu 'ibr_ah_ima *hadda_tan_a hi^s_amu*n `an qat_ada=ta `an 'anasi*n 'anna ras_ula allahi *sl`m nah/a 'an ya^sraba alrra^gulu q_a'ima*n_a
 
 ############################################################
 ## betaCodeManual
@@ -17,11 +17,11 @@
 
 ############################################################
 ## betaCodeManual>Translit
-ḥaddaṯanā muslimu bnu ʾibrāhīma ḥaddaṯanā hišāmuȵ ʿan ḳatādaŧa ʿan ʾanasiȵ ʾanna rasūla allahi ṣlʿm nahá ʾan yašraba alrraǧulu ḳāʾimaȵā
+.haddaṯanā muslimu bnu ʾibrāhīma .haddaṯanā hišāmu.n ʿan ḳatāda:ta ʿan ʾanasi.n ʾanna rasūla allahi .slʿm nahá ʾan yašraba alrraǧulu ḳāʾima.nā
 
 ############################################################
 ## betaCodeManual>Arabic
-حَدَّثَنَا مُسْلِمُ بْنُ إِبْرَاهِيمَ حَدَّثَنَا هِشَامٌ عَنْ قَتَادَةَ عَنْ أَنَسٍ أَنَّ رَسُولَ أَلَّهِ صْلْعْمْ نَهٰى أَنْ يَشْرَبَ أَلْرَّجُلُ قائِماًا
+.هَدَّثَنَا مُسْلِمُ بْنُ إِبْرَاهِيمَ .هَدَّثَنَا هِشَامُ.نْ عَنْ قَتَادَ:تَ عَنْ أَنَسِ.نْ أَنَّ رَسُولَ أَلَّهِ .سْلْعْمْ نَهٰى أَنْ يَشْرَبَ أَلْرَّجُلُ قائِمَ.نَا
 
 ############################################################
 ## TranslationBetaCode
@@ -29,5 +29,5 @@ Type your translation on this line
 
 ############################################################
 ## TranslationTranslit
-Translation with transliterated names will appear here
+Type your translation on this line
 

@@ -9,7 +9,7 @@
 
 ############################################################
 ## betaCodeAuto
-.hadda_tan_a mu.hammadu bnu 'a.hmada bni 'ab_i _halafi.n .hadda_tan_a al'aswadu bnu `_amiri.n .hadda_tan_a 'ab_u bakri bnu `ayy_a^si.n `an `abdi almaliki bni 'ab_i sulaym_ana `an `a.t_a'i.n `an .safw_ana bni ya`l/a `an 'ab_ihi `ani alnnab_iyi .sl`m biha_d_a al.had_i_ti q_ala 'ab_u d_awuda al'awwalu 'atammu
+*hadda_tan_a mu*hammadu bnu 'a*hmada bni 'ab_i _halafi*n *hadda_tan_a al'aswadu bnu `_amiri*n *hadda_tan_a 'ab_u bakri bnu `ayy_a^si*n `an `abdi almaliki bni 'ab_i sulaym_ana `an `a*t_a'i*n `an *safw_ana bni ya`l/a `an 'ab_ihi `ani alnnab_iyi *sl`m biha_d_a al*had_i_ti q_ala 'ab_u d_awuda al'awwalu 'atammu
 
 ############################################################
 ## betaCodeManual
@@ -17,11 +17,11 @@
 
 ############################################################
 ## betaCodeManual>Translit
-ḥaddaṯanā muḥammadu bnu ʾaḥmada bni ʾabī ḫalafiȵ ḥaddaṯanā alʾaswadu bnu ʿāmiriȵ ḥaddaṯanā ʾabū bakri bnu ʿayyāšiȵ ʿan ʿabdi almaliki bni ʾabī sulaymāna ʿan ʿaṭāʾiȵ ʿan ṣafwāna bni yaʿlá ʿan ʾabīhi ʿani alnnabīyi ṣlʿm bihaḏā alḥadīṯi ḳāla ʾabū dāwuda alʾawwalu ʾatammu
+.haddaṯanā mu.hammadu bnu ʾa.hmada bni ʾabī ḫalafi.n .haddaṯanā alʾaswadu bnu ʿāmiri.n .haddaṯanā ʾabū bakri bnu ʿayyāši.n ʿan ʿabdi almaliki bni ʾabī sulaymāna ʿan ʿa.tāʾi.n ʿan .safwāna bni yaʿlá ʿan ʾabīhi ʿani alnnabīyi .slʿm bihaḏā al.hadīṯi ḳāla ʾabū dāwuda alʾawwalu ʾatammu
 
 ############################################################
 ## betaCodeManual>Arabic
-حَدَّثَنَا مُحَمَّدُ بْنُ أَحْمَدَ بْنِ أَبِي خَلَفٍ حَدَّثَنَا أَلْأَسْوَدُ بْنُ عَامِرٍ حَدَّثَنَا أَبُو بَكْرِ بْنُ عَيّاشٍ عَنْ عَبْدِ أَلْمَلِكِ بْنِ أَبِي سُلَيْمَانَ عَنْ عَطاءٍ عَنْ صَفْوَانَ بْنِ يَعْلٰى عَنْ أَبِيهِ عَنِ أَلْنَّبِييِ صْلْعْمْ بِهَذَا أَلْحَدِيثِ قَالَ أَبُو دَاوُدَ أَلْأَوَّلُ أَتَمُّ
+.هَدَّثَنَا مُ.هَمَّدُ بْنُ أَ.هْمَدَ بْنِ أَبِي خَلَفِ.نْ .هَدَّثَنَا أَلْأَسْوَدُ بْنُ عَامِرِ.نْ .هَدَّثَنَا أَبُو بَكْرِ بْنُ عَيّاشِ.نْ عَنْ عَبْدِ أَلْمَلِكِ بْنِ أَبِي سُلَيْمَانَ عَنْ عَ.تاءِ.نْ عَنْ .سَفْوَانَ بْنِ يَعْلٰى عَنْ أَبِيهِ عَنِ أَلْنَّبِييِ .سْلْعْمْ بِهَذَا أَل.هَدِيثِ قَالَ أَبُو دَاوُدَ أَلْأَوَّلُ أَتَمُّ
 
 ############################################################
 ## TranslationBetaCode

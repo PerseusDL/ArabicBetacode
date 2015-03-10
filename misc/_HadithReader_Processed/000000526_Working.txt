@@ -9,7 +9,7 @@
 
 ############################################################
 ## betaCodeAuto
-.hada_tan_a mu.hamadu bnu ba^s_ari.n .hada_tan_a mu.hamadu bnu ^ga`fari.n .hada_tan_a ^su`ba:tu `an `amriw bni mura:ta q_ala sa'altu 'ab_a `ubayda:ta bna `abdi allahi hal ta_dkuru min `abdi allahi ^say'ia.n_a q_ala l_a
+*hada_tan_a mu*hamadu bnu ba^s_ari*n *hada_tan_a mu*hamadu bnu ^ga`fari*n *hada_tan_a ^su`ba=tu `an `amriw bni mura=ta q_ala sa'altu 'ab_a `ubayda=ta bna `abdi allahi hal ta_dkuru min `abdi allahi ^say'ia*n_a q_ala l_a
 
 ############################################################
 ## betaCodeManual
@@ -17,11 +17,11 @@
 
 ############################################################
 ## betaCodeManual>Translit
-ḥadaṯanā muḥamadu bnu bašāriȵ ḥadaṯanā muḥamadu bnu ǧaʿfariȵ ḥadaṯanā šuʿbaŧu ʿan ʿamriw bni muraŧa ḳāla saʾaltu ʾabā ʿubaydaŧa bna ʿabdi allahi hal taḏkuru min ʿabdi allahi šayʾiaȵā ḳāla lā
+.hadaṯanā mu.hamadu bnu bašāri.n .hadaṯanā mu.hamadu bnu ǧaʿfari.n .hadaṯanā šuʿba:tu ʿan ʿamriw bni mura:ta ḳāla saʾaltu ʾabā ʿubayda:ta bna ʿabdi allahi hal taḏkuru min ʿabdi allahi šayʾia.nā ḳāla lā
 
 ############################################################
 ## betaCodeManual>Arabic
-حَدَثَنَا مُحَمَدُ بْنُ بَشَارٍ حَدَثَنَا مُحَمَدُ بْنُ جَعْفَرٍ حَدَثَنَا شُعْبَةُ عَنْ عَمْرِوْ بْنِ مُرَةَ قَالَ سَأَلْتُ أَبَا عُبَيْدَةَ بْنَ عَبْدِ أَلَّهِ هَلْ تَذْكُرُ مِنْ عَبْدِ أَلَّهِ شَيْئًِا قَالَ لَا
+.هَدَثَنَا مُ.هَمَدُ بْنُ بَشَارِ.نْ .هَدَثَنَا مُ.هَمَدُ بْنُ جَعْفَرِ.نْ .هَدَثَنَا شُعْبَ:تُ عَنْ عَمْرِوْ بْنِ مُرَ:تَ قَالَ سَأَلْتُ أَبَا عُبَيْدَ:تَ بْنَ عَبْدِ أَلَّهِ هَلْ تَذْكُرُ مِنْ عَبْدِ أَلَّهِ شَيْئَِ.نَا قَالَ لَا
 
 ############################################################
 ## TranslationBetaCode

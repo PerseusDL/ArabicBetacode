@@ -9,7 +9,7 @@
 
 ############################################################
 ## betaCodeAuto
-.hadda_tan_a mu.hammadu bnu ba^ss_ari.n .hadda_tan_a wahbu bnu ^gar_iri.n .hadda_tan_a 'ab_i `an ya.hy/a bni 'ayy_uba `an yaz_ida bni 'ab_i .hab_ibi.n biha_d_a al'isn_adi na.hwahu bima`n_ahu q_ala 'ab_u `_is/a ha_d_a .had_i_tu.n .hasanu.n .gar_ibu.n .sa.h_i.hu.n
+*hadda_tan_a mu*hammadu bnu ba^ss_ari*n *hadda_tan_a wahbu bnu ^gar_iri*n *hadda_tan_a 'ab_i `an ya*hy/a bni 'ayy_uba `an yaz_ida bni 'ab_i *hab_ibi*n biha_d_a al'isn_adi na*hwahu bima`n_ahu q_ala 'ab_u `_is/a ha_d_a *had_i_tu*n *hasanu*n *gar_ibu*n *sa*h_i*hu*n
 
 ############################################################
 ## betaCodeManual
@@ -17,11 +17,11 @@
 
 ############################################################
 ## betaCodeManual>Translit
-ḥaddaṯanā muḥammadu bnu bašsāriȵ ḥaddaṯanā wahbu bnu ǧarīriȵ ḥaddaṯanā ʾabī ʿan yaḥyá bni ʾayyūba ʿan yazīda bni ʾabī ḥabībiȵ bihaḏā alʾisnādi naḥwahu bimaʿnāhu ḳāla ʾabū ʿīsá haḏā ḥadīṯuȵ ḥasanuȵ ġarībuȵ ṣaḥīḥuȵ
+.haddaṯanā mu.hammadu bnu bašsāri.n .haddaṯanā wahbu bnu ǧarīri.n .haddaṯanā ʾabī ʿan ya.hyá bni ʾayyūba ʿan yazīda bni ʾabī .habībi.n bihaḏā alʾisnādi na.hwahu bimaʿnāhu ḳāla ʾabū ʿīsá haḏā .hadīṯu.n .hasanu.n .garību.n .sa.hī.hu.n
 
 ############################################################
 ## betaCodeManual>Arabic
-حَدَّثَنَا مُحَمَّدُ بْنُ بَشْسَارٍ حَدَّثَنَا وَهْبُ بْنُ جَرِيرٍ حَدَّثَنَا أَبِي عَنْ يَحْيٰى بْنِ أَيّوبَ عَنْ يَزِيدَ بْنِ أَبِي حَبِيبٍ بِهَذَا أَلْئِسْنَادِ نَحْوَهُ بِمَعْنَاهُ قَالَ أَبُو عِيسٰى هَذَا حَدِيثٌ حَسَنٌ غَرِيبٌ صَحِيحٌ
+.هَدَّثَنَا مُ.هَمَّدُ بْنُ بَشْسَارِ.نْ .هَدَّثَنَا وَهْبُ بْنُ جَرِيرِ.نْ .هَدَّثَنَا أَبِي عَنْ يَ.هْيٰى بْنِ أَيّوبَ عَنْ يَزِيدَ بْنِ أَبِي .هَبِيبِ.نْ بِهَذَا أَلْئِسْنَادِ نَ.هْوَهُ بِمَعْنَاهُ قَالَ أَبُو عِيسٰى هَذَا .هَدِيثُ.نْ .هَسَنُ.نْ .گَرِيبُ.نْ .سَ.هِي.هُ.نْ
 
 ############################################################
 ## TranslationBetaCode

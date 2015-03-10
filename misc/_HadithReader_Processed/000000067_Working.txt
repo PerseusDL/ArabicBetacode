@@ -9,7 +9,7 @@
 
 ############################################################
 ## betaCodeAuto
-q_ala 'ab_u 'is.h_aqa .hadda_tan_a mu.hammadu bnu ya.hy/a .hadda_tan_a `abdu alrrazz_aqi 'a_hbaran_a ma`maru.n bimi_tli ha_d_a al.had_i_ti
+q_ala 'ab_u 'is*h_aqa *hadda_tan_a mu*hammadu bnu ya*hy/a *hadda_tan_a `abdu alrrazz_aqi 'a_hbaran_a ma`maru*n bimi_tli ha_d_a al*had_i_ti
 
 ############################################################
 ## betaCodeManual
@@ -17,11 +17,11 @@ q_ala Ab_u Is.h_aq?u : .hadda_ta-n_a Mu.hammad?u bn?u Ya.hy/a : .hadda_ta-n_a `A
 
 ############################################################
 ## betaCodeManual>Translit
-ḳāla Abū Isḥāḳủ : ḥaddaṯa-nā Muḥammadủ bnủ Yaḥyá : ḥaddaṯa-nā ʿAbdu al-Razzāḳi : ʾaḫbara-nā Maʿmaruȵ bi-miṯli hãḏā al-ḥadīṯi
+ḳāla Abū Is.hāḳủ : .haddaṯa-nā Mu.hammadủ bnủ Ya.hyá : .haddaṯa-nā ʿAbdu al-Razzāḳi : ʾaḫbara-nā Maʿmaru.n bi-miṯli hãḏā al-.hadīṯi
 
 ############################################################
 ## betaCodeManual>Arabic
-قَالَ أَبُو إِسْحَاقُ : حَدَّثَنَا مُحَمَّدُ بْنُ يَحْيٰى : حَدَّثَنَا عَبْدُ ﭐلرَّزّاقِ : أَخْبَرَنَا مَعْمَرٌ بِمِثْلِ هٰذَا ﭐلْحَدِيثِ
+قَالَ أَبُو إِس.هَاقُ : .هَدَّثَنَا مُ.هَمَّدُ بْنُ يَ.هْيٰى : .هَدَّثَنَا عَبْدُ ﭐلرَّزّاقِ : أَخْبَرَنَا مَعْمَرُ.نْ بِمِثْلِ هٰذَا ﭐلْ.هَدِيثِ
 
 ############################################################
 ## TranslationBetaCode
@@ -29,5 +29,5 @@ Ab_u Is.h_aq said: Mu.hammad b. Ya.hy/a narrated to us: `Abd al-Razz_aq narrated
 
 ############################################################
 ## TranslationTranslit
-Abū Isḥāḳ said: Muḥammad b. Yaḥyá narrated to us: ʿAbd al-Razzāḳ narrated to us: Maʿmar informed us with something similar to this report.
+Abū Is.hāḳ said: Mu.hammad b. Ya.hyá narrated to us: ʿAbd al-Razzāḳ narrated to us: Maʿmar informed us with something similar to this report.
 

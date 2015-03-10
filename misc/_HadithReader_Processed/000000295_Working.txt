@@ -9,7 +9,7 @@
 
 ############################################################
 ## betaCodeAuto
-'a_hbaran_a 'ism_a`_ilu bnu mas`_udi.n q_ala .hadda_tan_a _h_alidu.n `an `abdi almaliki `an `a.t_a'i.n `an 'aus_ama:ta q_ala _hara^ga ras_ulu allahi .sl`m mina albayti .sall/a rak`atayni f_i qubuli alka`ba:ti _tumma q_ala ha_dihi alqibla:tu
+'a_hbaran_a 'ism_a`_ilu bnu mas`_udi*n q_ala *hadda_tan_a _h_alidu*n `an `abdi almaliki `an `a*t_a'i*n `an 'aus_ama=ta q_ala _hara^ga ras_ulu allahi *sl`m mina albayti *sall/a rak`atayni f_i qubuli alka`ba=ti _tumma q_ala ha_dihi alqibla=tu
 
 ############################################################
 ## betaCodeManual
@@ -17,11 +17,11 @@
 
 ############################################################
 ## betaCodeManual>Translit
-ʾaḫbaranā ʾismāʿīlu bnu masʿūdiȵ ḳāla ḥaddaṯanā ḫāliduȵ ʿan ʿabdi almaliki ʿan ʿaṭāʾiȵ ʿan ʾausāmaŧa ḳāla ḫaraǧa rasūlu allahi ṣlʿm mina albayti ṣallá rakʿatayni fī ḳubuli alkaʿbaŧi ṯumma ḳāla haḏihi alḳiblaŧu
+ʾaḫbaranā ʾismāʿīlu bnu masʿūdi.n ḳāla .haddaṯanā ḫālidu.n ʿan ʿabdi almaliki ʿan ʿa.tāʾi.n ʿan ʾausāma:ta ḳāla ḫaraǧa rasūlu allahi .slʿm mina albayti .sallá rakʿatayni fī ḳubuli alkaʿba:ti ṯumma ḳāla haḏihi alḳibla:tu
 
 ############################################################
 ## betaCodeManual>Arabic
-أَخْبَرَنَا إِسْمَاعِيلُ بْنُ مَسْعُودٍ قَالَ حَدَّثَنَا خَالِدٌ عَنْ عَبْدِ أَلْمَلِكِ عَنْ عَطاءٍ عَنْ أَأُسَامَةَ قَالَ خَرَجَ رَسُولُ أَلَّهِ صْلْعْمْ مِنَ أَلْبَيْتِ صَلّٰى رَكْعَتَيْنِ فِي قُبُلِ أَلْكَعْبَةِ ثُمَّ قَالَ هَذِهِ أَلْقِبْلَةُ
+أَخْبَرَنَا إِسْمَاعِيلُ بْنُ مَسْعُودِ.نْ قَالَ .هَدَّثَنَا خَالِدُ.نْ عَنْ عَبْدِ أَلْمَلِكِ عَنْ عَ.تاءِ.نْ عَنْ أَأُسَامَ:تَ قَالَ خَرَجَ رَسُولُ أَلَّهِ .سْلْعْمْ مِنَ أَلْبَيْتِ .سَلّٰى رَكْعَتَيْنِ فِي قُبُلِ أَلْكَعْبَ:تِ ثُمَّ قَالَ هَذِهِ أَلْقِبْلَ:تُ
 
 ############################################################
 ## TranslationBetaCode

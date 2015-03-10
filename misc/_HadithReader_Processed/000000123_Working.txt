@@ -9,7 +9,7 @@
 
 ############################################################
 ## betaCodeAuto
-.hadda_tan_i .harmala:tu bnu ya.hy/a 'a_hbaran_a abnu wahbi.n 'a_hbaran_i y_unusu `ani abni ^sih_abi.n 'a_hbaran_i abnu almusayyabi wa'ab_u salama:ta bnu `abdi alrra.hmani 'anna 'ab_a hurayra:ta q_ala sami`tu ras_ula allahi .sl`m bimi_tli .had_i_ti m_aliki.n walam ya_dkur qawla abni ^sih_abi.n
+*hadda_tan_i *harmala=tu bnu ya*hy/a 'a_hbaran_a abnu wahbi*n 'a_hbaran_i y_unusu `ani abni ^sih_abi*n 'a_hbaran_i abnu almusayyabi wa'ab_u salama=ta bnu `abdi alrra*hmani 'anna 'ab_a hurayra=ta q_ala sami`tu ras_ula allahi *sl`m bimi_tli *had_i_ti m_aliki*n walam ya_dkur qawla abni ^sih_abi*n
 
 ############################################################
 ## betaCodeManual
@@ -17,11 +17,11 @@
 
 ############################################################
 ## betaCodeManual>Translit
-ḥaddaṯanī ḥarmalaŧu bnu yaḥyá ʾaḫbaranā abnu wahbiȵ ʾaḫbaranī yūnusu ʿani abni šihābiȵ ʾaḫbaranī abnu almusayyabi waʾabū salamaŧa bnu ʿabdi alrraḥmani ʾanna ʾabā hurayraŧa ḳāla samiʿtu rasūla allahi ṣlʿm bimiṯli ḥadīṯi mālikiȵ walam yaḏkur ḳawla abni šihābiȵ
+.haddaṯanī .harmala:tu bnu ya.hyá ʾaḫbaranā abnu wahbi.n ʾaḫbaranī yūnusu ʿani abni šihābi.n ʾaḫbaranī abnu almusayyabi waʾabū salama:ta bnu ʿabdi alrra.hmani ʾanna ʾabā hurayra:ta ḳāla samiʿtu rasūla allahi .slʿm bimiṯli .hadīṯi māliki.n walam yaḏkur ḳawla abni šihābi.n
 
 ############################################################
 ## betaCodeManual>Arabic
-حَدَّثَنِي حَرْمَلَةُ بْنُ يَحْيٰى أَخْبَرَنَا أَبْنُ وَهْبٍ أَخْبَرَنِي يُونُسُ عَنِ أَبْنِ شِهَابٍ أَخْبَرَنِي أَبْنُ أَلْمُسَيَّبِ وَأَبُو سَلَمَةَ بْنُ عَبْدِ أَلْرَّحْمَنِ أَنَّ أَبَا هُرَيْرَةَ قَالَ سَمِعْتُ رَسُولَ أَلَّهِ صْلْعْمْ بِمِثْلِ حَدِيثِ مَالِكٍ وَلَمْ يَذْكُرْ قَوْلَ أَبْنِ شِهَابٍ
+.هَدَّثَنِي .هَرْمَلَ:تُ بْنُ يَ.هْيٰى أَخْبَرَنَا أَبْنُ وَهْبِ.نْ أَخْبَرَنِي يُونُسُ عَنِ أَبْنِ شِهَابِ.نْ أَخْبَرَنِي أَبْنُ أَلْمُسَيَّبِ وَأَبُو سَلَمَ:تَ بْنُ عَبْدِ أَلْرَّ.هْمَنِ أَنَّ أَبَا هُرَيْرَ:تَ قَالَ سَمِعْتُ رَسُولَ أَلَّهِ .سْلْعْمْ بِمِثْلِ .هَدِيثِ مَالِكِ.نْ وَلَمْ يَذْكُرْ قَوْلَ أَبْنِ شِهَابِ.نْ
 
 ############################################################
 ## TranslationBetaCode

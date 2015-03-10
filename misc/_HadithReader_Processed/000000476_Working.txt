@@ -9,7 +9,7 @@
 
 ############################################################
 ## betaCodeAuto
-'a_hbaran_a `amr_u bnu `al_iyi.n q_ala .hadda_tan_a ya.hy/a q_ala .hadda_tan_a sufy_anu q_ala .hadda_tan_i man.s_uru.n `an 'ibr_ah_ima `ani al'aswadi `an `_a'i^sa:ta r.d/a allh `nh_a q_alat kuntu 'a.gtasilu 'an_a waras_ulu allahi .sl`m min 'in_a'i.n w_a.hidi.n
+'a_hbaran_a `amr_u bnu `al_iyi*n q_ala *hadda_tan_a ya*hy/a q_ala *hadda_tan_a sufy_anu q_ala *hadda_tan_i man*s_uru*n `an 'ibr_ah_ima `ani al'aswadi `an `_a'i^sa=ta r*d/a allh `nh_a q_alat kuntu 'a*gtasilu 'an_a waras_ulu allahi *sl`m min 'in_a'i*n w_a*hidi*n
 
 ############################################################
 ## betaCodeManual
@@ -17,11 +17,11 @@
 
 ############################################################
 ## betaCodeManual>Translit
-ʾaḫbaranā ʿamrū bnu ʿalīyiȵ ḳāla ḥaddaṯanā yaḥyá ḳāla ḥaddaṯanā sufyānu ḳāla ḥaddaṯanī manṣūruȵ ʿan ʾibrāhīma ʿani alʾaswadi ʿan ʿāʾišaŧa rḍá allh ʿnhā ḳālat kuntu ʾaġtasilu ʾanā warasūlu allahi ṣlʿm min ʾināʾiȵ wāḥidiȵ
+ʾaḫbaranā ʿamrū bnu ʿalīyi.n ḳāla .haddaṯanā ya.hyá ḳāla .haddaṯanā sufyānu ḳāla .haddaṯanī man.sūru.n ʿan ʾibrāhīma ʿani alʾaswadi ʿan ʿāʾiša:ta r.dá allh ʿnhā ḳālat kuntu ʾa.gtasilu ʾanā warasūlu allahi .slʿm min ʾināʾi.n wā.hidi.n
 
 ############################################################
 ## betaCodeManual>Arabic
-أَخْبَرَنَا عَمْرُو بْنُ عَلِييٍ قَالَ حَدَّثَنَا يَحْيٰى قَالَ حَدَّثَنَا سُفْيَانُ قَالَ حَدَّثَنِي مَنْصُورٌ عَنْ إِبْرَاهِيمَ عَنِ أَلْأَسْوَدِ عَنْ عائِشَةَ رْضٰى أَلّهْ عْنْهَا قَالَتْ كُنْتُ أَغْتَسِلُ أَنَا وَرَسُولُ أَلَّهِ صْلْعْمْ مِنْ إِناءٍ وَاحِدٍ
+أَخْبَرَنَا عَمْرُو بْنُ عَلِييِ.نْ قَالَ .هَدَّثَنَا يَ.هْيٰى قَالَ .هَدَّثَنَا سُفْيَانُ قَالَ .هَدَّثَنِي مَن.سُورُ.نْ عَنْ إِبْرَاهِيمَ عَنِ أَلْأَسْوَدِ عَنْ عائِشَ:تَ ر.دٰى أَلّهْ عْنْهَا قَالَتْ كُنْتُ أَ.گْتَسِلُ أَنَا وَرَسُولُ أَلَّهِ .سْلْعْمْ مِنْ إِناءِ.نْ وَا.هِدِ.نْ
 
 ############################################################
 ## TranslationBetaCode

@@ -9,7 +9,7 @@
 
 ############################################################
 ## betaCodeAuto
-'a_hbaran_a 'is.h_aqu bnu 'ibr_ah_ima wa`al_iyu bnu .hu^gri.n q_al_a .hadda_tan_a `abdu al`az_izi bnu mu.hammadi.n `an `abdi alw_a.hidi bni .hamza:ta `an `abb_adi bni `abdi allahi bni alzzubayri `an `_a'i^sa:ta q_alat m_a .sall/a ras_ulu allahi .sl`m `al/a suhayli abni bay.d_a'a 'il_aa f_i almas^gidi
+'a_hbaran_a 'is*h_aqu bnu 'ibr_ah_ima wa`al_iyu bnu *hu^gri*n q_al_a *hadda_tan_a `abdu al`az_izi bnu mu*hammadi*n `an `abdi alw_a*hidi bni *hamza=ta `an `abb_adi bni `abdi allahi bni alzzubayri `an `_a'i^sa=ta q_alat m_a *sall/a ras_ulu allahi *sl`m `al/a suhayli abni bay*d_a'a 'il_aa f_i almas^gidi
 
 ############################################################
 ## betaCodeManual
@@ -17,11 +17,11 @@
 
 ############################################################
 ## betaCodeManual>Translit
-ʾaḫbaranā ʾisḥāḳu bnu ʾibrāhīma waʿalīyu bnu ḥuǧriȵ ḳālā ḥaddaṯanā ʿabdu alʿazīzi bnu muḥammadiȵ ʿan ʿabdi alwāḥidi bni ḥamzaŧa ʿan ʿabbādi bni ʿabdi allahi bni alzzubayri ʿan ʿāʾišaŧa ḳālat mā ṣallá rasūlu allahi ṣlʿm ʿalá suhayli abni bayḍāʾa ʾilāa fī almasǧidi
+ʾaḫbaranā ʾis.hāḳu bnu ʾibrāhīma waʿalīyu bnu .huǧri.n ḳālā .haddaṯanā ʿabdu alʿazīzi bnu mu.hammadi.n ʿan ʿabdi alwā.hidi bni .hamza:ta ʿan ʿabbādi bni ʿabdi allahi bni alzzubayri ʿan ʿāʾiša:ta ḳālat mā .sallá rasūlu allahi .slʿm ʿalá suhayli abni bay.dāʾa ʾilāa fī almasǧidi
 
 ############################################################
 ## betaCodeManual>Arabic
-أَخْبَرَنَا إِسْحَاقُ بْنُ إِبْرَاهِيمَ وَعَلِييُ بْنُ حُجْرٍ قَالَا حَدَّثَنَا عَبْدُ أَلْعَزِيزِ بْنُ مُحَمَّدٍ عَنْ عَبْدِ أَلْوَاحِدِ بْنِ حَمْزَةَ عَنْ عَبّادِ بْنِ عَبْدِ أَلَّهِ بْنِ أَلْزُّبَيْرِ عَنْ عائِشَةَ قَالَتْ مَا صَلّٰى رَسُولُ أَلَّهِ صْلْعْمْ عَلٰى سُهَيْلِ أَبْنِ بَيْضاءَ إِلَاَ فِي أَلْمَسْجِدِ
+أَخْبَرَنَا إِس.هَاقُ بْنُ إِبْرَاهِيمَ وَعَلِييُ بْنُ .هُجْرِ.نْ قَالَا .هَدَّثَنَا عَبْدُ أَلْعَزِيزِ بْنُ مُ.هَمَّدِ.نْ عَنْ عَبْدِ أَلْوَا.هِدِ بْنِ .هَمْزَ:تَ عَنْ عَبّادِ بْنِ عَبْدِ أَلَّهِ بْنِ أَلْزُّبَيْرِ عَنْ عائِشَ:تَ قَالَتْ مَا .سَلّٰى رَسُولُ أَلَّهِ .سْلْعْمْ عَلٰى سُهَيْلِ أَبْنِ بَي.داءَ إِلَاَ فِي أَلْمَسْجِدِ
 
 ############################################################
 ## TranslationBetaCode

@@ -9,7 +9,7 @@
 
 ############################################################
 ## betaCodeAuto
-.hadda_tan_a mu.hammadu bnu ba^ss_ari.n .hadda_tan_a mu.hammadu.n wah_ua abnu ^ga`fari.n .hadda_tan_a ^su`ba:tu `an `amri.nw q_ala sami`tu ^g_abira bna `abdi allahi 'anna alnnab_iya .sl`m _ha.taba faq_ala 'i_d_a ^g_a'a 'a.hadukum yawma al^gumu`a:ti waqad _hara^ga al'im_amu falyu.salli rak`atayni
+*hadda_tan_a mu*hammadu bnu ba^ss_ari*n *hadda_tan_a mu*hammadu*n wah_ua abnu ^ga`fari*n *hadda_tan_a ^su`ba=tu `an `amri*nw q_ala sami`tu ^g_abira bna `abdi allahi 'anna alnnab_iya *sl`m _ha*taba faq_ala 'i_d_a ^g_a'a 'a*hadukum yawma al^gumu`a=ti waqad _hara^ga al'im_amu falyu*salli rak`atayni
 
 ############################################################
 ## betaCodeManual
@@ -17,11 +17,11 @@
 
 ############################################################
 ## betaCodeManual>Translit
-ḥaddaṯanā muḥammadu bnu bašsāriȵ ḥaddaṯanā muḥammaduȵ wahūa abnu ǧaʿfariȵ ḥaddaṯanā šuʿbaŧu ʿan ʿamriȵw ḳāla samiʿtu ǧābira bna ʿabdi allahi ʾanna alnnabīya ṣlʿm ḫaṭaba faḳāla ʾiḏā ǧāʾa ʾaḥadukum yawma alǧumuʿaŧi waḳad ḫaraǧa alʾimāmu falyuṣalli rakʿatayni
+.haddaṯanā mu.hammadu bnu bašsāri.n .haddaṯanā mu.hammadu.n wahūa abnu ǧaʿfari.n .haddaṯanā šuʿba:tu ʿan ʿamri.nw ḳāla samiʿtu ǧābira bna ʿabdi allahi ʾanna alnnabīya .slʿm ḫa.taba faḳāla ʾiḏā ǧāʾa ʾa.hadukum yawma alǧumuʿa:ti waḳad ḫaraǧa alʾimāmu falyu.salli rakʿatayni
 
 ############################################################
 ## betaCodeManual>Arabic
-حَدَّثَنَا مُحَمَّدُ بْنُ بَشْسَارٍ حَدَّثَنَا مُحَمَّدٌ وَهُوَ أَبْنُ جَعْفَرٍ حَدَّثَنَا شُعْبَةُ عَنْ عَمْرٍوْ قَالَ سَمِعْتُ جَابِرَ بْنَ عَبْدِ أَلَّهِ أَنَّ أَلْنَّبِييَ صْلْعْمْ خَطَبَ فَقَالَ إِذَا جاءَ أَحَدُكُمْ يَوْمَ أَلْجُمُعَةِ وَقَدْ خَرَجَ أَلْئِمَامُ فَلْيُصَلِّ رَكْعَتَيْنِ
+.هَدَّثَنَا مُ.هَمَّدُ بْنُ بَشْسَارِ.نْ .هَدَّثَنَا مُ.هَمَّدُ.نْ وَهُوَ أَبْنُ جَعْفَرِ.نْ .هَدَّثَنَا شُعْبَ:تُ عَنْ عَمْرِ.نْوْ قَالَ سَمِعْتُ جَابِرَ بْنَ عَبْدِ أَلَّهِ أَنَّ أَلْنَّبِييَ .سْلْعْمْ خَ.تَبَ فَقَالَ إِذَا جاءَ أَ.هَدُكُمْ يَوْمَ أَلْجُمُعَ:تِ وَقَدْ خَرَجَ أَلْئِمَامُ فَلْيُ.سَلِّ رَكْعَتَيْنِ
 
 ############################################################
 ## TranslationBetaCode

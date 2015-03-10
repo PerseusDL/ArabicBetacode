@@ -9,7 +9,7 @@
 
 ############################################################
 ## betaCodeAuto
-'a_hbaran_i `amr_u bnu hi^s_ami.n q_ala .hadda_tan_a mu.hammadu bnu salama:ta `ani abni 'is.h_aqa `an ya.hy/a bni sa`_idi.n `an 'ab_i salama:ta `an `_a'i^sa:ta q_alat k_ana ras_ulu allahi .sl`m ya.s_umu ^sa`b_ana 'il_aa qal_il_a.n
+'a_hbaran_i `amr_u bnu hi^s_ami*n q_ala *hadda_tan_a mu*hammadu bnu salama=ta `ani abni 'is*h_aqa `an ya*hy/a bni sa`_idi*n `an 'ab_i salama=ta `an `_a'i^sa=ta q_alat k_ana ras_ulu allahi *sl`m ya*s_umu ^sa`b_ana 'il_aa qal_il_a*n
 
 ############################################################
 ## betaCodeManual
@@ -17,11 +17,11 @@
 
 ############################################################
 ## betaCodeManual>Translit
-ʾaḫbaranī ʿamrū bnu hišāmiȵ ḳāla ḥaddaṯanā muḥammadu bnu salamaŧa ʿani abni ʾisḥāḳa ʿan yaḥyá bni saʿīdiȵ ʿan ʾabī salamaŧa ʿan ʿāʾišaŧa ḳālat kāna rasūlu allahi ṣlʿm yaṣūmu šaʿbāna ʾilāa ḳalīlāȵ
+ʾaḫbaranī ʿamrū bnu hišāmi.n ḳāla .haddaṯanā mu.hammadu bnu salama:ta ʿani abni ʾis.hāḳa ʿan ya.hyá bni saʿīdi.n ʿan ʾabī salama:ta ʿan ʿāʾiša:ta ḳālat kāna rasūlu allahi .slʿm ya.sūmu šaʿbāna ʾilāa ḳalīlā.n
 
 ############################################################
 ## betaCodeManual>Arabic
-أَخْبَرَنِي عَمْرُو بْنُ هِشَامٍ قَالَ حَدَّثَنَا مُحَمَّدُ بْنُ سَلَمَةَ عَنِ أَبْنِ إِسْحَاقَ عَنْ يَحْيٰى بْنِ سَعِيدٍ عَنْ أَبِي سَلَمَةَ عَنْ عائِشَةَ قَالَتْ كَانَ رَسُولُ أَلَّهِ صْلْعْمْ يَصُومُ شَعْبَانَ إِلَاَ قَلِيلَاȵ
+أَخْبَرَنِي عَمْرُو بْنُ هِشَامِ.نْ قَالَ .هَدَّثَنَا مُ.هَمَّدُ بْنُ سَلَمَ:تَ عَنِ أَبْنِ إِس.هَاقَ عَنْ يَ.هْيٰى بْنِ سَعِيدِ.نْ عَنْ أَبِي سَلَمَ:تَ عَنْ عائِشَ:تَ قَالَتْ كَانَ رَسُولُ أَلَّهِ .سْلْعْمْ يَ.سُومُ شَعْبَانَ إِلَاَ قَلِيلَا.نْ
 
 ############################################################
 ## TranslationBetaCode

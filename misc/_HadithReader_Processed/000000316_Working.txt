@@ -9,7 +9,7 @@
 
 ############################################################
 ## betaCodeAuto
-wa.hadda_tan_ahu mu.hammadu bnu `abdi allahi bni numayri.n .hadda_tan_a 'ab_i wamu.hammadu bnu bi^sri.n .h wa.hadda_tan_i mu.hammadu bnu r_afi`i.n .hadda_tan_a 'ab_u 'aus_ama:ta q_al_u_a .hadda_tan_a 'ism_a`_ilu biha_d_a al'isn_adi bimi_tlihi
+wa*hadda_tan_ahu mu*hammadu bnu `abdi allahi bni numayri*n *hadda_tan_a 'ab_i wamu*hammadu bnu bi^sri*n *h wa*hadda_tan_i mu*hammadu bnu r_afi`i*n *hadda_tan_a 'ab_u 'aus_ama=ta q_al_u_a *hadda_tan_a 'ism_a`_ilu biha_d_a al'isn_adi bimi_tlihi
 
 ############################################################
 ## betaCodeManual
@@ -17,11 +17,11 @@ wa.hadda_tan_ahu mu.hammadu bnu `abdi allahi bni numayri.n .hadda_tan_a 'ab_i wa
 
 ############################################################
 ## betaCodeManual>Translit
-waḥaddaṯanāhu muḥammadu bnu ʿabdi allahi bni numayriȵ ḥaddaṯanā ʾabī wamuḥammadu bnu bišriȵ ḥ waḥaddaṯanī muḥammadu bnu rāfiʿiȵ ḥaddaṯanā ʾabū ʾausāmaŧa ḳālūā ḥaddaṯanā ʾismāʿīlu bihaḏā alʾisnādi bimiṯlihi
+wa.haddaṯanāhu mu.hammadu bnu ʿabdi allahi bni numayri.n .haddaṯanā ʾabī wamu.hammadu bnu bišri.n .h wa.haddaṯanī mu.hammadu bnu rāfiʿi.n .haddaṯanā ʾabū ʾausāma:ta ḳālūā .haddaṯanā ʾismāʿīlu bihaḏā alʾisnādi bimiṯlihi
 
 ############################################################
 ## betaCodeManual>Arabic
-وَحَدَّثَنَاهُ مُحَمَّدُ بْنُ عَبْدِ أَلَّهِ بْنِ نُمَيْرٍ حَدَّثَنَا أَبِي وَمُحَمَّدُ بْنُ بِشْرٍ حْ وَحَدَّثَنِي مُحَمَّدُ بْنُ رَافِعٍ حَدَّثَنَا أَبُو أَأُسَامَةَ قَالُوا حَدَّثَنَا إِسْمَاعِيلُ بِهَذَا أَلْئِسْنَادِ بِمِثْلِهِ
+وَ.هَدَّثَنَاهُ مُ.هَمَّدُ بْنُ عَبْدِ أَلَّهِ بْنِ نُمَيْرِ.نْ .هَدَّثَنَا أَبِي وَمُ.هَمَّدُ بْنُ بِشْرِ.نْ .هْ وَ.هَدَّثَنِي مُ.هَمَّدُ بْنُ رَافِعِ.نْ .هَدَّثَنَا أَبُو أَأُسَامَ:تَ قَالُوا .هَدَّثَنَا إِسْمَاعِيلُ بِهَذَا أَلْئِسْنَادِ بِمِثْلِهِ
 
 ############################################################
 ## TranslationBetaCode

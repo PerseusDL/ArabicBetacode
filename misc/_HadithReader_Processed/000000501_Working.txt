@@ -9,7 +9,7 @@
 
 ############################################################
 ## betaCodeAuto
-'a_hbaran_a 'a.hmadu bnu sulaym_ana q_ala .hadda_tan_a 'ab_u d_awuda `an sufy_ana `an man.s_uri.n `an _h_alidi bni sa`di.n `an `_a'i^sa:ta q_alat k_ana alnnab_iyu .sl`m ya.s_umu ^sa`b_ana
+'a_hbaran_a 'a*hmadu bnu sulaym_ana q_ala *hadda_tan_a 'ab_u d_awuda `an sufy_ana `an man*s_uri*n `an _h_alidi bni sa`di*n `an `_a'i^sa=ta q_alat k_ana alnnab_iyu *sl`m ya*s_umu ^sa`b_ana
 
 ############################################################
 ## betaCodeManual
@@ -17,11 +17,11 @@
 
 ############################################################
 ## betaCodeManual>Translit
-ʾaḫbaranā ʾaḥmadu bnu sulaymāna ḳāla ḥaddaṯanā ʾabū dāwuda ʿan sufyāna ʿan manṣūriȵ ʿan ḫālidi bni saʿdiȵ ʿan ʿāʾišaŧa ḳālat kāna alnnabīyu ṣlʿm yaṣūmu šaʿbāna
+ʾaḫbaranā ʾa.hmadu bnu sulaymāna ḳāla .haddaṯanā ʾabū dāwuda ʿan sufyāna ʿan man.sūri.n ʿan ḫālidi bni saʿdi.n ʿan ʿāʾiša:ta ḳālat kāna alnnabīyu .slʿm ya.sūmu šaʿbāna
 
 ############################################################
 ## betaCodeManual>Arabic
-أَخْبَرَنَا أَحْمَدُ بْنُ سُلَيْمَانَ قَالَ حَدَّثَنَا أَبُو دَاوُدَ عَنْ سُفْيَانَ عَنْ مَنْصُورٍ عَنْ خَالِدِ بْنِ سَعْدٍ عَنْ عائِشَةَ قَالَتْ كَانَ أَلْنَّبِييُ صْلْعْمْ يَصُومُ شَعْبَانَ
+أَخْبَرَنَا أَ.هْمَدُ بْنُ سُلَيْمَانَ قَالَ .هَدَّثَنَا أَبُو دَاوُدَ عَنْ سُفْيَانَ عَنْ مَن.سُورِ.نْ عَنْ خَالِدِ بْنِ سَعْدِ.نْ عَنْ عائِشَ:تَ قَالَتْ كَانَ أَلْنَّبِييُ .سْلْعْمْ يَ.سُومُ شَعْبَانَ
 
 ############################################################
 ## TranslationBetaCode

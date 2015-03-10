@@ -9,7 +9,7 @@
 
 ############################################################
 ## betaCodeAuto
-'a_hbaran_a 'is.h_aqu bnu 'ibr_ah_ima q_ala .hadda_tan_a 'ab_u mu`_aw_ia:ta `ani al'a`ma^si biha_d_a al'isn_adi mi_tlahu
+'a_hbaran_a 'is*h_aqu bnu 'ibr_ah_ima q_ala *hadda_tan_a 'ab_u mu`_aw_ia=ta `ani al'a`ma^si biha_d_a al'isn_adi mi_tlahu
 
 ############################################################
 ## betaCodeManual
@@ -17,11 +17,11 @@
 
 ############################################################
 ## betaCodeManual>Translit
-ʾaḫbaranā ʾisḥāḳu bnu ʾibrāhīma ḳāla ḥaddaṯanā ʾabū muʿāwīaŧa ʿani alʾaʿmaši bihaḏā alʾisnādi miṯlahu
+ʾaḫbaranā ʾis.hāḳu bnu ʾibrāhīma ḳāla .haddaṯanā ʾabū muʿāwīa:ta ʿani alʾaʿmaši bihaḏā alʾisnādi miṯlahu
 
 ############################################################
 ## betaCodeManual>Arabic
-أَخْبَرَنَا إِسْحَاقُ بْنُ إِبْرَاهِيمَ قَالَ حَدَّثَنَا أَبُو مُعَاوِيَةَ عَنِ أَلْأَعْمَشِ بِهَذَا أَلْئِسْنَادِ مِثْلَهُ
+أَخْبَرَنَا إِس.هَاقُ بْنُ إِبْرَاهِيمَ قَالَ .هَدَّثَنَا أَبُو مُعَاوِيَ:تَ عَنِ أَلْأَعْمَشِ بِهَذَا أَلْئِسْنَادِ مِثْلَهُ
 
 ############################################################
 ## TranslationBetaCode

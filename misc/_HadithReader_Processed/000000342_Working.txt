@@ -9,7 +9,7 @@
 
 ############################################################
 ## betaCodeAuto
-wa.hadda_tan_a qutayba:tu bnu sa`_idi.n wa`u_tm_anu bnu 'ab_i ^sayba:ta q_al_a .hadda_tan_a ^gar_iru.n `ani al'a`ma^si `an 'ab_i sufy_ana `an ^g_abiri.n q_ala sami`tu alnnab_iya .sl`m yaq_ulu yub`a_tu kullu `abdi.n `al/a m_a m_ata `alayhi
+wa*hadda_tan_a qutayba=tu bnu sa`_idi*n wa`u_tm_anu bnu 'ab_i ^sayba=ta q_al_a *hadda_tan_a ^gar_iru*n `ani al'a`ma^si `an 'ab_i sufy_ana `an ^g_abiri*n q_ala sami`tu alnnab_iya *sl`m yaq_ulu yub`a_tu kullu `abdi*n `al/a m_a m_ata `alayhi
 
 ############################################################
 ## betaCodeManual
@@ -17,11 +17,11 @@ wa.hadda_tan_a qutayba:tu bnu sa`_idi.n wa`u_tm_anu bnu 'ab_i ^sayba:ta q_al_a .
 
 ############################################################
 ## betaCodeManual>Translit
-waḥaddaṯanā ḳutaybaŧu bnu saʿīdiȵ waʿuṯmānu bnu ʾabī šaybaŧa ḳālā ḥaddaṯanā ǧarīruȵ ʿani alʾaʿmaši ʿan ʾabī sufyāna ʿan ǧābiriȵ ḳāla samiʿtu alnnabīya ṣlʿm yaḳūlu yubʿaṯu kullu ʿabdiȵ ʿalá mā māta ʿalayhi
+wa.haddaṯanā ḳutayba:tu bnu saʿīdi.n waʿuṯmānu bnu ʾabī šayba:ta ḳālā .haddaṯanā ǧarīru.n ʿani alʾaʿmaši ʿan ʾabī sufyāna ʿan ǧābiri.n ḳāla samiʿtu alnnabīya .slʿm yaḳūlu yubʿaṯu kullu ʿabdi.n ʿalá mā māta ʿalayhi
 
 ############################################################
 ## betaCodeManual>Arabic
-وَحَدَّثَنَا قُتَيْبَةُ بْنُ سَعِيدٍ وَعُثْمَانُ بْنُ أَبِي شَيْبَةَ قَالَا حَدَّثَنَا جَرِيرٌ عَنِ أَلْأَعْمَشِ عَنْ أَبِي سُفْيَانَ عَنْ جَابِرٍ قَالَ سَمِعْتُ أَلْنَّبِييَ صْلْعْمْ يَقُولُ يُبْعَثُ كُلُّ عَبْدٍ عَلٰى مَا مَاتَ عَلَيْهِ
+وَ.هَدَّثَنَا قُتَيْبَ:تُ بْنُ سَعِيدِ.نْ وَعُثْمَانُ بْنُ أَبِي شَيْبَ:تَ قَالَا .هَدَّثَنَا جَرِيرُ.نْ عَنِ أَلْأَعْمَشِ عَنْ أَبِي سُفْيَانَ عَنْ جَابِرِ.نْ قَالَ سَمِعْتُ أَلْنَّبِييَ .سْلْعْمْ يَقُولُ يُبْعَثُ كُلُّ عَبْدِ.نْ عَلٰى مَا مَاتَ عَلَيْهِ
 
 ############################################################
 ## TranslationBetaCode

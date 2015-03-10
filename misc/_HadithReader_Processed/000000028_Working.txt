@@ -9,7 +9,7 @@
 
 ############################################################
 ## betaCodeAuto
-.hadda_tan_a `abdu allahi bnu y_usufa q_ala 'a_hbaran_a m_aliku.n `an 'is.h_aqa bni `abdi allahi bni 'ab_i .tal.ha:ta `an 'anasi bni m_aliki.n  r.d/a allh `nh  q_ala .sall/a lan_a ras_ulu allahi .sl`m rak`atayni _tumma an.sarafa
+*hadda_tan_a `abdu allahi bnu y_usufa q_ala 'a_hbaran_a m_aliku*n `an 'is*h_aqa bni `abdi allahi bni 'ab_i *tal*ha=ta `an 'anasi bni m_aliki*n  r*d/a allh `nh  q_ala *sall/a lan_a ras_ulu allahi *sl`m rak`atayni _tumma an*sarafa
 
 ############################################################
 ## betaCodeManual
@@ -17,11 +17,11 @@
 
 ############################################################
 ## betaCodeManual>Translit
-ḥaddaṯa-nā ʿAbdủ Allãhỉ bnủ Yūsufả ḳāla , ʾaḫbara-nā Mālikủȵ , ʿan Isḥāḳả bnỉ ʿAbdỉ Allãhỉ bnỉ Abī Ṭalḥaŧả , ʿan Anasỉ bnỉ Mālikỉȵ ( rḍh )  ḳāla ( M ) ṣallá la-nā rasūlủ Allãhỉ ( ṣlʿm ) rakʿataynỉ ṯummả inṣarafa
+.haddaṯa-nā ʿAbdủ Allãhỉ bnủ Yūsufả ḳāla , ʾaḫbara-nā Mālikủ.n , ʿan Is.hāḳả bnỉ ʿAbdỉ Allãhỉ bnỉ Abī .Tal.ha:tả , ʿan Anasỉ bnỉ Mālikỉ.n ( r.dh )  ḳāla ( M ) .sallá la-nā rasūlủ Allãhỉ ( .slʿm ) rakʿataynỉ ṯummả in.sarafa
 
 ############################################################
 ## betaCodeManual>Arabic
-حَدَّثَنَا عَبْدُ ﭐلـلّٰـهِ بْنُ يُوسُفَ قَالَ ، أَخْبَرَنَا مَالِكٌ ، عَنْ إِسْحَاقَ بْنِ عَبْدِ ﭐلـلّٰـهِ بْنِ أَبِي طَلْحَةَ ، عَنْ أَنَسِ بْنِ مَالِكٍ ( رْضْهْ )  قَالَ ( مْ ) صَلّٰى لَنَا رَسُولُ ﭐلـلّٰـهِ ( صْلْعْمْ ) رَكْعَتَيْنِ ثُمَّ إِنْصَرَفَ
+.هَدَّثَنَا عَبْدُ ﭐلـلّٰـهِ بْنُ يُوسُفَ قَالَ ، أَخْبَرَنَا مَالِكُ.نْ ، عَنْ إِس.هَاقَ بْنِ عَبْدِ ﭐلـلّٰـهِ بْنِ أَبِي .تَل.هَ:تَ ، عَنْ أَنَسِ بْنِ مَالِكِ.نْ ( ر.دْهْ )  قَالَ ( مْ ) .سَلّٰى لَنَا رَسُولُ ﭐلـلّٰـهِ ( .سْلْعْمْ ) رَكْعَتَيْنِ ثُمَّ إِن.سَرَفَ
 
 ############################################################
 ## TranslationBetaCode
@@ -29,5 +29,5 @@
 
 ############################################################
 ## TranslationTranslit
-ʿAbd Allãh b. Yūsuf narrated to us [and] he said, Mālik reported to us, from Isḥāḳ b. ʿAbd Allãh b. Abī Ṭalḥaŧ, from Anas b. Mālik ( rḍh ) [and] he said: ( M ) the Messenger of God ( ṣlʿm ) prayed two cycles with us and then left.  
+ʿAbd Allãh b. Yūsuf narrated to us [and] he said, Mālik reported to us, from Is.hāḳ b. ʿAbd Allãh b. Abī .Tal.ha:t, from Anas b. Mālik ( r.dh ) [and] he said: ( M ) the Messenger of God ( .slʿm ) prayed two cycles with us and then left.  
 

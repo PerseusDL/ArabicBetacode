@@ -9,7 +9,7 @@
 
 ############################################################
 ## betaCodeAuto
-.hadda_tan_a 'is.h_aqu bnu man.s_uri.n 'a_hbaran_a `abdu al.ssamadi .hadda_tan_a `abdu alrra.hmani bnu `abdi allahi `an 'ab_ihi `ani abni `umara  r.d/a allh `nhm_a  `ani alnnab_iyi .sl`m 'annahu q_ala alkar_imu abnu alkar_imi abni alkar_imi abni alkar_imi y_usufu abnu ya`q_uba bni 'is.h_aqa bni 'ibr_ah_ima  `alayhimu alssal_amu
+*hadda_tan_a 'is*h_aqu bnu man*s_uri*n 'a_hbaran_a `abdu al*ssamadi *hadda_tan_a `abdu alrra*hmani bnu `abdi allahi `an 'ab_ihi `ani abni `umara  r*d/a allh `nhm_a  `ani alnnab_iyi *sl`m 'annahu q_ala alkar_imu abnu alkar_imi abni alkar_imi abni alkar_imi y_usufu abnu ya`q_uba bni 'is*h_aqa bni 'ibr_ah_ima  `alayhimu alssal_amu
 
 ############################################################
 ## betaCodeManual
@@ -17,11 +17,11 @@
 
 ############################################################
 ## betaCodeManual>Translit
-ḥaddaṯanā ʾisḥāḳu bnu manṣūriȵ ʾaḫbaranā ʿabdu alṣsamadi ḥaddaṯanā ʿabdu alrraḥmani bnu ʿabdi allahi ʿan ʾabīhi ʿani abni ʿumara  rḍá allh ʿnhmā  ʿani alnnabīyi ṣlʿm ʾannahu ḳāla alkarīmu abnu alkarīmi abni alkarīmi abni alkarīmi yūsufu abnu yaʿḳūba bni ʾisḥāḳa bni ʾibrāhīma  ʿalayhimu alssalāmu
+.haddaṯanā ʾis.hāḳu bnu man.sūri.n ʾaḫbaranā ʿabdu al.ssamadi .haddaṯanā ʿabdu alrra.hmani bnu ʿabdi allahi ʿan ʾabīhi ʿani abni ʿumara  r.dá allh ʿnhmā  ʿani alnnabīyi .slʿm ʾannahu ḳāla alkarīmu abnu alkarīmi abni alkarīmi abni alkarīmi yūsufu abnu yaʿḳūba bni ʾis.hāḳa bni ʾibrāhīma  ʿalayhimu alssalāmu
 
 ############################################################
 ## betaCodeManual>Arabic
-حَدَّثَنَا إِسْحَاقُ بْنُ مَنْصُورٍ أَخْبَرَنَا عَبْدُ أَلْصْسَمَدِ حَدَّثَنَا عَبْدُ أَلْرَّحْمَنِ بْنُ عَبْدِ أَلَّهِ عَنْ أَبِيهِ عَنِ أَبْنِ عُمَرَ  رْضٰى أَلّهْ عْنْهْمَا  عَنِ أَلْنَّبِييِ صْلْعْمْ أَنَّهُ قَالَ أَلْكَرِيمُ أَبْنُ أَلْكَرِيمِ أَبْنِ أَلْكَرِيمِ أَبْنِ أَلْكَرِيمِ يُوسُفُ أَبْنُ يَعْقُوبَ بْنِ إِسْحَاقَ بْنِ إِبْرَاهِيمَ  عَلَيْهِمُ أَلْسَّلَامُ
+.هَدَّثَنَا إِس.هَاقُ بْنُ مَن.سُورِ.نْ أَخْبَرَنَا عَبْدُ أَل.سَّمَدِ .هَدَّثَنَا عَبْدُ أَلْرَّ.هْمَنِ بْنُ عَبْدِ أَلَّهِ عَنْ أَبِيهِ عَنِ أَبْنِ عُمَرَ  ر.دٰى أَلّهْ عْنْهْمَا  عَنِ أَلْنَّبِييِ .سْلْعْمْ أَنَّهُ قَالَ أَلْكَرِيمُ أَبْنُ أَلْكَرِيمِ أَبْنِ أَلْكَرِيمِ أَبْنِ أَلْكَرِيمِ يُوسُفُ أَبْنُ يَعْقُوبَ بْنِ إِس.هَاقَ بْنِ إِبْرَاهِيمَ  عَلَيْهِمُ أَلْسَّلَامُ
 
 ############################################################
 ## TranslationBetaCode
@@ -29,5 +29,5 @@ Type your translation on this line
 
 ############################################################
 ## TranslationTranslit
-Translation with transliterated names will appear here
+Type your translation on this line
 

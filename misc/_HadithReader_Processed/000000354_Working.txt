@@ -9,7 +9,7 @@
 
 ############################################################
 ## betaCodeAuto
-.hadda_tan_a m_aliku bnu 'ism_a`_ila 'a_hbaran_a abnu `uyayna:ta 'a_hbaran_a `amru.nw .hadda_tan_a ^g_abiru bnu zaydi.n q_ala 'anba'an_a abnu `abb_asi.n  r.d/a allh `nhm_a  tazawwa^ga alnnab_iyu .sl`m wahwa mu.hrimu.n
+*hadda_tan_a m_aliku bnu 'ism_a`_ila 'a_hbaran_a abnu `uyayna=ta 'a_hbaran_a `amru*nw *hadda_tan_a ^g_abiru bnu zaydi*n q_ala 'anba'an_a abnu `abb_asi*n  r*d/a allh `nhm_a  tazawwa^ga alnnab_iyu *sl`m wahwa mu*hrimu*n
 
 ############################################################
 ## betaCodeManual
@@ -17,11 +17,11 @@
 
 ############################################################
 ## betaCodeManual>Translit
-ḥaddaṯanā māliku bnu ʾismāʿīla ʾaḫbaranā abnu ʿuyaynaŧa ʾaḫbaranā ʿamruȵw ḥaddaṯanā ǧābiru bnu zaydiȵ ḳāla ʾanbaʾanā abnu ʿabbāsiȵ  rḍá allh ʿnhmā  tazawwaǧa alnnabīyu ṣlʿm wahwa muḥrimuȵ
+.haddaṯanā māliku bnu ʾismāʿīla ʾaḫbaranā abnu ʿuyayna:ta ʾaḫbaranā ʿamru.nw .haddaṯanā ǧābiru bnu zaydi.n ḳāla ʾanbaʾanā abnu ʿabbāsi.n  r.dá allh ʿnhmā  tazawwaǧa alnnabīyu .slʿm wahwa mu.hrimu.n
 
 ############################################################
 ## betaCodeManual>Arabic
-حَدَّثَنَا مَالِكُ بْنُ إِسْمَاعِيلَ أَخْبَرَنَا أَبْنُ عُيَيْنَةَ أَخْبَرَنَا عَمْرٌوْ حَدَّثَنَا جَابِرُ بْنُ زَيْدٍ قَالَ أَنْبَأَنَا أَبْنُ عَبّاسٍ  رْضٰى أَلّهْ عْنْهْمَا  تَزَوَّجَ أَلْنَّبِييُ صْلْعْمْ وَهْوَ مُحْرِمٌ
+.هَدَّثَنَا مَالِكُ بْنُ إِسْمَاعِيلَ أَخْبَرَنَا أَبْنُ عُيَيْنَ:تَ أَخْبَرَنَا عَمْرُ.نْوْ .هَدَّثَنَا جَابِرُ بْنُ زَيْدِ.نْ قَالَ أَنْبَأَنَا أَبْنُ عَبّاسِ.نْ  ر.دٰى أَلّهْ عْنْهْمَا  تَزَوَّجَ أَلْنَّبِييُ .سْلْعْمْ وَهْوَ مُ.هْرِمُ.نْ
 
 ############################################################
 ## TranslationBetaCode
